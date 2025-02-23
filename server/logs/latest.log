@@ -1,80 +1,40 @@
-[17:53:04] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[17:53:04] [main/INFO]: Found new data pack file/bukkit, loading it automatically
-[17:53:04] [main/INFO]: Reloading ResourceManager: Default, bukkit
-[17:53:05] [Worker-Main-1/INFO]: Loaded 7 recipes
-[17:53:06] [Server thread/INFO]: Starting minecraft server version 1.17.1
-[17:53:06] [Server thread/INFO]: Loading properties
-[17:53:06] [Server thread/INFO]: This server is running Purpur version git-Purpur-1428 (MC: 1.17.1) (Implementing API version 1.17.1-R0.1-SNAPSHOT) (Git: 9beb23b on ver/1.17.1)
-[17:53:06] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[17:53:06] [Server thread/INFO]: Using 4 threads for Netty based IO
-[17:53:06] [Server thread/INFO]: Default game type: SURVIVAL
-[17:53:06] [Server thread/INFO]: Generating keypair
-[17:53:06] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:53:06] [Server thread/INFO]: Using epoll channel type
-[17:53:06] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[17:53:06] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[17:53:07] [Server thread/INFO]: [Citizens] Loading 5 libraries... please wait
-[17:53:07] [Server thread/INFO]: Downloading https://repo.maven.apache.org/maven2/ch/ethz/globis/phtree/phtree/2.8.1/phtree-2.8.1.pom
-[17:53:07] [Server thread/INFO]: Downloading https://repo.maven.apache.org/maven2/org/joml/joml/1.10.8/joml-1.10.8.pom
-[17:53:07] [Server thread/INFO]: Downloading https://repo.maven.apache.org/maven2/it/unimi/dsi/fastutil/8.5.15/fastutil-8.5.15.pom
-[17:53:07] [Server thread/INFO]: Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-platform-bukkit/4.3.3/adventure-platform-bukkit-4.3.3.pom
-[17:53:07] [Server thread/INFO]: Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-platform-api/4.3.3/adventure-platform-api-4.3.3.pom
-[17:53:07] [Server thread/INFO]: Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-api/4.13.1/adventure-api-4.13.1.pom
-[17:53:07] [Server thread/INFO]: Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-bom/4.13.1/adventure-bom-4.13.1.pom
-[17:53:07] [Server thread/INFO]: Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-key/4.13.1/adventure-key-4.13.1.pom
-[17:53:07] [Server thread/INFO]: Downloading https://repo.maven.apache.org/maven2/net/kyori/examination-api/1.3.0/examination-api-1.3.0.pom
-[17:53:07] [Server thread/INFO]: Downloading https://repo.maven.apache.org/maven2/org/jetbrains/annotations/22.0.0/annotations-22.0.0.pom
-[17:53:07] [Server thread/INFO]: Downloading https://repo.maven.apache.org/maven2/net/kyori/examination-string/1.3.0/examination-string-1.3.0.pom
-[17:53:07] [Server thread/INFO]: Downloading https://repo.maven.apache.org/maven2/org/jetbrains/annotations/24.0.1/annotations-24.0.1.pom
-[17:53:07] [Server thread/INFO]: Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-text-serializer-bungeecord/4.3.3/adventure-text-serializer-bungeecord-4.3.3.pom
-[17:53:07] [Server thread/INFO]: Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-text-serializer-legacy/4.13.1/adventure-text-serializer-legacy-4.13.1.pom
-[17:53:07] [Server thread/INFO]: Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-text-serializer-gson/4.13.1/adventure-text-serializer-gson-4.13.1.pom
-[17:53:07] [Server thread/INFO]: Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-nbt/4.13.1/adventure-nbt-4.13.1.pom
-[17:53:07] [Server thread/INFO]: Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-text-serializer-gson-legacy-impl/4.13.1/adventure-text-serializer-gson-legacy-impl-4.13.1.pom
-[17:53:07] [Server thread/INFO]: Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-platform-facet/4.3.3/adventure-platform-facet-4.3.3.pom
-[17:53:07] [Server thread/INFO]: Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-platform-viaversion/4.3.3/adventure-platform-viaversion-4.3.3.pom
-[17:53:07] [Server thread/INFO]: Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-text-minimessage/4.17.0/adventure-text-minimessage-4.17.0.pom
-[17:53:07] [Server thread/INFO]: Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-bom/4.17.0/adventure-bom-4.17.0.pom
-[17:53:07] [Server thread/INFO]: Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-api/4.17.0/adventure-api-4.17.0.pom
-[17:53:07] [Server thread/INFO]: Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-key/4.17.0/adventure-key-4.17.0.pom
-[17:53:07] [Server thread/INFO]: Downloading https://repo.maven.apache.org/maven2/org/jetbrains/annotations/24.1.0/annotations-24.1.0.pom
-[17:53:08] [BasicRepositoryConnector-repo.maven.apache.org-0-1/INFO]: Downloading https://repo.maven.apache.org/maven2/org/joml/joml/1.10.8/joml-1.10.8.jar
-[17:53:08] [BasicRepositoryConnector-repo.maven.apache.org-0-0/INFO]: Downloading https://repo.maven.apache.org/maven2/ch/ethz/globis/phtree/phtree/2.8.1/phtree-2.8.1.jar
-[17:53:08] [BasicRepositoryConnector-repo.maven.apache.org-0-2/INFO]: Downloading https://repo.maven.apache.org/maven2/it/unimi/dsi/fastutil/8.5.15/fastutil-8.5.15.jar
-[17:53:08] [BasicRepositoryConnector-repo.maven.apache.org-0-3/INFO]: Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-platform-bukkit/4.3.3/adventure-platform-bukkit-4.3.3.jar
-[17:53:08] [BasicRepositoryConnector-repo.maven.apache.org-0-4/INFO]: Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-platform-api/4.3.3/adventure-platform-api-4.3.3.jar
-[17:53:08] [BasicRepositoryConnector-repo.maven.apache.org-0-4/INFO]: Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-text-serializer-bungeecord/4.3.3/adventure-text-serializer-bungeecord-4.3.3.jar
-[17:53:08] [BasicRepositoryConnector-repo.maven.apache.org-0-4/INFO]: Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-text-serializer-legacy/4.13.1/adventure-text-serializer-legacy-4.13.1.jar
-[17:53:08] [BasicRepositoryConnector-repo.maven.apache.org-0-3/INFO]: Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-nbt/4.13.1/adventure-nbt-4.13.1.jar
-[17:53:08] [BasicRepositoryConnector-repo.maven.apache.org-0-4/INFO]: Downloading https://repo.maven.apache.org/maven2/net/kyori/examination-api/1.3.0/examination-api-1.3.0.jar
-[17:53:08] [BasicRepositoryConnector-repo.maven.apache.org-0-4/INFO]: Downloading https://repo.maven.apache.org/maven2/net/kyori/examination-string/1.3.0/examination-string-1.3.0.jar
-[17:53:08] [BasicRepositoryConnector-repo.maven.apache.org-0-3/INFO]: Downloading https://repo.maven.apache.org/maven2/org/jetbrains/annotations/24.0.1/annotations-24.0.1.jar
-[17:53:08] [BasicRepositoryConnector-repo.maven.apache.org-0-4/INFO]: Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-text-serializer-gson/4.13.1/adventure-text-serializer-gson-4.13.1.jar
-[17:53:08] [BasicRepositoryConnector-repo.maven.apache.org-0-3/INFO]: Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-text-serializer-gson-legacy-impl/4.13.1/adventure-text-serializer-gson-legacy-impl-4.13.1.jar
-[17:53:08] [BasicRepositoryConnector-repo.maven.apache.org-0-4/INFO]: Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-platform-facet/4.3.3/adventure-platform-facet-4.3.3.jar
-[17:53:08] [BasicRepositoryConnector-repo.maven.apache.org-0-3/INFO]: Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-platform-viaversion/4.3.3/adventure-platform-viaversion-4.3.3.jar
-[17:53:08] [BasicRepositoryConnector-repo.maven.apache.org-0-4/INFO]: Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-text-minimessage/4.17.0/adventure-text-minimessage-4.17.0.jar
-[17:53:08] [BasicRepositoryConnector-repo.maven.apache.org-0-1/INFO]: Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-api/4.17.0/adventure-api-4.17.0.jar
-[17:53:08] [BasicRepositoryConnector-repo.maven.apache.org-0-3/INFO]: Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-key/4.17.0/adventure-key-4.17.0.jar
-[17:53:08] [Server thread/INFO]: [Citizens] Loaded library /workspaces/SigMC1.17/server/libraries/ch/ethz/globis/phtree/phtree/2.8.1/phtree-2.8.1.jar
-[17:53:08] [Server thread/INFO]: [Citizens] Loaded library /workspaces/SigMC1.17/server/libraries/org/joml/joml/1.10.8/joml-1.10.8.jar
-[17:53:08] [Server thread/INFO]: [Citizens] Loaded library /workspaces/SigMC1.17/server/libraries/it/unimi/dsi/fastutil/8.5.15/fastutil-8.5.15.jar
-[17:53:08] [Server thread/INFO]: [Citizens] Loaded library /workspaces/SigMC1.17/server/libraries/net/kyori/adventure-platform-bukkit/4.3.3/adventure-platform-bukkit-4.3.3.jar
-[17:53:08] [Server thread/INFO]: [Citizens] Loaded library /workspaces/SigMC1.17/server/libraries/net/kyori/adventure-platform-api/4.3.3/adventure-platform-api-4.3.3.jar
-[17:53:08] [Server thread/INFO]: [Citizens] Loaded library /workspaces/SigMC1.17/server/libraries/net/kyori/adventure-text-serializer-bungeecord/4.3.3/adventure-text-serializer-bungeecord-4.3.3.jar
-[17:53:08] [Server thread/INFO]: [Citizens] Loaded library /workspaces/SigMC1.17/server/libraries/net/kyori/adventure-text-serializer-legacy/4.13.1/adventure-text-serializer-legacy-4.13.1.jar
-[17:53:08] [Server thread/INFO]: [Citizens] Loaded library /workspaces/SigMC1.17/server/libraries/net/kyori/adventure-nbt/4.13.1/adventure-nbt-4.13.1.jar
-[17:53:08] [Server thread/INFO]: [Citizens] Loaded library /workspaces/SigMC1.17/server/libraries/net/kyori/examination-api/1.3.0/examination-api-1.3.0.jar
-[17:53:08] [Server thread/INFO]: [Citizens] Loaded library /workspaces/SigMC1.17/server/libraries/net/kyori/examination-string/1.3.0/examination-string-1.3.0.jar
-[17:53:08] [Server thread/INFO]: [Citizens] Loaded library /workspaces/SigMC1.17/server/libraries/org/jetbrains/annotations/24.0.1/annotations-24.0.1.jar
-[17:53:08] [Server thread/INFO]: [Citizens] Loaded library /workspaces/SigMC1.17/server/libraries/net/kyori/adventure-text-serializer-gson/4.13.1/adventure-text-serializer-gson-4.13.1.jar
-[17:53:08] [Server thread/INFO]: [Citizens] Loaded library /workspaces/SigMC1.17/server/libraries/net/kyori/adventure-text-serializer-gson-legacy-impl/4.13.1/adventure-text-serializer-gson-legacy-impl-4.13.1.jar
-[17:53:08] [Server thread/INFO]: [Citizens] Loaded library /workspaces/SigMC1.17/server/libraries/net/kyori/adventure-platform-facet/4.3.3/adventure-platform-facet-4.3.3.jar
-[17:53:08] [Server thread/INFO]: [Citizens] Loaded library /workspaces/SigMC1.17/server/libraries/net/kyori/adventure-platform-viaversion/4.3.3/adventure-platform-viaversion-4.3.3.jar
-[17:53:08] [Server thread/INFO]: [Citizens] Loaded library /workspaces/SigMC1.17/server/libraries/net/kyori/adventure-text-minimessage/4.17.0/adventure-text-minimessage-4.17.0.jar
-[17:53:08] [Server thread/INFO]: [Citizens] Loaded library /workspaces/SigMC1.17/server/libraries/net/kyori/adventure-api/4.17.0/adventure-api-4.17.0.jar
-[17:53:08] [Server thread/INFO]: [Citizens] Loaded library /workspaces/SigMC1.17/server/libraries/net/kyori/adventure-key/4.17.0/adventure-key-4.17.0.jar
-[17:53:08] [Server thread/ERROR]: Could not load 'plugins/worldedit-bukkit-7.3.10.jar' in folder 'plugins'
+[19:09:58] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[19:09:58] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[19:09:59] [Worker-Main-1/INFO]: Loaded 7 recipes
+[19:10:00] [Server thread/INFO]: Starting minecraft server version 1.17.1
+[19:10:00] [Server thread/INFO]: Loading properties
+[19:10:00] [Server thread/INFO]: This server is running Purpur version git-Purpur-1428 (MC: 1.17.1) (Implementing API version 1.17.1-R0.1-SNAPSHOT) (Git: 9beb23b on ver/1.17.1)
+[19:10:00] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[19:10:00] [Server thread/INFO]: Using 4 threads for Netty based IO
+[19:10:01] [Server thread/INFO]: Default game type: SURVIVAL
+[19:10:01] [Server thread/INFO]: Generating keypair
+[19:10:01] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:10:01] [Server thread/INFO]: Using epoll channel type
+[19:10:01] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[19:10:01] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[19:10:02] [Server thread/ERROR]: Ambiguous plugin name `WorldEdit' for files `plugins/worldedit-bukkit-7.3.10.jar' and `plugins/Worldedit.jar' in `plugins'
+[19:10:02] [Server thread/ERROR]: (org.bukkit.craftbukkit.v1_17_R1.legacy.CraftLegacy:259) Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[19:10:06] [Server thread/WARN]: Legacy plugin SimpleTpa v6.4 does not specify an api-version.
+[19:10:06] [Server thread/INFO]: [Citizens] Loading 5 libraries... please wait
+[19:10:06] [Server thread/INFO]: [Citizens] Loaded library /workspaces/SigMC1.17/server/libraries/ch/ethz/globis/phtree/phtree/2.8.1/phtree-2.8.1.jar
+[19:10:06] [Server thread/INFO]: [Citizens] Loaded library /workspaces/SigMC1.17/server/libraries/org/joml/joml/1.10.8/joml-1.10.8.jar
+[19:10:06] [Server thread/INFO]: [Citizens] Loaded library /workspaces/SigMC1.17/server/libraries/it/unimi/dsi/fastutil/8.5.15/fastutil-8.5.15.jar
+[19:10:06] [Server thread/INFO]: [Citizens] Loaded library /workspaces/SigMC1.17/server/libraries/net/kyori/adventure-platform-bukkit/4.3.3/adventure-platform-bukkit-4.3.3.jar
+[19:10:06] [Server thread/INFO]: [Citizens] Loaded library /workspaces/SigMC1.17/server/libraries/net/kyori/adventure-platform-api/4.3.3/adventure-platform-api-4.3.3.jar
+[19:10:06] [Server thread/INFO]: [Citizens] Loaded library /workspaces/SigMC1.17/server/libraries/net/kyori/adventure-text-serializer-bungeecord/4.3.3/adventure-text-serializer-bungeecord-4.3.3.jar
+[19:10:06] [Server thread/INFO]: [Citizens] Loaded library /workspaces/SigMC1.17/server/libraries/net/kyori/adventure-text-serializer-legacy/4.13.1/adventure-text-serializer-legacy-4.13.1.jar
+[19:10:06] [Server thread/INFO]: [Citizens] Loaded library /workspaces/SigMC1.17/server/libraries/net/kyori/adventure-nbt/4.13.1/adventure-nbt-4.13.1.jar
+[19:10:06] [Server thread/INFO]: [Citizens] Loaded library /workspaces/SigMC1.17/server/libraries/net/kyori/examination-api/1.3.0/examination-api-1.3.0.jar
+[19:10:06] [Server thread/INFO]: [Citizens] Loaded library /workspaces/SigMC1.17/server/libraries/net/kyori/examination-string/1.3.0/examination-string-1.3.0.jar
+[19:10:06] [Server thread/INFO]: [Citizens] Loaded library /workspaces/SigMC1.17/server/libraries/org/jetbrains/annotations/24.0.1/annotations-24.0.1.jar
+[19:10:06] [Server thread/INFO]: [Citizens] Loaded library /workspaces/SigMC1.17/server/libraries/net/kyori/adventure-text-serializer-gson/4.13.1/adventure-text-serializer-gson-4.13.1.jar
+[19:10:06] [Server thread/INFO]: [Citizens] Loaded library /workspaces/SigMC1.17/server/libraries/net/kyori/adventure-text-serializer-gson-legacy-impl/4.13.1/adventure-text-serializer-gson-legacy-impl-4.13.1.jar
+[19:10:06] [Server thread/INFO]: [Citizens] Loaded library /workspaces/SigMC1.17/server/libraries/net/kyori/adventure-platform-facet/4.3.3/adventure-platform-facet-4.3.3.jar
+[19:10:06] [Server thread/INFO]: [Citizens] Loaded library /workspaces/SigMC1.17/server/libraries/net/kyori/adventure-platform-viaversion/4.3.3/adventure-platform-viaversion-4.3.3.jar
+[19:10:06] [Server thread/INFO]: [Citizens] Loaded library /workspaces/SigMC1.17/server/libraries/net/kyori/adventure-text-minimessage/4.17.0/adventure-text-minimessage-4.17.0.jar
+[19:10:06] [Server thread/INFO]: [Citizens] Loaded library /workspaces/SigMC1.17/server/libraries/net/kyori/adventure-api/4.17.0/adventure-api-4.17.0.jar
+[19:10:06] [Server thread/INFO]: [Citizens] Loaded library /workspaces/SigMC1.17/server/libraries/net/kyori/adventure-key/4.17.0/adventure-key-4.17.0.jar
+[19:10:06] [Server thread/ERROR]: Could not load 'plugins/worldedit-bukkit-7.3.10.jar' in folder 'plugins'
 org.bukkit.plugin.InvalidPluginException: Unsupported API version 1.2
 	at org.bukkit.craftbukkit.v1_17_R1.util.CraftMagicNumbers.checkSupported(CraftMagicNumbers.java:358) ~[patched_1.17.1.jar:git-Purpur-1428]
 	at org.bukkit.plugin.java.JavaPluginLoader.loadPlugin(JavaPluginLoader.java:149) ~[patched_1.17.1.jar:git-Purpur-1428]
@@ -85,62 +45,80 @@ org.bukkit.plugin.InvalidPluginException: Unsupported API version 1.2
 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1233) ~[patched_1.17.1.jar:git-Purpur-1428]
 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:322) ~[patched_1.17.1.jar:git-Purpur-1428]
 	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-[17:53:08] [Server thread/ERROR]: (org.bukkit.craftbukkit.v1_17_R1.legacy.CraftLegacy:259) Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
-[17:53:12] [Server thread/WARN]: Legacy plugin AuthMe v2.7.11 does not specify an api-version.
-[17:53:12] [Server thread/INFO]: [Citizens] Loading Citizens v2.0.37-SNAPSHOT (build 3716)
-[17:53:12] [Server thread/INFO]: [ViaVersion] Loading ViaVersion v4.9.3
-[17:53:12] [Server thread/INFO]: [ViaVersion] ViaVersion 4.9.3 is now loaded. Registering protocol transformers and injecting...
-[17:53:12] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
-[17:53:12] [Server thread/INFO]: [ViaBackwards] Loading translations...
-[17:53:12] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
-[17:53:13] [Server thread/INFO]: [ViaBackwards] Registering protocols...
-[17:53:13] [Server thread/INFO]: [ServersNPC] Loading ServersNPC v5.0
-[17:53:13] [Server thread/INFO]: [ViaBackwards] Loading ViaBackwards v4.9.2
-[17:53:13] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v4.3.14
-[17:53:13] [Server thread/INFO]: [ViaRewind] Loading ViaRewind v3.0.6
-[17:53:13] [Server thread/INFO]: [ViaRewind-Legacy-Support] Loading ViaRewind-Legacy-Support v1.4.2
-[17:53:13] [Server thread/INFO]: [AuthMe] Loading AuthMe v2.7.11
-[17:53:13] [Server thread/INFO]: [Multiverse-Portals] Loading Multiverse-Portals v4.2.3
-[17:53:13] [Server thread/INFO]: [Multiverse-Inventories] Loading Multiverse-Inventories v4.2.6
-[17:53:13] [Server thread/INFO]: [ViaRewind] Enabling ViaRewind v3.0.6
-[17:53:13] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[17:53:13] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[17:53:13] [Server thread/WARN]: Whilst this makes it possible to use BungeeCord or Velocity, unless access to your server is properly restricted, it also opens up the ability for hackers to connect with any username they choose.
-[17:53:13] [Server thread/WARN]: Please see http://www.spigotmc.org/wiki/firewall-guide/ for further information.
-[17:53:13] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[17:53:13] [Server thread/INFO]: Preparing level "world"
-[17:53:16] [Server thread/WARN]: Unable to find spawn biome
-[17:53:18] [Server thread/WARN]: Unable to find spawn biome
-[17:53:18] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[17:53:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:53:18] [Server thread/INFO]: Time elapsed: 515 ms
-[17:53:18] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[17:53:18] [Server thread/INFO]: Time elapsed: 268 ms
-[17:53:18] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[17:53:19] [Server thread/INFO]: Time elapsed: 120 ms
-[17:53:19] [Server thread/INFO]: [Citizens] Enabling Citizens v2.0.37-SNAPSHOT (build 3716)
-[17:53:19] [Server thread/ERROR]: [Citizens] v2.0.37-SNAPSHOT (build 3716) is not compatible with Minecraft v1_17_R1 - try upgrading Minecraft or Citizens. Disabling...
-[17:53:19] [Server thread/INFO]: [Citizens] Disabling Citizens v2.0.37-SNAPSHOT (build 3716)
-[17:53:19] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v4.9.3
-[17:53:19] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.17.1 (756)
-[17:53:19] [Server thread/INFO]: [ServersNPC] Enabling ServersNPC v5.0
-[17:53:19] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v4.9.2
-[17:53:19] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v4.3.14
-[17:53:19] [Server thread/WARN]: [Multiverse-Core] "Multiverse-Core v4.3.14" has registered a listener for org.bukkit.event.entity.EntityCreatePortalEvent on method "public void com.onarandombox.MultiverseCore.listeners.MVPortalListener.entityPortalCreate(org.bukkit.event.entity.EntityCreatePortalEvent)", but the event is Deprecated. "Server performance will be affected"; please notify the authors [dumptruckman, Rigby, fernferret, lithium3141, main--].
-[17:53:19] [Server thread/INFO]: [Multiverse-Core] We are aware of the warning about the deprecated event. There is no alternative that allows us to do what we need to do and performance impact is negligible. It is safe to ignore.
-[17:53:19] [Server thread/WARN]: [Multiverse-Core] Cannot load worlds.yml
-[17:53:19] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -7451198406656115525
-[17:53:19] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'world_nether' - Env: NETHER - Type: NORMAL & seed: -7451198406656115525
-[17:53:19] [Server thread/WARN]: [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
-[17:53:19] [Server thread/WARN]: [Multiverse-Core] Original Location: X: 0 Y: 42 Z: 0 P: 0 Y: 0 
-[17:53:24] [Server thread/INFO]: [Multiverse-Core] New Spawn for 'world_nether' is located at: world_nether:-4.50,42.00,7.50:0.00:0.00
-[17:53:24] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'world_the_end' - Env: THE_END - Type: NORMAL & seed: -7451198406656115525
-[17:53:24] [Server thread/INFO]: [Multiverse-Core] 3 - World(s) loaded.
-[17:53:24] [Server thread/WARN]: [Multiverse-Core] Buscript failed to load! The script command will be disabled! If you would like not to see this message, use `/mv conf enablebuscript false` to disable Buscript from loading.
-[17:53:24] [Server thread/INFO]: [Multiverse-Core] Version 4.3.14 (API v24) Enabled - By dumptruckman, Rigby, fernferret, lithium3141 and main--
-[17:53:24] [Server thread/INFO]: [ViaRewind-Legacy-Support] Enabling ViaRewind-Legacy-Support v1.4.2
-[17:53:24] [Server thread/INFO]: [AuthMe] Enabling AuthMe v2.7.11*
-[17:53:24] [Server thread/ERROR]: Error occurred while enabling AuthMe v2.7.11 (Is it up to date?)
+[19:10:06] [Server thread/WARN]: Legacy plugin SimpleHomes v2.2 does not specify an api-version.
+[19:10:07] [Server thread/WARN]: Legacy plugin AuthMe v2.7.11 does not specify an api-version.
+[19:10:07] [Server thread/INFO]: [SimpleTpa] Loading SimpleTpa v6.4
+[19:10:07] [Server thread/INFO]: [Citizens] Loading Citizens v2.0.37-SNAPSHOT (build 3716)
+[19:10:07] [Server thread/INFO]: [LoginSecurity] Loading LoginSecurity v3.2.0
+[19:10:07] [Server thread/INFO]: [SimpleHomes] Loading SimpleHomes v2.2
+[19:10:07] [Server thread/INFO]: [ViaVersion] Loading ViaVersion v4.9.3
+[19:10:07] [Server thread/INFO]: [ViaVersion] ViaVersion 4.9.3 is now loaded. Registering protocol transformers and injecting...
+[19:10:07] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[19:10:07] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[19:10:07] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[19:10:07] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[19:10:07] [Server thread/INFO]: [ServersNPC] Loading ServersNPC v5.0
+[19:10:07] [Server thread/INFO]: [ViaBackwards] Loading ViaBackwards v4.9.2
+[19:10:07] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v4.3.14
+[19:10:07] [Server thread/INFO]: [ViaRewind] Loading ViaRewind v3.0.6
+[19:10:07] [Server thread/INFO]: [Multiverse-Inventories] Loading Multiverse-Inventories v4.2.6
+[19:10:07] [Server thread/INFO]: [ViaRewind-Legacy-Support] Loading ViaRewind-Legacy-Support v1.4.2
+[19:10:07] [Server thread/INFO]: [AuthMe] Loading AuthMe v2.7.11
+[19:10:07] [Server thread/INFO]: [Multiverse-Portals] Loading Multiverse-Portals v4.2.3
+[19:10:07] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[19:10:07] [Server thread/INFO]: [ViaRewind] Enabling ViaRewind v3.0.6
+[19:10:07] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:10:07] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[19:10:07] [Server thread/WARN]: Whilst this makes it possible to use BungeeCord or Velocity, unless access to your server is properly restricted, it also opens up the ability for hackers to connect with any username they choose.
+[19:10:07] [Server thread/WARN]: Please see http://www.spigotmc.org/wiki/firewall-guide/ for further information.
+[19:10:07] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:10:07] [Server thread/INFO]: Preparing level "world"
+[19:10:08] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:10:08] [Server thread/INFO]: Time elapsed: 400 ms
+[19:10:08] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[19:10:08] [Server thread/INFO]: Time elapsed: 252 ms
+[19:10:08] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[19:10:09] [Server thread/INFO]: Time elapsed: 300 ms
+[19:10:09] [Server thread/INFO]: [SimpleTpa] Enabling SimpleTpa v6.4*
+[19:10:09] [Server thread/INFO]: [SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9
+[19:10:09] [Server thread/INFO]: [SimpleTpa] Simple Tpa has been enabled on version 6.4
+[19:10:09] [Server thread/INFO]: Enabled metrics. You may opt-out by changing plugins/bStats/config.yml
+[19:10:09] [Server thread/INFO]: [Citizens] Enabling Citizens v2.0.37-SNAPSHOT (build 3716)
+[19:10:09] [Server thread/ERROR]: [Citizens] v2.0.37-SNAPSHOT (build 3716) is not compatible with Minecraft v1_17_R1 - try upgrading Minecraft or Citizens. Disabling...
+[19:10:09] [Server thread/INFO]: [Citizens] Disabling Citizens v2.0.37-SNAPSHOT (build 3716)
+[19:10:09] [Server thread/INFO]: [LoginSecurity] Enabling LoginSecurity v3.2.0
+[19:10:09] [Server thread/INFO]: [LoginSecurity] Loading base translations from "en_us"
+[19:10:09] [Server thread/INFO]: [LoginSecurity] Loading specified translations from "en_us"
+[19:10:09] [Server thread/INFO]: [LoginSecurity] Applying database upgrade 1: Initial
+[19:10:09] [Server thread/INFO]: [LoginSecurity] Applying database upgrade 2: Add uuid mode
+[19:10:09] [Server thread/INFO]: [LoginSecurity] Applying database upgrade 3: Fix inventories
+[19:10:09] [Server thread/INFO]: [LoginSecurity] Registering commands...
+[19:10:09] [Server thread/INFO]: [LoginSecurity] Registering listeners...
+[19:10:09] [Server thread/INFO]: [LoginSecurity] Using 1.12+ map captcha renderer
+[19:10:09] [Server thread/INFO]: [SimpleHomes] Enabling SimpleHomes v2.2*
+[19:10:09] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v4.9.3
+[19:10:09] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.17.1 (756)
+[19:10:09] [Server thread/INFO]: [ServersNPC] Enabling ServersNPC v5.0
+[19:10:09] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v4.9.2
+[19:10:09] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v4.3.14
+[19:10:09] [Server thread/WARN]: [Multiverse-Core] "Multiverse-Core v4.3.14" has registered a listener for org.bukkit.event.entity.EntityCreatePortalEvent on method "public void com.onarandombox.MultiverseCore.listeners.MVPortalListener.entityPortalCreate(org.bukkit.event.entity.EntityCreatePortalEvent)", but the event is Deprecated. "Server performance will be affected"; please notify the authors [dumptruckman, Rigby, fernferret, lithium3141, main--].
+[19:10:09] [Server thread/INFO]: [Multiverse-Core] We are aware of the warning about the deprecated event. There is no alternative that allows us to do what we need to do and performance impact is negligible. It is safe to ignore.
+[19:10:10] [Server thread/INFO]: Preparing start region for dimension minecraft:spawn
+[19:10:10] [Server thread/INFO]: Preparing spawn area: 0%
+[19:10:10] [Server thread/INFO]: Preparing spawn area: 0%
+[19:10:10] [Server thread/INFO]: Time elapsed: 537 ms
+[19:10:11] [Server thread/INFO]: Preparing start region for dimension minecraft:hub
+[19:10:11] [Server thread/INFO]: Preparing spawn area: 0%
+[19:10:12] [Server thread/INFO]: Preparing spawn area: 0%
+[19:10:12] [Server thread/INFO]: Time elapsed: 898 ms
+[19:10:12] [Server thread/INFO]: [Multiverse-Core] 5 - World(s) loaded.
+[19:10:12] [Server thread/WARN]: [Multiverse-Core] Buscript failed to load! The script command will be disabled! If you would like not to see this message, use `/mv conf enablebuscript false` to disable Buscript from loading.
+[19:10:12] [Server thread/INFO]: [Multiverse-Core] Version 4.3.14 (API v24) Enabled - By dumptruckman, Rigby, fernferret, lithium3141 and main--
+[19:10:12] [Server thread/INFO]: [Multiverse-Inventories] Enabling Multiverse-Inventories v4.2.6
+[19:10:12] [Server thread/INFO]: [Multiverse-Inventories 4.2.6] enabled.
+[19:10:12] [Server thread/INFO]: [ViaRewind-Legacy-Support] Enabling ViaRewind-Legacy-Support v1.4.2
+[19:10:12] [Server thread/INFO]: [AuthMe] Enabling AuthMe v2.7.11*
+[19:10:12] [Server thread/ERROR]: Error occurred while enabling AuthMe v2.7.11 (Is it up to date?)
 java.lang.NoSuchMethodError: 'org.bukkit.configuration.file.YamlConfiguration org.bukkit.configuration.file.YamlConfiguration.loadConfiguration(java.io.InputStream)'
 	at uk.org.whoami.authme.settings.Settings.loadDefaults(Settings.java:604) ~[AuthMe.jar:?]
 	at uk.org.whoami.authme.settings.Settings.<init>(Settings.java:95) ~[AuthMe.jar:?]
@@ -155,8 +133,8 @@ java.lang.NoSuchMethodError: 'org.bukkit.configuration.file.YamlConfiguration or
 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1233) ~[patched_1.17.1.jar:git-Purpur-1428]
 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:322) ~[patched_1.17.1.jar:git-Purpur-1428]
 	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-[17:53:24] [Server thread/INFO]: [AuthMe] Disabling AuthMe v2.7.11
-[17:53:24] [Server thread/ERROR]: Error occurred while disabling AuthMe v2.7.11 (Is it up to date?)
+[19:10:12] [Server thread/INFO]: [AuthMe] Disabling AuthMe v2.7.11
+[19:10:12] [Server thread/ERROR]: Error occurred while disabling AuthMe v2.7.11 (Is it up to date?)
 java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Bukkit.getOnlinePlayers()'
 	at uk.org.whoami.authme.AuthMe.onDisable(AuthMe.java:393) ~[AuthMe.jar:?]
 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:266) ~[patched_1.17.1.jar:git-Purpur-1428]
@@ -171,117 +149,44 @@ java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Bukkit.getOn
 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1233) ~[patched_1.17.1.jar:git-Purpur-1428]
 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:322) ~[patched_1.17.1.jar:git-Purpur-1428]
 	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-[17:53:24] [Server thread/INFO]: [Multiverse-Portals] Enabling Multiverse-Portals v4.2.3
-[17:53:24] [Server thread/INFO]: [Multiverse-Portals] 0 - Portals(s) loaded
-[17:53:24] [Server thread/INFO]: [Multiverse-Portals 4.2.3]  Enabled - By Rigby and fernferret
-[17:53:24] [Server thread/INFO]: [Multiverse-Inventories] Enabling Multiverse-Inventories v4.2.6
-[17:53:24] [Server thread/INFO]: [Multiverse-Inventories 4.2.6] enabled.
-[17:53:24] [Server thread/INFO]: Running delayed init tasks
-[17:53:24] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
-[17:53:24] [Server thread/INFO]: [Multiverse-Inventories] First run!
-[17:53:24] [Server thread/INFO]: [Multiverse-Inventories] Created a default group for you containing all of your default worlds: world, world_nether, world_the_end
-[17:53:24] [Server thread/INFO]: Done (18.168s)! For help, type "help"
-[17:53:24] [Server thread/INFO]: Timings Reset
-[17:53:24] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.2.1, you're on: 4.9.3
-[17:55:43] [User Authenticator #1/INFO]: UUID of player ysyyayyyayya is 6cd4e570-7a49-3521-8e89-4b4b5c6269c5
-[17:55:43] [Server thread/INFO]: ysyyayyyayya joined the game
-[17:55:43] [Server thread/INFO]: ysyyayyyayya[/[0:0:0:0:0:0:0:1]:44850] logged in with entity id 392 at ([world]-20.5, 63.0, 44.5)
-[17:55:43] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|UpdateCert-1.8
-[17:55:43] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FML
-[17:55:43] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|Skins-1.8
-[17:55:43] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FORGE
-[17:56:04] [Server thread/INFO]: Made ysyyayyyayya a server operator
-[17:56:21] [Server thread/INFO]: ysyyayyyayya issued server command: /gamemode c
-[17:56:26] [Server thread/INFO]: ysyyayyyayya issued server command: /gamemode creative
-[17:56:26] [Server thread/INFO]: [ysyyayyyayya: Set own game mode to Creative Mode]
-[17:57:24] [Server thread/INFO]: ysyyayyyayya issued server command: /help
-[17:57:35] [Server thread/INFO]: ysyyayyyayya issued server command: /citizens
-[17:57:35] [Server thread/ERROR]: null
-org.bukkit.command.CommandException: Cannot execute command 'citizens' in plugin Citizens v2.0.37-SNAPSHOT (build 3716) - plugin is disabled.
-	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:37) ~[patched_1.17.1.jar:git-Purpur-1428]
-	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:172) ~[patched_1.17.1.jar:git-Purpur-1428]
-	at org.bukkit.craftbukkit.v1_17_R1.CraftServer.dispatchCommand(CraftServer.java:869) ~[patched_1.17.1.jar:git-Purpur-1428]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleCommand(ServerGamePacketListenerImpl.java:2344) ~[app:?]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleChat(ServerGamePacketListenerImpl.java:2155) ~[app:?]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleChat(ServerGamePacketListenerImpl.java:2136) ~[app:?]
-	at net.minecraft.network.protocol.game.ServerboundChatPacket.handle(ServerboundChatPacket.java:46) ~[app:?]
-	at net.minecraft.network.protocol.game.ServerboundChatPacket.a(ServerboundChatPacket.java:6) ~[app:?]
-	at net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$1(PacketUtils.java:56) ~[app:?]
-	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[patched_1.17.1.jar:git-Purpur-1428]
-	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:149) ~[app:?]
-	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:23) ~[app:?]
-	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1450) ~[patched_1.17.1.jar:git-Purpur-1428]
-	at net.minecraft.server.MinecraftServer.executeTask(MinecraftServer.java:192) ~[patched_1.17.1.jar:git-Purpur-1428]
-	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:122) ~[app:?]
-	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1428) ~[patched_1.17.1.jar:git-Purpur-1428]
-	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1421) ~[patched_1.17.1.jar:git-Purpur-1428]
-	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:132) ~[app:?]
-	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1399) ~[patched_1.17.1.jar:git-Purpur-1428]
-	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1310) ~[patched_1.17.1.jar:git-Purpur-1428]
-	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:322) ~[patched_1.17.1.jar:git-Purpur-1428]
-	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-[17:57:43] [Server thread/INFO]: ysyyayyyayya issued server command: /help citizens
-[17:57:57] [Server thread/INFO]: ysyyayyyayya issued server command: /npc
-[17:57:57] [Server thread/ERROR]: null
-org.bukkit.command.CommandException: Cannot execute command 'npc' in plugin Citizens v2.0.37-SNAPSHOT (build 3716) - plugin is disabled.
-	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:37) ~[patched_1.17.1.jar:git-Purpur-1428]
-	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:172) ~[patched_1.17.1.jar:git-Purpur-1428]
-	at org.bukkit.craftbukkit.v1_17_R1.CraftServer.dispatchCommand(CraftServer.java:869) ~[patched_1.17.1.jar:git-Purpur-1428]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleCommand(ServerGamePacketListenerImpl.java:2344) ~[app:?]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleChat(ServerGamePacketListenerImpl.java:2155) ~[app:?]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleChat(ServerGamePacketListenerImpl.java:2136) ~[app:?]
-	at net.minecraft.network.protocol.game.ServerboundChatPacket.handle(ServerboundChatPacket.java:46) ~[app:?]
-	at net.minecraft.network.protocol.game.ServerboundChatPacket.a(ServerboundChatPacket.java:6) ~[app:?]
-	at net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$1(PacketUtils.java:56) ~[app:?]
-	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[patched_1.17.1.jar:git-Purpur-1428]
-	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:149) ~[app:?]
-	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:23) ~[app:?]
-	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1450) ~[patched_1.17.1.jar:git-Purpur-1428]
-	at net.minecraft.server.MinecraftServer.executeTask(MinecraftServer.java:192) ~[patched_1.17.1.jar:git-Purpur-1428]
-	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:122) ~[app:?]
-	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1428) ~[patched_1.17.1.jar:git-Purpur-1428]
-	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1421) ~[patched_1.17.1.jar:git-Purpur-1428]
-	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:132) ~[app:?]
-	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1399) ~[patched_1.17.1.jar:git-Purpur-1428]
-	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1310) ~[patched_1.17.1.jar:git-Purpur-1428]
-	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:322) ~[patched_1.17.1.jar:git-Purpur-1428]
-	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-[17:58:07] [Server thread/INFO]: ysyyayyyayya issued server command: /help znpc
-[17:58:14] [Server thread/INFO]: ysyyayyyayya issued server command: /znpcs
-[17:58:33] [Server thread/INFO]: ysyyayyyayya issued server command: /znpcs create
-[17:58:38] [Server thread/INFO]: ysyyayyyayya issued server command: /znpcs create zombie
-[17:58:54] [Server thread/INFO]: ysyyayyyayya issued server command: /znpcs create sig zombie sig
-[17:59:05] [Server thread/INFO]: ysyyayyyayya issued server command: /znpcs create 1 zombie sig
-[17:59:32] [Server thread/INFO]: ysyyayyyayya issued server command: /znpcs remove 1
-[17:59:41] [Server thread/INFO]: ysyyayyyayya issued server command: /znpcs delete 1
-[17:59:47] [Server thread/INFO]: ysyyayyyayya issued server command: /citizens help
-[17:59:47] [Server thread/ERROR]: null
-org.bukkit.command.CommandException: Cannot execute command 'citizens' in plugin Citizens v2.0.37-SNAPSHOT (build 3716) - plugin is disabled.
-	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:37) ~[patched_1.17.1.jar:git-Purpur-1428]
-	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:172) ~[patched_1.17.1.jar:git-Purpur-1428]
-	at org.bukkit.craftbukkit.v1_17_R1.CraftServer.dispatchCommand(CraftServer.java:869) ~[patched_1.17.1.jar:git-Purpur-1428]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleCommand(ServerGamePacketListenerImpl.java:2344) ~[app:?]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleChat(ServerGamePacketListenerImpl.java:2155) ~[app:?]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleChat(ServerGamePacketListenerImpl.java:2136) ~[app:?]
-	at net.minecraft.network.protocol.game.ServerboundChatPacket.handle(ServerboundChatPacket.java:46) ~[app:?]
-	at net.minecraft.network.protocol.game.ServerboundChatPacket.a(ServerboundChatPacket.java:6) ~[app:?]
-	at net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$1(PacketUtils.java:56) ~[app:?]
-	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[patched_1.17.1.jar:git-Purpur-1428]
-	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:149) ~[app:?]
-	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:23) ~[app:?]
-	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1450) ~[patched_1.17.1.jar:git-Purpur-1428]
-	at net.minecraft.server.MinecraftServer.executeTask(MinecraftServer.java:192) ~[patched_1.17.1.jar:git-Purpur-1428]
-	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:122) ~[app:?]
-	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1428) ~[patched_1.17.1.jar:git-Purpur-1428]
-	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1421) ~[patched_1.17.1.jar:git-Purpur-1428]
-	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:132) ~[app:?]
-	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1399) ~[patched_1.17.1.jar:git-Purpur-1428]
-	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1310) ~[patched_1.17.1.jar:git-Purpur-1428]
-	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:322) ~[patched_1.17.1.jar:git-Purpur-1428]
-	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-[17:59:54] [Server thread/INFO]: ysyyayyyayya issued server command: /help
-[17:59:57] [Server thread/INFO]: ysyyayyyayya issued server command: /authme
-[17:59:57] [Server thread/ERROR]: null
+[19:10:12] [Server thread/INFO]: [Multiverse-Portals] Enabling Multiverse-Portals v4.2.3
+[19:10:12] [Server thread/INFO]: [Multiverse-Portals] 0 - Portals(s) loaded
+[19:10:12] [Server thread/INFO]: [Multiverse-Portals 4.2.3]  Enabled - By Rigby and fernferret
+[19:10:12] [Server thread/INFO]: Running delayed init tasks
+[19:10:12] [Server thread/INFO]: [Multiverse-Inventories] First run!
+[19:10:12] [Craft Scheduler Thread - 1 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
+[19:10:12] [Server thread/INFO]: Done (12.142s)! For help, type "help"
+[19:10:12] [Server thread/INFO]: Timings Reset
+[19:10:12] [Server thread/WARN]: UUID of added entity already exists: EntityChicken['Chicken'/90, uuid='b6969239-fd61-4810-8b8a-a4a18a184e4a', l='ServerLevel[world]', x=-46.72, y=63.00, z=78.36, cpos=[-3, 4], tl=11894, v=false, rR=null]
+[19:10:13] [Craft Scheduler Thread - 3 - SimpleTpa/INFO]: [SimpleTpa] There is a new update available.
+[19:10:13] [Craft Scheduler Thread - 3 - SimpleTpa/INFO]: [SimpleTpa] There is a new update available:
+[19:10:13] [Craft Scheduler Thread - 3 - SimpleTpa/INFO]: [SimpleTpa] https://www.spigotmc.org/resources/simple-tpa.64270/
+[19:10:13] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.2.1, you're on: 4.9.3
+[19:10:17] [Server thread/WARN]: UUID of added entity already exists: EntitySheep['Sheep'/367, uuid='08e70bf6-3fd3-4472-9d1a-eeb34dd27492', l='ServerLevel[spawn]', x=21.02, y=4.00, z=114.38, cpos=[1, 7], tl=28406, v=false, rR=null]
+[19:10:18] [Server thread/WARN]: UUID of added entity already exists: EntitySheep['Sheep'/478, uuid='08873455-af42-4a94-ab6f-8f0fbb54c165', l='ServerLevel[hub]', x=216.25, y=68.00, z=-190.33, cpos=[13, -12], tl=5957, v=false, rR=null]
+[19:10:20] [Server thread/WARN]: UUID of added entity already exists: EntityVillager['Villager'/590, uuid='3192100c-3d38-40b6-a714-deb994fca4f5', l='ServerLevel[hub]', x=303.88, y=69.00, z=-167.88, cpos=[18, -11], tl=3750, v=false, rR=null]
+[19:11:01] [User Authenticator #1/INFO]: UUID of player ysyyayyyayya is 6cd4e570-7a49-3521-8e89-4b4b5c6269c5
+[19:11:01] [Server thread/INFO]: ysyyayyyayya joined the game
+[19:11:01] [Server thread/INFO]: ysyyayyyayya[/[0:0:0:0:0:0:0:1]:36844] logged in with entity id 594 at ([spawn]2.5, 4.478629910057052, 4.5)
+[19:11:01] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|UpdateCert-1.8
+[19:11:01] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FML
+[19:11:01] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|Skins-1.8
+[19:11:01] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FORGE
+[19:11:24] [Server thread/INFO]: ysyyayyyayya issued server command: //wand
+[19:11:29] [Server thread/INFO]: ysyyayyyayya issued server command: /gamemode c
+[19:11:33] [Server thread/INFO]: ysyyayyyayya issued server command: /gamemode creative
+[19:11:33] [Server thread/INFO]: [ysyyayyyayya: Set own game mode to Creative Mode]
+[19:11:37] [Server thread/INFO]: ysyyayyyayya issued server command: /help
+[19:11:44] [Server thread/INFO]: ysyyayyyayya issued server command: /help 2
+[19:12:20] [Server thread/INFO]: ysyyayyyayya has made the advancement [Monster Hunter]
+[19:13:21] [Server thread/INFO]: ysyyayyyayya issued server command: /kill @e
+[19:13:21] [Server thread/INFO]: ysyyayyyayya fell out of the world
+[19:13:21] [Server thread/INFO]: Villager EntityVillager['Villager'/558, uuid='3192100c-3d38-40b6-a714-deb994fca4f5', l='ServerLevel[hub]', x=316.27, y=71.00, z=-174.57, cpos=[19, -11], tl=2532, v=true, rR=null] died, message: 'Villager fell out of the world'
+[19:13:21] [Server thread/INFO]: Villager EntityVillager['Farmer'/563, uuid='21379a66-ba97-47c5-8507-7f1c5bb419b7', l='ServerLevel[hub]', x=319.02, y=89.00, z=-123.10, cpos=[19, -8], tl=5812, v=true, rR=null] died, message: 'Farmer fell out of the world'
+[19:13:21] [Server thread/INFO]: [ysyyayyyayya: Killed 507 entities]
+[19:15:31] [Server thread/INFO]: ysyyayyyayya issued server command: /worldedit
+[19:15:41] [Server thread/INFO]: ysyyayyyayya issued server command: /authme
+[19:15:41] [Server thread/ERROR]: null
 org.bukkit.command.CommandException: Cannot execute command 'authme' in plugin AuthMe v2.7.11 - plugin is disabled.
 	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:37) ~[patched_1.17.1.jar:git-Purpur-1428]
 	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:172) ~[patched_1.17.1.jar:git-Purpur-1428]
@@ -305,168 +210,69 @@ org.bukkit.command.CommandException: Cannot execute command 'authme' in plugin A
 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1310) ~[patched_1.17.1.jar:git-Purpur-1428]
 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:322) ~[patched_1.17.1.jar:git-Purpur-1428]
 	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-[18:00:01] [Server thread/INFO]: ysyyayyyayya issued server command: /help authme
-[18:00:14] [Server thread/INFO]: ysyyayyyayya issued server command: /register 1234567 1234567
-[18:00:14] [Server thread/ERROR]: null
-org.bukkit.command.CommandException: Cannot execute command 'register' in plugin AuthMe v2.7.11 - plugin is disabled.
-	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:37) ~[patched_1.17.1.jar:git-Purpur-1428]
-	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:172) ~[patched_1.17.1.jar:git-Purpur-1428]
-	at org.bukkit.craftbukkit.v1_17_R1.CraftServer.dispatchCommand(CraftServer.java:869) ~[patched_1.17.1.jar:git-Purpur-1428]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleCommand(ServerGamePacketListenerImpl.java:2344) ~[app:?]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleChat(ServerGamePacketListenerImpl.java:2155) ~[app:?]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleChat(ServerGamePacketListenerImpl.java:2136) ~[app:?]
-	at net.minecraft.network.protocol.game.ServerboundChatPacket.handle(ServerboundChatPacket.java:46) ~[app:?]
-	at net.minecraft.network.protocol.game.ServerboundChatPacket.a(ServerboundChatPacket.java:6) ~[app:?]
-	at net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$1(PacketUtils.java:56) ~[app:?]
-	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[patched_1.17.1.jar:git-Purpur-1428]
-	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:149) ~[app:?]
-	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:23) ~[app:?]
-	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1450) ~[patched_1.17.1.jar:git-Purpur-1428]
-	at net.minecraft.server.MinecraftServer.executeTask(MinecraftServer.java:192) ~[patched_1.17.1.jar:git-Purpur-1428]
-	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:122) ~[app:?]
-	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1428) ~[patched_1.17.1.jar:git-Purpur-1428]
-	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1421) ~[patched_1.17.1.jar:git-Purpur-1428]
-	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:132) ~[app:?]
-	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1399) ~[patched_1.17.1.jar:git-Purpur-1428]
-	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1310) ~[patched_1.17.1.jar:git-Purpur-1428]
-	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:322) ~[patched_1.17.1.jar:git-Purpur-1428]
-	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-[18:00:33] [Server thread/INFO]: ysyyayyyayya issued server command: /help
-[18:00:44] [Server thread/INFO]: ysyyayyyayya issued server command: /help multiverse-core
-[18:00:48] [Server thread/INFO]: ysyyayyyayya issued server command: /mv
-[18:01:16] [Server thread/INFO]: ysyyayyyayya issued server command: /mv create hub superflat
-[18:01:26] [Server thread/INFO]: ysyyayyyayya issued server command: /mv create hub normal
-[18:01:26] [Server thread/INFO]: ysyyayyyayya: Starting creation of world 'hub'...
-[18:01:26] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'hub' - Env: NORMAL - Type: NORMAL
-[18:01:26] [Server thread/WARN]: Unable to find spawn biome
-[18:01:30] [Server thread/INFO]: Preparing start region for dimension minecraft:hub
-[18:01:30] [Server thread/WARN]: ysyyayyyayya moved too quickly! 1.8385820869469285,1.3943715589833516,10.170739102990495
-[18:01:30] [Worker-Main-1/INFO]: Preparing spawn area: 24%
-[18:01:30] [Server thread/INFO]: Time elapsed: 107 ms
-[18:01:30] [Server thread/INFO]: ysyyayyyayya: Complete!
-[18:01:52] [Server thread/INFO]: ysyyayyyayya issued server command: /mv tp hub
-[18:02:46] [Server thread/INFO]: ysyyayyyayya issued server command: /worldedit
-[18:02:48] [Server thread/INFO]: ysyyayyyayya issued server command: /help
-[18:02:53] [Server thread/INFO]: ysyyayyyayya issued server command: /help 2
-[18:04:39] [Server thread/INFO]: ysyyayyyayya issued server command: //wand
-[18:05:17] [Server thread/INFO]: ysyyayyyayya issued server command: /authme
-[18:05:17] [Server thread/ERROR]: null
-org.bukkit.command.CommandException: Cannot execute command 'authme' in plugin AuthMe v2.7.11 - plugin is disabled.
-	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:37) ~[patched_1.17.1.jar:git-Purpur-1428]
-	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:172) ~[patched_1.17.1.jar:git-Purpur-1428]
-	at org.bukkit.craftbukkit.v1_17_R1.CraftServer.dispatchCommand(CraftServer.java:869) ~[patched_1.17.1.jar:git-Purpur-1428]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleCommand(ServerGamePacketListenerImpl.java:2344) ~[app:?]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleChat(ServerGamePacketListenerImpl.java:2155) ~[app:?]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleChat(ServerGamePacketListenerImpl.java:2136) ~[app:?]
-	at net.minecraft.network.protocol.game.ServerboundChatPacket.handle(ServerboundChatPacket.java:46) ~[app:?]
-	at net.minecraft.network.protocol.game.ServerboundChatPacket.a(ServerboundChatPacket.java:6) ~[app:?]
-	at net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$1(PacketUtils.java:56) ~[app:?]
-	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[patched_1.17.1.jar:git-Purpur-1428]
-	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:149) ~[app:?]
-	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:23) ~[app:?]
-	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1450) ~[patched_1.17.1.jar:git-Purpur-1428]
-	at net.minecraft.server.MinecraftServer.executeTask(MinecraftServer.java:192) ~[patched_1.17.1.jar:git-Purpur-1428]
-	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:122) ~[app:?]
-	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1428) ~[patched_1.17.1.jar:git-Purpur-1428]
-	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1421) ~[patched_1.17.1.jar:git-Purpur-1428]
-	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:132) ~[app:?]
-	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1399) ~[patched_1.17.1.jar:git-Purpur-1428]
-	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1310) ~[patched_1.17.1.jar:git-Purpur-1428]
-	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:322) ~[patched_1.17.1.jar:git-Purpur-1428]
-	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-[18:05:36] [Server thread/INFO]: ysyyayyyayya issued server command: /citizens
-[18:05:36] [Server thread/ERROR]: null
-org.bukkit.command.CommandException: Cannot execute command 'citizens' in plugin Citizens v2.0.37-SNAPSHOT (build 3716) - plugin is disabled.
-	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:37) ~[patched_1.17.1.jar:git-Purpur-1428]
-	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:172) ~[patched_1.17.1.jar:git-Purpur-1428]
-	at org.bukkit.craftbukkit.v1_17_R1.CraftServer.dispatchCommand(CraftServer.java:869) ~[patched_1.17.1.jar:git-Purpur-1428]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleCommand(ServerGamePacketListenerImpl.java:2344) ~[app:?]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleChat(ServerGamePacketListenerImpl.java:2155) ~[app:?]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleChat(ServerGamePacketListenerImpl.java:2136) ~[app:?]
-	at net.minecraft.network.protocol.game.ServerboundChatPacket.handle(ServerboundChatPacket.java:46) ~[app:?]
-	at net.minecraft.network.protocol.game.ServerboundChatPacket.a(ServerboundChatPacket.java:6) ~[app:?]
-	at net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$1(PacketUtils.java:56) ~[app:?]
-	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[patched_1.17.1.jar:git-Purpur-1428]
-	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:149) ~[app:?]
-	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:23) ~[app:?]
-	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1450) ~[patched_1.17.1.jar:git-Purpur-1428]
-	at net.minecraft.server.MinecraftServer.executeTask(MinecraftServer.java:192) ~[patched_1.17.1.jar:git-Purpur-1428]
-	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:122) ~[app:?]
-	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1428) ~[patched_1.17.1.jar:git-Purpur-1428]
-	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1421) ~[patched_1.17.1.jar:git-Purpur-1428]
-	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:132) ~[app:?]
-	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1399) ~[patched_1.17.1.jar:git-Purpur-1428]
-	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1310) ~[patched_1.17.1.jar:git-Purpur-1428]
-	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:322) ~[patched_1.17.1.jar:git-Purpur-1428]
-	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-[18:06:25] [Server thread/INFO]: ysyyayyyayya issued server command: //mv list
-[18:06:28] [Server thread/INFO]: ysyyayyyayya issued server command: /mv list
-[18:07:08] [Server thread/INFO]: ysyyayyyayya issued server command: /mv create spawn
-[18:07:17] [Server thread/INFO]: ysyyayyyayya issued server command: /mv create spawn -t flat
-[18:07:23] [Server thread/INFO]: ysyyayyyayya issued server command: /mv create spawn normal -t flat
-[18:07:23] [Server thread/INFO]: ysyyayyyayya: Starting creation of world 'spawn'...
-[18:07:23] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'spawn' - Env: NORMAL - Type: FLAT
-[18:07:24] [Server thread/ERROR]: No key layers in MapLike[{}]; No key structures in MapLike[{}]
-[18:07:24] [Server thread/INFO]: Preparing start region for dimension minecraft:spawn
-[18:07:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:07:24] [Server thread/INFO]: Time elapsed: 175 ms
-[18:07:24] [Server thread/INFO]: ysyyayyyayya: Complete!
-[18:07:31] [Server thread/INFO]: ysyyayyyayya issued server command: /mv tp spawn
-[18:07:41] [Server thread/INFO]: ysyyayyyayya issued server command: //wand
-[18:08:12] [Server thread/INFO]: ysyyayyyayya issued server command: /fill 9 4 205
-[18:08:42] [Server thread/INFO]: ysyyayyyayya issued server command: /fill 100 3 100 -100 3 -100 stone_brick
-[18:08:48] [Server thread/INFO]: ysyyayyyayya issued server command: /fill 100 3 100 -100 3 -100 stone
-[18:09:02] [Server thread/INFO]: ysyyayyyayya issued server command: /fill 100 3 100 -100 3 -100 stone
-[18:09:13] [Server thread/INFO]: ysyyayyyayya issued server command: /tp 0 0 0
-[18:09:13] [Server thread/INFO]: [ysyyayyyayya: Teleported ysyyayyyayya to 0.500000, 0.000000, 0.500000]
-[18:09:17] [Server thread/INFO]: ysyyayyyayya issued server command: /tp 0 5 0
-[18:09:17] [Server thread/INFO]: [ysyyayyyayya: Teleported ysyyayyyayya to 0.500000, 5.000000, 0.500000]
-[18:09:44] [Server thread/INFO]: ysyyayyyayya issued server command: /fill 20 3 20 -20 3 -120 stone
-[18:09:44] [Server thread/INFO]: [ysyyayyyayya: Successfully filled 5781 blocks]
-[18:09:50] [Server thread/INFO]: ysyyayyyayya issued server command: /fill 20 3 20 -20 3 -120 grass
-[18:09:51] [Server thread/INFO]: [ysyyayyyayya: Successfully filled 5781 blocks]
-[18:09:56] [Server thread/INFO]: ysyyayyyayya issued server command: /fill 20 3 20 -20 3 -120 grassblock
-[18:10:00] [Server thread/INFO]: ysyyayyyayya issued server command: /fill 20 3 20 -20 3 -120 grass_block
-[18:10:00] [Server thread/INFO]: [ysyyayyyayya: Successfully filled 5781 blocks]
-[18:10:12] [Server thread/INFO]: ysyyayyyayya issued server command: /fill 20 3 20 -20 3 -20 stone
-[18:10:12] [Server thread/INFO]: [ysyyayyyayya: Successfully filled 1681 blocks]
-[18:10:32] [Server thread/INFO]: ysyyayyyayya issued server command: /cw setspawn
-[18:10:39] [Server thread/INFO]: ysyyayyyayya issued server command: /mv setspawn
-[18:10:39] [Server thread/WARN]: [Multiverse-Core] Somebody tried to set the spawn location for 'spawn' to an unsafe value! Adjusting...
-[18:10:39] [Server thread/WARN]: [Multiverse-Core] Old Location: X: 16 Y: 4 Z: 192 P: 0 Y: 0 
-[18:10:39] [Server thread/WARN]: [Multiverse-Core] New (unsafe) Location: X: 1.8 Y: 11.48 Z: 4.25 P: 66.75 Y: 175.5 
-[18:10:39] [Server thread/WARN]: [Multiverse-Core] New (safe) Location: X: 2.5 Y: 4.48 Z: 4.5 P: 66.75 Y: 175.5 
-[18:10:51] [Server thread/INFO]: ysyyayyyayya issued server command: /spawn
-[18:10:58] [Server thread/INFO]: ysyyayyyayya issued server command: /tp 0 5 0
-[18:10:58] [Server thread/INFO]: [ysyyayyyayya: Teleported ysyyayyyayya to 0.500000, 5.000000, 0.500000]
-[18:11:09] [Server thread/INFO]: ysyyayyyayya issued server command: /set spawn
-[18:11:15] [Server thread/INFO]: ysyyayyyayya issued server command: /mvm setspawn
-[18:11:38] [Server thread/INFO]: ysyyayyyayya issued server command: /tp @e
-[18:11:42] [Server thread/INFO]: ysyyayyyayya issued server command: /tp @e ysyyayyyayya
-[18:11:42] [Server thread/INFO]: [ysyyayyyayya: Teleported 453 entities to ysyyayyyayya]
-[18:11:47] [Server thread/INFO]: Villager EntityVillager['Villager'/6813, uuid='3192100c-3d38-40b6-a714-deb994fca4f5', l='ServerLevel[spawn]', x=-8.96, y=4.00, z=-10.79, cpos=[-1, -1], tl=3841, v=true, rR=null] died, message: 'Villager was slain by Zombie'
-[18:12:26] [Server thread/INFO]: ysyyayyyayya issued server command: /kill @e
-[18:12:26] [Server thread/INFO]: ysyyayyyayya fell out of the world
-[18:12:26] [Server thread/INFO]: Villager EntityVillager['Villager'/6805, uuid='21379a66-ba97-47c5-8507-7f1c5bb419b7', l='ServerLevel[spawn]', x=38.09, y=4.00, z=-33.91, cpos=[2, -3], tl=6690, v=true, rR=null] died, message: 'Villager fell out of the world'
-[18:12:26] [Server thread/INFO]: Villager EntityVillager['Villager'/7186, uuid='36264650-9d6e-47b4-a119-0bd76bb6cfa1', l='ServerLevel[spawn]', x=205.63, y=6.00, z=-175.72, cpos=[12, -11], tl=0, v=true, rR=null] died, message: 'Villager fell out of the world'
-[18:12:26] [Server thread/INFO]: [ysyyayyyayya: Killed 289 entities]
-[18:12:30] [Server thread/INFO]: ysyyayyyayya issued server command: /kill @e
-[18:12:30] [Server thread/INFO]: ysyyayyyayya fell out of the world
-[18:12:30] [Server thread/INFO]: [ysyyayyyayya: Killed 285 entities]
-[18:12:37] [Server thread/INFO]: ysyyayyyayya issued server command: /kill @e
-[18:12:37] [Server thread/INFO]: ysyyayyyayya fell out of the world
-[18:12:37] [Server thread/INFO]: [ysyyayyyayya: Killed 386 entities]
-[18:12:42] [Server thread/INFO]: ysyyayyyayya issued server command: /kill @e
-[18:12:42] [Server thread/INFO]: ysyyayyyayya fell out of the world
-[18:12:42] [Server thread/INFO]: [ysyyayyyayya: Killed 343 entities]
-[18:13:05] [Server thread/INFO]: ysyyayyyayya issued server command: /mvp create
-[18:13:29] [Server thread/INFO]: ysyyayyyayya issued server command: /kill *
-[18:13:33] [Server thread/INFO]: ysyyayyyayya issued server command: /kill @p
-[18:13:33] [Server thread/INFO]: ysyyayyyayya fell out of the world
-[18:13:33] [Server thread/INFO]: [ysyyayyyayya: Killed ysyyayyyayya]
-[18:13:38] [Server thread/INFO]: ysyyayyyayya issued server command: /kill @e
-[18:13:38] [Server thread/INFO]: ysyyayyyayya fell out of the world
-[18:13:38] [Server thread/INFO]: [ysyyayyyayya: Killed 267 entities]
-[18:13:52] [Server thread/INFO]: ysyyayyyayya issued server command: /mv tp normal
-[18:13:55] [Server thread/INFO]: ysyyayyyayya lost connection: Disconnected
-[18:13:55] [Server thread/INFO]: ysyyayyyayya left the game
+[19:15:48] [User Authenticator #2/INFO]: UUID of player HeyBread is 6b3d7afd-3b1d-39dc-a095-3e261a0d9f09
+[19:15:48] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|UpdateCert-1.8
+[19:15:48] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FML
+[19:15:48] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|Skins-1.8
+[19:15:48] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FORGE
+[19:15:48] [Server thread/INFO]: HeyBread joined the game
+[19:15:48] [Server thread/INFO]: HeyBread[/[0:0:0:0:0:0:0:1]:45584] logged in with entity id 2095 at ([world]-7.5, 65.0, 49.5)
+[19:15:56] [Async Chat Thread - #0/INFO]: <HeyBread> woohoo
+[19:16:08] [Server thread/INFO]: ysyyayyyayya issued server command: /help loginsecurity
+[19:16:13] [Server thread/INFO]: HeyBread issued server command: /rtp
+[19:16:34] [Server thread/INFO]: ysyyayyyayya issued server command: /tp heybread ysyyayyyayya
+[19:16:34] [Server thread/INFO]: [ysyyayyyayya: Teleported HeyBread to ysyyayyyayya]
+[19:16:39] [Async Chat Thread - #0/INFO]: <HeyBread> ????
+[19:16:52] [Async Chat Thread - #0/INFO]: <HeyBread> wuts this
+[19:16:55] [Server thread/INFO]: ysyyayyyayya issued server command: /kill @e
+[19:16:56] [Server thread/INFO]: ysyyayyyayya fell out of the world
+[19:16:56] [Server thread/INFO]: HeyBread fell out of the world
+[19:16:56] [Server thread/INFO]: HeyBread has made the advancement [Monster Hunter]
+[19:16:56] [Server thread/INFO]: Villager EntityVillager['Villager'/2455, uuid='976482e1-b21e-48c1-b12a-277a802a7ccb', l='ServerLevel[spawn]', x=217.63, y=6.00, z=-175.72, cpos=[13, -11], tl=0, v=true, rR=null] died, message: 'Villager fell out of the world'
+[19:16:56] [Server thread/INFO]: Villager EntityVillager['Villager'/2456, uuid='8b8829d3-ba74-4ace-81b2-e87ff7c5fbc2', l='ServerLevel[spawn]', x=219.28, y=6.00, z=-160.63, cpos=[13, -11], tl=0, v=true, rR=null] died, message: 'Villager fell out of the world'
+[19:16:56] [Server thread/INFO]: [ysyyayyyayya: Killed 660 entities]
+[19:17:06] [Async Chat Thread - #0/INFO]: <HeyBread> wa tid du do
+[19:17:18] [Async Chat Thread - #0/INFO]: <ysyyayyyayya> dis is hub server
+[19:17:23] [Async Chat Thread - #0/INFO]: <ysyyayyyayya> im adding portals
+[19:17:25] [Async Chat Thread - #0/INFO]: <HeyBread> no make it vanilla
+[19:17:28] [Async Chat Thread - #0/INFO]: <ysyyayyyayya> like on arch
+[19:17:33] [Async Chat Thread - #0/INFO]: <HeyBread> is this the public or private
+[19:17:43] [Server thread/INFO]: ysyyayyyayya issued server command: /r THIS IS THE HUB
+[19:17:49] [Async Chat Thread - #0/INFO]: <ysyyayyyayya> THIS IS THE HUB
+[19:17:57] [Async Chat Thread - #0/INFO]: <HeyBread> ok whatever
+[19:18:04] [Async Chat Thread - #0/INFO]: <HeyBread> can i build
+[19:18:12] [Server thread/INFO]: ysyyayyyayya issued server command: /mv tp normal
+[19:18:15] [Server thread/INFO]: ysyyayyyayya issued server command: /mv list
+[19:18:17] [Async Chat Thread - #0/INFO]: <HeyBread> im rlly good at building interiours
+[19:18:22] [Server thread/INFO]: ysyyayyyayya issued server command: /mv tp world
+[19:18:32] [Server thread/INFO]: ysyyayyyayya issued server command: /tp heybread ysyyayyyayya
+[19:18:32] [Server thread/INFO]: [ysyyayyyayya: Teleported HeyBread to ysyyayyyayya]
+[19:18:39] [Server thread/INFO]: ysyyayyyayya issued server command: /msg heybread private server
+[19:18:40] [Async Chat Thread - #0/INFO]: <HeyBread> ???
+[19:18:46] [Async Chat Thread - #0/INFO]: <HeyBread> why ru whisperig
+[19:18:47] [Async Chat Thread - #0/INFO]: <ysyyayyyayya> private server
+[19:18:52] [Async Chat Thread - #0/INFO]: <ysyyayyyayya> testing
+[19:19:18] [Async Chat Thread - #0/INFO]: <HeyBread> when can i start grinding then
+[19:19:19] [Async Chat Thread - #0/INFO]: <ysyyayyyayya> this is the private server
+[19:19:21] [Async Chat Thread - #0/INFO]: <ysyyayyyayya> now
+[19:19:31] [Server thread/INFO]: ysyyayyyayya issued server command: /gamemode creative
+[19:19:31] [Server thread/INFO]: [ysyyayyyayya: Set own game mode to Creative Mode]
+[19:20:06] [Server thread/INFO]: Villager EntityVillager['Villager'/3277, uuid='592b60b1-3ca1-4354-adfa-85b47d83d422', l='ServerLevel[world]', x=195.37, y=75.50, z=216.72, cpos=[12, 13], tl=191, v=true, rR=null] died, message: 'Villager suffocated in a wall'
+[19:20:14] [Async Chat Thread - #0/INFO]: <ysyyayyyayya> bye gtg
+[19:20:17] [Async Chat Thread - #0/INFO]: <HeyBread> wait
+[19:20:22] [Async Chat Thread - #0/INFO]: <ysyyayyyayya> ?
+[19:20:22] [Async Chat Thread - #0/INFO]: <HeyBread> u did kill @e right
+[19:20:26] [Async Chat Thread - #0/INFO]: <ysyyayyyayya> ye
+[19:20:30] [Async Chat Thread - #0/INFO]: <HeyBread> doesnt that mean u killed the dragon
+[19:20:34] [Async Chat Thread - #0/INFO]: <ysyyayyyayya> uhhh
+[19:20:36] [Async Chat Thread - #0/INFO]: <ysyyayyyayya> oops
+[19:20:39] [Async Chat Thread - #0/INFO]: <HeyBread> respawn it
+[19:20:40] [Async Chat Thread - #0/INFO]: <ysyyayyyayya> dont play yet
+[19:20:45] [Async Chat Thread - #0/INFO]: <HeyBread> gtg
+[19:20:47] [Async Chat Thread - #0/INFO]: <ysyyayyyayya> imma need to restart the server
+[19:20:47] [Async Chat Thread - #0/INFO]: <HeyBread> wdym
+[19:20:49] [Async Chat Thread - #0/INFO]: <HeyBread> ok
+[19:20:51] [Server thread/INFO]: HeyBread lost connection: Disconnected
+[19:20:51] [Server thread/INFO]: HeyBread left the game
+[19:20:53] [Server thread/INFO]: ysyyayyyayya lost connection: Disconnected
+[19:20:53] [Server thread/INFO]: ysyyayyyayya left the game

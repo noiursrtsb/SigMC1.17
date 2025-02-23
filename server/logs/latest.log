@@ -183,3 +183,290 @@ java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Bukkit.getOn
 [17:53:24] [Server thread/INFO]: Done (18.168s)! For help, type "help"
 [17:53:24] [Server thread/INFO]: Timings Reset
 [17:53:24] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.2.1, you're on: 4.9.3
+[17:55:43] [User Authenticator #1/INFO]: UUID of player ysyyayyyayya is 6cd4e570-7a49-3521-8e89-4b4b5c6269c5
+[17:55:43] [Server thread/INFO]: ysyyayyyayya joined the game
+[17:55:43] [Server thread/INFO]: ysyyayyyayya[/[0:0:0:0:0:0:0:1]:44850] logged in with entity id 392 at ([world]-20.5, 63.0, 44.5)
+[17:55:43] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|UpdateCert-1.8
+[17:55:43] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FML
+[17:55:43] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|Skins-1.8
+[17:55:43] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FORGE
+[17:56:04] [Server thread/INFO]: Made ysyyayyyayya a server operator
+[17:56:21] [Server thread/INFO]: ysyyayyyayya issued server command: /gamemode c
+[17:56:26] [Server thread/INFO]: ysyyayyyayya issued server command: /gamemode creative
+[17:56:26] [Server thread/INFO]: [ysyyayyyayya: Set own game mode to Creative Mode]
+[17:57:24] [Server thread/INFO]: ysyyayyyayya issued server command: /help
+[17:57:35] [Server thread/INFO]: ysyyayyyayya issued server command: /citizens
+[17:57:35] [Server thread/ERROR]: null
+org.bukkit.command.CommandException: Cannot execute command 'citizens' in plugin Citizens v2.0.37-SNAPSHOT (build 3716) - plugin is disabled.
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:37) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:172) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at org.bukkit.craftbukkit.v1_17_R1.CraftServer.dispatchCommand(CraftServer.java:869) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleCommand(ServerGamePacketListenerImpl.java:2344) ~[app:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleChat(ServerGamePacketListenerImpl.java:2155) ~[app:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleChat(ServerGamePacketListenerImpl.java:2136) ~[app:?]
+	at net.minecraft.network.protocol.game.ServerboundChatPacket.handle(ServerboundChatPacket.java:46) ~[app:?]
+	at net.minecraft.network.protocol.game.ServerboundChatPacket.a(ServerboundChatPacket.java:6) ~[app:?]
+	at net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$1(PacketUtils.java:56) ~[app:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:149) ~[app:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:23) ~[app:?]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1450) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at net.minecraft.server.MinecraftServer.executeTask(MinecraftServer.java:192) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:122) ~[app:?]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1428) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1421) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:132) ~[app:?]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1399) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1310) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:322) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[17:57:43] [Server thread/INFO]: ysyyayyyayya issued server command: /help citizens
+[17:57:57] [Server thread/INFO]: ysyyayyyayya issued server command: /npc
+[17:57:57] [Server thread/ERROR]: null
+org.bukkit.command.CommandException: Cannot execute command 'npc' in plugin Citizens v2.0.37-SNAPSHOT (build 3716) - plugin is disabled.
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:37) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:172) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at org.bukkit.craftbukkit.v1_17_R1.CraftServer.dispatchCommand(CraftServer.java:869) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleCommand(ServerGamePacketListenerImpl.java:2344) ~[app:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleChat(ServerGamePacketListenerImpl.java:2155) ~[app:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleChat(ServerGamePacketListenerImpl.java:2136) ~[app:?]
+	at net.minecraft.network.protocol.game.ServerboundChatPacket.handle(ServerboundChatPacket.java:46) ~[app:?]
+	at net.minecraft.network.protocol.game.ServerboundChatPacket.a(ServerboundChatPacket.java:6) ~[app:?]
+	at net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$1(PacketUtils.java:56) ~[app:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:149) ~[app:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:23) ~[app:?]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1450) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at net.minecraft.server.MinecraftServer.executeTask(MinecraftServer.java:192) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:122) ~[app:?]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1428) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1421) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:132) ~[app:?]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1399) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1310) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:322) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[17:58:07] [Server thread/INFO]: ysyyayyyayya issued server command: /help znpc
+[17:58:14] [Server thread/INFO]: ysyyayyyayya issued server command: /znpcs
+[17:58:33] [Server thread/INFO]: ysyyayyyayya issued server command: /znpcs create
+[17:58:38] [Server thread/INFO]: ysyyayyyayya issued server command: /znpcs create zombie
+[17:58:54] [Server thread/INFO]: ysyyayyyayya issued server command: /znpcs create sig zombie sig
+[17:59:05] [Server thread/INFO]: ysyyayyyayya issued server command: /znpcs create 1 zombie sig
+[17:59:32] [Server thread/INFO]: ysyyayyyayya issued server command: /znpcs remove 1
+[17:59:41] [Server thread/INFO]: ysyyayyyayya issued server command: /znpcs delete 1
+[17:59:47] [Server thread/INFO]: ysyyayyyayya issued server command: /citizens help
+[17:59:47] [Server thread/ERROR]: null
+org.bukkit.command.CommandException: Cannot execute command 'citizens' in plugin Citizens v2.0.37-SNAPSHOT (build 3716) - plugin is disabled.
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:37) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:172) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at org.bukkit.craftbukkit.v1_17_R1.CraftServer.dispatchCommand(CraftServer.java:869) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleCommand(ServerGamePacketListenerImpl.java:2344) ~[app:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleChat(ServerGamePacketListenerImpl.java:2155) ~[app:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleChat(ServerGamePacketListenerImpl.java:2136) ~[app:?]
+	at net.minecraft.network.protocol.game.ServerboundChatPacket.handle(ServerboundChatPacket.java:46) ~[app:?]
+	at net.minecraft.network.protocol.game.ServerboundChatPacket.a(ServerboundChatPacket.java:6) ~[app:?]
+	at net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$1(PacketUtils.java:56) ~[app:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:149) ~[app:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:23) ~[app:?]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1450) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at net.minecraft.server.MinecraftServer.executeTask(MinecraftServer.java:192) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:122) ~[app:?]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1428) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1421) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:132) ~[app:?]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1399) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1310) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:322) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[17:59:54] [Server thread/INFO]: ysyyayyyayya issued server command: /help
+[17:59:57] [Server thread/INFO]: ysyyayyyayya issued server command: /authme
+[17:59:57] [Server thread/ERROR]: null
+org.bukkit.command.CommandException: Cannot execute command 'authme' in plugin AuthMe v2.7.11 - plugin is disabled.
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:37) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:172) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at org.bukkit.craftbukkit.v1_17_R1.CraftServer.dispatchCommand(CraftServer.java:869) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleCommand(ServerGamePacketListenerImpl.java:2344) ~[app:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleChat(ServerGamePacketListenerImpl.java:2155) ~[app:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleChat(ServerGamePacketListenerImpl.java:2136) ~[app:?]
+	at net.minecraft.network.protocol.game.ServerboundChatPacket.handle(ServerboundChatPacket.java:46) ~[app:?]
+	at net.minecraft.network.protocol.game.ServerboundChatPacket.a(ServerboundChatPacket.java:6) ~[app:?]
+	at net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$1(PacketUtils.java:56) ~[app:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:149) ~[app:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:23) ~[app:?]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1450) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at net.minecraft.server.MinecraftServer.executeTask(MinecraftServer.java:192) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:122) ~[app:?]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1428) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1421) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:132) ~[app:?]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1399) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1310) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:322) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[18:00:01] [Server thread/INFO]: ysyyayyyayya issued server command: /help authme
+[18:00:14] [Server thread/INFO]: ysyyayyyayya issued server command: /register 1234567 1234567
+[18:00:14] [Server thread/ERROR]: null
+org.bukkit.command.CommandException: Cannot execute command 'register' in plugin AuthMe v2.7.11 - plugin is disabled.
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:37) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:172) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at org.bukkit.craftbukkit.v1_17_R1.CraftServer.dispatchCommand(CraftServer.java:869) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleCommand(ServerGamePacketListenerImpl.java:2344) ~[app:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleChat(ServerGamePacketListenerImpl.java:2155) ~[app:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleChat(ServerGamePacketListenerImpl.java:2136) ~[app:?]
+	at net.minecraft.network.protocol.game.ServerboundChatPacket.handle(ServerboundChatPacket.java:46) ~[app:?]
+	at net.minecraft.network.protocol.game.ServerboundChatPacket.a(ServerboundChatPacket.java:6) ~[app:?]
+	at net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$1(PacketUtils.java:56) ~[app:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:149) ~[app:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:23) ~[app:?]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1450) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at net.minecraft.server.MinecraftServer.executeTask(MinecraftServer.java:192) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:122) ~[app:?]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1428) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1421) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:132) ~[app:?]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1399) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1310) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:322) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[18:00:33] [Server thread/INFO]: ysyyayyyayya issued server command: /help
+[18:00:44] [Server thread/INFO]: ysyyayyyayya issued server command: /help multiverse-core
+[18:00:48] [Server thread/INFO]: ysyyayyyayya issued server command: /mv
+[18:01:16] [Server thread/INFO]: ysyyayyyayya issued server command: /mv create hub superflat
+[18:01:26] [Server thread/INFO]: ysyyayyyayya issued server command: /mv create hub normal
+[18:01:26] [Server thread/INFO]: ysyyayyyayya: Starting creation of world 'hub'...
+[18:01:26] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'hub' - Env: NORMAL - Type: NORMAL
+[18:01:26] [Server thread/WARN]: Unable to find spawn biome
+[18:01:30] [Server thread/INFO]: Preparing start region for dimension minecraft:hub
+[18:01:30] [Server thread/WARN]: ysyyayyyayya moved too quickly! 1.8385820869469285,1.3943715589833516,10.170739102990495
+[18:01:30] [Worker-Main-1/INFO]: Preparing spawn area: 24%
+[18:01:30] [Server thread/INFO]: Time elapsed: 107 ms
+[18:01:30] [Server thread/INFO]: ysyyayyyayya: Complete!
+[18:01:52] [Server thread/INFO]: ysyyayyyayya issued server command: /mv tp hub
+[18:02:46] [Server thread/INFO]: ysyyayyyayya issued server command: /worldedit
+[18:02:48] [Server thread/INFO]: ysyyayyyayya issued server command: /help
+[18:02:53] [Server thread/INFO]: ysyyayyyayya issued server command: /help 2
+[18:04:39] [Server thread/INFO]: ysyyayyyayya issued server command: //wand
+[18:05:17] [Server thread/INFO]: ysyyayyyayya issued server command: /authme
+[18:05:17] [Server thread/ERROR]: null
+org.bukkit.command.CommandException: Cannot execute command 'authme' in plugin AuthMe v2.7.11 - plugin is disabled.
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:37) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:172) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at org.bukkit.craftbukkit.v1_17_R1.CraftServer.dispatchCommand(CraftServer.java:869) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleCommand(ServerGamePacketListenerImpl.java:2344) ~[app:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleChat(ServerGamePacketListenerImpl.java:2155) ~[app:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleChat(ServerGamePacketListenerImpl.java:2136) ~[app:?]
+	at net.minecraft.network.protocol.game.ServerboundChatPacket.handle(ServerboundChatPacket.java:46) ~[app:?]
+	at net.minecraft.network.protocol.game.ServerboundChatPacket.a(ServerboundChatPacket.java:6) ~[app:?]
+	at net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$1(PacketUtils.java:56) ~[app:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:149) ~[app:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:23) ~[app:?]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1450) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at net.minecraft.server.MinecraftServer.executeTask(MinecraftServer.java:192) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:122) ~[app:?]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1428) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1421) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:132) ~[app:?]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1399) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1310) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:322) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[18:05:36] [Server thread/INFO]: ysyyayyyayya issued server command: /citizens
+[18:05:36] [Server thread/ERROR]: null
+org.bukkit.command.CommandException: Cannot execute command 'citizens' in plugin Citizens v2.0.37-SNAPSHOT (build 3716) - plugin is disabled.
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:37) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:172) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at org.bukkit.craftbukkit.v1_17_R1.CraftServer.dispatchCommand(CraftServer.java:869) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleCommand(ServerGamePacketListenerImpl.java:2344) ~[app:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleChat(ServerGamePacketListenerImpl.java:2155) ~[app:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleChat(ServerGamePacketListenerImpl.java:2136) ~[app:?]
+	at net.minecraft.network.protocol.game.ServerboundChatPacket.handle(ServerboundChatPacket.java:46) ~[app:?]
+	at net.minecraft.network.protocol.game.ServerboundChatPacket.a(ServerboundChatPacket.java:6) ~[app:?]
+	at net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$1(PacketUtils.java:56) ~[app:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:149) ~[app:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:23) ~[app:?]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1450) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at net.minecraft.server.MinecraftServer.executeTask(MinecraftServer.java:192) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:122) ~[app:?]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1428) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1421) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:132) ~[app:?]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1399) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1310) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:322) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[18:06:25] [Server thread/INFO]: ysyyayyyayya issued server command: //mv list
+[18:06:28] [Server thread/INFO]: ysyyayyyayya issued server command: /mv list
+[18:07:08] [Server thread/INFO]: ysyyayyyayya issued server command: /mv create spawn
+[18:07:17] [Server thread/INFO]: ysyyayyyayya issued server command: /mv create spawn -t flat
+[18:07:23] [Server thread/INFO]: ysyyayyyayya issued server command: /mv create spawn normal -t flat
+[18:07:23] [Server thread/INFO]: ysyyayyyayya: Starting creation of world 'spawn'...
+[18:07:23] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'spawn' - Env: NORMAL - Type: FLAT
+[18:07:24] [Server thread/ERROR]: No key layers in MapLike[{}]; No key structures in MapLike[{}]
+[18:07:24] [Server thread/INFO]: Preparing start region for dimension minecraft:spawn
+[18:07:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:07:24] [Server thread/INFO]: Time elapsed: 175 ms
+[18:07:24] [Server thread/INFO]: ysyyayyyayya: Complete!
+[18:07:31] [Server thread/INFO]: ysyyayyyayya issued server command: /mv tp spawn
+[18:07:41] [Server thread/INFO]: ysyyayyyayya issued server command: //wand
+[18:08:12] [Server thread/INFO]: ysyyayyyayya issued server command: /fill 9 4 205
+[18:08:42] [Server thread/INFO]: ysyyayyyayya issued server command: /fill 100 3 100 -100 3 -100 stone_brick
+[18:08:48] [Server thread/INFO]: ysyyayyyayya issued server command: /fill 100 3 100 -100 3 -100 stone
+[18:09:02] [Server thread/INFO]: ysyyayyyayya issued server command: /fill 100 3 100 -100 3 -100 stone
+[18:09:13] [Server thread/INFO]: ysyyayyyayya issued server command: /tp 0 0 0
+[18:09:13] [Server thread/INFO]: [ysyyayyyayya: Teleported ysyyayyyayya to 0.500000, 0.000000, 0.500000]
+[18:09:17] [Server thread/INFO]: ysyyayyyayya issued server command: /tp 0 5 0
+[18:09:17] [Server thread/INFO]: [ysyyayyyayya: Teleported ysyyayyyayya to 0.500000, 5.000000, 0.500000]
+[18:09:44] [Server thread/INFO]: ysyyayyyayya issued server command: /fill 20 3 20 -20 3 -120 stone
+[18:09:44] [Server thread/INFO]: [ysyyayyyayya: Successfully filled 5781 blocks]
+[18:09:50] [Server thread/INFO]: ysyyayyyayya issued server command: /fill 20 3 20 -20 3 -120 grass
+[18:09:51] [Server thread/INFO]: [ysyyayyyayya: Successfully filled 5781 blocks]
+[18:09:56] [Server thread/INFO]: ysyyayyyayya issued server command: /fill 20 3 20 -20 3 -120 grassblock
+[18:10:00] [Server thread/INFO]: ysyyayyyayya issued server command: /fill 20 3 20 -20 3 -120 grass_block
+[18:10:00] [Server thread/INFO]: [ysyyayyyayya: Successfully filled 5781 blocks]
+[18:10:12] [Server thread/INFO]: ysyyayyyayya issued server command: /fill 20 3 20 -20 3 -20 stone
+[18:10:12] [Server thread/INFO]: [ysyyayyyayya: Successfully filled 1681 blocks]
+[18:10:32] [Server thread/INFO]: ysyyayyyayya issued server command: /cw setspawn
+[18:10:39] [Server thread/INFO]: ysyyayyyayya issued server command: /mv setspawn
+[18:10:39] [Server thread/WARN]: [Multiverse-Core] Somebody tried to set the spawn location for 'spawn' to an unsafe value! Adjusting...
+[18:10:39] [Server thread/WARN]: [Multiverse-Core] Old Location: X: 16 Y: 4 Z: 192 P: 0 Y: 0 
+[18:10:39] [Server thread/WARN]: [Multiverse-Core] New (unsafe) Location: X: 1.8 Y: 11.48 Z: 4.25 P: 66.75 Y: 175.5 
+[18:10:39] [Server thread/WARN]: [Multiverse-Core] New (safe) Location: X: 2.5 Y: 4.48 Z: 4.5 P: 66.75 Y: 175.5 
+[18:10:51] [Server thread/INFO]: ysyyayyyayya issued server command: /spawn
+[18:10:58] [Server thread/INFO]: ysyyayyyayya issued server command: /tp 0 5 0
+[18:10:58] [Server thread/INFO]: [ysyyayyyayya: Teleported ysyyayyyayya to 0.500000, 5.000000, 0.500000]
+[18:11:09] [Server thread/INFO]: ysyyayyyayya issued server command: /set spawn
+[18:11:15] [Server thread/INFO]: ysyyayyyayya issued server command: /mvm setspawn
+[18:11:38] [Server thread/INFO]: ysyyayyyayya issued server command: /tp @e
+[18:11:42] [Server thread/INFO]: ysyyayyyayya issued server command: /tp @e ysyyayyyayya
+[18:11:42] [Server thread/INFO]: [ysyyayyyayya: Teleported 453 entities to ysyyayyyayya]
+[18:11:47] [Server thread/INFO]: Villager EntityVillager['Villager'/6813, uuid='3192100c-3d38-40b6-a714-deb994fca4f5', l='ServerLevel[spawn]', x=-8.96, y=4.00, z=-10.79, cpos=[-1, -1], tl=3841, v=true, rR=null] died, message: 'Villager was slain by Zombie'
+[18:12:26] [Server thread/INFO]: ysyyayyyayya issued server command: /kill @e
+[18:12:26] [Server thread/INFO]: ysyyayyyayya fell out of the world
+[18:12:26] [Server thread/INFO]: Villager EntityVillager['Villager'/6805, uuid='21379a66-ba97-47c5-8507-7f1c5bb419b7', l='ServerLevel[spawn]', x=38.09, y=4.00, z=-33.91, cpos=[2, -3], tl=6690, v=true, rR=null] died, message: 'Villager fell out of the world'
+[18:12:26] [Server thread/INFO]: Villager EntityVillager['Villager'/7186, uuid='36264650-9d6e-47b4-a119-0bd76bb6cfa1', l='ServerLevel[spawn]', x=205.63, y=6.00, z=-175.72, cpos=[12, -11], tl=0, v=true, rR=null] died, message: 'Villager fell out of the world'
+[18:12:26] [Server thread/INFO]: [ysyyayyyayya: Killed 289 entities]
+[18:12:30] [Server thread/INFO]: ysyyayyyayya issued server command: /kill @e
+[18:12:30] [Server thread/INFO]: ysyyayyyayya fell out of the world
+[18:12:30] [Server thread/INFO]: [ysyyayyyayya: Killed 285 entities]
+[18:12:37] [Server thread/INFO]: ysyyayyyayya issued server command: /kill @e
+[18:12:37] [Server thread/INFO]: ysyyayyyayya fell out of the world
+[18:12:37] [Server thread/INFO]: [ysyyayyyayya: Killed 386 entities]
+[18:12:42] [Server thread/INFO]: ysyyayyyayya issued server command: /kill @e
+[18:12:42] [Server thread/INFO]: ysyyayyyayya fell out of the world
+[18:12:42] [Server thread/INFO]: [ysyyayyyayya: Killed 343 entities]
+[18:13:05] [Server thread/INFO]: ysyyayyyayya issued server command: /mvp create
+[18:13:29] [Server thread/INFO]: ysyyayyyayya issued server command: /kill *
+[18:13:33] [Server thread/INFO]: ysyyayyyayya issued server command: /kill @p
+[18:13:33] [Server thread/INFO]: ysyyayyyayya fell out of the world
+[18:13:33] [Server thread/INFO]: [ysyyayyyayya: Killed ysyyayyyayya]
+[18:13:38] [Server thread/INFO]: ysyyayyyayya issued server command: /kill @e
+[18:13:38] [Server thread/INFO]: ysyyayyyayya fell out of the world
+[18:13:38] [Server thread/INFO]: [ysyyayyyayya: Killed 267 entities]
+[18:13:52] [Server thread/INFO]: ysyyayyyayya issued server command: /mv tp normal
+[18:13:55] [Server thread/INFO]: ysyyayyyayya lost connection: Disconnected
+[18:13:55] [Server thread/INFO]: ysyyayyyayya left the game

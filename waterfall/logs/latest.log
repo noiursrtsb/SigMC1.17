@@ -66,3 +66,12 @@
 [17:52:34] [main/INFO] [EaglercraftXBungee]: Connected to database: jdbc:sqlite:eaglercraft_skins_cache.db
 [17:52:34] [main/INFO]: Enabled plugin EaglercraftXBungee version 1.0.10 by lax1dude
 [17:52:34] [Netty Boss IO Thread #0/INFO]: Listening on /0.0.0.0:25577
+[17:55:38] [Netty Worker IO Thread #3/WARN] [EaglercraftXBungee]: Server icon is not a file: /workspaces/SigMC1.17/waterfall/server-icon.png
+[17:55:42] [Netty Worker IO Thread #4/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:38774]: Connected via websocket
+[17:55:42] [Netty Worker IO Thread #4/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:38774]: Origin header is https://nolanderlauncherdelta-ozj8.vercel.app
+[17:55:42] [Netty Worker IO Thread #4/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:38774]: Logged in as 'ysyyayyyayya'
+[17:55:42] [Netty Worker IO Thread #4/INFO]: [/[0:0:0:0:0:0:0:1%0]:38774|ysyyayyyayya] -> UpstreamBridge has connected
+[17:55:42] [Netty Worker IO Thread #4/INFO]: [ysyyayyyayya|/[0:0:0:0:0:0:0:1%0]:38774] <-> ServerConnector [lobby] has connected
+[18:13:55] [Netty Worker IO Thread #4/INFO]: [/[0:0:0:0:0:0:0:1%0]:38774|ysyyayyyayya] -> UpstreamBridge has disconnected
+[18:13:55] [Netty Worker IO Thread #4/INFO]: [ysyyayyyayya] disconnected with: Proxy lost connection to server.
+[18:13:55] [Netty Worker IO Thread #4/INFO]: [/[0:0:0:0:0:0:0:1%0]:38774|ysyyayyyayya] <-> DownstreamBridge <-> [lobby] has disconnected

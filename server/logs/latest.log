@@ -216,3 +216,63 @@ java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Bukkit.getOn
 [16:48:40] [Server thread/WARN]: UUID of added entity already exists: EntityPolarBear['Polar Bear'/448, uuid='f9e540c7-5084-4ebe-a80d-8808e051444f', l='ServerLevel[world]', x=182.97, y=70.00, z=317.34, cpos=[11, 19], tl=63863, v=false, rR=null]
 [16:48:40] [Server thread/WARN]: UUID of added entity already exists: EntityPolarBear['Polar Bear'/449, uuid='627b6b22-3091-4666-83bf-2b4ad79b1281', l='ServerLevel[world]', x=176.06, y=69.00, z=310.06, cpos=[11, 19], tl=64946, v=false, rR=null]
 [16:48:41] [Server thread/WARN]: UUID of added entity already exists: EntityPolarBear['Polar Bear'/514, uuid='5a3e69f7-bbf1-423c-b696-bb78089a347d', l='ServerLevel[world]', x=322.96, y=69.00, z=262.02, cpos=[20, 16], tl=48343, v=false, rR=null]
+[16:48:50] [Server thread/ERROR]: No TreeType mapping for TreeGenerator.TreeType.MANGROVE
+[16:48:50] [Server thread/ERROR]: No TreeType mapping for TreeGenerator.TreeType.TALL_MANGROVE
+[16:48:50] [Server thread/ERROR]: No TreeType mapping for TreeGenerator.TreeType.CHERRY
+[16:51:40] [User Authenticator #2/INFO]: UUID of player MRC1000 is a5a25101-585a-3364-a64b-c22f9e5267be
+[16:51:40] [Server thread/INFO]: MRC1000 joined the game
+[16:51:40] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|UpdateCert-1.8
+[16:51:40] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FML
+[16:51:40] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|Skins-1.8
+[16:51:40] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FORGE
+[16:51:40] [Server thread/INFO]: MRC1000[/[0:0:0:0:0:0:0:1]:53922] logged in with entity id 1257 at ([world]6.802016867032834, 78.0, 71.16311232805481)
+[16:51:45] [Async Chat Thread - #0/INFO]: world ..[SIGMA].. MRC1000 {CHUNGLE}: nigger
+[16:51:48] [Server thread/INFO]: MRC1000 lost connection: Disconnected
+[16:51:48] [Server thread/INFO]: MRC1000 left the game
+[16:51:56] [Server thread/WARN]: UUID of added entity already exists: EntityRabbit['Rabbit'/1386, uuid='1c8da4e5-4ec3-4400-bba9-da259f97dfb4', l='ServerLevel[world]', x=-19.13, y=65.00, z=332.46, cpos=[-2, 20], tl=27889, v=false, rR=null]
+[16:52:20] [Server thread/INFO]: Villager EntityVillager['Armorer'/383, uuid='a174c551-f7ba-4036-bfbd-f455f55242ef', l='ServerLevel[world]', x=180.50, y=75.00, z=206.30, cpos=[11, 12], tl=96547, v=true, rR=null] died, message: 'Armorer was slain by Zombie'
+[16:53:03] [User Authenticator #3/INFO]: UUID of player ysyyayyyayya is 6cd4e570-7a49-3521-8e89-4b4b5c6269c5
+[16:53:03] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|UpdateCert-1.8
+[16:53:03] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FML
+[16:53:03] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|Skins-1.8
+[16:53:03] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FORGE
+[16:53:03] [Server thread/INFO]: ysyyayyyayya joined the game
+[16:53:03] [Server thread/INFO]: ysyyayyyayya[/[0:0:0:0:0:0:0:1]:42718] logged in with entity id 1627 at ([world]166.18239497112765, 90.21484279158521, 251.9286420399584)
+[16:53:18] [Server thread/INFO]: ysyyayyyayya issued server command: /gamemode creative
+[16:53:18] [Server thread/INFO]: [sig ysyyayyyayya: Set own game mode to Creative Mode]
+[16:53:24] [Server thread/INFO]: ysyyayyyayya issued server command: /mv tp spawn
+[16:53:47] [Server thread/INFO]: sig ysyyayyyayya was slain by Slime
+[16:53:58] [Server thread/INFO]: sig ysyyayyyayya was slain by Slime
+[16:54:05] [Server thread/INFO]: ysyyayyyayya issued server command: /gamemode creative
+[16:54:05] [Server thread/INFO]: [sig ysyyayyyayya: Set own game mode to Creative Mode]
+[16:55:02] [Server thread/INFO]: ysyyayyyayya issued server command: //br
+[16:55:11] [Server thread/INFO]: ysyyayyyayya issued server command: //br sphere stone 3
+[16:55:52] [Server thread/INFO]: ysyyayyyayya issued server command: /undo
+[16:55:53] [Server thread/INFO]: ysyyayyyayya issued server command: /undo
+[16:56:43] [Server thread/INFO]: ysyyayyyayya issued server command: /undo
+[16:56:56] [Server thread/INFO]: ysyyayyyayya lost connection: Disconnected
+[16:56:56] [Server thread/INFO]: ysyyayyyayya left the game
+[16:57:39] [Server thread/INFO]: shmewy was shot by Skeleton
+[16:57:45] [Server thread/INFO]: shmewy issued server command: /back
+[16:58:00] [User Authenticator #4/INFO]: UUID of player MRC1000 is a5a25101-585a-3364-a64b-c22f9e5267be
+[16:58:00] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|UpdateCert-1.8
+[16:58:00] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FML
+[16:58:00] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|Skins-1.8
+[16:58:00] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FORGE
+[16:58:00] [Server thread/INFO]: MRC1000 joined the game
+[16:58:00] [Server thread/INFO]: MRC1000[/[0:0:0:0:0:0:0:1]:59444] logged in with entity id 3272 at ([world]5.729365477232289, 78.0, 71.63588510239765)
+[16:58:02] [User Authenticator #4/INFO]: UUID of player HeyBread is 6b3d7afd-3b1d-39dc-a095-3e261a0d9f09
+[16:58:02] [Server thread/INFO]: HeyBread joined the game
+[16:58:02] [Server thread/INFO]: HeyBread[/[0:0:0:0:0:0:0:1]:59460] logged in with entity id 3321 at ([world]172.04774178745564, 63.400009779113695, 134.97822641954986)
+[16:58:02] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|UpdateCert-1.8
+[16:58:02] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FML
+[16:58:02] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|Skins-1.8
+[16:58:02] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FORGE
+[16:58:06] [Async Chat Thread - #1/INFO]: world ..[SIGMA].. MRC1000 {CHUNGLE}: heybread
+[16:58:07] [User Authenticator #4/INFO]: UUID of player Indiana_Jones is 877fb3c7-172c-3d6a-893c-9f862fb0744d
+[16:58:07] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|UpdateCert-1.8
+[16:58:07] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FML
+[16:58:07] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|Skins-1.8
+[16:58:07] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FORGE
+[16:58:07] [Server thread/INFO]: Indiana_Jones joined the game
+[16:58:07] [Server thread/INFO]: Indiana_Jones[/[0:0:0:0:0:0:0:1]:44700] logged in with entity id 3447 at ([world]-17.5, 63.0, 46.5)

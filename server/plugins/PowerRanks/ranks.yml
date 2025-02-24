@@ -2,8 +2,8 @@ Moderator:
   permissions: []
   inheritances: []
   weight: 50
-  namecolor: ''
   chatcolor: ''
+  namecolor: ''
   buyableRanks: []
   buyCost: 0.0
   buyDescription: ''
@@ -15,8 +15,8 @@ Owner:
   permissions: []
   inheritances: []
   weight: 1000
-  namecolor: ''
   chatcolor: ''
+  namecolor: ''
   buyableRanks: []
   buyCost: 0.0
   buyDescription: ''
@@ -28,8 +28,8 @@ LOWTAPERFADE:
   permissions: []
   inheritances: []
   weight: 100
-  namecolor: ''
   chatcolor: ''
+  namecolor: ''
   buyableRanks: []
   buyCost: 0.0
   buyDescription: ''
@@ -41,8 +41,8 @@ SIGMA:
   permissions: []
   inheritances: []
   weight: 100
-  namecolor: ''
   chatcolor: ''
+  namecolor: ''
   buyableRanks: []
   buyCost: 0.0
   buyDescription: ''
@@ -54,8 +54,8 @@ Admin:
   permissions: []
   inheritances: []
   weight: 75
-  namecolor: ''
   chatcolor: ''
+  namecolor: ''
   buyableRanks: []
   buyCost: 0.0
   buyDescription: ''
@@ -67,8 +67,8 @@ Member:
   permissions: []
   inheritances: []
   weight: 0
-  namecolor: ''
   chatcolor: ''
+  namecolor: ''
   buyableRanks: []
   buyCost: 0.0
   buyDescription: ''

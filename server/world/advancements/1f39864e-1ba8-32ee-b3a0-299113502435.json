@@ -29,6 +29,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-02-24 19:26:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/spruce_sign": {
     "criteria": {
       "has_planks": "2025-02-24 15:44:57 +0000"
@@ -62,6 +68,12 @@
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2025-02-24 17:25:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-02-24 19:24:24 +0000"
     },
     "done": true
   },
@@ -113,6 +125,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-02-24 19:26:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2025-02-24 15:44:57 +0000"
@@ -128,6 +146,12 @@
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2025-02-24 17:32:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2025-02-24 19:25:30 +0000"
     },
     "done": true
   },
@@ -176,6 +200,12 @@
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2025-02-24 15:45:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-02-24 19:30:43 +0000"
     },
     "done": true
   },
@@ -269,9 +299,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2025-02-24 19:24:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-02-24 17:21:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-02-24 19:24:24 +0000"
     },
     "done": true
   },
@@ -289,7 +331,9 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "rotten_flesh": "2025-02-24 18:09:33 +0000"
+      "cooked_mutton": "2025-02-24 19:24:04 +0000",
+      "rotten_flesh": "2025-02-24 18:09:33 +0000",
+      "cooked_rabbit": "2025-02-24 19:26:58 +0000"
     },
     "done": false
   },
@@ -425,6 +469,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2025-02-24 19:24:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2025-02-24 17:25:56 +0000"
@@ -527,6 +577,7 @@
       "minecraft:forest": "2025-02-24 12:15:43 +0000",
       "minecraft:snowy_tundra": "2025-02-24 15:36:45 +0000",
       "minecraft:frozen_river": "2025-02-24 15:36:44 +0000",
+      "minecraft:snowy_beach": "2025-02-24 19:31:11 +0000",
       "minecraft:beach": "2025-02-24 18:23:59 +0000",
       "minecraft:river": "2025-02-24 15:36:41 +0000"
     },
@@ -574,21 +625,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2025-02-24 19:24:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-02-24 15:46:01 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
-    "criteria": {
-      "has_raw_copper": "2025-02-24 18:11:25 +0000"
-    },
-    "done": true
-  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2025-02-24 18:09:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-02-24 18:11:25 +0000"
     },
     "done": true
   },

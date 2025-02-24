@@ -46,3 +46,9 @@
 [16:48:05] [main/INFO]: Enabled plugin EaglercraftXBungee version 1.0.10 by lax1dude
 [16:48:05] [Netty Boss IO Thread #0/INFO]: Listening on /0.0.0.0:25577
 [16:48:05] [EaglerXBungee: Network Tick Tasks/INFO] [EaglercraftXBungee]: Loaded certificate: /workspaces/SigMC1.17/waterfall/plugins/EaglercraftXBungee/eagcert/$dl.ac3aaed1273ced06ef766ab055337fbf29dc3347.cert
+[16:48:37] [Netty Worker IO Thread #1/WARN] [EaglercraftXBungee]: Server icon is not a file: /workspaces/SigMC1.17/waterfall/server-icon.png
+[16:48:38] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:49456]: Connected via websocket
+[16:48:38] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:49456]: Origin header is https://nolanderlauncherdelta-ozj8.vercel.app
+[16:48:38] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:49456]: Logged in as 'shmewy'
+[16:48:38] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:49456|shmewy] -> UpstreamBridge has connected
+[16:48:38] [Netty Worker IO Thread #2/INFO]: [shmewy|/[0:0:0:0:0:0:0:1%0]:49456] <-> ServerConnector [lobby] has connected

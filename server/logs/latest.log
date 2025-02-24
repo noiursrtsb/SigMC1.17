@@ -187,3 +187,91 @@ Caused by: java.lang.ClassNotFoundException: com.sk89q.worldedit.IncompleteRegio
 [12:43:51] [Craft Scheduler Thread - 3 - SimpleTpa/INFO]: [SimpleTpa] There is a new update available:
 [12:43:51] [Craft Scheduler Thread - 3 - SimpleTpa/INFO]: [SimpleTpa] https://www.spigotmc.org/resources/simple-tpa.64270/
 [12:43:51] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.2.1, you're on: 4.9.3
+[12:44:37] [User Authenticator #1/INFO]: UUID of player ysyyayyyayya is 6cd4e570-7a49-3521-8e89-4b4b5c6269c5
+[12:44:38] [Server thread/INFO]: ysyyayyyayya joined the game
+[12:44:38] [Server thread/INFO]: ysyyayyyayya[/[0:0:0:0:0:0:0:1]:41322] logged in with entity id 381 at ([world]17.147429330338973, 68.0, 62.77790317741807)
+[12:44:38] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|UpdateCert-1.8
+[12:44:38] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FML
+[12:44:38] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|Skins-1.8
+[12:44:38] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FORGE
+[12:44:52] [Server thread/INFO]: ysyyayyyayya issued server command: /mv tp spawn
+[12:45:03] [User Authenticator #1/INFO]: UUID of player Wxterio is a986e90e-8ccc-3883-935b-d44233fe0edc
+[12:45:03] [Server thread/INFO]: Wxterio joined the game
+[12:45:03] [Server thread/INFO]: Wxterio[/[0:0:0:0:0:0:0:1]:57622] logged in with entity id 447 at ([world]-161.99359324057545, 75.17380333872785, 409.00544847231305)
+[12:45:03] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|UpdateCert-1.8
+[12:45:03] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FML
+[12:45:03] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|Skins-1.8
+[12:45:03] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FORGE
+[12:45:06] [Server thread/INFO]: ysyyayyyayya issued server command: /gamemode creative
+[12:45:06] [Server thread/INFO]: [ysyyayyyayya: Set own game mode to Creative Mode]
+[12:45:15] [Server thread/INFO]: ysyyayyyayya issued server command: //wand
+[12:45:15] [Server thread/ERROR]: null
+org.bukkit.command.CommandException: Unhandled exception executing '/wand' in com.sk89q.bukkit.util.DynamicPluginCommand(/wand)
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:182) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at org.bukkit.craftbukkit.v1_17_R1.CraftServer.dispatchCommand(CraftServer.java:869) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleCommand(ServerGamePacketListenerImpl.java:2344) ~[app:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleChat(ServerGamePacketListenerImpl.java:2155) ~[app:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleChat(ServerGamePacketListenerImpl.java:2136) ~[app:?]
+	at net.minecraft.network.protocol.game.ServerboundChatPacket.handle(ServerboundChatPacket.java:46) ~[app:?]
+	at net.minecraft.network.protocol.game.ServerboundChatPacket.a(ServerboundChatPacket.java:6) ~[app:?]
+	at net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$1(PacketUtils.java:56) ~[app:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:149) ~[app:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:23) ~[app:?]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1450) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at net.minecraft.server.MinecraftServer.executeTask(MinecraftServer.java:192) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:122) ~[app:?]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1428) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1421) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:132) ~[app:?]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1399) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1310) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:322) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.NoClassDefFoundError: com/sk89q/worldedit/BlockWorldVector
+	at com.sk89q.worldedit.bukkit.WorldEditPlugin.wrapPlayer(WorldEditPlugin.java:346) ~[Worldedit.jar:?]
+	at com.sk89q.worldedit.bukkit.WorldEditPlugin.wrapCommandSender(WorldEditPlugin.java:351) ~[Worldedit.jar:?]
+	at com.sk89q.worldedit.bukkit.WorldEditPlugin.onCommand(WorldEditPlugin.java:242) ~[Worldedit.jar:?]
+	at com.sk89q.bukkit.util.DynamicPluginCommand.execute(DynamicPluginCommand.java:52) ~[Worldedit.jar:?]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:172) ~[patched_1.17.1.jar:git-Purpur-1428]
+	... 20 more
+[12:45:20] [Server thread/INFO]: ysyyayyyayya issued server command: /plugins
+[12:47:49] [Server thread/INFO]: ysyyayyyayya issued server command: /close
+[12:47:52] [Server thread/INFO]: ysyyayyyayya issued server command: /stop
+[12:47:52] [Server thread/INFO]: [ysyyayyyayya: Stopping the server]
+[12:47:52] [Server thread/INFO]: Stopping server
+[12:47:52] [Server thread/INFO]: [ViaRewind-Legacy-Support] Disabling ViaRewind-Legacy-Support v1.4.2
+[12:47:52] [Server thread/INFO]: [Multiverse-Inventories] Disabling Multiverse-Inventories v4.2.6
+[12:47:52] [Server thread/INFO]: [ViaRewind] Disabling ViaRewind v3.0.6
+[12:47:52] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v4.3.14
+[12:47:52] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v4.9.2
+[12:47:52] [Server thread/INFO]: [ServersNPC] Disabling ServersNPC v5.0
+[12:47:52] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v4.9.3
+[12:47:52] [Server thread/INFO]: [ViaVersion] ViaVersion is disabling, if this is a reload and you experience issues consider rebooting.
+[12:47:52] [Server thread/INFO]: [SimpleHomes] Disabling SimpleHomes v2.2
+[12:47:52] [Server thread/INFO]: [LoginSecurity] Disabling LoginSecurity v3.2.0
+[12:47:52] [Server thread/INFO]: [LoginSecurity] Waiting for queued tasks...
+[12:47:52] [Server thread/INFO]: [LoginSecurity] ExecutorService shut down, ready to disable.
+[12:47:52] [Server thread/INFO]: [SimpleTpa] Disabling SimpleTpa v6.4
+[12:47:52] [Server thread/INFO]: [SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9
+[12:47:52] [Server thread/INFO]: [SimpleTpa] Simple Tpa has been disabled on version 6.4
+[12:47:52] [Server thread/INFO]: Saving players
+[12:47:52] [Server thread/INFO]: ysyyayyyayya lost connection: Server closed
+[12:47:52] [Server thread/INFO]: ysyyayyyayya left the game
+[12:47:52] [Server thread/INFO]: Wxterio lost connection: Server closed
+[12:47:52] [Server thread/INFO]: Wxterio left the game
+[12:47:52] [Server thread/INFO]: Saving worlds
+[12:47:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[12:47:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[12:47:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[12:47:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[spawn]'/minecraft:spawn
+[12:47:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[hub]'/minecraft:hub
+[12:47:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[12:47:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[12:47:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[12:47:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (spawn): All chunks are saved
+[12:47:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (hub): All chunks are saved
+[12:47:55] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[12:47:56] [Server thread/INFO]: Flushing Chunk IO
+[12:47:56] [Server thread/INFO]: Closing Thread Pool
+[12:47:56] [Server thread/INFO]: Closing Server

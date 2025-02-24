@@ -357,3 +357,87 @@
 [13:35:15] [Netty Worker IO Thread #5/WARN]: Error occurred processing connection for DoctorDoctorDoc AnnotatedConnectException : finishConnect(..) failed: Connection refused: localhost/127.0.0.1:25565
 [13:35:15] [Netty Worker IO Thread #5/INFO]: [DoctorDoctorDoc] disconnected with: Could not connect to a default or fallback server. Incorrectly configured address/port/firewall? 
 [13:35:15] [Netty Worker IO Thread #5/INFO]: [/[0:0:0:0:0:0:0:1%0]:34178|DoctorDoctorDoc] -> UpstreamBridge has disconnected
+[13:35:18] [Netty Worker IO Thread #6/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:57752]: Connected via websocket
+[13:35:18] [Netty Worker IO Thread #6/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:57752]: Origin header is https://nolanderlauncherdelta-ozj8.vercel.app
+[13:35:18] [Netty Worker IO Thread #6/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:57752]: Logged in as 'DoctorDoctorDoc'
+[13:35:18] [Netty Worker IO Thread #6/INFO]: [/[0:0:0:0:0:0:0:1%0]:57752|DoctorDoctorDoc] -> UpstreamBridge has connected
+[13:35:18] [Netty Worker IO Thread #6/WARN]: Error occurred processing connection for DoctorDoctorDoc AnnotatedConnectException : finishConnect(..) failed: Connection refused: localhost/127.0.0.1:25565
+[13:35:18] [Netty Worker IO Thread #6/INFO]: [DoctorDoctorDoc] disconnected with: Could not connect to a default or fallback server. Incorrectly configured address/port/firewall? 
+[13:35:18] [Netty Worker IO Thread #6/INFO]: [/[0:0:0:0:0:0:0:1%0]:57752|DoctorDoctorDoc] -> UpstreamBridge has disconnected
+[13:35:21] [Netty Worker IO Thread #7/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:57764]: Connected via websocket
+[13:35:21] [Netty Worker IO Thread #7/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:57764]: Origin header is https://nolanderlauncherdelta-ozj8.vercel.app
+[13:35:21] [Netty Worker IO Thread #7/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:57764]: Logged in as 'DoctorDoctorDoc'
+[13:35:21] [Netty Worker IO Thread #7/INFO]: [/[0:0:0:0:0:0:0:1%0]:57764|DoctorDoctorDoc] -> UpstreamBridge has connected
+[13:35:21] [Netty Worker IO Thread #7/WARN]: Error occurred processing connection for DoctorDoctorDoc AnnotatedConnectException : finishConnect(..) failed: Connection refused: localhost/127.0.0.1:25565
+[13:35:21] [Netty Worker IO Thread #7/INFO]: [DoctorDoctorDoc] disconnected with: Could not connect to a default or fallback server. Incorrectly configured address/port/firewall? 
+[13:35:21] [Netty Worker IO Thread #7/INFO]: [/[0:0:0:0:0:0:0:1%0]:57764|DoctorDoctorDoc] -> UpstreamBridge has disconnected
+[13:36:06] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:44226]: Connected via websocket
+[13:36:06] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:44226]: Origin header is https://nolanderlauncherdelta-ozj8.vercel.app
+[13:36:06] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:44226]: Logged in as 'DoctorDoctorDoc'
+[13:36:06] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:44226|DoctorDoctorDoc] -> UpstreamBridge has connected
+[13:36:06] [Netty Worker IO Thread #0/WARN]: Error occurred processing connection for DoctorDoctorDoc AnnotatedConnectException : finishConnect(..) failed: Connection refused: localhost/127.0.0.1:25565
+[13:36:06] [Netty Worker IO Thread #0/INFO]: [DoctorDoctorDoc] disconnected with: Could not connect to a default or fallback server. Incorrectly configured address/port/firewall? 
+[13:36:06] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:44226|DoctorDoctorDoc] -> UpstreamBridge has disconnected
+[13:36:32] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:33798]: Connected via websocket
+[13:36:32] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:33798]: Origin header is https://nolanderlauncherdelta-ozj8.vercel.app
+[13:36:32] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:33798]: Logged in as 'DoctorDoctorDoc'
+[13:36:32] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:33798|DoctorDoctorDoc] -> UpstreamBridge has connected
+[13:36:32] [Netty Worker IO Thread #1/WARN]: Error occurred processing connection for DoctorDoctorDoc AnnotatedConnectException : finishConnect(..) failed: Connection refused: localhost/127.0.0.1:25565
+[13:36:32] [Netty Worker IO Thread #1/INFO]: [DoctorDoctorDoc] disconnected with: Could not connect to a default or fallback server. Incorrectly configured address/port/firewall? 
+[13:36:32] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:33798|DoctorDoctorDoc] -> UpstreamBridge has disconnected
+[13:36:36] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:33810]: Connected via websocket
+[13:36:36] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:33810]: Origin header is https://nolanderlauncherdelta-ozj8.vercel.app
+[13:36:36] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:33810]: Logged in as 'DoctorDoctorDoc'
+[13:36:36] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:33810|DoctorDoctorDoc] -> UpstreamBridge has connected
+[13:36:36] [Netty Worker IO Thread #2/WARN]: Error occurred processing connection for DoctorDoctorDoc AnnotatedConnectException : finishConnect(..) failed: Connection refused: localhost/127.0.0.1:25565
+[13:36:36] [Netty Worker IO Thread #2/INFO]: [DoctorDoctorDoc] disconnected with: Could not connect to a default or fallback server. Incorrectly configured address/port/firewall? 
+[13:36:36] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:33810|DoctorDoctorDoc] -> UpstreamBridge has disconnected
+[13:37:09] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:54732]: Connected via websocket
+[13:37:09] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:54732]: Origin header is https://nolanderlauncherdelta-ozj8.vercel.app
+[13:37:09] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:54732]: Logged in as 'DoctorDoctorDoc'
+[13:37:09] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:54732|DoctorDoctorDoc] -> UpstreamBridge has connected
+[13:37:09] [Netty Worker IO Thread #3/WARN]: Error occurred processing connection for DoctorDoctorDoc AnnotatedConnectException : finishConnect(..) failed: Connection refused: localhost/127.0.0.1:25565
+[13:37:09] [Netty Worker IO Thread #3/INFO]: [DoctorDoctorDoc] disconnected with: Could not connect to a default or fallback server. Incorrectly configured address/port/firewall? 
+[13:37:09] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:54732|DoctorDoctorDoc] -> UpstreamBridge has disconnected
+[13:37:12] [Netty Worker IO Thread #4/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:54748]: Connected via websocket
+[13:37:12] [Netty Worker IO Thread #4/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:54748]: Origin header is https://nolanderlauncherdelta-ozj8.vercel.app
+[13:37:12] [Netty Worker IO Thread #4/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:54748]: Logged in as 'DoctorDoctorDoc'
+[13:37:12] [Netty Worker IO Thread #4/INFO]: [/[0:0:0:0:0:0:0:1%0]:54748|DoctorDoctorDoc] -> UpstreamBridge has connected
+[13:37:12] [Netty Worker IO Thread #4/WARN]: Error occurred processing connection for DoctorDoctorDoc AnnotatedConnectException : finishConnect(..) failed: Connection refused: localhost/127.0.0.1:25565
+[13:37:12] [Netty Worker IO Thread #4/INFO]: [DoctorDoctorDoc] disconnected with: Could not connect to a default or fallback server. Incorrectly configured address/port/firewall? 
+[13:37:12] [Netty Worker IO Thread #4/INFO]: [/[0:0:0:0:0:0:0:1%0]:54748|DoctorDoctorDoc] -> UpstreamBridge has disconnected
+[13:37:27] [Netty Worker IO Thread #5/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:59270]: Connected via websocket
+[13:37:27] [Netty Worker IO Thread #5/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:59270]: Origin header is https://nolanderlauncherdelta-ozj8.vercel.app
+[13:37:27] [Netty Worker IO Thread #5/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:59270]: Logged in as 'DoctorDoctorDoc'
+[13:37:27] [Netty Worker IO Thread #5/INFO]: [/[0:0:0:0:0:0:0:1%0]:59270|DoctorDoctorDoc] -> UpstreamBridge has connected
+[13:37:27] [Netty Worker IO Thread #5/WARN]: Error occurred processing connection for DoctorDoctorDoc AnnotatedConnectException : finishConnect(..) failed: Connection refused: localhost/127.0.0.1:25565
+[13:37:27] [Netty Worker IO Thread #5/INFO]: [DoctorDoctorDoc] disconnected with: Could not connect to a default or fallback server. Incorrectly configured address/port/firewall? 
+[13:37:27] [Netty Worker IO Thread #5/INFO]: [/[0:0:0:0:0:0:0:1%0]:59270|DoctorDoctorDoc] -> UpstreamBridge has disconnected
+[13:37:55] [Netty Worker IO Thread #7/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:51922]: Connected via websocket
+[13:37:55] [Netty Worker IO Thread #7/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:51922]: Origin header is https://nolanderlauncherdelta-ozj8.vercel.app
+[13:37:55] [Netty Worker IO Thread #7/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:51922]: Logged in as 'DoctorDoctorDoc'
+[13:37:55] [Netty Worker IO Thread #7/INFO]: [/[0:0:0:0:0:0:0:1%0]:51922|DoctorDoctorDoc] -> UpstreamBridge has connected
+[13:37:55] [Netty Worker IO Thread #7/WARN]: Error occurred processing connection for DoctorDoctorDoc AnnotatedConnectException : finishConnect(..) failed: Connection refused: localhost/127.0.0.1:25565
+[13:37:55] [Netty Worker IO Thread #7/INFO]: [DoctorDoctorDoc] disconnected with: Could not connect to a default or fallback server. Incorrectly configured address/port/firewall? 
+[13:37:55] [Netty Worker IO Thread #7/INFO]: [/[0:0:0:0:0:0:0:1%0]:51922|DoctorDoctorDoc] -> UpstreamBridge has disconnected
+[13:37:58] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:59770]: Connected via websocket
+[13:37:58] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:59770]: Origin header is https://nolanderlauncherdelta-ozj8.vercel.app
+[13:37:58] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:59770]: Logged in as 'DoctorDoctorDoc'
+[13:37:58] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:59770|DoctorDoctorDoc] -> UpstreamBridge has connected
+[13:37:58] [Netty Worker IO Thread #0/WARN]: Error occurred processing connection for DoctorDoctorDoc AnnotatedConnectException : finishConnect(..) failed: Connection refused: localhost/127.0.0.1:25565
+[13:37:58] [Netty Worker IO Thread #0/INFO]: [DoctorDoctorDoc] disconnected with: Could not connect to a default or fallback server. Incorrectly configured address/port/firewall? 
+[13:37:58] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:59770|DoctorDoctorDoc] -> UpstreamBridge has disconnected
+[13:39:55] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:41674]: Connected via websocket
+[13:39:55] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:41674]: Origin header is https://nolanderlauncherdelta-ozj8.vercel.app
+[13:39:55] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:41674]: Logged in as 'DoctorDoctorDoc'
+[13:39:55] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:41674|DoctorDoctorDoc] -> UpstreamBridge has connected
+[13:39:55] [Netty Worker IO Thread #1/WARN]: Error occurred processing connection for DoctorDoctorDoc AnnotatedConnectException : finishConnect(..) failed: Connection refused: localhost/127.0.0.1:25565
+[13:39:55] [Netty Worker IO Thread #1/INFO]: [DoctorDoctorDoc] disconnected with: Could not connect to a default or fallback server. Incorrectly configured address/port/firewall? 
+[13:39:55] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:41674|DoctorDoctorDoc] -> UpstreamBridge has disconnected
+[13:43:46] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:58944]: Connected via websocket
+[13:43:46] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:58944]: Origin header is https://nolanderlauncherdelta-ozj8.vercel.app
+[13:43:46] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:58944]: Logged in as 'DoctorDoctorDoc'
+[13:43:46] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:58944|DoctorDoctorDoc] -> UpstreamBridge has connected
+[13:43:46] [Netty Worker IO Thread #2/WARN]: Error occurred processing connection for DoctorDoctorDoc AnnotatedConnectException : finishConnect(..) failed: Connection refused: localhost/127.0.0.1:25565
+[13:43:46] [Netty Worker IO Thread #2/INFO]: [DoctorDoctorDoc] disconnected with: Could not connect to a default or fallback server. Incorrectly configured address/port/firewall? 
+[13:43:46] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:58944|DoctorDoctorDoc] -> UpstreamBridge has disconnected

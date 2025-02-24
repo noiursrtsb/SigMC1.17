@@ -14,7 +14,7 @@ Moderator:
 Owner:
   permissions: []
   inheritances: []
-  weight: 100
+  weight: 1000
   namecolor: ''
   chatcolor: ''
   buyableRanks: []
@@ -22,8 +22,8 @@ Owner:
   buyDescription: ''
   buyCommand: ''
   default: false
-  prefix: '[gradient=#ff00ff,#33ccff]OWNER[/gradient]'
-  suffix: ''
+  prefix: '&e&k.&r&8[&1&lOWNER&r&8]&e&k.'
+  suffix: '[SIGMA]'
 Admin:
   permissions: []
   inheritances: []

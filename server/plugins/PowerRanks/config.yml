@@ -50,12 +50,13 @@ announcements:
     enabled: false
     format: '[powerranks_prefix] &6[player] has been demoted to [rank]'
 updates:
-   enable_update_checking: true
-   automatic_download_updates: false
-   automatic_update_config_files: true
+  enable_update_checking: true
+  automatic_download_updates: false
+  automatic_update_config_files: true
 addon_manager:
   accepted_terms: false
 rankup:
   buy_command:
     enabled: false
-    command: 'say %playername% just bought the rank %rankname%'
+    command: say %playername% just bought the rank %rankname%
+version: 1.10.10

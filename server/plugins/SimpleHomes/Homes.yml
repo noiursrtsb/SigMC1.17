@@ -1,6 +1,12 @@
 playerName:
   homeName:
-    world: "world"
+    world: world
     X: 100.5062
     Y: 60
     Z: 200.923
+HeyBread:
+  sword:
+    world: world
+    X: 326.69999998807907
+    Y: 67.0
+    Z: 185.5745601679776

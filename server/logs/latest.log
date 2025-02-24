@@ -212,3 +212,34 @@ java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Bukkit.getOn
 [18:07:53] [Server thread/ERROR]: No TreeType mapping for TreeGenerator.TreeType.MANGROVE
 [18:07:53] [Server thread/ERROR]: No TreeType mapping for TreeGenerator.TreeType.TALL_MANGROVE
 [18:07:53] [Server thread/ERROR]: No TreeType mapping for TreeGenerator.TreeType.CHERRY
+[18:09:42] [Server thread/INFO]: iglentoften was shot by Skeleton
+[18:09:48] [Server thread/INFO]: iglentoften issued server command: /back
+[18:10:15] [Server thread/INFO]: iglentoften was shot by Skeleton
+[18:10:21] [Server thread/INFO]: iglentoften issued server command: /back
+[18:16:43] [User Authenticator #2/INFO]: UUID of player ysyyayyyayya is 6cd4e570-7a49-3521-8e89-4b4b5c6269c5
+[18:16:43] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|UpdateCert-1.8
+[18:16:43] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FML
+[18:16:43] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|Skins-1.8
+[18:16:43] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FORGE
+[18:16:43] [Server thread/INFO]: ysyyayyyayya joined the game
+[18:16:43] [Server thread/INFO]: ysyyayyyayya[/[0:0:0:0:0:0:0:1]:55696] logged in with entity id 1704 at ([spawn]-1.1621052328069186, 4.0, 0.4888240532796931)
+[18:17:03] [Server thread/INFO]: sig ysyyayyyayya was slain by Slime
+[18:17:10] [Server thread/INFO]: ysyyayyyayya issued server command: /gamemode creative
+[18:17:10] [Server thread/INFO]: [sig ysyyayyyayya: Set own game mode to Creative Mode]
+[18:17:34] [Server thread/INFO]: ysyyayyyayya issued server command: //wand
+[18:17:54] [Server thread/INFO]: ysyyayyyayya issued server command: //wand
+[18:18:06] [Server thread/INFO]: ysyyayyyayya issued server command: /expand up 100
+[18:18:10] [Server thread/INFO]: ysyyayyyayya lost connection: Disconnected
+[18:18:10] [Server thread/INFO]: ysyyayyyayya left the game
+[18:20:51] [Server thread/INFO]: iglentoften issued server command: /sethome 1
+[18:21:48] [Server thread/INFO]: iglentoften issued server command: /home 1
+[18:22:26] [Server thread/INFO]: iglentoften fell from a high place
+[18:22:34] [Server thread/INFO]: iglentoften issued server command: /back
+[18:23:05] [Server thread/INFO]: iglentoften issued server command: /home 1
+[18:25:44] [Server thread/INFO]: iglentoften was slain by Zombie
+[18:25:52] [Server thread/INFO]: iglentoften issued server command: /home 1
+[18:26:08] [Server thread/INFO]: iglentoften was slain by Zombie
+[18:26:16] [Server thread/INFO]: iglentoften issued server command: /home 1
+[18:26:57] [Server thread/INFO]: iglentoften issued server command: /home 1
+[18:27:08] [Server thread/INFO]: iglentoften lost connection: Disconnected
+[18:27:08] [Server thread/INFO]: iglentoften left the game

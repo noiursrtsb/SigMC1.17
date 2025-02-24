@@ -7,6 +7,7 @@ general:
 bungeecord:
   enabled: false
   server-name: Global
+  uuid: 89702634-63cd-441b-a3f3-52ca33360c29
 storage:
   type: YAML
   mysql:

@@ -197,6 +197,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-02-24 16:36:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_stone_pickaxe": "2025-02-24 12:12:28 +0000"
@@ -278,6 +284,12 @@
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2025-02-23 19:19:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2025-02-24 16:36:46 +0000"
     },
     "done": true
   },
@@ -370,6 +382,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-02-24 16:35:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2025-02-24 13:24:08 +0000"
@@ -439,6 +457,12 @@
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2025-02-23 19:20:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2025-02-24 16:36:46 +0000"
     },
     "done": true
   },
@@ -558,6 +582,7 @@
       "minecraft:frozen_river": "2025-02-24 12:20:48 +0000",
       "minecraft:snowy_beach": "2025-02-24 13:32:10 +0000",
       "minecraft:river": "2025-02-23 19:20:05 +0000",
+      "minecraft:lukewarm_ocean": "2025-02-24 16:35:03 +0000",
       "minecraft:plains": "2025-02-23 19:16:35 +0000"
     },
     "done": false
@@ -604,9 +629,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2025-02-24 16:36:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-02-24 12:12:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-02-24 16:35:07 +0000"
     },
     "done": true
   },
@@ -786,6 +823,12 @@
       "minecraft:zombie": "2025-02-23 19:19:06 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-02-24 16:35:07 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {

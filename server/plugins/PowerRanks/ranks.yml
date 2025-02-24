@@ -24,6 +24,32 @@ Owner:
   default: false
   prefix: '&e&k.&r&8[&1&lOWNER&r&8]&e&k.'
   suffix: '[SIGMA]'
+LOWTAPERFADE:
+  permissions: []
+  inheritances: []
+  weight: 100
+  namecolor: ''
+  chatcolor: ''
+  buyableRanks: []
+  buyCost: 0.0
+  buyDescription: ''
+  buyCommand: ''
+  default: false
+  prefix: '&4[&c&lLOWTAPERFADE&4]'
+  suffix: '{RICE}'
+SIGMA:
+  permissions: []
+  inheritances: []
+  weight: 100
+  namecolor: ''
+  chatcolor: ''
+  buyableRanks: []
+  buyCost: 0.0
+  buyDescription: ''
+  buyCommand: ''
+  default: false
+  prefix: '&2&k..&8[&aSIGMA&8]&2&k..'
+  suffix: '{CHUNGLE}'
 Admin:
   permissions: []
   inheritances: []

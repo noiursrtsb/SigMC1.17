@@ -588,3 +588,191 @@ java.lang.IllegalStateException: Unregistered scoreboard component
 [16:01:09] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FORGE
 [16:01:09] [Server thread/INFO]: shmewy joined the game
 [16:01:09] [Server thread/INFO]: shmewy[/[0:0:0:0:0:0:0:1]:45578] logged in with entity id 8618 at ([world]-17.285413012882884, 67.0, 86.29837635303055)
+[16:02:39] [User Authenticator #12/INFO]: UUID of player MRC1000 is a5a25101-585a-3364-a64b-c22f9e5267be
+[16:02:39] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|UpdateCert-1.8
+[16:02:39] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FML
+[16:02:39] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|Skins-1.8
+[16:02:39] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FORGE
+[16:02:40] [Server thread/INFO]: MRC1000 joined the game
+[16:02:40] [Server thread/INFO]: MRC1000[/[0:0:0:0:0:0:0:1]:60514] logged in with entity id 8953 at ([spawn]-1.3416746471868501, 23.0, 29.954616774687693)
+[16:02:44] [Async Chat Thread - #8/INFO]: world MEMBER shmewy: landon ur a bitch
+[16:02:47] [Async Chat Thread - #8/INFO]: spawn ADMIN MRC1000: mean!
+[16:02:50] [Async Chat Thread - #8/INFO]: spawn ADMIN MRC1000: shut up nigger
+[16:02:54] [Async Chat Thread - #8/INFO]: world MEMBER shmewy: rhehehheh
+[16:02:55] [Async Chat Thread - #8/INFO]: spawn ADMIN MRC1000: fuck off nigger
+[16:03:08] [Async Chat Thread - #8/INFO]: world MEMBER shmewy: screen shotted
+[16:03:13] [Async Chat Thread - #8/INFO]: spawn ADMIN MRC1000: its landon
+[16:03:16] [Async Chat Thread - #8/INFO]: spawn ADMIN MRC1000: MRC1000 is landon
+[16:03:16] [Async Chat Thread - #8/INFO]: world MEMBER shmewy: mhm
+[16:03:24] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[16:03:32] [Async Chat Thread - #8/INFO]: world MEMBER shmewy: ironnnn
+[16:04:16] [User Authenticator #13/INFO]: UUID of player ysyyayyyayya is 6cd4e570-7a49-3521-8e89-4b4b5c6269c5
+[16:04:16] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|UpdateCert-1.8
+[16:04:16] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FML
+[16:04:16] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|Skins-1.8
+[16:04:16] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FORGE
+[16:04:16] [Server thread/INFO]: ysyyayyyayya joined the game
+[16:04:16] [Server thread/INFO]: ysyyayyyayya[/[0:0:0:0:0:0:0:1]:38528] logged in with entity id 9287 at ([spawn]10.321223278907793, 12.503157835175177, -6.888649299441395)
+[16:04:16] [Craft Scheduler Thread - 15 - BetterTeams/ERROR]: Could not register the team name in the tab menu due to a conflict, see https://github.com/booksaw/BetterTeams/wiki/Managing-the-TAB-Menu error:Unregistered scoreboard component
+[16:04:16] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] Ignoring incoming plugin message with channel: EAG|Capes-1.8
+[16:04:21] [Server thread/INFO]: ysyyayyyayya issued server command: /pr webeditor start
+[16:04:30] [Server thread/INFO]: ysyyayyyayya issued server command: /pr webeditor start
+[16:04:50] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] Ignoring incoming plugin message with channel: EAG|Capes-1.8
+[16:05:21] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] Ignoring incoming plugin message with channel: EAG|Capes-1.8
+[16:05:51] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] Ignoring incoming plugin message with channel: EAG|Capes-1.8
+[16:06:23] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] Ignoring incoming plugin message with channel: EAG|Capes-1.8
+[16:07:24] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] Ignoring incoming plugin message with channel: EAG|Capes-1.8
+[16:08:09] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] Ignoring incoming plugin message with channel: EAG|Capes-1.8
+[16:08:43] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] Ignoring incoming plugin message with channel: EAG|Capes-1.8
+[16:08:56] [Server thread/INFO]: ysyyayyyayya issued server command: /pr we load pulihufe
+[16:08:57] [Async Chat Thread - #9/INFO]: world [LOWTAPERFADE] shmewy {RICE}: yay
+[16:08:59] [Async Chat Thread - #9/INFO]: spawn ..[SIGMA].. MRC1000 {CHUNGLE}: yo
+[16:09:14] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] Ignoring incoming plugin message with channel: EAG|Capes-1.8
+[16:09:25] [Async Chat Thread - #9/INFO]: spawn ..[SIGMA].. MRC1000 {CHUNGLE}: e
+[16:09:26] [Async Chat Thread - #9/INFO]: spawn ..[SIGMA].. MRC1000 {CHUNGLE}: e
+[16:09:27] [Async Chat Thread - #9/INFO]: spawn ..[SIGMA].. MRC1000 {CHUNGLE}: e
+[16:09:28] [Async Chat Thread - #9/INFO]: spawn ..[SIGMA].. MRC1000 {CHUNGLE}: e/
+[16:09:28] [Async Chat Thread - #9/INFO]: spawn ..[SIGMA].. MRC1000 {CHUNGLE}: e
+[16:09:29] [Async Chat Thread - #9/INFO]: spawn ..[SIGMA].. MRC1000 {CHUNGLE}: e
+[16:09:32] [Async Chat Thread - #9/INFO]: world [LOWTAPERFADE] shmewy {RICE}: kiugmas
+[16:09:35] [Server thread/INFO]: ysyyayyyayya issued server command: /kill mrc1000
+[16:09:35] [Server thread/INFO]: MRC1000 fell out of the world
+[16:09:35] [Server thread/INFO]: [ysyyayyyayya: Killed MRC1000]
+[16:09:37] [Server thread/INFO]: shmewy has made the advancement [Acquire Hardware]
+[16:09:48] [Server thread/INFO]: ysyyayyyayya issued server command: /gamemode creative mrc1000
+[16:09:48] [Server thread/INFO]: [ysyyayyyayya: Set MRC1000's game mode to Creative Mode]
+[16:09:49] [Async Chat Thread - #9/INFO]: world [LOWTAPERFADE] shmewy {RICE}: i killed a cat
+[16:09:52] [Server thread/INFO]: MRC1000 issued server command: /me killed eric
+[16:09:52] [Server thread/INFO]: * MRC1000 killed eric
+[16:09:52] [Async Chat Thread - #9/INFO]: world [LOWTAPERFADE] shmewy {RICE}: and got string
+[16:09:52] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] Ignoring incoming plugin message with channel: EAG|Capes-1.8
+[16:09:55] [Server thread/INFO]: MRC1000 issued server command: /me killed eric
+[16:09:55] [Server thread/INFO]: * MRC1000 killed eric
+[16:09:57] [Server thread/INFO]: ysyyayyyayya issued server command: /gamemode creative
+[16:09:57] [Server thread/INFO]: [ysyyayyyayya: Set own game mode to Creative Mode]
+[16:09:57] [Server thread/INFO]: MRC1000 issued server command: /me killed eric
+[16:09:57] [Server thread/INFO]: * MRC1000 killed eric
+[16:10:00] [Async Chat Thread - #9/INFO]: world [LOWTAPERFADE] shmewy {RICE}: cap
+[16:10:07] [Server thread/INFO]: MRC1000 issued server command: /me killed eric
+[16:10:07] [Server thread/INFO]: * MRC1000 killed eric
+[16:10:08] [Async Chat Thread - #9/INFO]: world [LOWTAPERFADE] shmewy {RICE}: *
+[16:10:11] [Server thread/INFO]: ysyyayyyayya issued server command: /mv tp world
+[16:10:12] [Async Chat Thread - #9/INFO]: world [LOWTAPERFADE] shmewy {RICE}: bruh how u do that
+[16:10:12] [Server thread/INFO]: MRC1000 issued server command: /me beat up eric
+[16:10:12] [Server thread/INFO]: * MRC1000 beat up eric
+[16:10:18] [Async Chat Thread - #9/INFO]: world [LOWTAPERFADE] shmewy {RICE}: stfu
+[16:10:20] [Server thread/INFO]: ysyyayyyayya issued server command: /tp mrc1000 ysyyayyyayya
+[16:10:20] [Server thread/INFO]: [ysyyayyyayya: Teleported MRC1000 to ysyyayyyayya]
+[16:10:25] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] Ignoring incoming plugin message with channel: EAG|Capes-1.8
+[16:10:33] [Server thread/INFO]: ysyyayyyayya issued server command: /gamemode creative
+[16:10:33] [Server thread/INFO]: [ysyyayyyayya: Set own game mode to Creative Mode]
+[16:10:37] [Async Chat Thread - #9/INFO]: world ..[SIGMA].. MRC1000 {CHUNGLE}: e
+[16:10:41] [Async Chat Thread - #9/INFO]: world [LOWTAPERFADE] shmewy {RICE}: rizz
+[16:10:55] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] Ignoring incoming plugin message with channel: EAG|Capes-1.8
+[16:11:00] [Server thread/INFO]: MRC1000 lost connection: Disconnected
+[16:11:00] [Server thread/INFO]: MRC1000 left the game
+[16:11:00] [Server thread/INFO]: shmewy has made the advancement [Suit Up]
+[16:11:09] [Server thread/INFO]: ysyyayyyayya issued server command: /tp shmewy
+[16:11:09] [Server thread/INFO]: [ysyyayyyayya: Teleported ysyyayyyayya to shmewy]
+[16:11:52] [Server thread/INFO]: ysyyayyyayya issued server command: /tp shmewy
+[16:11:52] [Server thread/INFO]: [ysyyayyyayya: Teleported ysyyayyyayya to shmewy]
+[16:12:20] [Server thread/INFO]: shmewy was shot by Stray
+[16:12:27] [Server thread/INFO]: shmewy issued server command: /back
+[16:13:08] [Server thread/INFO]: shmewy lost connection: Disconnected
+[16:13:08] [Server thread/INFO]: shmewy left the game
+[16:13:09] [Server thread/INFO]: ysyyayyyayya lost connection: Disconnected
+[16:13:09] [Server thread/ERROR]: Could not pass event PlayerQuitEvent to BetterTeams v4.11.0
+java.lang.IllegalStateException: Unregistered scoreboard component
+	at org.bukkit.craftbukkit.v1_17_R1.scoreboard.CraftTeam.checkState(CraftTeam.java:338) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at org.bukkit.craftbukkit.v1_17_R1.scoreboard.CraftTeam.unregister(CraftTeam.java:265) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at com.booksaw.betterTeams.team.storage.storageManager.SeparatedYamlStorageManager.unloadTeam(SeparatedYamlStorageManager.java:132) ~[BetterTeams-4.11.0.jar:?]
+	at com.booksaw.betterTeams.team.storage.storageManager.SeparatedYamlStorageManager.onLeave(SeparatedYamlStorageManager.java:387) ~[BetterTeams-4.11.0.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor33.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor.lambda$create$1(EventExecutor.java:69) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:628) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at net.minecraft.server.players.PlayerList.disconnect(PlayerList.java:610) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at net.minecraft.server.players.PlayerList.disconnect(PlayerList.java:593) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.onDisconnect(ServerGamePacketListenerImpl.java:2049) ~[app:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.onDisconnect(ServerGamePacketListenerImpl.java:2029) ~[app:?]
+	at net.minecraft.network.Connection.handleDisconnection(Connection.java:743) ~[app:?]
+	at net.minecraft.server.network.ServerConnectionListener.tick(ServerConnectionListener.java:221) ~[app:?]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1681) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:528) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1507) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1300) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:322) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[16:13:09] [Server thread/INFO]: ysyyayyyayya left the game
+[16:30:57] [User Authenticator #14/INFO]: UUID of player DoctorDoctorDoc is 7d2e54b2-4ee3-3e32-9a10-89a0004558a0
+[16:30:57] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|UpdateCert-1.8
+[16:30:57] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FML
+[16:30:57] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|Skins-1.8
+[16:30:57] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FORGE
+[16:30:57] [Server thread/INFO]: DoctorDoctorDoc joined the game
+[16:30:57] [Server thread/INFO]: DoctorDoctorDoc[/[0:0:0:0:0:0:0:1]:43960] logged in with entity id 12220 at ([world]184.99089533386174, 76.0, 227.3439980760028)
+[16:31:22] [Server thread/INFO]: Villager EntityVillager['Farmer'/12271, uuid='bc5b780c-5e35-403d-b7da-de70b9a4a3e2', l='ServerLevel[world]', x=192.40, y=57.00, z=142.68, cpos=[12, 8], tl=73558, v=true, rR=null] died, message: 'Farmer was slain by Zombie'
+[16:32:12] [Server thread/INFO]: DoctorDoctorDoc has made the advancement [Sweet Dreams]
+[16:33:34] [User Authenticator #15/INFO]: UUID of player HeyBread is 6b3d7afd-3b1d-39dc-a095-3e261a0d9f09
+[16:33:34] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|UpdateCert-1.8
+[16:33:34] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FML
+[16:33:34] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|Skins-1.8
+[16:33:34] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FORGE
+[16:33:34] [Server thread/INFO]: HeyBread joined the game
+[16:33:34] [Server thread/INFO]: HeyBread[/[0:0:0:0:0:0:0:1]:58358] logged in with entity id 12626 at ([world]311.2487507022694, 69.0, 244.67194804427822)
+[16:33:39] [Server thread/INFO]: HeyBread issued server command: /team
+[16:33:49] [Server thread/INFO]: HeyBread issued server command: /create team
+[16:34:05] [Server thread/INFO]: HeyBread issued server command: /team create PastryAsc.
+[16:34:13] [Server thread/INFO]: HeyBread issued server command: /team create pastry
+[16:34:17] [Server thread/INFO]: HeyBread issued server command: /team invite
+[16:34:24] [Server thread/INFO]: HeyBread issued server command: /team invite doctordoctordoc
+[16:34:29] [Server thread/INFO]: HeyBread issued server command: /team
+[16:34:30] [Server thread/INFO]: DoctorDoctorDoc issued server command: /team join
+[16:34:39] [Server thread/INFO]: HeyBread issued server command: /team echest
+[16:37:17] [Server thread/INFO]: HeyBread issued server command: /tpa doctor
+[16:37:19] [Server thread/INFO]: DoctorDoctorDoc issued server command: /tpaccept
+[16:37:31] [Server thread/INFO]: DoctorDoctorDoc has made the advancement [Hot Stuff]
+[16:38:06] [Server thread/INFO]: DoctorDoctorDoc issued server command: /tpa typical
+[16:38:10] [Server thread/INFO]: DoctorDoctorDoc issued server command: /tpa hey
+[16:39:38] [Server thread/WARN]: DoctorDoctorDoc moved wrongly!, (0.06447938111615863)
+[16:39:59] [Server thread/INFO]: DoctorDoctorDoc issued server command: /team echest
+[16:40:04] [User Authenticator #16/INFO]: UUID of player iglentoften is 1f39864e-1ba8-32ee-b3a0-299113502435
+[16:40:04] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|UpdateCert-1.8
+[16:40:04] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FML
+[16:40:04] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|Skins-1.8
+[16:40:04] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FORGE
+[16:40:04] [Server thread/INFO]: iglentoften joined the game
+[16:40:04] [Server thread/INFO]: iglentoften[/[0:0:0:0:0:0:0:1]:50150] logged in with entity id 14413 at ([world]93.10991480000611, 76.0, 206.66718203767786)
+[16:40:08] [Async Chat Thread - #10/INFO]: world MEMBER DoctorDoctorDoc: hi andrew
+[16:40:09] [Server thread/INFO]: HeyBread issued server command: /team invite doctordoctordoc
+[16:40:16] [Server thread/INFO]: HeyBread issued server command: /tpa doctor
+[16:40:16] [Server thread/INFO]: DoctorDoctorDoc issued server command: /team join pastry
+[16:40:19] [Server thread/INFO]: iglentoften lost connection: Disconnected
+[16:40:19] [Server thread/INFO]: iglentoften left the game
+[16:40:22] [User Authenticator #16/INFO]: UUID of player iglentoften is 1f39864e-1ba8-32ee-b3a0-299113502435
+[16:40:22] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|UpdateCert-1.8
+[16:40:22] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FML
+[16:40:22] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|Skins-1.8
+[16:40:22] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FORGE
+[16:40:22] [Server thread/INFO]: iglentoften joined the game
+[16:40:22] [Server thread/INFO]: iglentoften[/[0:0:0:0:0:0:0:1]:46962] logged in with entity id 14511 at ([world]92.23086276936888, 77.04320004463196, 205.848582375377)
+[16:40:28] [Server thread/INFO]: DoctorDoctorDoc issued server command: /tpaccept
+[16:40:29] [Async Chat Thread - #10/INFO]: world MEMBER iglentoften: i cant login
+[16:40:37] [Async Chat Thread - #10/INFO]: [pastry] world ADMIN HeyBread: you have to type /register
+[16:40:38] [Async Chat Thread - #10/INFO]: [pastry] world MEMBER DoctorDoctorDoc: oof skill issue
+[16:40:45] [Async Chat Thread - #10/INFO]: world MEMBER iglentoften: BRO I ALR DID
+[16:40:46] [Async Chat Thread - #10/INFO]: [pastry] world ADMIN HeyBread: is it working now
+[16:40:51] [Async Chat Thread - #10/INFO]: world MEMBER iglentoften: who wants my 21 coal nk
+[16:40:53] [Async Chat Thread - #10/INFO]: [pastry] world ADMIN HeyBread: wdym u cant login what happening
+[16:40:57] [Async Chat Thread - #10/INFO]: world MEMBER iglentoften: speaking head
+[16:40:59] [Async Chat Thread - #10/INFO]: world MEMBER iglentoften: sry mb
+[16:41:03] [Async Chat Thread - #10/INFO]: world MEMBER iglentoften: for mean
+[16:41:17] [Async Chat Thread - #10/INFO]: world MEMBER iglentoften: can u give me diamond armour rayyan
+[16:41:23] [Async Chat Thread - #10/INFO]: [pastry] world ADMIN HeyBread: i dont have anything
+[16:41:27] [Async Chat Thread - #10/INFO]: world MEMBER iglentoften: ur an admin
+[16:41:30] [Async Chat Thread - #10/INFO]: [pastry] world ADMIN HeyBread: im not gonna cheat
+[16:41:34] [Async Chat Thread - #10/INFO]: world MEMBER iglentoften: mean
+[16:41:43] [Async Chat Thread - #10/INFO]: world MEMBER iglentoften: give me food plz
+[16:41:50] [Async Chat Thread - #10/INFO]: world MEMBER iglentoften: coords: 30000, 47, 3920
+[16:42:10] [Async Chat Thread - #10/INFO]: [pastry] world MEMBER DoctorDoctorDoc: LOOK OUT FOR LOW FLYING BREAD

@@ -261,3 +261,85 @@
 [13:14:08] [Netty Worker IO Thread #6/INFO]: [DoctorDoctorDoc|/[0:0:0:0:0:0:0:1%0]:43116] <-> ServerConnector [lobby] has connected
 [13:14:08] [Netty Worker IO Thread #5/INFO]: [DoctorDoctorDoc] disconnected with: You logged in from another location
 [13:14:08] [Netty Worker IO Thread #5/INFO]: [/[0:0:0:0:0:0:0:1%0]:52220|DoctorDoctorDoc] <-> DownstreamBridge <-> [lobby] has disconnected
+[13:14:43] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:50444]: Connected via websocket
+[13:14:43] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:50444]: Origin header is https://nolanderlauncherdelta-ozj8.vercel.app
+[13:14:43] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:50444]: Logged in as 'ysyyayyyayya'
+[13:14:43] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:50444|ysyyayyyayya] -> UpstreamBridge has connected
+[13:14:43] [Netty Worker IO Thread #0/INFO]: [ysyyayyyayya|/[0:0:0:0:0:0:0:1%0]:50444] <-> ServerConnector [lobby] has connected
+[13:20:34] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:50652]: Connected via websocket
+[13:20:34] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:50652]: Origin header is https://nolanderlauncherdelta-ozj8.vercel.app
+[13:20:34] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:50652]: Logged in as 'HeyBread'
+[13:20:34] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:50652|HeyBread] -> UpstreamBridge has connected
+[13:20:34] [Netty Worker IO Thread #2/INFO]: [HeyBread|/[0:0:0:0:0:0:0:1%0]:50652] <-> ServerConnector [lobby] has connected
+[13:24:29] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:50652|HeyBread] -> UpstreamBridge has disconnected
+[13:24:29] [Netty Worker IO Thread #2/INFO]: [HeyBread] disconnected with: Proxy lost connection to server.
+[13:24:29] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:50652|HeyBread] <-> DownstreamBridge <-> [lobby] has disconnected
+[13:25:00] [Netty Worker IO Thread #4/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:34512]: Connected via websocket
+[13:25:00] [Netty Worker IO Thread #4/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:34512]: Origin header is https://nolanderlauncherdelta-ozj8.vercel.app
+[13:25:00] [Netty Worker IO Thread #4/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:34512]: Logged in as 'HeyBread'
+[13:25:00] [Netty Worker IO Thread #4/INFO]: [/[0:0:0:0:0:0:0:1%0]:34512|HeyBread] -> UpstreamBridge has connected
+[13:25:00] [Netty Worker IO Thread #4/INFO]: [HeyBread|/[0:0:0:0:0:0:0:1%0]:34512] <-> ServerConnector [lobby] has connected
+[13:27:13] [Netty Worker IO Thread #4/INFO]: [/[0:0:0:0:0:0:0:1%0]:34512|HeyBread] -> UpstreamBridge has disconnected
+[13:27:13] [Netty Worker IO Thread #4/INFO]: [HeyBread] disconnected with: Proxy lost connection to server.
+[13:27:13] [Netty Worker IO Thread #4/INFO]: [/[0:0:0:0:0:0:0:1%0]:34512|HeyBread] <-> DownstreamBridge <-> [lobby] has disconnected
+[13:27:33] [Netty Worker IO Thread #6/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:34394]: Connected via websocket
+[13:27:33] [Netty Worker IO Thread #6/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:34394]: Origin header is https://nolanderlauncherdelta-ozj8.vercel.app
+[13:27:34] [Netty Worker IO Thread #6/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:34394]: Logged in as 'HeyBread'
+[13:27:34] [Netty Worker IO Thread #6/INFO]: [/[0:0:0:0:0:0:0:1%0]:34394|HeyBread] -> UpstreamBridge has connected
+[13:27:34] [Netty Worker IO Thread #6/INFO]: [HeyBread|/[0:0:0:0:0:0:0:1%0]:34394] <-> ServerConnector [lobby] has connected
+[13:27:52] [Netty Worker IO Thread #6/INFO]: [/[0:0:0:0:0:0:0:1%0]:34394|HeyBread] -> UpstreamBridge has disconnected
+[13:27:52] [Netty Worker IO Thread #6/INFO]: [HeyBread] disconnected with: Proxy lost connection to server.
+[13:27:52] [Netty Worker IO Thread #6/INFO]: [/[0:0:0:0:0:0:0:1%0]:34394|HeyBread] <-> DownstreamBridge <-> [lobby] has disconnected
+[13:29:47] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:56646]: Connected via websocket
+[13:29:47] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:56646]: Origin header is https://nolanderlauncherdelta-ozj8.vercel.app
+[13:29:48] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:56646]: Logged in as 'HeyBread'
+[13:29:48] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:56646|HeyBread] -> UpstreamBridge has connected
+[13:29:48] [Netty Worker IO Thread #1/INFO]: [HeyBread|/[0:0:0:0:0:0:0:1%0]:56646] <-> ServerConnector [lobby] has connected
+[13:31:05] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:56646|HeyBread] -> UpstreamBridge has disconnected
+[13:31:05] [Netty Worker IO Thread #1/INFO]: [HeyBread] disconnected with: Proxy lost connection to server.
+[13:31:05] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:56646|HeyBread] <-> DownstreamBridge <-> [lobby] has disconnected
+[13:31:55] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:49232]: Connected via websocket
+[13:31:55] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:49232]: Origin header is https://nolanderlauncherdelta-ozj8.vercel.app
+[13:31:55] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:49232]: Logged in as 'HeyBread'
+[13:31:55] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:49232|HeyBread] -> UpstreamBridge has connected
+[13:31:55] [Netty Worker IO Thread #3/INFO]: [HeyBread|/[0:0:0:0:0:0:0:1%0]:49232] <-> ServerConnector [lobby] has connected
+[13:32:12] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:49232|HeyBread] -> UpstreamBridge has disconnected
+[13:32:12] [Netty Worker IO Thread #3/INFO]: [HeyBread] disconnected with: Proxy lost connection to server.
+[13:32:12] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:49232|HeyBread] <-> DownstreamBridge <-> [lobby] has disconnected
+[13:32:43] [Netty Worker IO Thread #5/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:60140]: Connected via websocket
+[13:32:43] [Netty Worker IO Thread #5/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:60140]: Origin header is https://nolanderlauncherdelta-ozj8.vercel.app
+[13:32:44] [Netty Worker IO Thread #5/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:60140]: Logged in as 'HeyBread'
+[13:32:44] [Netty Worker IO Thread #5/INFO]: [/[0:0:0:0:0:0:0:1%0]:60140|HeyBread] -> UpstreamBridge has connected
+[13:32:44] [Netty Worker IO Thread #5/INFO]: [HeyBread|/[0:0:0:0:0:0:0:1%0]:60140] <-> ServerConnector [lobby] has connected
+[13:34:17] [Netty Worker IO Thread #6/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:52630]: Connected via websocket
+[13:34:17] [Netty Worker IO Thread #6/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:52630]: Origin header is https://devjakob.webs.vc
+[13:34:17] [Netty Worker IO Thread #6/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:52630]: Logged in as 'MRC1000'
+[13:34:17] [Netty Worker IO Thread #6/INFO]: [/[0:0:0:0:0:0:0:1%0]:52630|MRC1000] -> UpstreamBridge has connected
+[13:34:17] [Netty Worker IO Thread #6/INFO]: [MRC1000|/[0:0:0:0:0:0:0:1%0]:52630] <-> ServerConnector [lobby] has connected
+[13:34:51] [Netty Worker IO Thread #6/INFO]: [/[0:0:0:0:0:0:0:1%0]:52630|MRC1000] -> UpstreamBridge has disconnected
+[13:34:51] [Netty Worker IO Thread #6/INFO]: [MRC1000] disconnected with: Proxy lost connection to server.
+[13:34:51] [Netty Worker IO Thread #6/INFO]: [/[0:0:0:0:0:0:0:1%0]:52630|MRC1000] <-> DownstreamBridge <-> [lobby] has disconnected
+[13:34:53] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:58844]: Connected via websocket
+[13:34:53] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:58844]: Origin header is https://devjakob.webs.vc
+[13:34:53] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:58844]: Logged in as 'MRC1000'
+[13:34:53] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:58844|MRC1000] -> UpstreamBridge has connected
+[13:34:53] [Netty Worker IO Thread #0/INFO]: [MRC1000|/[0:0:0:0:0:0:0:1%0]:58844] <-> ServerConnector [lobby] has connected
+[13:34:55] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:58844|MRC1000] -> UpstreamBridge has disconnected
+[13:34:55] [Netty Worker IO Thread #0/INFO]: [MRC1000] disconnected with: Proxy lost connection to server.
+[13:34:55] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:58844|MRC1000] <-> DownstreamBridge <-> [lobby] has disconnected
+[13:34:59] [Netty Worker IO Thread #0/INFO]: [ysyyayyyayya] disconnected with: Server closed
+[13:34:59] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:50444|ysyyayyyayya] -> UpstreamBridge has disconnected
+[13:34:59] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:50444|ysyyayyyayya] <-> DownstreamBridge <-> [lobby] has disconnected
+[13:34:59] [Netty Worker IO Thread #6/INFO]: [DoctorDoctorDoc] disconnected with: Server closed
+[13:34:59] [Netty Worker IO Thread #6/INFO]: [/[0:0:0:0:0:0:0:1%0]:43116|DoctorDoctorDoc] -> UpstreamBridge has disconnected
+[13:34:59] [Netty Worker IO Thread #6/INFO]: [/[0:0:0:0:0:0:0:1%0]:43116|DoctorDoctorDoc] <-> DownstreamBridge <-> [lobby] has disconnected
+[13:34:59] [Netty Worker IO Thread #5/INFO]: [HeyBread] disconnected with: Server closed
+[13:34:59] [Netty Worker IO Thread #5/INFO]: [/[0:0:0:0:0:0:0:1%0]:60140|HeyBread] -> UpstreamBridge has disconnected
+[13:34:59] [Netty Worker IO Thread #5/INFO]: [/[0:0:0:0:0:0:0:1%0]:60140|HeyBread] <-> DownstreamBridge <-> [lobby] has disconnected
+[13:35:04] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:46790]: Connected via websocket
+[13:35:04] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:46790]: Origin header is https://nolanderlauncherdelta-ozj8.vercel.app
+[13:35:04] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:46790]: Logged in as 'HeyBread'
+[13:35:04] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:46790|HeyBread] -> UpstreamBridge has connected
+[13:35:04] [Netty Worker IO Thread #2/WARN]: Error occurred processing connection for HeyBread AnnotatedConnectException : finishConnect(..) failed: Connection refused: localhost/127.0.0.1:25565
+[13:35:04] [Netty Worker IO Thread #2/INFO]: [HeyBread] disconnected with: Could not connect to a default or fallback server. Incorrectly configured address/port/firewall? 
+[13:35:04] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:46790|HeyBread] -> UpstreamBridge has disconnected

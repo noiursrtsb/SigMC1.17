@@ -202,3 +202,13 @@ java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Bukkit.getOn
 [17:56:40] [Server thread/WARN]: UUID of added entity already exists: EntitySlime['Slime'/221, uuid='a60c5c97-ee48-44fd-b9a9-853b5ee4e659', l='ServerLevel[spawn]', x=-8.49, y=4.00, z=13.85, cpos=[-1, 0], tl=20148, v=false, rR=null]
 [17:56:40] [Server thread/WARN]: UUID of added entity already exists: EntityBat['Bat'/241, uuid='ec61911b-eacc-40ff-8ce1-80deed2998c8', l='ServerLevel[spawn]', x=12.79, y=9.54, z=13.53, cpos=[0, 0], tl=33417, v=false, rR=null]
 [17:56:40] [Server thread/WARN]: UUID of added entity already exists: EntitySlime['Slime'/247, uuid='1baf34fd-5dba-48a7-9218-52c53726c071', l='ServerLevel[spawn]', x=16.58, y=4.00, z=12.51, cpos=[1, 0], tl=20147, v=false, rR=null]
+[18:07:38] [User Authenticator #1/INFO]: UUID of player iglentoften is 1f39864e-1ba8-32ee-b3a0-299113502435
+[18:07:38] [Server thread/INFO]: iglentoften joined the game
+[18:07:38] [Server thread/INFO]: iglentoften[/[0:0:0:0:0:0:0:1]:44682] logged in with entity id 344 at ([world]-82.54484532643397, 53.0, 65.69999998807907)
+[18:07:38] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|UpdateCert-1.8
+[18:07:38] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FML
+[18:07:38] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|Skins-1.8
+[18:07:38] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FORGE
+[18:07:53] [Server thread/ERROR]: No TreeType mapping for TreeGenerator.TreeType.MANGROVE
+[18:07:53] [Server thread/ERROR]: No TreeType mapping for TreeGenerator.TreeType.TALL_MANGROVE
+[18:07:53] [Server thread/ERROR]: No TreeType mapping for TreeGenerator.TreeType.CHERRY

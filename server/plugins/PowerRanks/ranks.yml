@@ -2,103 +2,103 @@ Moderator:
   permissions: []
   inheritances: []
   weight: 50
-  chatcolor: ''
   namecolor: ''
+  chatcolor: ''
   buyableRanks: []
   buyCost: 0.0
   buyDescription: ''
   buyCommand: ''
   default: false
-  suffix: ''
   prefix: '[gradient=#9d1dff,#e22581]MODERATOR[/gradient]'
+  suffix: ''
 Owner:
   permissions: []
   inheritances: []
   weight: 1000
-  chatcolor: ''
   namecolor: ''
+  chatcolor: ''
   buyableRanks: []
   buyCost: 0.0
   buyDescription: ''
   buyCommand: ''
   default: false
-  suffix: '[SIGMA]'
   prefix: '&e&k.&r&8[&1&lOWNER&r&8]&e&k.'
+  suffix: '[SIGMA]'
 LOWTAPERFADE:
   permissions: []
   inheritances: []
   weight: 100
-  chatcolor: ''
   namecolor: ''
+  chatcolor: ''
   buyableRanks: []
   buyCost: 0.0
   buyDescription: ''
   buyCommand: ''
   default: false
-  suffix: '{RICE}'
   prefix: '&4[&c&lLOWTAPERFADE&4]'
+  suffix: '{RICE}'
 SIGMA:
   permissions: []
   inheritances: []
   weight: 100
-  chatcolor: ''
   namecolor: ''
+  chatcolor: ''
   buyableRanks: []
   buyCost: 0.0
   buyDescription: ''
   buyCommand: ''
   default: false
-  suffix: '{CHUNGLE}'
   prefix: '&2&k..&8[&aSIGMA&8]&2&k..'
+  suffix: '{CHUNGLE}'
 Admin:
   permissions: []
   inheritances: []
   weight: 75
-  chatcolor: ''
   namecolor: ''
+  chatcolor: ''
   buyableRanks: []
   buyCost: 0.0
   buyDescription: ''
   buyCommand: ''
   default: false
-  suffix: ''
   prefix: '[gradient=#ffff00,#ef3300]ADMIN[/gradient]'
+  suffix: ''
 Member:
   permissions: []
   inheritances: []
   weight: 0
-  chatcolor: ''
   namecolor: ''
+  chatcolor: ''
   buyableRanks: []
   buyCost: 0.0
   buyDescription: ''
   buyCommand: ''
   default: true
-  suffix: ''
   prefix: '[gradient=#127e00,#3eaf18]MEMBER[/gradient]'
+  suffix: ''
 starwarswatcher:
   permissions: []
   inheritances: []
   weight: 0
-  chatcolor: ''
   namecolor: ''
+  chatcolor: ''
   buyableRanks: []
   buyCost: 0.0
   buyDescription: ''
   buyCommand: ''
   default: false
-  suffix: '{doctor}'
   prefix: '&k.&r[starwarswatcher]&k.'
+  suffix: '{doctor}'
 RICE:
   permissions: []
   inheritances: []
   weight: 0
-  chatcolor: ''
   namecolor: ''
+  chatcolor: ''
   buyableRanks: []
   buyCost: 0.0
   buyDescription: ''
   buyCommand: ''
   default: false
-  suffix: '{non-admin}'
   prefix: '&k.&r[RICE]&k.'
+  suffix: '{non-admin}'

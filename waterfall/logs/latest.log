@@ -463,3 +463,34 @@
 [13:22:37] [Netty Worker IO Thread #3/WARN]: [shmewy|/[0:0:0:0:0:0:0:1%0]:59874] <-> ServerConnector [lobby] - read timed out
 [13:22:37] [Netty Worker IO Thread #3/INFO]: [shmewy] disconnected with: Exception Connecting: ReadTimeoutException : null
 [13:22:37] [Netty Worker IO Thread #3/INFO]: [shmewy|/[0:0:0:0:0:0:0:1%0]:59874] <-> ServerConnector [lobby] has disconnected
+[13:24:15] [Netty Worker IO Thread #4/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:41038]: Connected via websocket
+[13:24:15] [Netty Worker IO Thread #4/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:41038]: Origin header is https://nolanderlauncherdelta-ozj8.vercel.app
+[13:24:15] [Netty Worker IO Thread #4/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:41038]: Logged in as 'iglentoften'
+[13:24:15] [Netty Worker IO Thread #4/INFO]: [/[0:0:0:0:0:0:0:1%0]:41038|iglentoften] -> UpstreamBridge has connected
+[13:24:15] [Netty Worker IO Thread #4/INFO]: [iglentoften|/[0:0:0:0:0:0:0:1%0]:41038] <-> ServerConnector [lobby] has connected
+[13:24:17] [Netty Worker IO Thread #4/INFO]: [/[0:0:0:0:0:0:0:1%0]:41038|iglentoften] -> UpstreamBridge has disconnected
+[13:24:45] [Netty Worker IO Thread #4/WARN]: [iglentoften|/[0:0:0:0:0:0:0:1%0]:41038] <-> ServerConnector [lobby] - read timed out
+[13:24:45] [Netty Worker IO Thread #4/INFO]: [iglentoften] disconnected with: Exception Connecting: ReadTimeoutException : null
+[13:24:45] [Netty Worker IO Thread #4/INFO]: [iglentoften|/[0:0:0:0:0:0:0:1%0]:41038] <-> ServerConnector [lobby] has disconnected
+[13:25:22] [Thread-3/INFO]: Closing listener [id: 0x0f0cbf58, L:/[0:0:0:0:0:0:0:0%0]:25577]
+[13:25:22] [main/ERROR]: Exception in thread "main" java.io.IOError: java.io.IOException: Input/output error
+[13:25:22] [main/ERROR]: 	at org.jline.keymap.BindingReader.readCharacter(BindingReader.java:170)
+[13:25:22] [main/ERROR]: 	at org.jline.keymap.BindingReader.readBinding(BindingReader.java:110)
+[13:25:22] [main/ERROR]: 	at org.jline.keymap.BindingReader.readBinding(BindingReader.java:61)
+[13:25:22] [main/ERROR]: 	at org.jline.reader.impl.LineReaderImpl.doReadBinding(LineReaderImpl.java:923)
+[13:25:22] [main/ERROR]: 	at org.jline.reader.impl.LineReaderImpl.readBinding(LineReaderImpl.java:956)
+[13:25:22] [main/ERROR]: 	at org.jline.reader.impl.LineReaderImpl.readLine(LineReaderImpl.java:651)
+[13:25:22] [main/ERROR]: 	at org.jline.reader.impl.LineReaderImpl.readLine(LineReaderImpl.java:468)
+[13:25:22] [main/ERROR]: 	at net.minecrell.terminalconsole.SimpleTerminalConsole.readCommands(SimpleTerminalConsole.java:158)
+[13:25:22] [main/ERROR]: 	at net.minecrell.terminalconsole.SimpleTerminalConsole.start(SimpleTerminalConsole.java:141)
+[13:25:22] [main/ERROR]: 	at net.md_5.bungee.BungeeCordLauncher.main(BungeeCordLauncher.java:72)
+[13:25:22] [main/ERROR]: 	at net.md_5.bungee.Bootstrap.main(Bootstrap.java:15)
+[13:25:22] [main/ERROR]: Caused by: java.io.IOException: Input/output error
+[13:25:22] [main/ERROR]: 	at java.base/java.io.FileInputStream.read0(Native Method)
+[13:25:22] [main/ERROR]: 	at java.base/java.io.FileInputStream.read(FileInputStream.java:228)
+[13:25:22] [main/ERROR]: 	at org.jline.terminal.impl.AbstractPty$PtyInputStream.read(AbstractPty.java:73)
+[13:25:22] [main/ERROR]: 	at org.jline.utils.NonBlockingInputStream.read(NonBlockingInputStream.java:62)
+[13:25:22] [main/ERROR]: 	at org.jline.utils.NonBlocking$NonBlockingInputStreamReader.read(NonBlocking.java:168)
+[13:25:22] [main/ERROR]: 	at org.jline.utils.NonBlockingReader.read(NonBlockingReader.java:57)
+[13:25:22] [main/ERROR]: 	at org.jline.keymap.BindingReader.readCharacter(BindingReader.java:160)
+[13:25:22] [main/ERROR]: 	... 10 more

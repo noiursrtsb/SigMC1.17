@@ -357,6 +357,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-02-25 13:19:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2025-02-24 16:08:04 +0000"
@@ -396,6 +402,12 @@
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2025-02-24 16:09:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-02-25 13:19:03 +0000"
     },
     "done": true
   },
@@ -626,6 +638,7 @@
       "minecraft:skeleton": "2025-02-24 16:54:27 +0000",
       "minecraft:spider": "2025-02-24 16:55:16 +0000",
       "minecraft:creeper": "2025-02-24 16:55:46 +0000",
+      "minecraft:cave_spider": "2025-02-25 13:20:23 +0000",
       "minecraft:enderman": "2025-02-25 13:07:31 +0000",
       "minecraft:zombie": "2025-02-24 15:38:21 +0000"
     },
@@ -892,6 +905,12 @@
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2025-02-24 15:40:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-02-25 13:19:03 +0000"
     },
     "done": true
   },

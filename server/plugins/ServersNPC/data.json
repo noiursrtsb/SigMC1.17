@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "id": 2,
+    "hologramHeight": 0.0,
+    "skin": "",
+    "signature": "",
+    "skinName": "Steve",
+    "location": {
+      "world": "world",
+      "x": 266.5,
+      "y": 18.0,
+      "z": 317.5,
+      "yaw": 68.400024,
+      "pitch": 13.649994
+    },
+    "npcType": "PIG",
+    "hologramLines": [
+      "sig"
+    ],
+    "refreshSkinDuration": 0,
+    "clickActions": [],
+    "npcEquip": {},
+    "npcFunctions": {},
+    "customizationMap": {}
+  }
+]

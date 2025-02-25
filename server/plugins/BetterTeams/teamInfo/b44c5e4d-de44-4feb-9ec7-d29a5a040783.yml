@@ -12,4 +12,129 @@ players:
 - 6b3d7afd-3b1d-39dc-a095-3e261a0d9f09,OWNER
 level: 1
 tag: ''
-score: 2
+score: 3
+echest:
+  '4':
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: RAW_IRON
+    amount: 64
+  '5':
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: SUGAR_CANE
+    amount: 26
+  '2':
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: QUARTZ
+    amount: 64
+  '3':
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: LAPIS_LAZULI
+    amount: 64
+  '6':
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: OAK_SAPLING
+    amount: 21
+  '7':
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: STRING
+    amount: 9
+  '8':
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: OAK_LOG
+    amount: 64
+  '9':
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: OAK_LOG
+    amount: 64
+  '10':
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: OAK_LOG
+    amount: 7
+  '11':
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: QUARTZ
+    amount: 9
+  '13':
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: BIRCH_SAPLING
+    amount: 2
+  '12':
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: LAPIS_LAZULI
+    amount: 15
+  '14':
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: REDSTONE
+    amount: 64
+  '15':
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: REDSTONE
+    amount: 28
+  '16':
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: COBBLESTONE
+    amount: 64
+  '17':
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: COBBLESTONE
+    amount: 64
+  '18':
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: COBBLESTONE
+    amount: 64
+  '19':
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: COBBLESTONE
+    amount: 64
+  '20':
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: COBBLESTONE
+    amount: 4
+  '21':
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: OAK_PLANKS
+    amount: 64
+  '22':
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: OAK_PLANKS
+    amount: 64
+  '23':
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: OAK_PLANKS
+    amount: 29
+  '1':
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: GOLD_INGOT
+    amount: 2
+  '0':
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: IRON_INGOT
+  '24':
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: RAW_IRON
+    amount: 15

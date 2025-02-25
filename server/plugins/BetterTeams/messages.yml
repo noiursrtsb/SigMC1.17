@@ -449,6 +449,10 @@ help:
   allychat: Send a message only to your allies
   echest: View your teams ender chest
   setwarp: Set a warp for the rest of your team
+  chest:
+    removeall: Remove all claimed chests (useful if you lose track of a chest)
+    claim: Claim the chest you are standing on
+    remove: Removes your teams claim from the chest you are standing on
 helpArg:
   delhome: ''
   echest: ''
@@ -473,7 +477,10 @@ helpArg:
   disband: ''
   info: '[team/player]'
   delwarp: <name> [password]
-  chest: ''
+  chest:
+    removeall: ''
+    claim: ''
+    remove: ''
   neutral: <team>
   pvp: ''
   baltop: ''

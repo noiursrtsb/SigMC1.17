@@ -77,6 +77,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-02-25 12:32:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_fence_gate": {
     "criteria": {
       "has_planks": "2025-02-24 14:01:25 +0000"
@@ -779,6 +785,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-02-24 13:57:27 +0000",
+      "minecraft:magma_cube": "2025-02-25 12:45:29 +0000",
       "minecraft:spider": "2025-02-24 16:33:00 +0000",
       "minecraft:creeper": "2025-02-24 13:21:33 +0000",
       "minecraft:cave_spider": "2025-02-24 19:59:20 +0000",
@@ -790,6 +797,12 @@
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2025-02-24 13:26:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-02-25 12:32:13 +0000"
     },
     "done": true
   },
@@ -1126,6 +1139,12 @@
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2025-02-24 13:30:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_boots": "2025-02-25 12:43:23 +0000"
     },
     "done": true
   },
@@ -1627,6 +1646,12 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:basalt_deltas": "2025-02-25 12:32:13 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/stripped_spruce_wood": {
     "criteria": {
       "has_log": "2025-02-24 13:31:05 +0000"
@@ -1642,6 +1667,12 @@
   "minecraft:recipes/misc/diamond": {
     "criteria": {
       "has_diamond_block": "2025-02-24 13:26:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_boots": "2025-02-25 12:43:23 +0000"
     },
     "done": true
   },

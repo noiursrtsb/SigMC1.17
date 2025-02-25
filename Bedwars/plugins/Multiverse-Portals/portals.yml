@@ -1,0 +1,11 @@
+portals:
+  Survival:
+    entryfee:
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: ysyyayyyayya
+    location: -1.0,4.0,-8.0:3.0,7.0,-8.0
+    world: spawn
+    destination: world

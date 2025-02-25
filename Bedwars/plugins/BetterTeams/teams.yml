@@ -1,0 +1,10 @@
+# This file should not need modification by the user
+storageType: YAML
+teamNameLookup:
+- sig:242e9e9a-a2e6-40e9-b045-7bae400083b5
+- pastry:b44c5e4d-de44-4feb-9ec7-d29a5a040783
+playerLookup:
+- 6b3d7afd-3b1d-39dc-a095-3e261a0d9f09:b44c5e4d-de44-4feb-9ec7-d29a5a040783
+- 7d2e54b2-4ee3-3e32-9a10-89a0004558a0:b44c5e4d-de44-4feb-9ec7-d29a5a040783
+- 6cd4e570-7a49-3521-8e89-4b4b5c6269c5:242e9e9a-a2e6-40e9-b045-7bae400083b5
+chestClaims: []

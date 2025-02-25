@@ -1,0 +1,75 @@
+playerName:
+  homeName:
+    world: world
+    X: 100.5062
+    Y: 60
+    Z: 200.923
+HeyBread:
+  sword:
+    world: world
+    X: 326.69999998807907
+    Y: 67.0
+    Z: 185.5745601679776
+  spawn:
+    world: world
+    X: -29.180854063604666
+    Y: 64.0
+    Z: 38.27981840626123
+  web:
+    world: world
+    X: 230.380824474827
+    Y: 22.0
+    Z: 291.69999998807907
+  neth:
+    world: world_nether
+    X: -62.7136782019914
+    Y: 54.0
+    Z: 3.0832812213740355
+  neth2:
+    world: world_nether
+    X: -1.300000011920909
+    Y: 48.0
+    Z: -46.52468307039781
+iglentoften:
+  '1':
+    world: world
+    X: 424.82149839962574
+    Y: 66.0
+    Z: 751.5325639252542
+  '2':
+    world: world
+    X: 424.3939174675524
+    Y: 78.0
+    Z: 751.6143346766365
+  '3':
+    world: world
+    X: 425.4311690213687
+    Y: 79.0
+    Z: 751.2178863009188
+DoctorDoctorDoc:
+  spider:
+    world: world
+    X: 146.02455553517729
+    Y: 32.0
+    Z: 286.2225626284062
+  lava:
+    world: world
+    X: 66.5186228681986
+    Y: 17.0
+    Z: 289.77298681827494
+Wxterio:
+  '1':
+    world: world
+    X: -10.506234832996498
+    Y: 14.0
+    Z: 88.29684970154574
+  spawn:
+    world: world
+    X: -16.00777403473714
+    Y: 65.0
+    Z: 51.07304909595861
+  entrancetobase:
+    world: world
+    X: -12.034663841312554
+    Y: 63.0
+    Z: 80.8156506609695

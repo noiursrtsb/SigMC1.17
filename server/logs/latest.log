@@ -231,3 +231,70 @@ java.lang.IllegalArgumentException: Team name '5-starwarswatcher' is longer than
 [14:33:43] [Craft Scheduler Thread - 2 - SimpleTpa/INFO]: [SimpleTpa] There is a new update available.
 [14:33:43] [Craft Scheduler Thread - 2 - SimpleTpa/INFO]: [SimpleTpa] There is a new update available:
 [14:33:43] [Craft Scheduler Thread - 2 - SimpleTpa/INFO]: [SimpleTpa] https://www.spigotmc.org/resources/simple-tpa.64270/
+[14:34:14] [User Authenticator #1/INFO]: UUID of player ysyyayyyayya is 6cd4e570-7a49-3521-8e89-4b4b5c6269c5
+[14:34:14] [Server thread/INFO]: ysyyayyyayya joined the game
+[14:34:14] [Server thread/INFO]: ysyyayyyayya[/[0:0:0:0:0:0:0:1]:57676] logged in with entity id 290 at ([spawn]2.016829220423026, 5.0, 1.8544366770340988)
+[14:34:14] [Server thread/WARN]: [Essentials] File motd.txt does not exist. Creating one for you.
+[14:34:14] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|UpdateCert-1.8
+[14:34:14] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FML
+[14:34:14] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|Skins-1.8
+[14:34:14] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FORGE
+[14:34:48] [User Authenticator #1/INFO]: UUID of player Wxterio is a986e90e-8ccc-3883-935b-d44233fe0edc
+[14:34:48] [ForkJoinPool.commonPool-worker-1/INFO]: [Essentials] Created a User for Wxterio (a986e90e-8ccc-3883-935b-d44233fe0edc) for non Bukkit type: org.bukkit.craftbukkit.v1_17_R1.entity.CraftPlayer
+[14:34:48] [Server thread/INFO]: Wxterio joined the game
+[14:34:48] [Server thread/INFO]: Wxterio[/[0:0:0:0:0:0:0:1]:42306] logged in with entity id 339 at ([world]41.17538871655064, 28.0, 78.31382788860275)
+[14:34:48] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|UpdateCert-1.8
+[14:34:48] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FML
+[14:34:48] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|Skins-1.8
+[14:34:48] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FORGE
+[14:34:53] [Server thread/INFO]: ysyyayyyayya issued server command: /gamemode creative
+[14:34:58] [Server thread/ERROR]: No TreeType mapping for TreeGenerator.TreeType.MANGROVE
+[14:34:58] [Server thread/ERROR]: No TreeType mapping for TreeGenerator.TreeType.TALL_MANGROVE
+[14:34:58] [Server thread/ERROR]: No TreeType mapping for TreeGenerator.TreeType.CHERRY
+[14:35:11] [Server thread/INFO]: ysyyayyyayya issued server command: /mv import Lighthouse
+[14:35:22] [Server thread/INFO]: Wxterio issued server command: /home
+[14:35:24] [Server thread/INFO]: ysyyayyyayya issued server command: /mv import Lighthouse Lighthouse
+[14:35:24] [Server thread/INFO]: Wxterio issued server command: /home 1
+[14:35:38] [Server thread/INFO]: ysyyayyyayya issued server command: /mv import Lighthouse normal
+[14:35:38] [Server thread/INFO]: ysyyayyyayya: Starting import of world 'Lighthouse'...
+[14:35:38] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'Lighthouse' - Env: NORMAL - Type: null
+[14:35:38] [Server thread/INFO]: Preparing start region for dimension minecraft:lighthouse
+[14:35:38] [Server thread/INFO]: Preparing spawn area: 0%
+[14:35:38] [Server thread/INFO]: Time elapsed: 97 ms
+[14:35:38] [Server thread/INFO]: ysyyayyyayya: Complete!
+[14:35:44] [Server thread/INFO]: ysyyayyyayya issued server command: /mv tp lighthouse
+[14:35:54] [Server thread/INFO]: ysyyayyyayya issued server command: /gamemode creative
+[14:36:02] [Async Chat Thread - #0/INFO]: [sig] Lighthouse .[OWNER]. ysyyayyyayya [SIGMA]: aaron
+[14:36:06] [Async Chat Thread - #0/INFO]: world .[RICE]. Wxterio {non-admin}: watw
+[14:36:18] [Async Chat Thread - #0/INFO]: [sig] Lighthouse .[OWNER]. ysyyayyyayya [SIGMA]: do u wanna build a bw map?
+[14:36:24] [Async Chat Thread - #0/INFO]: world .[RICE]. Wxterio {non-admin}: if u give me both ranks
+[14:36:28] [Server thread/INFO]: Wxterio tried to swim in lava
+[14:36:34] [Server thread/INFO]: Wxterio issued server command: /home 1
+[14:36:41] [Async Chat Thread - #0/INFO]: [sig] Lighthouse .[OWNER]. ysyyayyyayya [SIGMA]: i will if u build it good
+[14:36:50] [Async Chat Thread - #0/INFO]: world .[RICE]. Wxterio {non-admin}: no u promsed the 2 ranks
+[14:36:55] [Async Chat Thread - #0/INFO]: world .[RICE]. Wxterio {non-admin}: ill help u after u give
+[14:37:04] [Async Chat Thread - #0/INFO]: [sig] Lighthouse .[OWNER]. ysyyayyyayya [SIGMA]: fine
+[14:37:08] [Async Chat Thread - #0/INFO]: [sig] Lighthouse .[OWNER]. ysyyayyyayya [SIGMA]: u design them
+[14:37:30] [Async Chat Thread - #0/INFO]: world .[RICE]. Wxterio {non-admin}: i said
+[14:37:33] [Async Chat Thread - #0/INFO]: world .[RICE]. Wxterio {non-admin}: red and black
+[14:37:40] [Async Chat Thread - #0/INFO]: [sig] Lighthouse .[OWNER]. ysyyayyyayya [SIGMA]: k
+[14:37:40] [Async Chat Thread - #0/INFO]: world .[RICE]. Wxterio {non-admin}: same as ur owner rank
+[14:37:45] [Async Chat Thread - #0/INFO]: world .[RICE]. Wxterio {non-admin}: which is blue and yllw
+[14:37:53] [Async Chat Thread - #0/INFO]: world .[RICE]. Wxterio {non-admin}: like red/black gradient
+[14:38:08] [Async Chat Thread - #0/INFO]: [sig] Lighthouse .[OWNER]. ysyyayyyayya [SIGMA]: FINE
+[14:38:09] [Async Chat Thread - #0/INFO]: [sig] Lighthouse .[OWNER]. ysyyayyyayya [SIGMA]: :(
+[14:38:27] [Server thread/INFO]: ysyyayyyayya issued server command: /essentials
+[14:39:06] [Server thread/INFO]: Wxterio has made the advancement [Isn't It Iron Pick]
+[14:39:14] [Server thread/INFO]: ysyyayyyayya issued server command: /spawn
+[14:39:17] [Server thread/INFO]: ysyyayyyayya issued server command: /spawn
+[14:39:33] [Server thread/INFO]: ysyyayyyayya issued server command: /mv tp spawn
+[14:39:37] [Server thread/INFO]: ysyyayyyayya issued server command: /setspawn
+[14:39:53] [Async Chat Thread - #1/INFO]: [sig] spawn .[OWNER]. ysyyayyyayya [SIGMA]: afk
+[14:40:00] [Server thread/INFO]: ysyyayyyayya issued server command: /gamemode creative
+[14:41:54] [Server thread/INFO]: Wxterio issued server command: /home 1'
+[14:41:56] [Server thread/INFO]: Wxterio issued server command: /hom 1
+[14:41:59] [Server thread/INFO]: Wxterio issued server command: /home 1
+[14:42:38] [Server thread/INFO]: Wxterio issued server command: /spawn
+[14:42:46] [Server thread/INFO]: Wxterio tried to swim in lava
+[14:42:53] [Server thread/INFO]: Wxterio issued server command: /home spawn
+[14:42:57] [Server thread/INFO]: Wxterio issued server command: /sethome spawn

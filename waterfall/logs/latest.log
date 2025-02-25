@@ -244,3 +244,13 @@
 [14:33:02] [Netty Worker IO Thread #5/WARN]: Error occurred processing connection for Wxterio AnnotatedConnectException : finishConnect(..) failed: Connection refused: localhost/127.0.0.1:25565
 [14:33:02] [Netty Worker IO Thread #5/INFO]: [Wxterio] disconnected with: Could not connect to a default or fallback server. Incorrectly configured address/port/firewall? 
 [14:33:02] [Netty Worker IO Thread #5/INFO]: [/[0:0:0:0:0:0:0:1%0]:57508|Wxterio] -> UpstreamBridge has disconnected
+[14:34:13] [Netty Worker IO Thread #6/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:34144]: Connected via websocket
+[14:34:13] [Netty Worker IO Thread #6/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:34144]: Origin header is https://nolanderlauncherdelta-ozj8.vercel.app
+[14:34:14] [Netty Worker IO Thread #6/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:34144]: Logged in as 'ysyyayyyayya'
+[14:34:14] [Netty Worker IO Thread #6/INFO]: [/[0:0:0:0:0:0:0:1%0]:34144|ysyyayyyayya] -> UpstreamBridge has connected
+[14:34:14] [Netty Worker IO Thread #6/INFO]: [ysyyayyyayya|/[0:0:0:0:0:0:0:1%0]:34144] <-> ServerConnector [lobby] has connected
+[14:34:47] [Netty Worker IO Thread #7/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:35518]: Connected via websocket
+[14:34:47] [Netty Worker IO Thread #7/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:35518]: Origin header is https://nolanderlauncherdelta-ozj8.vercel.app
+[14:34:47] [Netty Worker IO Thread #7/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:35518]: Logged in as 'Wxterio'
+[14:34:47] [Netty Worker IO Thread #7/INFO]: [/[0:0:0:0:0:0:0:1%0]:35518|Wxterio] -> UpstreamBridge has connected
+[14:34:47] [Netty Worker IO Thread #7/INFO]: [Wxterio|/[0:0:0:0:0:0:0:1%0]:35518] <-> ServerConnector [lobby] has connected

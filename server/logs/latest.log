@@ -1,5 +1,5 @@
-[13:22:36] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[13:22:36] [main/FATAL]: Failed to start the minecraft server
+[13:23:40] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[13:23:40] [main/FATAL]: Failed to start the minecraft server
 net.minecraft.util.SessionLock$ExceptionWorldConflict: /workspaces/SigMC1.17/server/./world/session.lock: already locked (possibly by other Minecraft instance?)
 	at net.minecraft.util.DirectoryLock$LockException.alreadyLocked(DirectoryLock.java:98) ~[app:?]
 	at net.minecraft.util.DirectoryLock.create(DirectoryLock.java:44) ~[app:?]

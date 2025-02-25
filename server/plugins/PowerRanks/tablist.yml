@@ -1,10 +1,10 @@
 sorting:
   enabled: true
   reverse: false
-  update-interval: 5
+  update-interval: 5.0
 header-footer:
   enabled: true
-  update-interval: 1
+  update-interval: 1.0
   header:
   - '{animation:demo}'
   - ''
@@ -15,7 +15,7 @@ header-footer:
   - '[gradient=#5ffb15,#b8fd24]default header footer, change in tablist.yml[/gradient]'
   animations:
     demo:
-      delay: 5
+      delay: 5.0
       frames:
       - '#f6fb00P#f7df05o#f8c30aw#f8a70fe#f98b14r#fa701aR#fb541fa#fb3824n#fc1c29k#fd002es'
       - '#f6fb00P#f7df05o#f8c30aw#f8a70fe#f98b14r#fa701aR#fb541fa#fb3824n#fc1c29k#fd002es'

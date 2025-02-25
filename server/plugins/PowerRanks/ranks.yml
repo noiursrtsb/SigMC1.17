@@ -76,3 +76,16 @@ Member:
   default: true
   prefix: '[gradient=#127e00,#3eaf18]MEMBER[/gradient]'
   suffix: ''
+starwarswatcher:
+  permissions: []
+  inheritances: []
+  weight: 0
+  namecolor: ''
+  chatcolor: ''
+  buyableRanks: []
+  buyCost: 0.0
+  buyDescription: ''
+  buyCommand: ''
+  default: false
+  prefix: '&k.&r[starwarswatcher]&k.'
+  suffix: '{doctor}'

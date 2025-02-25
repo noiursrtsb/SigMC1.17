@@ -12,7 +12,7 @@ players:
 - 6b3d7afd-3b1d-39dc-a095-3e261a0d9f09,OWNER
 level: 1
 tag: ''
-score: 0
+score: 1
 echest:
   '5':
     ==: org.bukkit.inventory.ItemStack
@@ -103,16 +103,6 @@ echest:
     v: 2730
     type: COBBLESTONE
     amount: 4
-  '21':
-    ==: org.bukkit.inventory.ItemStack
-    v: 2730
-    type: OAK_PLANKS
-    amount: 64
-  '22':
-    ==: org.bukkit.inventory.ItemStack
-    v: 2730
-    type: OAK_PLANKS
-    amount: 64
   '23':
     ==: org.bukkit.inventory.ItemStack
     v: 2730
@@ -140,7 +130,7 @@ echest:
     meta:
       ==: ItemMeta
       meta-type: UNSPECIFIC
-      Damage: 394
+      Damage: 395
   '4':
     ==: org.bukkit.inventory.ItemStack
     v: 2730

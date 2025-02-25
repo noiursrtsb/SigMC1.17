@@ -537,3 +537,190 @@ java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Bukkit.getOn
 [12:49:25] [Server thread/INFO]: DoctorDoctorDoc left the game
 [12:49:42] [Server thread/INFO]: iglentoften lost connection: Disconnected
 [12:49:42] [Server thread/INFO]: iglentoften left the game
+[12:54:08] [User Authenticator #12/INFO]: UUID of player DoctorDoctorDoc is 7d2e54b2-4ee3-3e32-9a10-89a0004558a0
+[12:54:08] [Server thread/INFO]: DoctorDoctorDoc joined the game
+[12:54:08] [Server thread/INFO]: DoctorDoctorDoc[/[0:0:0:0:0:0:0:1]:38082] logged in with entity id 5819 at ([world]226.69999998807907, 10.0, 283.69999998807907)
+[12:54:09] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|UpdateCert-1.8
+[12:54:09] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FML
+[12:54:09] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|Skins-1.8
+[12:54:09] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FORGE
+[12:54:25] [Async Chat Thread - #8/INFO]: [sig] tarkhine .[OWNER]. ysyyayyyayya [SIGMA]: hi
+[12:54:44] [User Authenticator #12/INFO]: UUID of player HeyBread is 6b3d7afd-3b1d-39dc-a095-3e261a0d9f09
+[12:54:44] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|UpdateCert-1.8
+[12:54:44] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FML
+[12:54:44] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|Skins-1.8
+[12:54:44] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FORGE
+[12:54:44] [Server thread/INFO]: HeyBread joined the game
+[12:54:44] [Server thread/INFO]: HeyBread[/[0:0:0:0:0:0:0:1]:48808] logged in with entity id 5994 at ([world]222.69999998807907, 15.0, 265.2835503659223)
+[12:54:44] [Server thread/INFO]: ysyyayyyayya issued server command: /pr webeditor start
+[12:55:18] [Server thread/INFO]: HeyBread issued server command: /team echest
+[12:56:04] [Server thread/INFO]: HeyBread issued server command: /team echest
+[12:57:20] [Server thread/INFO]: ysyyayyyayya issued server command: /pr we load jamehomo
+[12:57:24] [User Authenticator #13/INFO]: UUID of player shmewy is 6bbfd62a-11c5-3ebe-af17-977c16173e90
+[12:57:24] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|UpdateCert-1.8
+[12:57:24] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FML
+[12:57:24] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|Skins-1.8
+[12:57:24] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FORGE
+[12:57:24] [Server thread/INFO]: shmewy joined the game
+[12:57:24] [Server thread/INFO]: shmewy[/[0:0:0:0:0:0:0:1]:53152] logged in with entity id 6405 at ([world]6.277152399106552, 31.0, 8.403132887163087)
+[12:57:24] [Server thread/WARN]: [PowerRanks] Task #2 for PowerRanks v1.10.10 generated an exception
+java.lang.IllegalArgumentException: Team name '5-starwarswatcher' is longer than the limit of 16 characters
+	at org.apache.commons.lang.Validate.isTrue(Validate.java:136) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at org.bukkit.craftbukkit.v1_17_R1.scoreboard.CraftScoreboard.registerNewTeam(CraftScoreboard.java:203) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at nl.svenar.powerranks.bukkit.data.TablistManager$1.run(TablistManager.java:109) ~[PowerRanks.jar:?]
+	at org.bukkit.craftbukkit.v1_17_R1.scheduler.CraftTask.run(CraftTask.java:101) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at org.bukkit.craftbukkit.v1_17_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:483) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1591) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:528) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1507) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1300) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:322) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[12:57:32] [Async Chat Thread - #9/INFO]: [sig] tarkhine .[OWNER]. ysyyayyyayya [SIGMA]: henry'
+[12:57:32] [Async Chat Thread - #9/INFO]: [sig] tarkhine .[OWNER]. ysyyayyyayya [SIGMA]: henry'
+[12:57:33] [Async Chat Thread - #9/INFO]: [sig] tarkhine .[OWNER]. ysyyayyyayya [SIGMA]: henry'
+[12:57:34] [Async Chat Thread - #9/INFO]: [sig] tarkhine .[OWNER]. ysyyayyyayya [SIGMA]: henry'
+[12:57:35] [Async Chat Thread - #9/INFO]: [sig] tarkhine .[OWNER]. ysyyayyyayya [SIGMA]: henry'
+[12:57:35] [Server thread/INFO]: DoctorDoctorDoc lost connection: Disconnected
+[12:57:35] [Server thread/INFO]: DoctorDoctorDoc left the game
+[12:57:38] [Async Chat Thread - #9/INFO]: [pastry] world ADMIN HeyBread: ?
+[12:57:45] [Async Chat Thread - #9/INFO]: [sig] tarkhine .[OWNER]. ysyyayyyayya [SIGMA]: i gave him his ranl
+[12:57:58] [Async Chat Thread - #9/INFO]: [pastry] world ADMIN HeyBread: ill tell him
+[12:58:31] [Server thread/INFO]: HeyBread issued server command: /team echest
+[12:59:13] [Server thread/INFO]: HeyBread issued server command: /team echest
+[12:59:23] [Server thread/INFO]: ysyyayyyayya issued server command: /tp heybread
+[12:59:23] [Server thread/INFO]: [ysyyayyyayya: Teleported ysyyayyyayya to HeyBread]
+[12:59:26] [User Authenticator #14/INFO]: UUID of player DoctorDoctorDoc is 7d2e54b2-4ee3-3e32-9a10-89a0004558a0
+[12:59:26] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|UpdateCert-1.8
+[12:59:26] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FML
+[12:59:26] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|Skins-1.8
+[12:59:26] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FORGE
+[12:59:26] [Server thread/INFO]: DoctorDoctorDoc joined the game
+[12:59:26] [Server thread/INFO]: DoctorDoctorDoc[/[0:0:0:0:0:0:0:1]:44138] logged in with entity id 6906 at ([world_nether]27.435426812587895, 58.0, 34.45138655955206)
+[12:59:26] [Craft Scheduler Thread - 17 - BetterTeams/ERROR]: Could not register the team name in the tab menu due to a conflict, see https://github.com/booksaw/BetterTeams/wiki/Managing-the-TAB-Menu error:Unregistered scoreboard component
+[12:59:35] [Async Chat Thread - #10/INFO]: [sig] world .[OWNER]. ysyyayyyayya [SIGMA]: henry
+[12:59:39] [Async Chat Thread - #10/INFO]: [sig] world .[OWNER]. ysyyayyyayya [SIGMA]: u got ur ank
+[12:59:42] [Async Chat Thread - #10/INFO]: world [LOWTAPERFADE] shmewy {RICE}: rizz
+[12:59:43] [Server thread/INFO]: ysyyayyyayya fell from a high place
+[12:59:44] [Async Chat Thread - #10/INFO]: [pastry] world_nether .[starwarswatcher]. DoctorDoctorDoc {doctor}: thanks king landon
+[12:59:44] [Async Chat Thread - #10/INFO]: [pastry] world ADMIN HeyBread: lol
+[12:59:51] [Async Chat Thread - #10/INFO]: [pastry] world ADMIN HeyBread: free lootttt
+[12:59:52] [Server thread/INFO]: ysyyayyyayya issued server command: /back
+[12:59:59] [Async Chat Thread - #10/INFO]: [pastry] world_nether .[starwarswatcher]. DoctorDoctorDoc {doctor}: yo what?
+[13:00:00] [Server thread/INFO]: ysyyayyyayya issued server command: /gamemode creative
+[13:00:00] [Server thread/INFO]: [ysyyayyyayya: Set own game mode to Creative Mode]
+[13:00:17] [Async Chat Thread - #10/INFO]: [pastry] world ADMIN HeyBread: cheater
+[13:00:18] [Async Chat Thread - #10/INFO]: [pastry] world ADMIN HeyBread: STOP
+[13:00:21] [Async Chat Thread - #10/INFO]: [sig] world .[OWNER]. ysyyayyyayya [SIGMA]: lol
+[13:00:23] [Server thread/INFO]: HeyBread lost connection: Disconnected
+[13:00:23] [Server thread/INFO]: HeyBread left the game
+[13:00:31] [User Authenticator #15/INFO]: UUID of player HeyBread is 6b3d7afd-3b1d-39dc-a095-3e261a0d9f09
+[13:00:31] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|UpdateCert-1.8
+[13:00:31] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FML
+[13:00:31] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|Skins-1.8
+[13:00:31] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FORGE
+[13:00:31] [Server thread/INFO]: HeyBread joined the game
+[13:00:31] [Server thread/INFO]: HeyBread[/[0:0:0:0:0:0:0:1]:34596] logged in with entity id 7260 at ([world]229.3749134316221, 10.0, 284.1485712443394)
+[13:00:31] [Craft Scheduler Thread - 12 - BetterTeams/ERROR]: Could not register the team name in the tab menu due to a conflict, see https://github.com/booksaw/BetterTeams/wiki/Managing-the-TAB-Menu error:Unregistered scoreboard component
+[13:00:34] [Server thread/INFO]: HeyBread lost connection: Disconnected
+[13:00:34] [Server thread/INFO]: HeyBread left the game
+[13:04:02] [User Authenticator #16/INFO]: UUID of player MRC1000 is a5a25101-585a-3364-a64b-c22f9e5267be
+[13:04:02] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|UpdateCert-1.8
+[13:04:02] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FML
+[13:04:02] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|Skins-1.8
+[13:04:02] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FORGE
+[13:04:02] [Server thread/INFO]: MRC1000 joined the game
+[13:04:02] [Server thread/INFO]: MRC1000[/[0:0:0:0:0:0:0:1]:37080] logged in with entity id 8277 at ([world]203.0023862640497, 75.0, 217.6516438339536)
+[13:04:14] [Async Chat Thread - #11/INFO]: world ..[SIGMA].. MRC1000 {CHUNGLE}: wsg fellas
+[13:04:22] [User Authenticator #16/INFO]: UUID of player iglentoften is 1f39864e-1ba8-32ee-b3a0-299113502435
+[13:04:22] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|UpdateCert-1.8
+[13:04:22] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FML
+[13:04:22] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|Skins-1.8
+[13:04:22] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FORGE
+[13:04:22] [Server thread/INFO]: iglentoften joined the game
+[13:04:22] [Server thread/INFO]: iglentoften[/[0:0:0:0:0:0:0:1]:47632] logged in with entity id 8388 at ([tarkhine]9.5, -69.48506248403126, 8.5)
+[13:04:27] [Server thread/INFO]: iglentoften fell out of the world
+[13:04:28] [Async Chat Thread - #11/INFO]: world ..[SIGMA].. MRC1000 {CHUNGLE}: hey andrew
+[13:04:31] [Async Chat Thread - #11/INFO]: tarkhine ADMIN iglentoften: hey
+[13:04:33] [Async Chat Thread - #11/INFO]: tarkhine ADMIN iglentoften: im glitched
+[13:04:34] [Async Chat Thread - #11/INFO]: world ..[SIGMA].. MRC1000 {CHUNGLE}: my game is tweaking wtf
+[13:04:34] [Server thread/INFO]: iglentoften fell out of the world
+[13:04:34] [Server thread/INFO]: MRC1000 was slain by Zombie
+[13:04:43] [Server thread/INFO]: iglentoften fell out of the world
+[13:04:52] [Server thread/INFO]: iglentoften fell out of the world
+[13:04:58] [Server thread/INFO]: iglentoften lost connection: Disconnected
+[13:04:58] [Server thread/INFO]: iglentoften left the game
+[13:05:24] [Async Chat Thread - #11/INFO]: world ..[SIGMA].. MRC1000 {CHUNGLE}: fuck off zombie
+[13:05:24] [Server thread/INFO]: MRC1000 was slain by Zombie
+[13:05:35] [Async Chat Thread - #11/INFO]: world ..[SIGMA].. MRC1000 {CHUNGLE}: IM GETTING RAPED
+[13:05:55] [Server thread/INFO]: MRC1000 was slain by Zombie
+[13:06:40] [Server thread/INFO]: MRC1000 was slain by Zombie
+[13:07:48] [Server thread/INFO]: MRC1000 lost connection: Timed out
+[13:07:48] [Server thread/INFO]: MRC1000 left the game
+[13:09:31] [Async Chat Thread - #12/INFO]: [sig] world .[OWNER]. ysyyayyyayya [SIGMA]: sry
+[13:09:39] [Async Chat Thread - #12/INFO]: [sig] world .[OWNER]. ysyyayyyayya [SIGMA]: im restarting da server
+[13:09:45] [Server thread/INFO]: ysyyayyyayya issued server command: /stop
+[13:09:45] [Server thread/INFO]: [ysyyayyyayya: Stopping the server]
+[13:09:45] [Server thread/INFO]: Stopping server
+[13:09:45] [Server thread/INFO]: [Multiverse-Portals] Disabling Multiverse-Portals v4.2.3
+[13:09:45] [Server thread/INFO]: [ViaRewind-Legacy-Support] Disabling ViaRewind-Legacy-Support v1.4.2
+[13:09:45] [Server thread/INFO]: [Multiverse-Inventories] Disabling Multiverse-Inventories v4.2.6
+[13:09:45] [Server thread/INFO]: [ViaRewind] Disabling ViaRewind v3.0.6
+[13:09:45] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v4.3.14
+[13:09:45] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v4.9.2
+[13:09:45] [Server thread/INFO]: [ServersNPC] Disabling ServersNPC v5.0
+[13:09:45] [Server thread/INFO]: [PowerRanks] Disabling PowerRanks v1.10.10
+[13:09:45] [Server thread/INFO]: [PowerRanks] Disabled PowerRanks v1.10.10
+[13:09:45] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v4.9.3
+[13:09:45] [Server thread/INFO]: [ViaVersion] ViaVersion is disabling, if this is a reload and you experience issues consider rebooting.
+[13:09:45] [Server thread/INFO]: [SimpleHomes] Disabling SimpleHomes v2.2
+[13:09:45] [Server thread/INFO]: [LoginSecurity] Disabling LoginSecurity v3.2.0
+[13:09:45] [Server thread/INFO]: [LoginSecurity] Waiting for queued tasks...
+[13:09:45] [Server thread/INFO]: [LoginSecurity] ExecutorService shut down, ready to disable.
+[13:09:45] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.2.20+6667-f0f1e66
+[13:09:45] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[13:09:45] [Server thread/INFO]: [BetterTeams] Disabling BetterTeams v4.11.0
+[13:09:45] [Server thread/ERROR]: Error occurred while disabling BetterTeams v4.11.0 (Is it up to date?)
+java.lang.IllegalStateException: Unregistered scoreboard component
+	at org.bukkit.craftbukkit.v1_17_R1.scoreboard.CraftTeam.checkState(CraftTeam.java:338) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at org.bukkit.craftbukkit.v1_17_R1.scoreboard.CraftTeam.hasEntry(CraftTeam.java:258) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at com.booksaw.betterTeams.events.MCTeamManagement.remove(MCTeamManagement.java:114) ~[BetterTeams-4.11.0.jar:?]
+	at com.booksaw.betterTeams.events.MCTeamManagement.removeAll(MCTeamManagement.java:74) ~[BetterTeams-4.11.0.jar:?]
+	at com.booksaw.betterTeams.Main.onDisable(Main.java:153) ~[BetterTeams-4.11.0.jar:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:266) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at org.bukkit.plugin.java.JavaPluginLoader.disablePlugin(JavaPluginLoader.java:399) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at org.bukkit.plugin.SimplePluginManager.disablePlugin(SimplePluginManager.java:537) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at org.bukkit.plugin.SimplePluginManager.disablePlugins(SimplePluginManager.java:514) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at org.bukkit.craftbukkit.v1_17_R1.CraftServer.disablePlugins(CraftServer.java:495) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at net.minecraft.server.MinecraftServer.stopServer(MinecraftServer.java:1064) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at net.minecraft.server.dedicated.DedicatedServer.stopServer(DedicatedServer.java:855) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1356) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:322) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[13:09:45] [Server thread/INFO]: [SimpleTpa] Disabling SimpleTpa v6.4
+[13:09:45] [Server thread/INFO]: [SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9
+[13:09:45] [Server thread/INFO]: [SimpleTpa] Simple Tpa has been disabled on version 6.4
+[13:09:45] [Server thread/INFO]: Saving players
+[13:09:45] [Server thread/INFO]: shmewy lost connection: Server closed
+[13:09:45] [Server thread/INFO]: shmewy left the game
+[13:09:45] [Server thread/INFO]: DoctorDoctorDoc lost connection: Server closed
+[13:09:45] [Server thread/INFO]: DoctorDoctorDoc left the game
+[13:09:45] [Server thread/INFO]: ysyyayyyayya lost connection: Server closed
+[13:09:45] [Server thread/INFO]: ysyyayyyayya left the game
+[13:09:45] [Server thread/INFO]: Saving worlds
+[13:09:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[13:09:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[13:09:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[13:09:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Bedwars]'/minecraft:bedwars
+[13:09:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[spawn]'/minecraft:spawn
+[13:09:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[tarkhine]'/minecraft:tarkhine
+[13:09:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[13:09:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13:09:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13:09:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (Bedwars): All chunks are saved
+[13:09:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (spawn): All chunks are saved
+[13:09:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (tarkhine): All chunks are saved
+[13:09:45] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[13:09:45] [Server thread/INFO]: Flushing Chunk IO
+[13:09:45] [Server thread/INFO]: Closing Thread Pool
+[13:09:45] [Server thread/INFO]: Closing Server

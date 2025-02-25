@@ -12,7 +12,7 @@ players:
 - 6b3d7afd-3b1d-39dc-a095-3e261a0d9f09,OWNER
 level: 1
 tag: ''
-score: 0
+score: 3
 echest:
   '5':
     ==: org.bukkit.inventory.ItemStack
@@ -29,11 +29,6 @@ echest:
     v: 2730
     type: LAPIS_LAZULI
     amount: 64
-  '6':
-    ==: org.bukkit.inventory.ItemStack
-    v: 2730
-    type: IRON_INGOT
-    amount: 45
   '7':
     ==: org.bukkit.inventory.ItemStack
     v: 2730
@@ -103,34 +98,11 @@ echest:
     v: 2730
     type: COBBLESTONE
     amount: 4
-  '23':
-    ==: org.bukkit.inventory.ItemStack
-    v: 2730
-    type: OAK_PLANKS
-    amount: 29
   '1':
     ==: org.bukkit.inventory.ItemStack
     v: 2730
     type: GOLD_INGOT
     amount: 8
-  '24':
-    ==: org.bukkit.inventory.ItemStack
-    v: 2730
-    type: FLINT
-    amount: 4
-  '0':
-    ==: org.bukkit.inventory.ItemStack
-    v: 2730
-    type: OBSIDIAN
-    amount: 10
-  '25':
-    ==: org.bukkit.inventory.ItemStack
-    v: 2730
-    type: DIAMOND_PICKAXE
-    meta:
-      ==: ItemMeta
-      meta-type: UNSPECIFIC
-      Damage: 395
   '4':
     ==: org.bukkit.inventory.ItemStack
     v: 2730

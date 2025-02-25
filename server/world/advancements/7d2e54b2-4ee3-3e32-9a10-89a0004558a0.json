@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-02-25 15:23:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_door": {
     "criteria": {
       "has_planks": "2025-02-24 14:01:25 +0000"
@@ -257,6 +263,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-02-25 15:23:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2025-02-24 17:02:29 +0000"
@@ -278,6 +290,12 @@
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2025-02-24 13:23:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2025-02-25 15:20:34 +0000"
     },
     "done": true
   },
@@ -309,6 +327,7 @@
     "criteria": {
       "cooked_beef": "2025-02-24 13:20:18 +0000",
       "beef": "2025-02-24 13:59:03 +0000",
+      "rabbit": "2025-02-25 15:24:09 +0000",
       "bread": "2025-02-24 13:31:40 +0000",
       "rotten_flesh": "2025-02-24 13:19:10 +0000"
     },
@@ -317,6 +336,12 @@
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2025-02-24 12:19:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-02-25 15:23:21 +0000"
     },
     "done": true
   },
@@ -470,6 +495,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-02-25 15:23:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-02-24 17:11:18 +0000"
@@ -521,6 +552,12 @@
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2025-02-24 13:26:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-02-25 15:23:35 +0000"
     },
     "done": true
   },
@@ -599,6 +636,12 @@
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2025-02-24 16:37:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2025-02-25 15:20:34 +0000"
     },
     "done": true
   },
@@ -794,6 +837,7 @@
       "minecraft:magma_cube": "2025-02-25 12:45:29 +0000",
       "minecraft:spider": "2025-02-24 16:33:00 +0000",
       "minecraft:creeper": "2025-02-24 13:21:33 +0000",
+      "minecraft:zombified_piglin": "2025-02-25 15:24:05 +0000",
       "minecraft:cave_spider": "2025-02-24 19:59:20 +0000",
       "minecraft:stray": "2025-02-24 13:23:09 +0000",
       "minecraft:zombie": "2025-02-24 13:23:29 +0000"
@@ -911,6 +955,12 @@
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2025-02-24 13:16:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-02-25 15:23:21 +0000"
     },
     "done": true
   },
@@ -1127,6 +1177,12 @@
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_poppy": "2025-02-24 13:30:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-02-25 15:23:20 +0000"
     },
     "done": true
   },
@@ -1382,6 +1438,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2025-02-25 15:20:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-02-24 14:00:19 +0000"
@@ -1439,6 +1501,12 @@
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2025-02-24 12:20:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-02-25 15:23:35 +0000"
     },
     "done": true
   },
@@ -1604,6 +1672,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-02-25 15:23:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2025-02-24 13:23:40 +0000"
@@ -1660,6 +1734,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:nether_wastes": "2025-02-25 15:23:10 +0000",
       "minecraft:basalt_deltas": "2025-02-25 12:32:13 +0000"
     },
     "done": false

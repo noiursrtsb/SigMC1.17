@@ -16,7 +16,15 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 0
-  login: 1740494088288
+  logout: 1740498914338
+  login: 1740498654879
 money: '0'
 last-account-name: Wxterio
+logoutlocation:
+  world: 835fa24e-bfa1-45aa-821d-8e5015e99e57
+  world-name: world
+  x: 15.82870123890752
+  y: 16.0
+  z: 26.657900273288742
+  yaw: -54.66849136352539
+  pitch: 25.177310943603516

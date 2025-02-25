@@ -1047,7 +1047,9 @@
     "criteria": {
       "minecraft:snowy_mountains": "2025-02-23 19:20:02 +0000",
       "minecraft:forest": "2025-02-23 17:55:43 +0000",
+      "minecraft:desert_hills": "2025-02-25 14:50:14 +0000",
       "minecraft:snowy_tundra": "2025-02-23 18:00:25 +0000",
+      "minecraft:desert": "2025-02-25 14:49:18 +0000",
       "minecraft:frozen_river": "2025-02-23 19:20:01 +0000",
       "minecraft:jungle": "2025-02-25 14:35:44 +0000",
       "minecraft:snowy_beach": "2025-02-24 00:25:47 +0000",
@@ -1094,6 +1096,12 @@
   "minecraft:recipes/decorations/magenta_banner": {
     "criteria": {
       "has_magenta_wool": "2025-02-24 23:07:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-02-25 15:14:11 +0000"
     },
     "done": true
   },

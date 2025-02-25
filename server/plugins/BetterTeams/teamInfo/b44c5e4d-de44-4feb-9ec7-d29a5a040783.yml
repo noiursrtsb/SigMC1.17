@@ -12,7 +12,7 @@ players:
 - 6b3d7afd-3b1d-39dc-a095-3e261a0d9f09,OWNER
 level: 1
 tag: ''
-score: 1
+score: 0
 echest:
   '5':
     ==: org.bukkit.inventory.ItemStack

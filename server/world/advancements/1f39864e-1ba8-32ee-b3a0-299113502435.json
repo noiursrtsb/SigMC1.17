@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-02-25 14:07:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2025-02-24 15:45:39 +0000"
@@ -332,6 +338,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2025-02-24 19:24:04 +0000",
+      "cooked_beef": "2025-02-25 14:04:45 +0000",
       "rotten_flesh": "2025-02-24 18:09:33 +0000",
       "cooked_rabbit": "2025-02-24 19:26:58 +0000"
     },
@@ -463,6 +470,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-02-25 14:07:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-02-24 17:21:57 +0000"
@@ -565,6 +578,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-02-25 14:03:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2025-02-24 17:26:57 +0000"
@@ -579,7 +598,9 @@
       "minecraft:frozen_river": "2025-02-24 15:36:44 +0000",
       "minecraft:snowy_beach": "2025-02-24 19:31:11 +0000",
       "minecraft:beach": "2025-02-24 18:23:59 +0000",
-      "minecraft:river": "2025-02-24 15:36:41 +0000"
+      "minecraft:river": "2025-02-24 15:36:41 +0000",
+      "minecraft:snowy_taiga": "2025-02-25 14:06:48 +0000",
+      "minecraft:snowy_taiga_hills": "2025-02-25 14:10:08 +0000"
     },
     "done": false
   },
@@ -831,6 +852,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-02-25 14:03:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2025-02-24 17:25:56 +0000"
@@ -864,6 +891,12 @@
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-02-24 17:21:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-02-25 14:03:16 +0000"
     },
     "done": true
   },
@@ -936,6 +969,12 @@
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-02-24 15:47:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-02-25 14:07:18 +0000"
     },
     "done": true
   },

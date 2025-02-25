@@ -1,40 +1,40 @@
-[13:45:37] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[13:45:38] [main/INFO]: Reloading ResourceManager: Default, bukkit
-[13:45:38] [Worker-Main-1/INFO]: Loaded 7 recipes
-[13:45:39] [Server thread/INFO]: Starting minecraft server version 1.17.1
-[13:45:39] [Server thread/INFO]: Loading properties
-[13:45:39] [Server thread/INFO]: This server is running Purpur version git-Purpur-1428 (MC: 1.17.1) (Implementing API version 1.17.1-R0.1-SNAPSHOT) (Git: 9beb23b on ver/1.17.1)
-[13:45:39] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[13:45:39] [Server thread/INFO]: Using 4 threads for Netty based IO
-[13:45:40] [Server thread/INFO]: Default game type: SURVIVAL
-[13:45:40] [Server thread/INFO]: Generating keypair
-[13:45:40] [Server thread/INFO]: Starting Minecraft server on *:25565
-[13:45:40] [Server thread/INFO]: Using epoll channel type
-[13:45:40] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[13:45:40] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[13:45:40] [Server thread/ERROR]: (org.bukkit.craftbukkit.v1_17_R1.legacy.CraftLegacy:259) Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
-[13:45:44] [Server thread/WARN]: Legacy plugin SimpleTpa v6.4 does not specify an api-version.
-[13:45:44] [Server thread/INFO]: [Citizens] Loading 5 libraries... please wait
-[13:45:44] [Server thread/INFO]: [Citizens] Loaded library /workspaces/SigMC1.17/server/libraries/ch/ethz/globis/phtree/phtree/2.8.1/phtree-2.8.1.jar
-[13:45:44] [Server thread/INFO]: [Citizens] Loaded library /workspaces/SigMC1.17/server/libraries/org/joml/joml/1.10.8/joml-1.10.8.jar
-[13:45:44] [Server thread/INFO]: [Citizens] Loaded library /workspaces/SigMC1.17/server/libraries/it/unimi/dsi/fastutil/8.5.15/fastutil-8.5.15.jar
-[13:45:44] [Server thread/INFO]: [Citizens] Loaded library /workspaces/SigMC1.17/server/libraries/net/kyori/adventure-platform-bukkit/4.3.3/adventure-platform-bukkit-4.3.3.jar
-[13:45:44] [Server thread/INFO]: [Citizens] Loaded library /workspaces/SigMC1.17/server/libraries/net/kyori/adventure-platform-api/4.3.3/adventure-platform-api-4.3.3.jar
-[13:45:44] [Server thread/INFO]: [Citizens] Loaded library /workspaces/SigMC1.17/server/libraries/net/kyori/adventure-text-serializer-bungeecord/4.3.3/adventure-text-serializer-bungeecord-4.3.3.jar
-[13:45:44] [Server thread/INFO]: [Citizens] Loaded library /workspaces/SigMC1.17/server/libraries/net/kyori/adventure-text-serializer-legacy/4.13.1/adventure-text-serializer-legacy-4.13.1.jar
-[13:45:44] [Server thread/INFO]: [Citizens] Loaded library /workspaces/SigMC1.17/server/libraries/net/kyori/adventure-nbt/4.13.1/adventure-nbt-4.13.1.jar
-[13:45:44] [Server thread/INFO]: [Citizens] Loaded library /workspaces/SigMC1.17/server/libraries/net/kyori/examination-api/1.3.0/examination-api-1.3.0.jar
-[13:45:44] [Server thread/INFO]: [Citizens] Loaded library /workspaces/SigMC1.17/server/libraries/net/kyori/examination-string/1.3.0/examination-string-1.3.0.jar
-[13:45:44] [Server thread/INFO]: [Citizens] Loaded library /workspaces/SigMC1.17/server/libraries/org/jetbrains/annotations/24.0.1/annotations-24.0.1.jar
-[13:45:44] [Server thread/INFO]: [Citizens] Loaded library /workspaces/SigMC1.17/server/libraries/net/kyori/adventure-text-serializer-gson/4.13.1/adventure-text-serializer-gson-4.13.1.jar
-[13:45:44] [Server thread/INFO]: [Citizens] Loaded library /workspaces/SigMC1.17/server/libraries/net/kyori/adventure-text-serializer-gson-legacy-impl/4.13.1/adventure-text-serializer-gson-legacy-impl-4.13.1.jar
-[13:45:44] [Server thread/INFO]: [Citizens] Loaded library /workspaces/SigMC1.17/server/libraries/net/kyori/adventure-platform-facet/4.3.3/adventure-platform-facet-4.3.3.jar
-[13:45:44] [Server thread/INFO]: [Citizens] Loaded library /workspaces/SigMC1.17/server/libraries/net/kyori/adventure-platform-viaversion/4.3.3/adventure-platform-viaversion-4.3.3.jar
-[13:45:44] [Server thread/INFO]: [Citizens] Loaded library /workspaces/SigMC1.17/server/libraries/net/kyori/adventure-text-minimessage/4.17.0/adventure-text-minimessage-4.17.0.jar
-[13:45:44] [Server thread/INFO]: [Citizens] Loaded library /workspaces/SigMC1.17/server/libraries/net/kyori/adventure-api/4.17.0/adventure-api-4.17.0.jar
-[13:45:44] [Server thread/INFO]: [Citizens] Loaded library /workspaces/SigMC1.17/server/libraries/net/kyori/adventure-key/4.17.0/adventure-key-4.17.0.jar
-[13:45:44] [Server thread/WARN]: Legacy plugin SimpleHomes v2.2 does not specify an api-version.
-[13:45:44] [Server thread/ERROR]: Could not load 'plugins/LifeSteal-1.9.3.jar' in folder 'plugins'
+[13:53:07] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[13:53:08] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[13:53:08] [Worker-Main-1/INFO]: Loaded 7 recipes
+[13:53:10] [Server thread/INFO]: Starting minecraft server version 1.17.1
+[13:53:10] [Server thread/INFO]: Loading properties
+[13:53:10] [Server thread/INFO]: This server is running Purpur version git-Purpur-1428 (MC: 1.17.1) (Implementing API version 1.17.1-R0.1-SNAPSHOT) (Git: 9beb23b on ver/1.17.1)
+[13:53:10] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[13:53:10] [Server thread/INFO]: Using 4 threads for Netty based IO
+[13:53:10] [Server thread/INFO]: Default game type: SURVIVAL
+[13:53:10] [Server thread/INFO]: Generating keypair
+[13:53:10] [Server thread/INFO]: Starting Minecraft server on *:25565
+[13:53:10] [Server thread/INFO]: Using epoll channel type
+[13:53:10] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[13:53:10] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[13:53:11] [Server thread/ERROR]: (org.bukkit.craftbukkit.v1_17_R1.legacy.CraftLegacy:259) Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[13:53:14] [Server thread/WARN]: Legacy plugin SimpleTpa v6.4 does not specify an api-version.
+[13:53:14] [Server thread/INFO]: [Citizens] Loading 5 libraries... please wait
+[13:53:14] [Server thread/INFO]: [Citizens] Loaded library /workspaces/SigMC1.17/server/libraries/ch/ethz/globis/phtree/phtree/2.8.1/phtree-2.8.1.jar
+[13:53:14] [Server thread/INFO]: [Citizens] Loaded library /workspaces/SigMC1.17/server/libraries/org/joml/joml/1.10.8/joml-1.10.8.jar
+[13:53:14] [Server thread/INFO]: [Citizens] Loaded library /workspaces/SigMC1.17/server/libraries/it/unimi/dsi/fastutil/8.5.15/fastutil-8.5.15.jar
+[13:53:14] [Server thread/INFO]: [Citizens] Loaded library /workspaces/SigMC1.17/server/libraries/net/kyori/adventure-platform-bukkit/4.3.3/adventure-platform-bukkit-4.3.3.jar
+[13:53:14] [Server thread/INFO]: [Citizens] Loaded library /workspaces/SigMC1.17/server/libraries/net/kyori/adventure-platform-api/4.3.3/adventure-platform-api-4.3.3.jar
+[13:53:14] [Server thread/INFO]: [Citizens] Loaded library /workspaces/SigMC1.17/server/libraries/net/kyori/adventure-text-serializer-bungeecord/4.3.3/adventure-text-serializer-bungeecord-4.3.3.jar
+[13:53:14] [Server thread/INFO]: [Citizens] Loaded library /workspaces/SigMC1.17/server/libraries/net/kyori/adventure-text-serializer-legacy/4.13.1/adventure-text-serializer-legacy-4.13.1.jar
+[13:53:14] [Server thread/INFO]: [Citizens] Loaded library /workspaces/SigMC1.17/server/libraries/net/kyori/adventure-nbt/4.13.1/adventure-nbt-4.13.1.jar
+[13:53:14] [Server thread/INFO]: [Citizens] Loaded library /workspaces/SigMC1.17/server/libraries/net/kyori/examination-api/1.3.0/examination-api-1.3.0.jar
+[13:53:14] [Server thread/INFO]: [Citizens] Loaded library /workspaces/SigMC1.17/server/libraries/net/kyori/examination-string/1.3.0/examination-string-1.3.0.jar
+[13:53:14] [Server thread/INFO]: [Citizens] Loaded library /workspaces/SigMC1.17/server/libraries/org/jetbrains/annotations/24.0.1/annotations-24.0.1.jar
+[13:53:14] [Server thread/INFO]: [Citizens] Loaded library /workspaces/SigMC1.17/server/libraries/net/kyori/adventure-text-serializer-gson/4.13.1/adventure-text-serializer-gson-4.13.1.jar
+[13:53:14] [Server thread/INFO]: [Citizens] Loaded library /workspaces/SigMC1.17/server/libraries/net/kyori/adventure-text-serializer-gson-legacy-impl/4.13.1/adventure-text-serializer-gson-legacy-impl-4.13.1.jar
+[13:53:14] [Server thread/INFO]: [Citizens] Loaded library /workspaces/SigMC1.17/server/libraries/net/kyori/adventure-platform-facet/4.3.3/adventure-platform-facet-4.3.3.jar
+[13:53:14] [Server thread/INFO]: [Citizens] Loaded library /workspaces/SigMC1.17/server/libraries/net/kyori/adventure-platform-viaversion/4.3.3/adventure-platform-viaversion-4.3.3.jar
+[13:53:14] [Server thread/INFO]: [Citizens] Loaded library /workspaces/SigMC1.17/server/libraries/net/kyori/adventure-text-minimessage/4.17.0/adventure-text-minimessage-4.17.0.jar
+[13:53:14] [Server thread/INFO]: [Citizens] Loaded library /workspaces/SigMC1.17/server/libraries/net/kyori/adventure-api/4.17.0/adventure-api-4.17.0.jar
+[13:53:14] [Server thread/INFO]: [Citizens] Loaded library /workspaces/SigMC1.17/server/libraries/net/kyori/adventure-key/4.17.0/adventure-key-4.17.0.jar
+[13:53:14] [Server thread/WARN]: Legacy plugin SimpleHomes v2.2 does not specify an api-version.
+[13:53:14] [Server thread/ERROR]: Could not load 'plugins/LifeSteal-1.9.3.jar' in folder 'plugins'
 org.bukkit.plugin.InvalidPluginException: Unsupported API version 1.18
 	at org.bukkit.craftbukkit.v1_17_R1.util.CraftMagicNumbers.checkSupported(CraftMagicNumbers.java:358) ~[patched_1.17.1.jar:git-Purpur-1428]
 	at org.bukkit.plugin.java.JavaPluginLoader.loadPlugin(JavaPluginLoader.java:149) ~[patched_1.17.1.jar:git-Purpur-1428]
@@ -45,120 +45,120 @@ org.bukkit.plugin.InvalidPluginException: Unsupported API version 1.18
 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1233) ~[patched_1.17.1.jar:git-Purpur-1428]
 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:322) ~[patched_1.17.1.jar:git-Purpur-1428]
 	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-[13:45:44] [Server thread/WARN]: Legacy plugin AuthMe v2.7.11 does not specify an api-version.
-[13:45:44] [Server thread/INFO]: [SimpleTpa] Loading SimpleTpa v6.4
-[13:45:44] [Server thread/INFO]: [BetterTeams] Loading BetterTeams v4.11.0
-[13:45:44] [Server thread/INFO]: [BetterTeams] Checking if the file config.yml is up to date
-[13:45:44] [Server thread/INFO]: [BetterTeams] File is up to date
-[13:45:44] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v7.2.20+6667-f0f1e66
-[13:45:45] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@5bced6e]
-[13:45:45] [Server thread/INFO]: [Citizens] Loading Citizens v2.0.37-SNAPSHOT (build 3716)
-[13:45:45] [Server thread/INFO]: [LoginSecurity] Loading LoginSecurity v3.2.0
-[13:45:45] [Server thread/INFO]: [SimpleHomes] Loading SimpleHomes v2.2
-[13:45:45] [Server thread/INFO]: [ViaVersion] Loading ViaVersion v4.9.3
-[13:45:45] [Server thread/INFO]: [ViaVersion] ViaVersion 4.9.3 is now loaded. Registering protocol transformers and injecting...
-[13:45:45] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
-[13:45:45] [Server thread/INFO]: [ViaBackwards] Loading translations...
-[13:45:45] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
-[13:45:45] [Server thread/INFO]: [ViaBackwards] Registering protocols...
-[13:45:45] [Server thread/INFO]: [PowerRanks] Loading PowerRanks v1.10.10
-[13:45:45] [Server thread/INFO]: [ServersNPC] Loading ServersNPC v5.0
-[13:45:45] [Server thread/INFO]: [ViaBackwards] Loading ViaBackwards v4.9.2
-[13:45:45] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v4.3.14
-[13:45:45] [Server thread/INFO]: [ViaRewind] Loading ViaRewind v3.0.6
-[13:45:45] [Server thread/INFO]: [Multiverse-Inventories] Loading Multiverse-Inventories v4.2.6
-[13:45:45] [Server thread/INFO]: [ViaRewind-Legacy-Support] Loading ViaRewind-Legacy-Support v1.4.2
-[13:45:45] [Server thread/INFO]: [AuthMe] Loading AuthMe v2.7.11
-[13:45:45] [Server thread/INFO]: [Multiverse-Portals] Loading Multiverse-Portals v4.2.3
-[13:45:45] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[13:45:45] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.2.20+6667-f0f1e66
-[13:45:46] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
-[13:45:46] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
-[13:45:46] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_17_R1_2.PaperweightAdapter as the Bukkit adapter
-[13:45:46] [Server thread/INFO]: [PowerRanks] Enabling PowerRanks v1.10.10
-[13:45:47] [Server thread/INFO]: [PowerRanks] 
-[13:45:47] [Server thread/INFO]: [PowerRanks] === ------- LOADING CONFIGURATION ------ ===
-[13:45:47] [Server thread/INFO]: [PowerRanks] Loading config file
-[13:45:47] [Server thread/INFO]: [PowerRanks] Loading language file
-[13:45:47] [Server thread/INFO]: [PowerRanks] Loading usertags file
-[13:45:47] [Server thread/INFO]: [PowerRanks] Loading tablist file
-[13:45:47] [Server thread/INFO]: [PowerRanks] 
-[13:45:47] [Server thread/INFO]: [PowerRanks] === ---------- LOADING ADDONS ---------- ===
-[13:45:47] [Server thread/INFO]: [PowerRanks] Loaded 0 add-on(s)!
-[13:45:47] [Server thread/INFO]: [PowerRanks] 
-[13:45:47] [Server thread/INFO]: [PowerRanks] === ----------- LOADING DATA ----------- ===
-[13:45:47] [Server thread/INFO]: [PowerRanks] Loading player & rank data
-[13:45:47] [Server thread/INFO]: [PowerRanks] 
-[13:45:47] [Server thread/INFO]: [PowerRanks] === ------- LOADING PLUGIN HOOKS ------- ===
-[13:45:47] [Server thread/INFO]: [PowerRanks] Checking for plugins to hook in to:
-[13:45:47] [Server thread/INFO]: [PowerRanks] No other plugins found! Working stand-alone.
-[13:45:47] [Server thread/INFO]: [PowerRanks] 
-[13:45:47] [Server thread/INFO]: [PowerRanks]   ██████  ██████   PowerRanks v1.10.10
-[13:45:47] [Server thread/INFO]: [PowerRanks]   ██   ██ ██   ██  Running on Purpur v1428
-[13:45:47] [Server thread/INFO]: [PowerRanks]   ██████  ██████   Startup time: 449ms
-[13:45:47] [Server thread/INFO]: [PowerRanks]   ██      ██   ██  Loaded 7 ranks and 9 players (YAML) 
-[13:45:47] [Server thread/INFO]: [PowerRanks]   ██      ██   ██  
-[13:45:47] [Server thread/INFO]: [PowerRanks] 
-[13:45:47] [Server thread/INFO]: [PowerRanks] If you'd like to donate, please visit https://ko-fi.com/svenar
-[13:45:47] [Server thread/INFO]: [PowerRanks] Checking for updates...
-[13:45:47] [Server thread/INFO]: [ViaRewind] Enabling ViaRewind v3.0.6
-[13:45:47] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[13:45:47] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[13:45:47] [Server thread/WARN]: Whilst this makes it possible to use BungeeCord or Velocity, unless access to your server is properly restricted, it also opens up the ability for hackers to connect with any username they choose.
-[13:45:47] [Server thread/WARN]: Please see http://www.spigotmc.org/wiki/firewall-guide/ for further information.
-[13:45:47] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[13:45:47] [Server thread/INFO]: Preparing level "world"
-[13:45:48] [Server thread/WARN]: Unable to find spawn biome
-[13:45:48] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[13:45:49] [Server thread/INFO]: Time elapsed: 260 ms
-[13:45:49] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[13:45:49] [Server thread/INFO]: Time elapsed: 105 ms
-[13:45:49] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[13:45:49] [Server thread/INFO]: Time elapsed: 273 ms
-[13:45:49] [Server thread/INFO]: [SimpleTpa] Enabling SimpleTpa v6.4*
-[13:45:49] [Server thread/INFO]: [SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9
-[13:45:49] [Server thread/INFO]: [SimpleTpa] Simple Tpa has been enabled on version 6.4
-[13:45:49] [Server thread/INFO]: Enabled metrics. You may opt-out by changing plugins/bStats/config.yml
-[13:45:49] [Server thread/INFO]: [BetterTeams] Enabling BetterTeams v4.11.0
-[13:45:49] [Server thread/INFO]: [BetterTeams] Checking if the file messages.yml is up to date
-[13:45:49] [Server thread/INFO]: [BetterTeams] File is up to date
-[13:45:50] [Server thread/INFO]: Display team name config value: prefix
-[13:45:50] [Server thread/INFO]: Loading below name. Type: PREFIX
-[13:45:50] [Server thread/INFO]: teamManagement declared: com.booksaw.betterTeams.events.MCTeamManagement@4ca52388
-[13:45:50] [Server thread/INFO]: [Citizens] Enabling Citizens v2.0.37-SNAPSHOT (build 3716)
-[13:45:50] [Server thread/ERROR]: [Citizens] v2.0.37-SNAPSHOT (build 3716) is not compatible with Minecraft v1_17_R1 - try upgrading Minecraft or Citizens. Disabling...
-[13:45:50] [Server thread/INFO]: [Citizens] Disabling Citizens v2.0.37-SNAPSHOT (build 3716)
-[13:45:50] [Server thread/INFO]: [LoginSecurity] Enabling LoginSecurity v3.2.0
-[13:45:50] [Server thread/INFO]: [LoginSecurity] Loading base translations from "en_us"
-[13:45:50] [Server thread/INFO]: [LoginSecurity] Loading specified translations from "en_us"
-[13:45:50] [Server thread/INFO]: [LoginSecurity] Registering commands...
-[13:45:50] [Server thread/INFO]: [LoginSecurity] Registering listeners...
-[13:45:50] [Server thread/INFO]: [LoginSecurity] Using 1.12+ map captcha renderer
-[13:45:50] [Server thread/INFO]: [SimpleHomes] Enabling SimpleHomes v2.2*
-[13:45:50] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v4.9.3
-[13:45:51] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.17.1 (756)
-[13:45:51] [Server thread/INFO]: [ServersNPC] Enabling ServersNPC v5.0
-[13:45:51] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v4.9.2
-[13:45:51] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v4.3.14
-[13:45:51] [Server thread/WARN]: [Multiverse-Core] "Multiverse-Core v4.3.14" has registered a listener for org.bukkit.event.entity.EntityCreatePortalEvent on method "public void com.onarandombox.MultiverseCore.listeners.MVPortalListener.entityPortalCreate(org.bukkit.event.entity.EntityCreatePortalEvent)", but the event is Deprecated. "Server performance will be affected"; please notify the authors [dumptruckman, Rigby, fernferret, lithium3141, main--].
-[13:45:51] [Server thread/INFO]: [Multiverse-Core] We are aware of the warning about the deprecated event. There is no alternative that allows us to do what we need to do and performance impact is negligible. It is safe to ignore.
-[13:45:51] [Server thread/INFO]: Preparing start region for dimension minecraft:bedwars
-[13:45:51] [Server thread/INFO]: Preparing spawn area: 0%
-[13:45:51] [Server thread/INFO]: Time elapsed: 335 ms
-[13:45:52] [Server thread/INFO]: Preparing start region for dimension minecraft:spawn
-[13:45:52] [Server thread/INFO]: Preparing spawn area: 0%
-[13:45:52] [Server thread/INFO]: Preparing spawn area: 0%
-[13:45:53] [Server thread/INFO]: Time elapsed: 762 ms
-[13:45:53] [Server thread/INFO]: Preparing start region for dimension minecraft:tarkhine
-[13:45:53] [Server thread/INFO]: Time elapsed: 96 ms
-[13:45:53] [Server thread/INFO]: [Multiverse-Core] 6 - World(s) loaded.
-[13:45:53] [Server thread/WARN]: [Multiverse-Core] Buscript failed to load! The script command will be disabled! If you would like not to see this message, use `/mv conf enablebuscript false` to disable Buscript from loading.
-[13:45:53] [Server thread/INFO]: [Multiverse-Core] Version 4.3.14 (API v24) Enabled - By dumptruckman, Rigby, fernferret, lithium3141 and main--
-[13:45:53] [Server thread/INFO]: [Multiverse-Inventories] Enabling Multiverse-Inventories v4.2.6
-[13:45:53] [Server thread/INFO]: [Multiverse-Inventories 4.2.6] enabled.
-[13:45:53] [Server thread/INFO]: [ViaRewind-Legacy-Support] Enabling ViaRewind-Legacy-Support v1.4.2
-[13:45:53] [Server thread/INFO]: [AuthMe] Enabling AuthMe v2.7.11*
-[13:45:53] [Server thread/ERROR]: Error occurred while enabling AuthMe v2.7.11 (Is it up to date?)
+[13:53:14] [Server thread/WARN]: Legacy plugin AuthMe v2.7.11 does not specify an api-version.
+[13:53:14] [Server thread/INFO]: [SimpleTpa] Loading SimpleTpa v6.4
+[13:53:14] [Server thread/INFO]: [BetterTeams] Loading BetterTeams v4.11.0
+[13:53:14] [Server thread/INFO]: [BetterTeams] Checking if the file config.yml is up to date
+[13:53:14] [Server thread/INFO]: [BetterTeams] File is up to date
+[13:53:14] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v7.2.20+6667-f0f1e66
+[13:53:15] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@5bced6e]
+[13:53:15] [Server thread/INFO]: [Citizens] Loading Citizens v2.0.37-SNAPSHOT (build 3716)
+[13:53:15] [Server thread/INFO]: [LoginSecurity] Loading LoginSecurity v3.2.0
+[13:53:15] [Server thread/INFO]: [SimpleHomes] Loading SimpleHomes v2.2
+[13:53:15] [Server thread/INFO]: [ViaVersion] Loading ViaVersion v4.9.3
+[13:53:15] [Server thread/INFO]: [ViaVersion] ViaVersion 4.9.3 is now loaded. Registering protocol transformers and injecting...
+[13:53:15] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[13:53:15] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[13:53:15] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[13:53:15] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[13:53:16] [Server thread/INFO]: [PowerRanks] Loading PowerRanks v1.10.10
+[13:53:16] [Server thread/INFO]: [ServersNPC] Loading ServersNPC v5.0
+[13:53:16] [Server thread/INFO]: [ViaBackwards] Loading ViaBackwards v4.9.2
+[13:53:16] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v4.3.14
+[13:53:16] [Server thread/INFO]: [ViaRewind] Loading ViaRewind v3.0.6
+[13:53:16] [Server thread/INFO]: [Multiverse-Inventories] Loading Multiverse-Inventories v4.2.6
+[13:53:16] [Server thread/INFO]: [ViaRewind-Legacy-Support] Loading ViaRewind-Legacy-Support v1.4.2
+[13:53:16] [Server thread/INFO]: [AuthMe] Loading AuthMe v2.7.11
+[13:53:16] [Server thread/INFO]: [Multiverse-Portals] Loading Multiverse-Portals v4.2.3
+[13:53:16] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[13:53:16] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.2.20+6667-f0f1e66
+[13:53:16] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[13:53:16] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[13:53:16] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_17_R1_2.PaperweightAdapter as the Bukkit adapter
+[13:53:17] [Server thread/INFO]: [PowerRanks] Enabling PowerRanks v1.10.10
+[13:53:17] [Server thread/INFO]: [PowerRanks] 
+[13:53:17] [Server thread/INFO]: [PowerRanks] === ------- LOADING CONFIGURATION ------ ===
+[13:53:17] [Server thread/INFO]: [PowerRanks] Loading config file
+[13:53:17] [Server thread/INFO]: [PowerRanks] Loading language file
+[13:53:17] [Server thread/INFO]: [PowerRanks] Loading usertags file
+[13:53:17] [Server thread/INFO]: [PowerRanks] Loading tablist file
+[13:53:17] [Server thread/INFO]: [PowerRanks] 
+[13:53:17] [Server thread/INFO]: [PowerRanks] === ---------- LOADING ADDONS ---------- ===
+[13:53:17] [Server thread/INFO]: [PowerRanks] Loaded 0 add-on(s)!
+[13:53:17] [Server thread/INFO]: [PowerRanks] 
+[13:53:17] [Server thread/INFO]: [PowerRanks] === ----------- LOADING DATA ----------- ===
+[13:53:17] [Server thread/INFO]: [PowerRanks] Loading player & rank data
+[13:53:18] [Server thread/INFO]: [PowerRanks] 
+[13:53:18] [Server thread/INFO]: [PowerRanks] === ------- LOADING PLUGIN HOOKS ------- ===
+[13:53:18] [Server thread/INFO]: [PowerRanks] Checking for plugins to hook in to:
+[13:53:18] [Server thread/INFO]: [PowerRanks] No other plugins found! Working stand-alone.
+[13:53:18] [Server thread/INFO]: [PowerRanks] 
+[13:53:18] [Server thread/INFO]: [PowerRanks]   ██████  ██████   PowerRanks v1.10.10
+[13:53:18] [Server thread/INFO]: [PowerRanks]   ██   ██ ██   ██  Running on Purpur v1428
+[13:53:18] [Server thread/INFO]: [PowerRanks]   ██████  ██████   Startup time: 626ms
+[13:53:18] [Server thread/INFO]: [PowerRanks]   ██      ██   ██  Loaded 7 ranks and 10 players (YAML) 
+[13:53:18] [Server thread/INFO]: [PowerRanks]   ██      ██   ██  
+[13:53:18] [Server thread/INFO]: [PowerRanks] 
+[13:53:18] [Server thread/INFO]: [PowerRanks] If you'd like to donate, please visit https://ko-fi.com/svenar
+[13:53:18] [Server thread/INFO]: [PowerRanks] Checking for updates...
+[13:53:18] [Server thread/INFO]: [ViaRewind] Enabling ViaRewind v3.0.6
+[13:53:18] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[13:53:18] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[13:53:18] [Server thread/WARN]: Whilst this makes it possible to use BungeeCord or Velocity, unless access to your server is properly restricted, it also opens up the ability for hackers to connect with any username they choose.
+[13:53:18] [Server thread/WARN]: Please see http://www.spigotmc.org/wiki/firewall-guide/ for further information.
+[13:53:18] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[13:53:18] [Server thread/INFO]: Preparing level "world"
+[13:53:19] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[13:53:19] [Server thread/INFO]: Time elapsed: 365 ms
+[13:53:19] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[13:53:19] [Server thread/INFO]: Time elapsed: 158 ms
+[13:53:19] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[13:53:20] [Server thread/INFO]: Time elapsed: 313 ms
+[13:53:20] [Server thread/INFO]: [SimpleTpa] Enabling SimpleTpa v6.4*
+[13:53:20] [Server thread/INFO]: [SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9
+[13:53:20] [Server thread/INFO]: [SimpleTpa] Simple Tpa has been enabled on version 6.4
+[13:53:20] [Server thread/INFO]: Enabled metrics. You may opt-out by changing plugins/bStats/config.yml
+[13:53:20] [Server thread/INFO]: [BetterTeams] Enabling BetterTeams v4.11.0
+[13:53:20] [Server thread/INFO]: [BetterTeams] Checking if the file messages.yml is up to date
+[13:53:20] [Server thread/INFO]: [BetterTeams] File is up to date
+[13:53:20] [Server thread/INFO]: Display team name config value: prefix
+[13:53:20] [Server thread/INFO]: Loading below name. Type: PREFIX
+[13:53:20] [Server thread/INFO]: teamManagement declared: com.booksaw.betterTeams.events.MCTeamManagement@46544af9
+[13:53:20] [Server thread/INFO]: [Citizens] Enabling Citizens v2.0.37-SNAPSHOT (build 3716)
+[13:53:20] [Server thread/ERROR]: [Citizens] v2.0.37-SNAPSHOT (build 3716) is not compatible with Minecraft v1_17_R1 - try upgrading Minecraft or Citizens. Disabling...
+[13:53:20] [Server thread/INFO]: [Citizens] Disabling Citizens v2.0.37-SNAPSHOT (build 3716)
+[13:53:20] [Server thread/INFO]: [LoginSecurity] Enabling LoginSecurity v3.2.0
+[13:53:20] [Server thread/INFO]: [LoginSecurity] Loading base translations from "en_us"
+[13:53:20] [Server thread/INFO]: [LoginSecurity] Loading specified translations from "en_us"
+[13:53:20] [Server thread/INFO]: [LoginSecurity] Registering commands...
+[13:53:20] [Server thread/INFO]: [LoginSecurity] Registering listeners...
+[13:53:20] [Server thread/INFO]: [LoginSecurity] Using 1.12+ map captcha renderer
+[13:53:20] [Server thread/INFO]: [SimpleHomes] Enabling SimpleHomes v2.2*
+[13:53:20] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v4.9.3
+[13:53:20] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.17.1 (756)
+[13:53:20] [Server thread/INFO]: [ServersNPC] Enabling ServersNPC v5.0
+[13:53:21] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v4.9.2
+[13:53:21] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v4.3.14
+[13:53:21] [Server thread/WARN]: [Multiverse-Core] "Multiverse-Core v4.3.14" has registered a listener for org.bukkit.event.entity.EntityCreatePortalEvent on method "public void com.onarandombox.MultiverseCore.listeners.MVPortalListener.entityPortalCreate(org.bukkit.event.entity.EntityCreatePortalEvent)", but the event is Deprecated. "Server performance will be affected"; please notify the authors [dumptruckman, Rigby, fernferret, lithium3141, main--].
+[13:53:21] [Server thread/INFO]: [Multiverse-Core] We are aware of the warning about the deprecated event. There is no alternative that allows us to do what we need to do and performance impact is negligible. It is safe to ignore.
+[13:53:21] [Server thread/INFO]: Preparing start region for dimension minecraft:bedwars
+[13:53:21] [Server thread/INFO]: Preparing spawn area: 0%
+[13:53:21] [Server thread/INFO]: Time elapsed: 445 ms
+[13:53:22] [Server thread/INFO]: Preparing start region for dimension minecraft:spawn
+[13:53:23] [Server thread/INFO]: Preparing spawn area: 0%
+[13:53:23] [Server thread/INFO]: Preparing spawn area: 0%
+[13:53:23] [Server thread/INFO]: Time elapsed: 714 ms
+[13:53:23] [Server thread/INFO]: Preparing start region for dimension minecraft:tarkhine
+[13:53:23] [Server thread/INFO]: Preparing spawn area: 0%
+[13:53:23] [Server thread/INFO]: Time elapsed: 219 ms
+[13:53:23] [Server thread/INFO]: [Multiverse-Core] 6 - World(s) loaded.
+[13:53:23] [Server thread/WARN]: [Multiverse-Core] Buscript failed to load! The script command will be disabled! If you would like not to see this message, use `/mv conf enablebuscript false` to disable Buscript from loading.
+[13:53:23] [Server thread/INFO]: [Multiverse-Core] Version 4.3.14 (API v24) Enabled - By dumptruckman, Rigby, fernferret, lithium3141 and main--
+[13:53:23] [Server thread/INFO]: [Multiverse-Inventories] Enabling Multiverse-Inventories v4.2.6
+[13:53:23] [Server thread/INFO]: [Multiverse-Inventories 4.2.6] enabled.
+[13:53:23] [Server thread/INFO]: [ViaRewind-Legacy-Support] Enabling ViaRewind-Legacy-Support v1.4.2
+[13:53:23] [Server thread/INFO]: [AuthMe] Enabling AuthMe v2.7.11*
+[13:53:23] [Server thread/ERROR]: Error occurred while enabling AuthMe v2.7.11 (Is it up to date?)
 java.lang.NoSuchMethodError: 'org.bukkit.configuration.file.YamlConfiguration org.bukkit.configuration.file.YamlConfiguration.loadConfiguration(java.io.InputStream)'
 	at uk.org.whoami.authme.settings.Settings.loadDefaults(Settings.java:604) ~[AuthMe.jar:?]
 	at uk.org.whoami.authme.settings.Settings.<init>(Settings.java:95) ~[AuthMe.jar:?]
@@ -173,8 +173,8 @@ java.lang.NoSuchMethodError: 'org.bukkit.configuration.file.YamlConfiguration or
 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1233) ~[patched_1.17.1.jar:git-Purpur-1428]
 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:322) ~[patched_1.17.1.jar:git-Purpur-1428]
 	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-[13:45:53] [Server thread/INFO]: [AuthMe] Disabling AuthMe v2.7.11
-[13:45:53] [Server thread/ERROR]: Error occurred while disabling AuthMe v2.7.11 (Is it up to date?)
+[13:53:23] [Server thread/INFO]: [AuthMe] Disabling AuthMe v2.7.11
+[13:53:23] [Server thread/ERROR]: Error occurred while disabling AuthMe v2.7.11 (Is it up to date?)
 java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Bukkit.getOnlinePlayers()'
 	at uk.org.whoami.authme.AuthMe.onDisable(AuthMe.java:393) ~[AuthMe.jar:?]
 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:266) ~[patched_1.17.1.jar:git-Purpur-1428]
@@ -189,12 +189,12 @@ java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Bukkit.getOn
 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1233) ~[patched_1.17.1.jar:git-Purpur-1428]
 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:322) ~[patched_1.17.1.jar:git-Purpur-1428]
 	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-[13:45:53] [Server thread/INFO]: [Multiverse-Portals] Enabling Multiverse-Portals v4.2.3
-[13:45:53] [Server thread/INFO]: [Multiverse-Portals] 1 - Portals(s) loaded
-[13:45:53] [Server thread/INFO]: [Multiverse-Portals] Found WorldEdit. Using it for selections.
-[13:45:53] [Server thread/INFO]: [Multiverse-Portals 4.2.3]  Enabled - By Rigby and fernferret
-[13:45:53] [Server thread/INFO]: Running delayed init tasks
-[13:45:53] [Server thread/WARN]: [PowerRanks] Task #2 for PowerRanks v1.10.10 generated an exception
+[13:53:23] [Server thread/INFO]: [Multiverse-Portals] Enabling Multiverse-Portals v4.2.3
+[13:53:23] [Server thread/INFO]: [Multiverse-Portals] 1 - Portals(s) loaded
+[13:53:23] [Server thread/INFO]: [Multiverse-Portals] Found WorldEdit. Using it for selections.
+[13:53:23] [Server thread/INFO]: [Multiverse-Portals 4.2.3]  Enabled - By Rigby and fernferret
+[13:53:24] [Server thread/INFO]: Running delayed init tasks
+[13:53:24] [Server thread/WARN]: [PowerRanks] Task #2 for PowerRanks v1.10.10 generated an exception
 java.lang.IllegalArgumentException: Team name '5-starwarswatcher' is longer than the limit of 16 characters
 	at org.apache.commons.lang.Validate.isTrue(Validate.java:136) ~[patched_1.17.1.jar:git-Purpur-1428]
 	at org.bukkit.craftbukkit.v1_17_R1.scoreboard.CraftScoreboard.registerNewTeam(CraftScoreboard.java:203) ~[patched_1.17.1.jar:git-Purpur-1428]
@@ -204,21 +204,434 @@ java.lang.IllegalArgumentException: Team name '5-starwarswatcher' is longer than
 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1242) ~[patched_1.17.1.jar:git-Purpur-1428]
 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:322) ~[patched_1.17.1.jar:git-Purpur-1428]
 	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-[13:45:53] [Server thread/INFO]: [Multiverse-Inventories] First run!
-[13:45:54] [Craft Scheduler Thread - 4 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
-[13:45:54] [Server thread/INFO]: Done (14.242s)! For help, type "help"
-[13:45:54] [Server thread/INFO]: Timings Reset
-[13:45:54] [Craft Scheduler Thread - 2 - SimpleTpa/INFO]: [SimpleTpa] There is a new update available.
-[13:45:54] [Craft Scheduler Thread - 2 - SimpleTpa/INFO]: [SimpleTpa] There is a new update available:
-[13:45:54] [Craft Scheduler Thread - 2 - SimpleTpa/INFO]: [SimpleTpa] https://www.spigotmc.org/resources/simple-tpa.64270/
-[13:45:54] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.2.1, you're on: 4.9.3
-[13:45:59] [User Authenticator #1/INFO]: UUID of player shmewy is 6bbfd62a-11c5-3ebe-af17-977c16173e90
-[13:46:00] [Server thread/INFO]: shmewy joined the game
-[13:46:00] [Server thread/INFO]: shmewy[/[0:0:0:0:0:0:0:1]:37328] logged in with entity id 279 at ([world]30.69999998807907, 23.0, 91.7226965464662)
-[13:46:00] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|UpdateCert-1.8
-[13:46:00] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FML
-[13:46:00] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|Skins-1.8
-[13:46:00] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FORGE
-[13:46:08] [Server thread/ERROR]: No TreeType mapping for TreeGenerator.TreeType.MANGROVE
-[13:46:08] [Server thread/ERROR]: No TreeType mapping for TreeGenerator.TreeType.TALL_MANGROVE
-[13:46:08] [Server thread/ERROR]: No TreeType mapping for TreeGenerator.TreeType.CHERRY
+[13:53:24] [Server thread/INFO]: [Multiverse-Inventories] First run!
+[13:53:24] [Craft Scheduler Thread - 0 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
+[13:53:24] [Server thread/INFO]: Done (14.107s)! For help, type "help"
+[13:53:24] [Server thread/INFO]: Timings Reset
+[13:53:24] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.2.1, you're on: 4.9.3
+[13:53:24] [Craft Scheduler Thread - 3 - SimpleTpa/INFO]: [SimpleTpa] There is a new update available.
+[13:53:24] [Craft Scheduler Thread - 3 - SimpleTpa/INFO]: [SimpleTpa] There is a new update available:
+[13:53:24] [Craft Scheduler Thread - 3 - SimpleTpa/INFO]: [SimpleTpa] https://www.spigotmc.org/resources/simple-tpa.64270/
+[13:53:27] [User Authenticator #1/INFO]: UUID of player DoctorDoctorDoc is 7d2e54b2-4ee3-3e32-9a10-89a0004558a0
+[13:53:27] [Server thread/INFO]: DoctorDoctorDoc joined the game
+[13:53:27] [Server thread/INFO]: DoctorDoctorDoc[/[0:0:0:0:0:0:0:1]:52126] logged in with entity id 283 at ([world]23.30000001192093, 61.0, 37.67265764317777)
+[13:53:28] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|UpdateCert-1.8
+[13:53:28] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FML
+[13:53:28] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|Skins-1.8
+[13:53:28] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FORGE
+[13:53:41] [Server thread/INFO]: DoctorDoctorDoc lost connection: Disconnected
+[13:53:41] [Server thread/INFO]: DoctorDoctorDoc left the game
+[13:53:57] [User Authenticator #1/INFO]: UUID of player DoctorDoctorDoc is 7d2e54b2-4ee3-3e32-9a10-89a0004558a0
+[13:53:57] [Server thread/INFO]: DoctorDoctorDoc joined the game
+[13:53:57] [Server thread/INFO]: DoctorDoctorDoc[/[0:0:0:0:0:0:0:1]:54538] logged in with entity id 356 at ([world]23.30000001192093, 61.0, 37.69999998807907)
+[13:53:57] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|UpdateCert-1.8
+[13:53:57] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FML
+[13:53:57] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|Skins-1.8
+[13:53:57] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FORGE
+[13:54:14] [User Authenticator #1/INFO]: UUID of player ysyyayyyayya is 6cd4e570-7a49-3521-8e89-4b4b5c6269c5
+[13:54:15] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|UpdateCert-1.8
+[13:54:15] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FML
+[13:54:15] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|Skins-1.8
+[13:54:15] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FORGE
+[13:54:15] [Server thread/INFO]: ysyyayyyayya joined the game
+[13:54:15] [Server thread/INFO]: ysyyayyyayya[/[0:0:0:0:0:0:0:1]:54204] logged in with entity id 414 at ([world]307.19276240167073, 89.97065589938536, 391.533756767369)
+[13:54:34] [User Authenticator #1/INFO]: UUID of player MRC1000 is a5a25101-585a-3364-a64b-c22f9e5267be
+[13:54:34] [Server thread/INFO]: MRC1000 joined the game
+[13:54:34] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|UpdateCert-1.8
+[13:54:34] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FML
+[13:54:34] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|Skins-1.8
+[13:54:34] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FORGE
+[13:54:34] [Server thread/INFO]: MRC1000[/[0:0:0:0:0:0:0:1]:59920] logged in with entity id 667 at ([world]0.38458519162051685, 67.0, 321.4172738704764)
+[13:54:47] [Server thread/INFO]: MRC1000 issued server command: /tpa doctor
+[13:54:52] [Server thread/INFO]: DoctorDoctorDoc issued server command: /tpdeny
+[13:54:54] [Server thread/INFO]: MRC1000 was slain by Zombie
+[13:54:58] [Server thread/ERROR]: No TreeType mapping for TreeGenerator.TreeType.MANGROVE
+[13:54:58] [Server thread/ERROR]: No TreeType mapping for TreeGenerator.TreeType.TALL_MANGROVE
+[13:54:58] [Server thread/ERROR]: No TreeType mapping for TreeGenerator.TreeType.CHERRY
+[13:54:58] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] Ignoring incoming plugin message with channel: EAG|Capes-1.8
+[13:55:02] [Server thread/INFO]: DoctorDoctorDoc issued server command: /spawn
+[13:55:03] [Server thread/INFO]: DoctorDoctorDoc lost connection: Disconnected
+[13:55:03] [Server thread/INFO]: DoctorDoctorDoc left the game
+[13:55:17] [Server thread/INFO]: MRC1000 lost connection: Disconnected
+[13:55:17] [Server thread/INFO]: MRC1000 left the game
+[13:55:20] [User Authenticator #1/INFO]: UUID of player shmewy is 6bbfd62a-11c5-3ebe-af17-977c16173e90
+[13:55:20] [Server thread/INFO]: shmewy joined the game
+[13:55:20] [Server thread/INFO]: shmewy[/[0:0:0:0:0:0:0:1]:57854] logged in with entity id 1128 at ([world]22.70223371665143, 24.0, 112.23213058716816)
+[13:55:20] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|UpdateCert-1.8
+[13:55:20] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FML
+[13:55:20] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|Skins-1.8
+[13:55:20] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FORGE
+[13:55:29] [Server thread/INFO]: shmewy issued server command: /back
+[13:55:38] [Server thread/INFO]: shmewy issued server command: /back
+[13:55:43] [Server thread/INFO]: ysyyayyyayya lost connection: Disconnected
+[13:55:43] [Server thread/INFO]: ysyyayyyayya left the game
+[13:55:44] [Server thread/INFO]: shmewy lost connection: Disconnected
+[13:55:44] [Server thread/INFO]: shmewy left the game
+[13:56:54] [User Authenticator #2/INFO]: UUID of player DoctorDoctorDoc is 7d2e54b2-4ee3-3e32-9a10-89a0004558a0
+[13:56:54] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|UpdateCert-1.8
+[13:56:54] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FML
+[13:56:54] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|Skins-1.8
+[13:56:54] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FORGE
+[13:56:54] [Server thread/INFO]: DoctorDoctorDoc joined the game
+[13:56:54] [Server thread/INFO]: DoctorDoctorDoc[/[0:0:0:0:0:0:0:1]:59952] logged in with entity id 1520 at ([world]23.30000001192093, 61.0, 37.69999998807907)
+[13:56:58] [Server thread/INFO]: DoctorDoctorDoc issued server command: /
+[13:57:29] [User Authenticator #2/INFO]: UUID of player iglentoften is 1f39864e-1ba8-32ee-b3a0-299113502435
+[13:57:29] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|UpdateCert-1.8
+[13:57:29] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FML
+[13:57:29] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|Skins-1.8
+[13:57:29] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FORGE
+[13:57:29] [Server thread/INFO]: iglentoften joined the game
+[13:57:29] [Server thread/INFO]: iglentoften[/[0:0:0:0:0:0:0:1]:49630] logged in with entity id 1626 at ([world]237.1273805204096, 70.17380333872785, 520.8142998562724)
+[13:57:44] [Server thread/INFO]: iglentoften lost connection: Disconnected
+[13:57:44] [Server thread/INFO]: iglentoften left the game
+[13:57:48] [User Authenticator #2/INFO]: UUID of player iglentoften is 1f39864e-1ba8-32ee-b3a0-299113502435
+[13:57:48] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|UpdateCert-1.8
+[13:57:48] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FML
+[13:57:48] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|Skins-1.8
+[13:57:48] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FORGE
+[13:57:48] [Server thread/INFO]: iglentoften joined the game
+[13:57:48] [Server thread/INFO]: iglentoften[/[0:0:0:0:0:0:0:1]:34204] logged in with entity id 1891 at ([world]239.15628401915004, 68.0, 521.9162286291764)
+[13:57:51] [Server thread/INFO]: pastry DoctorDoctorDoc suffocated in a wall
+[13:57:57] [Server thread/INFO]: DoctorDoctorDoc issued server command: /back
+[13:58:01] [Async Chat Thread - #0/INFO]: world ADMIN iglentoften: lol
+[13:58:03] [Server thread/INFO]: iglentoften lost connection: Disconnected
+[13:58:03] [Server thread/INFO]: iglentoften left the game
+[13:58:05] [Server thread/INFO]: DoctorDoctorDoc issued server command: /home nether
+[13:58:06] [User Authenticator #2/INFO]: UUID of player iglentoften is 1f39864e-1ba8-32ee-b3a0-299113502435
+[13:58:06] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|UpdateCert-1.8
+[13:58:06] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FML
+[13:58:06] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|Skins-1.8
+[13:58:06] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FORGE
+[13:58:06] [Server thread/INFO]: iglentoften joined the game
+[13:58:06] [Server thread/INFO]: iglentoften[/[0:0:0:0:0:0:0:1]:49300] logged in with entity id 2425 at ([world]239.65292819505933, 68.0, 522.3212452834687)
+[13:58:08] [Server thread/INFO]: DoctorDoctorDoc issued server command: /back
+[13:58:11] [User Authenticator #2/INFO]: UUID of player ysyyayyyayya is 6cd4e570-7a49-3521-8e89-4b4b5c6269c5
+[13:58:11] [Server thread/INFO]: ysyyayyyayya joined the game
+[13:58:11] [Server thread/INFO]: ysyyayyyayya[/[0:0:0:0:0:0:0:1]:46432] logged in with entity id 2432 at ([world]307.19276240167073, 71.0, 391.533756767369)
+[13:58:11] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|UpdateCert-1.8
+[13:58:11] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FML
+[13:58:11] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|Skins-1.8
+[13:58:11] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FORGE
+[13:58:26] [Server thread/INFO]: pastry DoctorDoctorDoc suffocated in a wall
+[13:58:29] [Async Chat Thread - #0/INFO]: world ADMIN iglentoften: landon y am i always end of streamed
+[13:58:34] [Async Chat Thread - #0/INFO]: [pastry] world .[starwarswatcher]. DoctorDoctorDoc {doctor}: LANDON I NEED UR HELP
+[13:58:41] [Async Chat Thread - #0/INFO]: [sig] world .[OWNER]. ysyyayyyayya [SIGMA]: oh cuz a teacher closed my comp
+[13:58:42] [Async Chat Thread - #0/INFO]: world ADMIN iglentoften: :skull:
+[13:58:46] [Async Chat Thread - #0/INFO]: [pastry] world .[starwarswatcher]. DoctorDoctorDoc {doctor}: LANDON I NEED UR HELP
+[13:58:46] [Async Chat Thread - #0/INFO]: [sig] world .[OWNER]. ysyyayyyayya [SIGMA]: wut?
+[13:58:50] [Async Chat Thread - #0/INFO]: [sig] world .[OWNER]. ysyyayyyayya [SIGMA]: wut?
+[13:58:52] [Async Chat Thread - #0/INFO]: world ADMIN iglentoften: womp womp
+[13:58:54] [Async Chat Thread - #0/INFO]: [pastry] world .[starwarswatcher]. DoctorDoctorDoc {doctor}: can u see where each player last died?
+[13:58:54] [Async Chat Thread - #0/INFO]: world ADMIN iglentoften: sry
+[13:58:59] [Async Chat Thread - #0/INFO]: [sig] world .[OWNER]. ysyyayyyayya [SIGMA]: ye
+[13:59:03] [Server thread/INFO]: iglentoften issued server command: /gamemode creative
+[13:59:08] [Async Chat Thread - #0/INFO]: [pastry] world .[starwarswatcher]. DoctorDoctorDoc {doctor}: can u remove all the blocks where i last died?
+[13:59:11] [Async Chat Thread - #0/INFO]: [sig] world .[OWNER]. ysyyayyyayya [SIGMA]: no
+[13:59:17] [Async Chat Thread - #0/INFO]: [sig] world .[OWNER]. ysyyayyyayya [SIGMA]: i reset the nether
+[13:59:18] [Async Chat Thread - #0/INFO]: world ADMIN iglentoften: landon can u tp me to spawn isalnd
+[13:59:19] [Async Chat Thread - #0/INFO]: [pastry] world .[starwarswatcher]. DoctorDoctorDoc {doctor}: but i need my shit back and i was in a wall
+[13:59:25] [Async Chat Thread - #0/INFO]: [pastry] world .[starwarswatcher]. DoctorDoctorDoc {doctor}: I DIED IN A FUCKING WALL LANDON
+[13:59:28] [Async Chat Thread - #0/INFO]: [sig] world .[OWNER]. ysyyayyyayya [SIGMA]: i reset the nether
+[13:59:30] [Async Chat Thread - #0/INFO]: world ADMIN iglentoften: speaking head sorry
+[13:59:37] [Async Chat Thread - #0/INFO]: [sig] world .[OWNER]. ysyyayyyayya [SIGMA]: i reset the nether
+[13:59:38] [Async Chat Thread - #0/INFO]: [sig] world .[OWNER]. ysyyayyyayya [SIGMA]: i reset the nether
+[13:59:38] [Async Chat Thread - #0/INFO]: [sig] world .[OWNER]. ysyyayyyayya [SIGMA]: i reset the nether
+[13:59:42] [Async Chat Thread - #0/INFO]: [pastry] world .[starwarswatcher]. DoctorDoctorDoc {doctor}: I FUCKING DIED IN A FUCKING WALL LANDON PLEASE HELP ME OUT
+[13:59:43] [Server thread/INFO]: ysyyayyyayya issued server command: /gamemode creative
+[13:59:43] [Server thread/INFO]: [sig ysyyayyyayya: Set own game mode to Creative Mode]
+[13:59:46] [Async Chat Thread - #0/INFO]: world ADMIN iglentoften: ig u just have to grind again
+[13:59:52] [Async Chat Thread - #0/INFO]: world ADMIN iglentoften: landon send me to spawn island
+[13:59:55] [Async Chat Thread - #0/INFO]: [pastry] world .[starwarswatcher]. DoctorDoctorDoc {doctor}: ok thanks andrew :(
+[13:59:57] [Server thread/INFO]: DoctorDoctorDoc lost connection: Disconnected
+[13:59:57] [Server thread/INFO]: DoctorDoctorDoc left the game
+[13:59:58] [Server thread/INFO]: ysyyayyyayya issued server command: /tp doctordoctordoc ysyyayyyayya
+[14:00:04] [Server thread/INFO]: ysyyayyyayya issued server command: /tp doctordoctordoc ysyyayyyayya
+[14:00:06] [Async Chat Thread - #0/INFO]: world ADMIN iglentoften: LANDON
+[14:00:10] [Async Chat Thread - #0/INFO]: [sig] world .[OWNER]. ysyyayyyayya [SIGMA]: wat?
+[14:00:11] [Async Chat Thread - #0/INFO]: world ADMIN iglentoften: SNED ME TO SPAWN ISLAND
+[14:00:16] [Async Chat Thread - #0/INFO]: [sig] world .[OWNER]. ysyyayyyayya [SIGMA]: i deleted it
+[14:00:18] [Async Chat Thread - #0/INFO]: world ADMIN iglentoften: bruh
+[14:01:09] [Server thread/INFO]: ysyyayyyayya issued server command: /tp iglentoften
+[14:01:09] [Server thread/INFO]: [sig ysyyayyyayya: Teleported sig ysyyayyyayya to iglentoften]
+[14:02:23] [User Authenticator #3/INFO]: UUID of player Wxterio is a986e90e-8ccc-3883-935b-d44233fe0edc
+[14:02:23] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|UpdateCert-1.8
+[14:02:23] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FML
+[14:02:23] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|Skins-1.8
+[14:02:23] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FORGE
+[14:02:23] [Server thread/INFO]: Wxterio joined the game
+[14:02:23] [Server thread/INFO]: Wxterio[/[0:0:0:0:0:0:0:1]:40276] logged in with entity id 4424 at ([world]-2.9799980319180093, 67.0, 310.9280422253563)
+[14:02:31] [Async Chat Thread - #1/INFO]: world MEMBER Wxterio: s
+[14:02:39] [Server thread/INFO]: ysyyayyyayya issued server command: /pr webeditor start
+[14:02:44] [Async Chat Thread - #1/INFO]: world MEMBER Wxterio: landon
+[14:02:45] [Async Chat Thread - #1/INFO]: world ADMIN iglentoften: landon plz give food
+[14:02:46] [Async Chat Thread - #1/INFO]: [sig] world .[OWNER]. ysyyayyyayya [SIGMA]: ?
+[14:02:52] [Async Chat Thread - #1/INFO]: world MEMBER Wxterio: i get rank and admin pls?
+[14:02:58] [Async Chat Thread - #1/INFO]: [sig] world .[OWNER]. ysyyayyyayya [SIGMA]: ye
+[14:03:03] [Async Chat Thread - #1/INFO]: [sig] world .[OWNER]. ysyyayyyayya [SIGMA]: andrew
+[14:03:06] [Async Chat Thread - #1/INFO]: world ADMIN iglentoften: what
+[14:03:16] [Server thread/INFO]: ysyyayyyayya issued server command: /give iglentoften beef 64
+[14:03:16] [Server thread/INFO]: [sig ysyyayyyayya: Gave 64 [Raw Beef] to iglentoften]
+[14:03:20] [Async Chat Thread - #1/INFO]: world MEMBER Wxterio: landon slide rice and admin rn pls
+[14:03:20] [Async Chat Thread - #1/INFO]: world ADMIN iglentoften: thx
+[14:03:24] [Async Chat Thread - #1/INFO]: world ADMIN iglentoften: t
+[14:03:30] [Async Chat Thread - #1/INFO]: world ADMIN iglentoften: i dont even have a rank
+[14:03:41] [Async Chat Thread - #1/INFO]: world MEMBER Wxterio: cooll
+[14:03:50] [Async Chat Thread - #1/INFO]: world MEMBER Wxterio: landon when i get
+[14:04:09] [Async Chat Thread - #1/INFO]: world ADMIN iglentoften: when we doing manhunt?
+[14:04:46] [Async Chat Thread - #1/INFO]: world MEMBER Wxterio: landon died
+[14:04:57] [Server thread/INFO]: ysyyayyyayya issued server command: /pr we load uyebugaj
+[14:04:59] [Server thread/WARN]: [PowerRanks] Task #2 for PowerRanks v1.10.10 generated an exception
+java.lang.IllegalArgumentException: Team name '5-starwarswatcher' is longer than the limit of 16 characters
+	at org.apache.commons.lang.Validate.isTrue(Validate.java:136) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at org.bukkit.craftbukkit.v1_17_R1.scoreboard.CraftScoreboard.registerNewTeam(CraftScoreboard.java:203) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at nl.svenar.powerranks.bukkit.data.TablistManager$1.run(TablistManager.java:109) ~[PowerRanks.jar:?]
+	at org.bukkit.craftbukkit.v1_17_R1.scheduler.CraftTask.run(CraftTask.java:101) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at org.bukkit.craftbukkit.v1_17_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:483) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1591) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:528) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1507) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1300) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:322) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[14:05:00] [Async Chat Thread - #1/INFO]: [sig] world .[OWNER]. ysyyayyyayya [SIGMA]: u got it
+[14:05:03] [Async Chat Thread - #1/INFO]: world .[RICE]. Wxterio {non-admin}: >/
+[14:05:06] [Async Chat Thread - #1/INFO]: world .[RICE]. Wxterio {non-admin}: hey
+[14:05:11] [Async Chat Thread - #1/INFO]: world .[RICE]. Wxterio {non-admin}: wtf\
+[14:05:14] [Async Chat Thread - #1/INFO]: world ADMIN iglentoften: mean
+[14:05:17] [Async Chat Thread - #1/INFO]: world .[RICE]. Wxterio {non-admin}: no color and it says non admin
+[14:05:19] [Async Chat Thread - #1/INFO]: world .[RICE]. Wxterio {non-admin}: meanie
+[14:05:21] [Async Chat Thread - #1/INFO]: [sig] world .[OWNER]. ysyyayyyayya [SIGMA]: ye
+[14:05:25] [Async Chat Thread - #1/INFO]: world .[RICE]. Wxterio {non-admin}: bruh
+[14:05:28] [Async Chat Thread - #1/INFO]: world .[RICE]. Wxterio {non-admin}: can u fix pls
+[14:05:35] [Async Chat Thread - #1/INFO]: [sig] world .[OWNER]. ysyyayyyayya [SIGMA]: wut color u want?
+[14:05:38] [Async Chat Thread - #1/INFO]: world .[RICE]. Wxterio {non-admin}: can u make rice red and black
+[14:05:38] [Async Chat Thread - #1/INFO]: world ADMIN iglentoften: BRO THIS ICE SPIKE BIOME IS MASSIEV
+[14:05:55] [Async Chat Thread - #1/INFO]: world .[RICE]. Wxterio {non-admin}: also make me an actual admin
+[14:05:55] [Async Chat Thread - #1/INFO]: [sig] world .[OWNER]. ysyyayyyayya [SIGMA]: u send me the motd
+[14:05:56] [Async Chat Thread - #1/INFO]: world .[RICE]. Wxterio {non-admin}: pls
+[14:05:57] [Server thread/WARN]: iglentoften moved wrongly!, (0.06871349921945197)
+[14:05:58] [Async Chat Thread - #1/INFO]: [sig] world .[OWNER]. ysyyayyyayya [SIGMA]: u send me the motd
+[14:06:01] [Async Chat Thread - #1/INFO]: world ADMIN iglentoften: whats a motd
+[14:06:05] [Async Chat Thread - #1/INFO]: world .[RICE]. Wxterio {non-admin}: its fine u make smth that looks cool
+[14:06:11] [Async Chat Thread - #1/INFO]: [sig] world .[OWNER]. ysyyayyyayya [SIGMA]: like color coded smth
+[14:06:24] [Async Chat Thread - #1/INFO]: world .[RICE]. Wxterio {non-admin}: i trustt ur judgemtn
+[14:06:26] [Async Chat Thread - #1/INFO]: world ADMIN iglentoften: landon can u make like a place where i can build pawn
+[14:06:27] [Async Chat Thread - #1/INFO]: world ADMIN iglentoften: spawn
+[14:06:31] [Async Chat Thread - #1/INFO]: [sig] world .[OWNER]. ysyyayyyayya [SIGMA]: k
+[14:06:34] [Async Chat Thread - #1/INFO]: [sig] world .[OWNER]. ysyyayyyayya [SIGMA]: and k
+[14:06:38] [Server thread/INFO]: Wxterio issued server command: /gamemode
+[14:06:45] [Async Chat Thread - #1/INFO]: [sig] world .[OWNER]. ysyyayyyayya [SIGMA]: acc nrn
+[14:06:46] [Async Chat Thread - #1/INFO]: world .[RICE]. Wxterio {non-admin}: make admin
+[14:06:57] [Async Chat Thread - #1/INFO]: world ADMIN iglentoften: r any of u going to color team game
+[14:07:03] [Async Chat Thread - #1/INFO]: world .[RICE]. Wxterio {non-admin}: LANDON
+[14:07:05] [Async Chat Thread - #1/INFO]: [sig] world .[OWNER]. ysyyayyyayya [SIGMA]: no
+[14:07:12] [Async Chat Thread - #1/INFO]: world .[RICE]. Wxterio {non-admin}: wat
+[14:08:18] [Server thread/INFO]: Wxterio drowned
+[14:08:29] [Async Chat Thread - #2/INFO]: world .[RICE]. Wxterio {non-admin}: .andon
+[14:08:31] [Async Chat Thread - #2/INFO]: world .[RICE]. Wxterio {non-admin}: landon
+[14:08:33] [Async Chat Thread - #2/INFO]: world .[RICE]. Wxterio {non-admin}: landon
+[14:08:40] [Async Chat Thread - #2/INFO]: world ADMIN iglentoften: bro aaron
+[14:08:46] [Async Chat Thread - #2/INFO]: world ADMIN iglentoften: i cant even do anything special with admin
+[14:08:54] [Async Chat Thread - #2/INFO]: world .[RICE]. Wxterio {non-admin}: ik'
+[14:09:01] [Server thread/INFO]: Wxterio was shot by Skeleton
+[14:09:03] [Async Chat Thread - #2/INFO]: world ADMIN iglentoften: so y u want
+[14:09:11] [Async Chat Thread - #2/INFO]: world .[RICE]. Wxterio {non-admin}: cuus i do
+[14:09:21] [Server thread/INFO]: Wxterio fell from a high place
+[14:09:25] [Server thread/INFO]: iglentoften issued server command: /sethome 2
+[14:10:16] [Server thread/INFO]: ysyyayyyayya issued server command: /tp wxterio
+[14:10:16] [Server thread/INFO]: [ysyyayyyayya: Teleported ysyyayyyayya to Wxterio]
+[14:10:18] [Server thread/INFO]: Wxterio fell from a high place
+[14:10:31] [Server thread/INFO]: Villager EntityVillager['Farmer'/5904, uuid='7ff9ec0c-9127-4a6a-a146-e65e1be17ec0', l='ServerLevel[world]', x=531.63, y=63.00, z=808.30, cpos=[33, 50], tl=4491, v=true, rR=null] died, message: 'Farmer was slain by Zombie'
+[14:10:59] [Async Chat Thread - #3/INFO]: [sig] world .[OWNER]. ysyyayyyayya [SIGMA]: hi
+[14:11:01] [Async Chat Thread - #3/INFO]: world .[RICE]. Wxterio {non-admin}: landon
+[14:11:04] [Async Chat Thread - #3/INFO]: world .[RICE]. Wxterio {non-admin}: can i get the rank and admin
+[14:11:21] [Async Chat Thread - #3/INFO]: [sig] world .[OWNER]. ysyyayyyayya [SIGMA]: wut will u do?
+[14:11:29] [Async Chat Thread - #3/INFO]: world .[RICE]. Wxterio {non-admin}: help build server'
+[14:11:30] [Server thread/INFO]: ysyyayyyayya issued server command: /tp wxterio
+[14:11:30] [Server thread/INFO]: [ysyyayyyayya: Teleported ysyyayyyayya to Wxterio]
+[14:11:34] [Async Chat Thread - #3/INFO]: world .[RICE]. Wxterio {non-admin}: i got nothn else to do
+[14:11:42] [Async Chat Thread - #3/INFO]: world .[RICE]. Wxterio {non-admin}: also help w events and stuff
+[14:11:50] [Async Chat Thread - #3/INFO]: world ADMIN iglentoften: landons only doing this so that he can get admin role on apixel :skull
+[14:11:54] [Async Chat Thread - #3/INFO]: [sig] world .[OWNER]. ysyyayyyayya [SIGMA]: ?
+[14:11:57] [Async Chat Thread - #3/INFO]: [sig] world .[OWNER]. ysyyayyyayya [SIGMA]: no im nopt
+[14:12:00] [Async Chat Thread - #3/INFO]: world ADMIN iglentoften: thats what u said
+[14:12:02] [Async Chat Thread - #3/INFO]: world .[RICE]. Wxterio {non-admin}: landon
+[14:12:05] [Async Chat Thread - #3/INFO]: [sig] world .[OWNER]. ysyyayyyayya [SIGMA]: not only
+[14:12:05] [Async Chat Thread - #3/INFO]: world .[RICE]. Wxterio {non-admin}: can i js pls ge
+[14:12:16] [Server thread/INFO]: Wxterio was killed by ysyyayyyayya using magic
+[14:12:21] [Async Chat Thread - #3/INFO]: world ADMIN iglentoften: ot sigma
+[14:12:35] [Server thread/INFO]: ysyyayyyayya issued server command: /kill wxterio
+[14:12:35] [Server thread/INFO]: Wxterio fell out of the world
+[14:12:35] [Server thread/INFO]: [ysyyayyyayya: Killed Wxterio]
+[14:12:43] [Server thread/INFO]: ysyyayyyayya issued server command: /tp wxterio
+[14:12:43] [Server thread/INFO]: [ysyyayyyayya: Teleported ysyyayyyayya to Wxterio]
+[14:12:59] [Async Chat Thread - #3/INFO]: world .[RICE]. Wxterio {non-admin}: landon
+[14:13:01] [Async Chat Thread - #3/INFO]: [sig] world .[OWNER]. ysyyayyyayya [SIGMA]: ?
+[14:13:10] [Async Chat Thread - #3/INFO]: world .[RICE]. Wxterio {non-admin}: CAN I JS GET HE RANK AND TUFF PLS U SAID
+[14:13:15] [Async Chat Thread - #3/INFO]: [sig] world .[OWNER]. ysyyayyyayya [SIGMA]: fine
+[14:13:18] [Async Chat Thread - #3/INFO]: [sig] world .[OWNER]. ysyyayyyayya [SIGMA]: u design it
+[14:13:36] [Async Chat Thread - #3/INFO]: [sig] world .[OWNER]. ysyyayyyayya [SIGMA]: u design it
+[14:13:37] [Async Chat Thread - #3/INFO]: world .[RICE]. Wxterio {non-admin}: no js same as ur owner but diff color or smth
+[14:13:39] [Server thread/INFO]: iglentoften issued server command: /delhome 1
+[14:13:42] [Async Chat Thread - #3/INFO]: world ADMIN iglentoften: sethome 1
+[14:13:52] [Server thread/INFO]: iglentoften issued server command: /sethome 1
+[14:13:52] [Async Chat Thread - #3/INFO]: [sig] world .[OWNER]. ysyyayyyayya [SIGMA]: fine
+[14:13:54] [Async Chat Thread - #3/INFO]: world ADMIN iglentoften: mb
+[14:13:55] [Async Chat Thread - #3/INFO]: [sig] world .[OWNER]. ysyyayyyayya [SIGMA]: during b6\
+[14:13:59] [Server thread/INFO]: Wxterio issued server command: /sethome 1
+[14:14:09] [Server thread/INFO]: Wxterio was killed by ysyyayyyayya using magic
+[14:14:10] [Server thread/INFO]: iglentoften issued server command: /home 2
+[14:14:16] [Server thread/INFO]: Wxterio issued server command: /home1
+[14:14:17] [Server thread/INFO]: ysyyayyyayya issued server command: /tp wxterio ysyyayyyayya
+[14:14:17] [Server thread/INFO]: [ysyyayyyayya: Teleported Wxterio to ysyyayyyayya]
+[14:14:19] [Server thread/INFO]: Wxterio issued server command: /hom 1
+[14:14:26] [Async Chat Thread - #3/INFO]: world .[RICE]. Wxterio {non-admin}: y b6
+[14:14:32] [Async Chat Thread - #3/INFO]: [sig] world .[OWNER]. ysyyayyyayya [SIGMA]: cuz
+[14:14:36] [Server thread/INFO]: Wxterio issued server command: /home
+[14:14:39] [Server thread/INFO]: Wxterio issued server command: /home 1
+[14:14:57] [Async Chat Thread - #3/INFO]: world .[RICE]. Wxterio {non-admin}: y not now
+[14:15:07] [Async Chat Thread - #3/INFO]: [sig] world .[OWNER]. ysyyayyyayya [SIGMA]: cuz im doing other things
+[14:15:07] [Async Chat Thread - #3/INFO]: world .[RICE]. Wxterio {non-admin}: can i get a pickaxe
+[14:15:22] [Server thread/INFO]: ysyyayyyayya issued server command: /give wxterio diamond_pickaxe
+[14:15:22] [Server thread/INFO]: [ysyyayyyayya: Gave 1 [Diamond Pickaxe] to Wxterio]
+[14:15:23] [Server thread/INFO]: iglentoften issued server command: /home 1
+[14:15:25] [Async Chat Thread - #3/INFO]: world .[RICE]. Wxterio {non-admin}: ty
+[14:15:26] [Server thread/INFO]: iglentoften issued server command: /home 1
+[14:15:42] [Server thread/INFO]: ysyyayyyayya issued server command: /mv tp spawn
+[14:15:53] [Async Chat Thread - #3/INFO]: world .[RICE]. Wxterio {non-admin}: can i get full diamond :)
+[14:15:58] [Async Chat Thread - #3/INFO]: world ADMIN iglentoften: NAHHHH
+[14:16:30] [Async Chat Thread - #3/INFO]: world ADMIN iglentoften: my coords: 30000, 20, 290
+[14:16:32] [Async Chat Thread - #3/INFO]: [sig] spawn .[OWNER]. ysyyayyyayya [SIGMA]: afk
+[14:16:34] [Async Chat Thread - #3/INFO]: world ADMIN iglentoften: come to me for diamonds
+[14:16:52] [Async Chat Thread - #3/INFO]: world .[RICE]. Wxterio {non-admin}: tpa me
+[14:17:00] [Async Chat Thread - #3/INFO]: world ADMIN iglentoften: no u have to come manually
+[14:17:05] [Async Chat Thread - #3/INFO]: world .[RICE]. Wxterio {non-admin}: y
+[14:17:16] [Async Chat Thread - #3/INFO]: world ADMIN iglentoften: just because
+[14:17:26] [Server thread/INFO]: Wxterio has made the advancement [Ice Bucket Challenge]
+[14:17:27] [Async Chat Thread - #3/INFO]: world .[RICE]. Wxterio {non-admin}: sus
+[14:17:28] [Async Chat Thread - #3/INFO]: world ADMIN iglentoften: im building smth btw
+[14:17:51] [Server thread/INFO]: Wxterio issued server command: /keepinventory true
+[14:17:57] [Server thread/INFO]: Wxterio issued server command: /help
+[14:18:02] [Server thread/INFO]: iglentoften issued server command: /home 1
+[14:18:11] [Server thread/INFO]: Wxterio issued server command: /help 6
+[14:18:31] [Server thread/INFO]: iglentoften lost connection: Disconnected
+[14:18:31] [Server thread/INFO]: iglentoften left the game
+[14:18:36] [Server thread/INFO]: Wxterio issued server command: /mvgamerule keepinventory true
+[14:21:06] [Async Chat Thread - #4/INFO]: [sig] spawn .[OWNER]. ysyyayyyayya [SIGMA]: wtf
+[14:21:11] [Async Chat Thread - #4/INFO]: [sig] spawn .[OWNER]. ysyyayyyayya [SIGMA]: aaron
+[14:21:15] [Async Chat Thread - #4/INFO]: [sig] spawn .[OWNER]. ysyyayyyayya [SIGMA]: wut was that command
+[14:21:15] [Async Chat Thread - #4/INFO]: world .[RICE]. Wxterio {non-admin}: wat
+[14:21:24] [Async Chat Thread - #4/INFO]: [sig] spawn .[OWNER]. ysyyayyyayya [SIGMA]: wut was that command
+[14:21:31] [Async Chat Thread - #4/INFO]: world .[RICE]. Wxterio {non-admin}: keepinvetory didnbt work
+[14:21:34] [Async Chat Thread - #4/INFO]: world .[RICE]. Wxterio {non-admin}: i dont have perms
+[14:21:38] [Async Chat Thread - #4/INFO]: [sig] spawn .[OWNER]. ysyyayyyayya [SIGMA]: good
+[14:21:53] [Async Chat Thread - #4/INFO]: world .[RICE]. Wxterio {non-admin}: i was js testing rano stuff
+[14:22:44] [Async Chat Thread - #4/INFO]: world .[RICE]. Wxterio {non-admin}: 3 stacks of uff
+[14:22:56] [Server thread/INFO]: Wxterio issued server command: /spawn
+[14:22:58] [Server thread/INFO]: Wxterio issued server command: /spawn
+[14:23:05] [Server thread/INFO]: Wxterio issued server command: /tp spawm
+[14:23:07] [Server thread/INFO]: Wxterio issued server command: /tp spawn
+[14:23:09] [Server thread/INFO]: Wxterio issued server command: /spawn
+[14:23:30] [Server thread/INFO]: Wxterio tried to swim in lava
+[14:27:35] [Server thread/INFO]: Wxterio has made the advancement [Acquire Hardware]
+[14:27:43] [Server thread/INFO]: Wxterio has made the advancement [Suit Up]
+[14:29:41] [Server thread/INFO]: Wxterio was shot by Skeleton
+[14:29:46] [Server thread/INFO]: Wxterio issued server command: /back
+[14:32:10] [Server thread/INFO]: ysyyayyyayya issued server command: /mv import
+[14:32:16] [Server thread/INFO]: ysyyayyyayya issued server command: /mv import lighthouse
+[14:32:27] [Server thread/INFO]: ysyyayyyayya issued server command: /mv import Lighthouse
+[14:32:32] [Async Chat Thread - #5/INFO]: [sig] spawn .[OWNER]. ysyyayyyayya [SIGMA]: k
+[14:32:56] [Server thread/INFO]: (org.spigotmc.RestartCommand:56) Startup script './start.sh' does not exist! Stopping server.
+[14:32:56] [Server thread/INFO]: ysyyayyyayya lost connection: Server is restarting
+[14:32:56] [Server thread/ERROR]: Could not pass event PlayerQuitEvent to BetterTeams v4.11.0
+java.lang.IllegalStateException: Unregistered scoreboard component
+	at org.bukkit.craftbukkit.v1_17_R1.scoreboard.CraftTeam.checkState(CraftTeam.java:338) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at org.bukkit.craftbukkit.v1_17_R1.scoreboard.CraftTeam.unregister(CraftTeam.java:265) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at com.booksaw.betterTeams.team.storage.storageManager.SeparatedYamlStorageManager.unloadTeam(SeparatedYamlStorageManager.java:132) ~[BetterTeams-4.11.0.jar:?]
+	at com.booksaw.betterTeams.team.storage.storageManager.SeparatedYamlStorageManager.onLeave(SeparatedYamlStorageManager.java:387) ~[BetterTeams-4.11.0.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor33.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor.lambda$create$1(EventExecutor.java:69) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:628) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at net.minecraft.server.players.PlayerList.disconnect(PlayerList.java:610) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.onDisconnect(ServerGamePacketListenerImpl.java:2049) ~[app:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.disconnect(ServerGamePacketListenerImpl.java:496) ~[app:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.disconnect(ServerGamePacketListenerImpl.java:459) ~[app:?]
+	at org.spigotmc.RestartCommand.shutdownServer(RestartCommand.java:77) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at org.spigotmc.RestartCommand.restart(RestartCommand.java:61) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at org.spigotmc.RestartCommand.restart(RestartCommand.java:40) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at org.spigotmc.RestartCommand$1.run(RestartCommand.java:31) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1604) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:528) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1507) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1300) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:322) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[14:32:56] [Server thread/INFO]: ysyyayyyayya left the game
+[14:32:56] [Server thread/INFO]: Wxterio lost connection: Server is restarting
+[14:32:56] [Server thread/INFO]: Wxterio left the game
+[14:32:56] [Server thread/INFO]: Stopping server
+[14:32:56] [Server thread/INFO]: [Multiverse-Portals] Disabling Multiverse-Portals v4.2.3
+[14:32:56] [Server thread/INFO]: [ViaRewind-Legacy-Support] Disabling ViaRewind-Legacy-Support v1.4.2
+[14:32:56] [Server thread/INFO]: [Multiverse-Inventories] Disabling Multiverse-Inventories v4.2.6
+[14:32:56] [Server thread/INFO]: [ViaRewind] Disabling ViaRewind v3.0.6
+[14:32:56] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v4.3.14
+[14:32:56] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v4.9.2
+[14:32:56] [Server thread/INFO]: [ServersNPC] Disabling ServersNPC v5.0
+[14:32:56] [Server thread/INFO]: [PowerRanks] Disabling PowerRanks v1.10.10
+[14:32:56] [Server thread/INFO]: [PowerRanks] Disabled PowerRanks v1.10.10
+[14:32:56] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v4.9.3
+[14:32:56] [Server thread/INFO]: [ViaVersion] ViaVersion is disabling, if this is a reload and you experience issues consider rebooting.
+[14:32:56] [Server thread/INFO]: [SimpleHomes] Disabling SimpleHomes v2.2
+[14:32:56] [Server thread/INFO]: [LoginSecurity] Disabling LoginSecurity v3.2.0
+[14:32:56] [Server thread/INFO]: [LoginSecurity] Waiting for queued tasks...
+[14:32:56] [Server thread/INFO]: [LoginSecurity] ExecutorService shut down, ready to disable.
+[14:32:56] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.2.20+6667-f0f1e66
+[14:32:56] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[14:32:56] [Server thread/INFO]: [BetterTeams] Disabling BetterTeams v4.11.0
+[14:32:56] [Server thread/ERROR]: Error occurred while disabling BetterTeams v4.11.0 (Is it up to date?)
+java.lang.IllegalStateException: Unregistered scoreboard component
+	at org.bukkit.craftbukkit.v1_17_R1.scoreboard.CraftTeam.checkState(CraftTeam.java:338) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at org.bukkit.craftbukkit.v1_17_R1.scoreboard.CraftTeam.unregister(CraftTeam.java:265) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at com.booksaw.betterTeams.events.MCTeamManagement.removeAll(MCTeamManagement.java:82) ~[BetterTeams-4.11.0.jar:?]
+	at com.booksaw.betterTeams.Main.onDisable(Main.java:153) ~[BetterTeams-4.11.0.jar:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:266) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at org.bukkit.plugin.java.JavaPluginLoader.disablePlugin(JavaPluginLoader.java:399) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at org.bukkit.plugin.SimplePluginManager.disablePlugin(SimplePluginManager.java:537) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at org.bukkit.plugin.SimplePluginManager.disablePlugins(SimplePluginManager.java:514) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at org.bukkit.craftbukkit.v1_17_R1.CraftServer.disablePlugins(CraftServer.java:495) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at net.minecraft.server.MinecraftServer.stopServer(MinecraftServer.java:1064) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at net.minecraft.server.dedicated.DedicatedServer.stopServer(DedicatedServer.java:855) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at net.minecraft.server.MinecraftServer.close(MinecraftServer.java:1016) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at org.spigotmc.RestartCommand.shutdownServer(RestartCommand.java:92) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at org.spigotmc.RestartCommand.restart(RestartCommand.java:61) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at org.spigotmc.RestartCommand.restart(RestartCommand.java:40) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at org.spigotmc.RestartCommand$1.run(RestartCommand.java:31) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1604) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:528) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1507) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1300) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:322) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[14:32:56] [Server thread/INFO]: [SimpleTpa] Disabling SimpleTpa v6.4
+[14:32:56] [Server thread/INFO]: [SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9
+[14:32:56] [Server thread/INFO]: [SimpleTpa] Simple Tpa has been disabled on version 6.4
+[14:32:56] [Server thread/INFO]: Saving players
+[14:32:56] [Server thread/INFO]: Saving worlds
+[14:32:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[14:32:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[14:32:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[14:32:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Bedwars]'/minecraft:bedwars
+[14:32:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[spawn]'/minecraft:spawn
+[14:32:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[tarkhine]'/minecraft:tarkhine
+[14:32:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[14:32:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14:32:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14:32:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (Bedwars): All chunks are saved
+[14:32:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (spawn): All chunks are saved
+[14:32:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (tarkhine): All chunks are saved
+[14:32:56] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[14:32:57] [Server thread/INFO]: Flushing Chunk IO
+[14:32:57] [Server thread/INFO]: Closing Thread Pool
+[14:32:57] [Server thread/INFO]: Closing Server

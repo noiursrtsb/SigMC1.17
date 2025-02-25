@@ -16,15 +16,15 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1740498516587
-  login: 1740497942194
+  logout: 1740518998114
+  login: 1740519136377
 money: '0'
 last-account-name: Nottom3
 logoutlocation:
   world: 835fa24e-bfa1-45aa-821d-8e5015e99e57
   world-name: world
-  x: -19.300000011920957
+  x: -16.0
   y: 64.0
-  z: 169.30000001192093
-  yaw: -178.2965545654297
-  pitch: 47.38371658325195
+  z: 48.0
+  yaw: 0.0
+  pitch: 0.0

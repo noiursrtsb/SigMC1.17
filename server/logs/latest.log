@@ -255,3 +255,67 @@ java.lang.IllegalArgumentException: Team name '5-starwarswatcher' is longer than
 [20:56:29] [Server thread/WARN]: UUID of added entity already exists: EntityChicken['Chicken'/361, uuid='b9aff910-72e7-4d87-b79b-d0fd5195b400', l='ServerLevel[bedwarslobby]', x=271.07, y=4.00, z=103.07, cpos=[16, 6], tl=11612, v=false, rR=null]
 [20:56:29] [Server thread/WARN]: UUID of added entity already exists: EntitySheep['Sheep'/370, uuid='14b30dde-a155-4257-88bf-d3054c5f9416', l='ServerLevel[bedwarslobby]', x=287.18, y=4.00, z=141.18, cpos=[17, 8], tl=89614, v=false, rR=null]
 [20:56:29] [Server thread/WARN]: UUID of added entity already exists: EntitySlime['Slime'/371, uuid='52dcfdaa-d72f-4ca9-bf5a-fe42a3063ccf', l='ServerLevel[bedwarslobby]', x=277.81, y=4.00, z=133.42, cpos=[17, 8], tl=89655, v=false, rR=null]
+[20:57:04] [User Authenticator #1/INFO]: UUID of player iglentoften is 1f39864e-1ba8-32ee-b3a0-299113502435
+[20:57:04] [Server thread/INFO]: iglentoften joined the game
+[20:57:05] [Server thread/INFO]: iglentoften[/[0:0:0:0:0:0:0:1]:36928] logged in with entity id 395 at ([world]422.37796346643165, 79.0, 759.8350896067284)
+[20:57:05] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|UpdateCert-1.8
+[20:57:05] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FML
+[20:57:05] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|Skins-1.8
+[20:57:05] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FORGE
+[20:57:05] [Server thread/WARN]: UUID of added entity already exists: EntityFox['Fox'/437, uuid='89237b04-12f9-49ce-af06-3caffb2f7122', l='ServerLevel[world]', x=403.46, y=79.00, z=783.86, cpos=[25, 48], tl=33081, v=false, rR=null]
+[20:57:05] [Server thread/WARN]: UUID of added entity already exists: EntityZombieVillager['Zombie Villager'/438, uuid='980ca557-5f37-45d0-86de-451930b06b74', l='ServerLevel[world]', x=430.74, y=63.00, z=749.26, cpos=[26, 46], tl=1170, v=false, rR=null]
+[20:57:08] [Server thread/WARN]: UUID of added entity already exists: EntityWolf['Wolf'/550, uuid='8aea441f-1901-4cc0-8590-ef454d8586b3', l='ServerLevel[world]', x=532.50, y=64.00, z=828.30, cpos=[33, 51], tl=32127, v=false, rR=null]
+[20:57:09] [Server thread/WARN]: UUID of added entity already exists: EntityCow['Cow'/565, uuid='55559b05-337c-4811-be6d-4ab57a0f4e32', l='ServerLevel[world]', x=587.15, y=66.00, z=801.52, cpos=[36, 50], tl=32868, v=false, rR=null]
+[20:57:09] [Server thread/WARN]: UUID of added entity already exists: EntityVillager['Fisherman'/578, uuid='3794948d-3d9a-44d1-827f-598a5d24d9cf', l='ServerLevel[world]', x=574.54, y=63.94, z=854.46, cpos=[35, 53], tl=32683, v=false, rR=null]
+[20:57:09] [Server thread/WARN]: UUID of added entity already exists: EntityVillager['Fisherman'/581, uuid='881551a9-45f4-4d23-b99c-1b1188e814ee', l='ServerLevel[world]', x=579.69, y=65.56, z=847.50, cpos=[36, 52], tl=38458, v=false, rR=null]
+[20:57:09] [Server thread/WARN]: UUID of added entity already exists: EntityVillager['Fisherman'/582, uuid='64265284-2ce9-469d-8f7d-b063a95557dd', l='ServerLevel[world]', x=577.73, y=64.94, z=854.55, cpos=[36, 53], tl=32737, v=false, rR=null]
+[20:57:18] [Async Chat Thread - #0/INFO]: world ADMIN iglentoften: r u sigma landon
+[20:57:31] [Server thread/INFO]: iglentoften issued server command: /home 1
+[20:57:44] [Server thread/ERROR]: No TreeType mapping for TreeGenerator.TreeType.MANGROVE
+[20:57:44] [Server thread/ERROR]: No TreeType mapping for TreeGenerator.TreeType.TALL_MANGROVE
+[20:57:44] [Server thread/ERROR]: No TreeType mapping for TreeGenerator.TreeType.CHERRY
+[20:57:53] [Server thread/INFO]: iglentoften issued server command: /home 3
+[20:58:31] [Server thread/INFO]: iglentoften issued server command: /home 3
+[20:58:46] [Server thread/INFO]: iglentoften issued server command: /home 3
+[20:58:47] [Server thread/INFO]: iglentoften lost connection: Disconnected
+[20:58:47] [Server thread/INFO]: iglentoften left the game
+[20:58:50] [User Authenticator #2/INFO]: UUID of player iglentoften is 1f39864e-1ba8-32ee-b3a0-299113502435
+[20:58:50] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|UpdateCert-1.8
+[20:58:50] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FML
+[20:58:50] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|Skins-1.8
+[20:58:50] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FORGE
+[20:58:50] [Server thread/INFO]: iglentoften joined the game
+[20:58:51] [Server thread/INFO]: iglentoften[/[0:0:0:0:0:0:0:1]:53196] logged in with entity id 747 at ([world]425.4311690213687, 79.0, 751.2178863009188)
+[20:59:08] [Server thread/INFO]: iglentoften issued server command: /home 1
+[20:59:24] [Server thread/INFO]: iglentoften issued server command: /home 3
+[20:59:27] [Server thread/INFO]: iglentoften issued server command: /home 3
+[21:01:32] [Server thread/INFO]: iglentoften issued server command: /home 1
+[21:03:31] [Server thread/INFO]: iglentoften issued server command: /home 3
+[21:10:01] [Server thread/INFO]: iglentoften issued server command: /home 3
+[21:10:09] [Server thread/INFO]: iglentoften issued server command: /home 3
+[21:12:21] [Server thread/INFO]: iglentoften issued server command: /home 3
+[21:13:25] [Server thread/INFO]: iglentoften issued server command: /fly
+[21:13:25] [Server thread/INFO]: [Essentials] iglentoften was denied access to command.
+[21:13:36] [Server thread/INFO]: iglentoften issued server command: /mv tp spawn
+[21:15:38] [Server thread/INFO]: iglentoften issued server command: /give wood
+[21:15:38] [Server thread/INFO]: [Essentials] iglentoften was denied access to command.
+[21:16:35] [Server thread/INFO]: iglentoften lost connection: Disconnected
+[21:16:35] [Server thread/INFO]: iglentoften left the game
+[21:22:30] [User Authenticator #3/INFO]: UUID of player Nottom3 is bf48a8d9-74dc-3307-96cf-f9eb8daf2d49
+[21:22:30] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|UpdateCert-1.8
+[21:22:30] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FML
+[21:22:30] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|Skins-1.8
+[21:22:30] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FORGE
+[21:22:30] [Server thread/INFO]: Nottom3 joined the game
+[21:22:30] [Server thread/INFO]: Nottom3[/[0:0:0:0:0:0:0:1]:54512] logged in with entity id 2571 at ([world]-19.300000011920957, 64.0, 169.30000001192093)
+[21:22:30] [Server thread/WARN]: UUID of added entity already exists: EntityRabbit['Rabbit'/2600, uuid='aa65b8f6-6595-4558-8320-925c4b67fc79', l='ServerLevel[world]', x=-165.74, y=67.00, z=247.47, cpos=[-11, 15], tl=115502, v=false, rR=null]
+[21:29:48] [Server thread/INFO]: Nottom3 tried to swim in lava to escape Spider
+[21:29:58] [Server thread/INFO]: Nottom3 lost connection: Disconnected
+[21:29:58] [Server thread/INFO]: Nottom3 left the game
+[21:32:16] [User Authenticator #4/INFO]: UUID of player Nottom3 is bf48a8d9-74dc-3307-96cf-f9eb8daf2d49
+[21:32:16] [Server thread/INFO]: Nottom3 joined the game
+[21:32:16] [Server thread/INFO]: Nottom3[/[0:0:0:0:0:0:0:1]:40052] logged in with entity id 3549 at ([world]-16.0, 64.0, 48.0)
+[21:32:16] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|UpdateCert-1.8
+[21:32:16] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FML
+[21:32:16] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|Skins-1.8
+[21:32:16] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FORGE

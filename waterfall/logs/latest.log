@@ -46,3 +46,33 @@
 [20:56:08] [main/INFO]: Enabled plugin EaglercraftXBungee version 1.0.10 by lax1dude
 [20:56:08] [Netty Boss IO Thread #0/INFO]: Listening on /0.0.0.0:25577
 [20:56:10] [EaglerXBungee: Network Tick Tasks/INFO] [EaglercraftXBungee]: Loaded certificate: /workspaces/SigMC1.17/waterfall/plugins/EaglercraftXBungee/eagcert/$dl.ac3aaed1273ced06ef766ab055337fbf29dc3347.cert
+[20:57:00] [Netty Worker IO Thread #1/WARN] [EaglercraftXBungee]: Server icon is not a file: /workspaces/SigMC1.17/waterfall/server-icon.png
+[20:57:03] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:49744]: Connected via websocket
+[20:57:03] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:49744]: Origin header is https://nolanderlauncherdelta-ozj8.vercel.app
+[20:57:03] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:49744]: Logged in as 'iglentoften'
+[20:57:03] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:49744|iglentoften] -> UpstreamBridge has connected
+[20:57:03] [Netty Worker IO Thread #2/INFO]: [iglentoften|/[0:0:0:0:0:0:0:1%0]:49744] <-> ServerConnector [lobby] has connected
+[20:58:47] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:49744|iglentoften] -> UpstreamBridge has disconnected
+[20:58:47] [Netty Worker IO Thread #2/INFO]: [iglentoften] disconnected with: Proxy lost connection to server.
+[20:58:47] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:49744|iglentoften] <-> DownstreamBridge <-> [lobby] has disconnected
+[20:58:50] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:47994]: Connected via websocket
+[20:58:50] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:47994]: Origin header is https://nolanderlauncherdelta-ozj8.vercel.app
+[20:58:50] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:47994]: Logged in as 'iglentoften'
+[20:58:50] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:47994|iglentoften] -> UpstreamBridge has connected
+[20:58:50] [Netty Worker IO Thread #3/INFO]: [iglentoften|/[0:0:0:0:0:0:0:1%0]:47994] <-> ServerConnector [lobby] has connected
+[21:16:35] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:47994|iglentoften] -> UpstreamBridge has disconnected
+[21:16:35] [Netty Worker IO Thread #3/INFO]: [iglentoften] disconnected with: Proxy lost connection to server.
+[21:16:35] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:47994|iglentoften] <-> DownstreamBridge <-> [lobby] has disconnected
+[21:22:30] [Netty Worker IO Thread #5/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:34944]: Connected via websocket
+[21:22:30] [Netty Worker IO Thread #5/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:34944]: Origin header is null
+[21:22:30] [Netty Worker IO Thread #5/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:34944]: Logged in as 'Nottom3'
+[21:22:30] [Netty Worker IO Thread #5/INFO]: [/[0:0:0:0:0:0:0:1%0]:34944|Nottom3] -> UpstreamBridge has connected
+[21:22:30] [Netty Worker IO Thread #5/INFO]: [Nottom3|/[0:0:0:0:0:0:0:1%0]:34944] <-> ServerConnector [lobby] has connected
+[21:29:58] [Netty Worker IO Thread #5/INFO]: [/[0:0:0:0:0:0:0:1%0]:34944|Nottom3] -> UpstreamBridge has disconnected
+[21:29:58] [Netty Worker IO Thread #5/INFO]: [Nottom3] disconnected with: Proxy lost connection to server.
+[21:29:58] [Netty Worker IO Thread #5/INFO]: [/[0:0:0:0:0:0:0:1%0]:34944|Nottom3] <-> DownstreamBridge <-> [lobby] has disconnected
+[21:32:16] [Netty Worker IO Thread #7/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:48700]: Connected via websocket
+[21:32:16] [Netty Worker IO Thread #7/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:48700]: Origin header is null
+[21:32:16] [Netty Worker IO Thread #7/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:48700]: Logged in as 'Nottom3'
+[21:32:16] [Netty Worker IO Thread #7/INFO]: [/[0:0:0:0:0:0:0:1%0]:48700|Nottom3] -> UpstreamBridge has connected
+[21:32:16] [Netty Worker IO Thread #7/INFO]: [Nottom3|/[0:0:0:0:0:0:0:1%0]:48700] <-> ServerConnector [lobby] has connected

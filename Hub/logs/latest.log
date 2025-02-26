@@ -256,3 +256,51 @@ java.lang.IllegalArgumentException: Team name '5-starwarswatcher' is longer than
 [13:20:16] [Server thread/INFO]: ysyyayyyayya issued server command: /servers
 [13:20:40] [Server thread/INFO]: ysyyayyyayya lost connection: Disconnected
 [13:20:40] [Server thread/INFO]: ysyyayyyayya left the game
+[13:23:55] [Server thread/INFO]: Stopping the server
+[13:23:55] [Server thread/INFO]: Stopping server
+[13:23:55] [Server thread/INFO]: [Multiverse-Portals] Disabling Multiverse-Portals v4.2.3
+[13:23:55] [Server thread/INFO]: [SBA] Disabling SBA v1.5.13.7
+[13:23:55] [Server thread/INFO]: [BedWars] Disabling BedWars v0.2.36.1
+[13:23:55] [Server thread/INFO]: [ViaRewind-Legacy-Support] Disabling ViaRewind-Legacy-Support v1.4.2
+[13:23:55] [Server thread/INFO]: [Multiverse-Inventories] Disabling Multiverse-Inventories v4.2.6
+[13:23:55] [Server thread/INFO]: [ViaRewind] Disabling ViaRewind v3.0.6
+[13:23:55] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v4.3.14
+[13:23:55] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v4.9.2
+[13:23:55] [Server thread/INFO]: [ServersNPC] Disabling ServersNPC v5.0
+[13:23:55] [Server thread/INFO]: [PowerRanks] Disabling PowerRanks v1.10.10
+[13:23:55] [Server thread/INFO]: [PowerRanks] Disabled PowerRanks v1.10.10
+[13:23:55] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v4.9.3
+[13:23:55] [Server thread/INFO]: [ViaVersion] ViaVersion is disabling, if this is a reload and you experience issues consider rebooting.
+[13:23:55] [Server thread/INFO]: [SimpleHomes] Disabling SimpleHomes v2.2
+[13:23:55] [Server thread/INFO]: [LoginSecurity] Disabling LoginSecurity v3.2.0
+[13:23:55] [Server thread/INFO]: [LoginSecurity] Waiting for queued tasks...
+[13:23:55] [Server thread/INFO]: [LoginSecurity] ExecutorService shut down, ready to disable.
+[13:23:55] [Server thread/INFO]: [Essentials] Disabling Essentials v2.20.1
+[13:23:55] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.2.20+6667-f0f1e66
+[13:23:55] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[13:23:55] [Server thread/INFO]: [BetterTeams] Disabling BetterTeams v4.11.0
+[13:23:55] [Server thread/INFO]: [SimpleTpa] Disabling SimpleTpa v6.4
+[13:23:55] [Server thread/INFO]: [SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9
+[13:23:55] [Server thread/INFO]: [SimpleTpa] Simple Tpa has been disabled on version 6.4
+[13:23:55] [Server thread/INFO]: Saving players
+[13:23:55] [Server thread/INFO]: Saving worlds
+[13:23:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[13:23:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[13:23:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[13:23:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Bedwars]'/minecraft:bedwars
+[13:23:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[spawn]'/minecraft:spawn
+[13:23:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Lighthouse]'/minecraft:lighthouse
+[13:23:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[bedwarslobby]'/minecraft:bedwarslobby
+[13:23:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[tarkhine]'/minecraft:tarkhine
+[13:23:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[13:23:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13:23:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13:23:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (Bedwars): All chunks are saved
+[13:23:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (spawn): All chunks are saved
+[13:23:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (Lighthouse): All chunks are saved
+[13:23:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (bedwarslobby): All chunks are saved
+[13:23:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (tarkhine): All chunks are saved
+[13:23:55] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[13:23:55] [Server thread/INFO]: Flushing Chunk IO
+[13:23:55] [Server thread/INFO]: Closing Thread Pool
+[13:23:55] [Server thread/INFO]: Closing Server

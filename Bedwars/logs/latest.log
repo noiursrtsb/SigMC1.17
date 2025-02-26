@@ -44,3 +44,16 @@
 [13:17:15] [Server thread/INFO]: Done (3.941s)! For help, type "help"
 [13:17:15] [Server thread/INFO]: Timings Reset
 [13:17:16] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.2.1, you're on: 4.9.3
+[13:20:40] [User Authenticator #1/INFO]: UUID of player ysyyayyyayya is 6cd4e570-7a49-3521-8e89-4b4b5c6269c5
+[13:20:40] [Server thread/INFO]: ysyyayyyayya joined the game
+[13:20:40] [Server thread/INFO]: ysyyayyyayya[/[0:0:0:0:0:0:0:1]:42156] logged in with entity id 205 at ([world]-86.5, 72.0, -230.5)
+[13:20:41] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|UpdateCert-1.8
+[13:20:41] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FML
+[13:20:41] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|Skins-1.8
+[13:20:41] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FORGE
+[13:20:52] [Server thread/INFO]: ysyyayyyayya issued server command: /gamemode creative
+[13:20:56] [Server thread/INFO]: ysyyayyyayya issued server command: /plugins
+[13:21:50] [Server thread/INFO]: ysyyayyyayya issued server command: /essentials
+[13:21:55] [Server thread/INFO]: ysyyayyyayya issued server command: /powerranks
+[13:22:11] [Server thread/INFO]: ysyyayyyayya lost connection: Disconnected
+[13:22:11] [Server thread/INFO]: ysyyayyyayya left the game

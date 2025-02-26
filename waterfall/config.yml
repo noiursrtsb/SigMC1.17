@@ -52,5 +52,5 @@ servers:
     restricted: false
   bedwars:
     motd: '&1Just another Waterfall - Forced Host'
-    address: localhost:25565
+    address: localhost:25566
     restricted: false

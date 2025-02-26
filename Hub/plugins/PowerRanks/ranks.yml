@@ -3,11 +3,11 @@ Moderator:
   inheritances: []
   weight: 50
   namecolor: ''
+  buyDescription: ''
+  buyCommand: ''
   chatcolor: ''
   buyableRanks: []
   buyCost: 0.0
-  buyDescription: ''
-  buyCommand: ''
   default: false
   prefix: '[gradient=#9d1dff,#e22581]MODERATOR[/gradient]'
   suffix: ''
@@ -16,11 +16,11 @@ Owner:
   inheritances: []
   weight: 1000
   namecolor: ''
+  buyDescription: ''
+  buyCommand: ''
   chatcolor: ''
   buyableRanks: []
   buyCost: 0.0
-  buyDescription: ''
-  buyCommand: ''
   default: false
   prefix: '&e&k.&r&8[&1&lOWNER&r&8]&e&k.'
   suffix: '[SIGMA]'
@@ -29,11 +29,11 @@ LOWTAPERFADE:
   inheritances: []
   weight: 100
   namecolor: ''
+  buyDescription: ''
+  buyCommand: ''
   chatcolor: ''
   buyableRanks: []
   buyCost: 0.0
-  buyDescription: ''
-  buyCommand: ''
   default: false
   prefix: '&4[&c&lLOWTAPERFADE&4]'
   suffix: '{RICE}'
@@ -42,11 +42,11 @@ SIGMA:
   inheritances: []
   weight: 100
   namecolor: ''
+  buyDescription: ''
+  buyCommand: ''
   chatcolor: ''
   buyableRanks: []
   buyCost: 0.0
-  buyDescription: ''
-  buyCommand: ''
   default: false
   prefix: '&2&k..&8[&aSIGMA&8]&2&k..'
   suffix: '{CHUNGLE}'
@@ -55,11 +55,11 @@ Admin:
   inheritances: []
   weight: 75
   namecolor: ''
+  buyDescription: ''
+  buyCommand: ''
   chatcolor: ''
   buyableRanks: []
   buyCost: 0.0
-  buyDescription: ''
-  buyCommand: ''
   default: false
   prefix: '[gradient=#ffff00,#ef3300]ADMIN[/gradient]'
   suffix: ''
@@ -68,11 +68,11 @@ Member:
   inheritances: []
   weight: 0
   namecolor: ''
+  buyDescription: ''
+  buyCommand: ''
   chatcolor: ''
   buyableRanks: []
   buyCost: 0.0
-  buyDescription: ''
-  buyCommand: ''
   default: true
   prefix: '[gradient=#127e00,#3eaf18]MEMBER[/gradient]'
   suffix: ''
@@ -81,11 +81,11 @@ starwarswatcher:
   inheritances: []
   weight: 0
   namecolor: ''
+  buyDescription: ''
+  buyCommand: ''
   chatcolor: ''
   buyableRanks: []
   buyCost: 0.0
-  buyDescription: ''
-  buyCommand: ''
   default: false
   prefix: '&k.&r[starwarswatcher]&k.'
   suffix: '{doctor}'
@@ -94,11 +94,11 @@ RICE:
   inheritances: []
   weight: 0
   namecolor: ''
+  buyDescription: ''
+  buyCommand: ''
   chatcolor: ''
   buyableRanks: []
   buyCost: 0.0
-  buyDescription: ''
-  buyCommand: ''
   default: false
   prefix: '&k.&r[RICE]&k.'
   suffix: '{non-admin}'

@@ -1,40 +1,40 @@
-[17:12:51] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[17:12:52] [main/INFO]: Reloading ResourceManager: Default, bukkit
-[17:12:52] [Worker-Main-1/INFO]: Loaded 7 recipes
-[17:12:54] [Server thread/INFO]: Starting minecraft server version 1.17.1
-[17:12:54] [Server thread/INFO]: Loading properties
-[17:12:54] [Server thread/INFO]: This server is running Purpur version git-Purpur-1428 (MC: 1.17.1) (Implementing API version 1.17.1-R0.1-SNAPSHOT) (Git: 9beb23b on ver/1.17.1)
-[17:12:54] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[17:12:54] [Server thread/INFO]: Using 4 threads for Netty based IO
-[17:12:54] [Server thread/INFO]: Default game type: SURVIVAL
-[17:12:54] [Server thread/INFO]: Generating keypair
-[17:12:54] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:12:54] [Server thread/INFO]: Using epoll channel type
-[17:12:54] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[17:12:54] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[17:12:55] [Server thread/ERROR]: (org.bukkit.craftbukkit.v1_17_R1.legacy.CraftLegacy:259) Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
-[17:12:58] [Server thread/WARN]: Legacy plugin SimpleTpa v6.4 does not specify an api-version.
-[17:12:58] [Server thread/INFO]: [Citizens] Loading 5 libraries... please wait
-[17:12:58] [Server thread/INFO]: [Citizens] Loaded library /workspaces/SigMC1.17/Hub/libraries/ch/ethz/globis/phtree/phtree/2.8.1/phtree-2.8.1.jar
-[17:12:58] [Server thread/INFO]: [Citizens] Loaded library /workspaces/SigMC1.17/Hub/libraries/org/joml/joml/1.10.8/joml-1.10.8.jar
-[17:12:58] [Server thread/INFO]: [Citizens] Loaded library /workspaces/SigMC1.17/Hub/libraries/it/unimi/dsi/fastutil/8.5.15/fastutil-8.5.15.jar
-[17:12:58] [Server thread/INFO]: [Citizens] Loaded library /workspaces/SigMC1.17/Hub/libraries/net/kyori/adventure-platform-bukkit/4.3.3/adventure-platform-bukkit-4.3.3.jar
-[17:12:58] [Server thread/INFO]: [Citizens] Loaded library /workspaces/SigMC1.17/Hub/libraries/net/kyori/adventure-platform-api/4.3.3/adventure-platform-api-4.3.3.jar
-[17:12:58] [Server thread/INFO]: [Citizens] Loaded library /workspaces/SigMC1.17/Hub/libraries/net/kyori/adventure-text-serializer-bungeecord/4.3.3/adventure-text-serializer-bungeecord-4.3.3.jar
-[17:12:58] [Server thread/INFO]: [Citizens] Loaded library /workspaces/SigMC1.17/Hub/libraries/net/kyori/adventure-text-serializer-legacy/4.13.1/adventure-text-serializer-legacy-4.13.1.jar
-[17:12:58] [Server thread/INFO]: [Citizens] Loaded library /workspaces/SigMC1.17/Hub/libraries/net/kyori/adventure-nbt/4.13.1/adventure-nbt-4.13.1.jar
-[17:12:58] [Server thread/INFO]: [Citizens] Loaded library /workspaces/SigMC1.17/Hub/libraries/net/kyori/examination-api/1.3.0/examination-api-1.3.0.jar
-[17:12:58] [Server thread/INFO]: [Citizens] Loaded library /workspaces/SigMC1.17/Hub/libraries/net/kyori/examination-string/1.3.0/examination-string-1.3.0.jar
-[17:12:58] [Server thread/INFO]: [Citizens] Loaded library /workspaces/SigMC1.17/Hub/libraries/org/jetbrains/annotations/24.0.1/annotations-24.0.1.jar
-[17:12:58] [Server thread/INFO]: [Citizens] Loaded library /workspaces/SigMC1.17/Hub/libraries/net/kyori/adventure-text-serializer-gson/4.13.1/adventure-text-serializer-gson-4.13.1.jar
-[17:12:58] [Server thread/INFO]: [Citizens] Loaded library /workspaces/SigMC1.17/Hub/libraries/net/kyori/adventure-text-serializer-gson-legacy-impl/4.13.1/adventure-text-serializer-gson-legacy-impl-4.13.1.jar
-[17:12:58] [Server thread/INFO]: [Citizens] Loaded library /workspaces/SigMC1.17/Hub/libraries/net/kyori/adventure-platform-facet/4.3.3/adventure-platform-facet-4.3.3.jar
-[17:12:58] [Server thread/INFO]: [Citizens] Loaded library /workspaces/SigMC1.17/Hub/libraries/net/kyori/adventure-platform-viaversion/4.3.3/adventure-platform-viaversion-4.3.3.jar
-[17:12:58] [Server thread/INFO]: [Citizens] Loaded library /workspaces/SigMC1.17/Hub/libraries/net/kyori/adventure-text-minimessage/4.17.0/adventure-text-minimessage-4.17.0.jar
-[17:12:58] [Server thread/INFO]: [Citizens] Loaded library /workspaces/SigMC1.17/Hub/libraries/net/kyori/adventure-api/4.17.0/adventure-api-4.17.0.jar
-[17:12:58] [Server thread/INFO]: [Citizens] Loaded library /workspaces/SigMC1.17/Hub/libraries/net/kyori/adventure-key/4.17.0/adventure-key-4.17.0.jar
-[17:12:58] [Server thread/WARN]: Legacy plugin SimpleHomes v2.2 does not specify an api-version.
-[17:12:58] [Server thread/ERROR]: Could not load 'plugins/LifeSteal-1.9.3.jar' in folder 'plugins'
+[21:05:20] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[21:05:20] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[21:05:20] [Worker-Main-1/INFO]: Loaded 7 recipes
+[21:05:22] [Server thread/INFO]: Starting minecraft server version 1.17.1
+[21:05:22] [Server thread/INFO]: Loading properties
+[21:05:22] [Server thread/INFO]: This server is running Purpur version git-Purpur-1428 (MC: 1.17.1) (Implementing API version 1.17.1-R0.1-SNAPSHOT) (Git: 9beb23b on ver/1.17.1)
+[21:05:22] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[21:05:22] [Server thread/INFO]: Using 4 threads for Netty based IO
+[21:05:22] [Server thread/INFO]: Default game type: SURVIVAL
+[21:05:22] [Server thread/INFO]: Generating keypair
+[21:05:22] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:05:22] [Server thread/INFO]: Using epoll channel type
+[21:05:22] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[21:05:22] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[21:05:23] [Server thread/ERROR]: (org.bukkit.craftbukkit.v1_17_R1.legacy.CraftLegacy:259) Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[21:05:26] [Server thread/WARN]: Legacy plugin SimpleTpa v6.4 does not specify an api-version.
+[21:05:27] [Server thread/INFO]: [Citizens] Loading 5 libraries... please wait
+[21:05:27] [Server thread/INFO]: [Citizens] Loaded library /workspaces/SigMC1.17/Hub/libraries/ch/ethz/globis/phtree/phtree/2.8.1/phtree-2.8.1.jar
+[21:05:27] [Server thread/INFO]: [Citizens] Loaded library /workspaces/SigMC1.17/Hub/libraries/org/joml/joml/1.10.8/joml-1.10.8.jar
+[21:05:27] [Server thread/INFO]: [Citizens] Loaded library /workspaces/SigMC1.17/Hub/libraries/it/unimi/dsi/fastutil/8.5.15/fastutil-8.5.15.jar
+[21:05:27] [Server thread/INFO]: [Citizens] Loaded library /workspaces/SigMC1.17/Hub/libraries/net/kyori/adventure-platform-bukkit/4.3.3/adventure-platform-bukkit-4.3.3.jar
+[21:05:27] [Server thread/INFO]: [Citizens] Loaded library /workspaces/SigMC1.17/Hub/libraries/net/kyori/adventure-platform-api/4.3.3/adventure-platform-api-4.3.3.jar
+[21:05:27] [Server thread/INFO]: [Citizens] Loaded library /workspaces/SigMC1.17/Hub/libraries/net/kyori/adventure-text-serializer-bungeecord/4.3.3/adventure-text-serializer-bungeecord-4.3.3.jar
+[21:05:27] [Server thread/INFO]: [Citizens] Loaded library /workspaces/SigMC1.17/Hub/libraries/net/kyori/adventure-text-serializer-legacy/4.13.1/adventure-text-serializer-legacy-4.13.1.jar
+[21:05:27] [Server thread/INFO]: [Citizens] Loaded library /workspaces/SigMC1.17/Hub/libraries/net/kyori/adventure-nbt/4.13.1/adventure-nbt-4.13.1.jar
+[21:05:27] [Server thread/INFO]: [Citizens] Loaded library /workspaces/SigMC1.17/Hub/libraries/net/kyori/examination-api/1.3.0/examination-api-1.3.0.jar
+[21:05:27] [Server thread/INFO]: [Citizens] Loaded library /workspaces/SigMC1.17/Hub/libraries/net/kyori/examination-string/1.3.0/examination-string-1.3.0.jar
+[21:05:27] [Server thread/INFO]: [Citizens] Loaded library /workspaces/SigMC1.17/Hub/libraries/org/jetbrains/annotations/24.0.1/annotations-24.0.1.jar
+[21:05:27] [Server thread/INFO]: [Citizens] Loaded library /workspaces/SigMC1.17/Hub/libraries/net/kyori/adventure-text-serializer-gson/4.13.1/adventure-text-serializer-gson-4.13.1.jar
+[21:05:27] [Server thread/INFO]: [Citizens] Loaded library /workspaces/SigMC1.17/Hub/libraries/net/kyori/adventure-text-serializer-gson-legacy-impl/4.13.1/adventure-text-serializer-gson-legacy-impl-4.13.1.jar
+[21:05:27] [Server thread/INFO]: [Citizens] Loaded library /workspaces/SigMC1.17/Hub/libraries/net/kyori/adventure-platform-facet/4.3.3/adventure-platform-facet-4.3.3.jar
+[21:05:27] [Server thread/INFO]: [Citizens] Loaded library /workspaces/SigMC1.17/Hub/libraries/net/kyori/adventure-platform-viaversion/4.3.3/adventure-platform-viaversion-4.3.3.jar
+[21:05:27] [Server thread/INFO]: [Citizens] Loaded library /workspaces/SigMC1.17/Hub/libraries/net/kyori/adventure-text-minimessage/4.17.0/adventure-text-minimessage-4.17.0.jar
+[21:05:27] [Server thread/INFO]: [Citizens] Loaded library /workspaces/SigMC1.17/Hub/libraries/net/kyori/adventure-api/4.17.0/adventure-api-4.17.0.jar
+[21:05:27] [Server thread/INFO]: [Citizens] Loaded library /workspaces/SigMC1.17/Hub/libraries/net/kyori/adventure-key/4.17.0/adventure-key-4.17.0.jar
+[21:05:27] [Server thread/WARN]: Legacy plugin SimpleHomes v2.2 does not specify an api-version.
+[21:05:27] [Server thread/ERROR]: Could not load 'plugins/LifeSteal-1.9.3.jar' in folder 'plugins'
 org.bukkit.plugin.InvalidPluginException: Unsupported API version 1.18
 	at org.bukkit.craftbukkit.v1_17_R1.util.CraftMagicNumbers.checkSupported(CraftMagicNumbers.java:358) ~[patched_1.17.1.jar:git-Purpur-1428]
 	at org.bukkit.plugin.java.JavaPluginLoader.loadPlugin(JavaPluginLoader.java:149) ~[patched_1.17.1.jar:git-Purpur-1428]
@@ -45,137 +45,151 @@ org.bukkit.plugin.InvalidPluginException: Unsupported API version 1.18
 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1233) ~[patched_1.17.1.jar:git-Purpur-1428]
 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:322) ~[patched_1.17.1.jar:git-Purpur-1428]
 	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-[17:12:58] [Server thread/WARN]: Legacy plugin AuthMe v2.7.11 does not specify an api-version.
-[17:12:58] [Server thread/INFO]: [SimpleTpa] Loading SimpleTpa v6.4
-[17:12:58] [Server thread/INFO]: [BetterTeams] Loading BetterTeams v4.11.0
-[17:12:58] [Server thread/INFO]: [BetterTeams] Checking if the file config.yml is up to date
-[17:12:58] [Server thread/INFO]: [BetterTeams] File is up to date
-[17:12:58] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v7.2.20+6667-f0f1e66
-[17:12:59] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@34e4b583]
-[17:12:59] [Server thread/INFO]: [Citizens] Loading Citizens v2.0.37-SNAPSHOT (build 3716)
-[17:12:59] [Server thread/INFO]: [Essentials] Loading Essentials v2.20.1
-[17:12:59] [Server thread/INFO]: [LoginSecurity] Loading LoginSecurity v3.2.0
-[17:12:59] [Server thread/INFO]: [SimpleHomes] Loading SimpleHomes v2.2
-[17:12:59] [Server thread/INFO]: [ViaVersion] Loading ViaVersion v4.9.3
-[17:12:59] [Server thread/INFO]: [ViaVersion] ViaVersion 4.9.3 is now loaded. Registering protocol transformers and injecting...
-[17:12:59] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
-[17:13:00] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
-[17:13:00] [Server thread/INFO]: [ViaBackwards] Loading translations...
-[17:13:00] [Server thread/INFO]: [ViaBackwards] Registering protocols...
-[17:13:00] [Server thread/INFO]: [PowerRanks] Loading PowerRanks v1.10.10
-[17:13:00] [Server thread/INFO]: [ServersNPC] Loading ServersNPC v5.0
-[17:13:00] [Server thread/INFO]: [ViaBackwards] Loading ViaBackwards v4.9.2
-[17:13:00] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v4.3.14
-[17:13:00] [Server thread/INFO]: [ViaRewind] Loading ViaRewind v3.0.6
-[17:13:00] [Server thread/INFO]: [Multiverse-Inventories] Loading Multiverse-Inventories v4.2.6
-[17:13:00] [Server thread/INFO]: [ViaRewind-Legacy-Support] Loading ViaRewind-Legacy-Support v1.4.2
-[17:13:00] [Server thread/INFO]: [AuthMe] Loading AuthMe v2.7.11
-[17:13:00] [Server thread/INFO]: [BedWars] Loading BedWars v0.2.36.1
-[17:13:00] [Server thread/INFO]: [SBA] Loading SBA v1.5.13.7
-[17:13:01] [Server thread/INFO]: [Multiverse-Portals] Loading Multiverse-Portals v4.2.3
-[17:13:01] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[17:13:01] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.2.20+6667-f0f1e66
-[17:13:01] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
-[17:13:01] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
-[17:13:01] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_17_R1_2.PaperweightAdapter as the Bukkit adapter
-[17:13:02] [Server thread/INFO]: [PowerRanks] Enabling PowerRanks v1.10.10
-[17:13:02] [Server thread/INFO]: [PowerRanks] 
-[17:13:02] [Server thread/INFO]: [PowerRanks] === ------- LOADING CONFIGURATION ------ ===
-[17:13:02] [Server thread/INFO]: [PowerRanks] Loading config file
-[17:13:02] [Server thread/INFO]: [PowerRanks] Loading language file
-[17:13:02] [Server thread/INFO]: [PowerRanks] Loading usertags file
-[17:13:02] [Server thread/INFO]: [PowerRanks] Loading tablist file
-[17:13:02] [Server thread/INFO]: [PowerRanks] 
-[17:13:02] [Server thread/INFO]: [PowerRanks] === ---------- LOADING ADDONS ---------- ===
-[17:13:02] [Server thread/INFO]: [PowerRanks] Loaded 0 add-on(s)!
-[17:13:02] [Server thread/INFO]: [PowerRanks] 
-[17:13:02] [Server thread/INFO]: [PowerRanks] === ----------- LOADING DATA ----------- ===
-[17:13:02] [Server thread/INFO]: [PowerRanks] Loading player & rank data
-[17:13:02] [Server thread/INFO]: [PowerRanks] 
-[17:13:02] [Server thread/INFO]: [PowerRanks] === ------- LOADING PLUGIN HOOKS ------- ===
-[17:13:02] [Server thread/INFO]: [PowerRanks] Checking for plugins to hook in to:
-[17:13:02] [Server thread/INFO]: [PowerRanks] No other plugins found! Working stand-alone.
-[17:13:02] [Server thread/INFO]: [PowerRanks] 
-[17:13:02] [Server thread/INFO]: [PowerRanks]   ██████  ██████   PowerRanks v1.10.10
-[17:13:02] [Server thread/INFO]: [PowerRanks]   ██   ██ ██   ██  Running on Purpur v1428
-[17:13:02] [Server thread/INFO]: [PowerRanks]   ██████  ██████   Startup time: 486ms
-[17:13:02] [Server thread/INFO]: [PowerRanks]   ██      ██   ██  Loaded 8 ranks and 10 players (YAML) 
-[17:13:02] [Server thread/INFO]: [PowerRanks]   ██      ██   ██  
-[17:13:02] [Server thread/INFO]: [PowerRanks] 
-[17:13:02] [Server thread/INFO]: [PowerRanks] If you'd like to donate, please visit https://ko-fi.com/svenar
-[17:13:02] [Server thread/INFO]: [PowerRanks] Checking for updates...
-[17:13:03] [Server thread/INFO]: [ViaRewind] Enabling ViaRewind v3.0.6
-[17:13:03] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[17:13:03] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[17:13:03] [Server thread/WARN]: Whilst this makes it possible to use BungeeCord or Velocity, unless access to your server is properly restricted, it also opens up the ability for hackers to connect with any username they choose.
-[17:13:03] [Server thread/WARN]: Please see http://www.spigotmc.org/wiki/firewall-guide/ for further information.
-[17:13:03] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[17:13:03] [Server thread/INFO]: Preparing level "world"
-[17:13:03] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[17:13:04] [Server thread/INFO]: Time elapsed: 344 ms
-[17:13:04] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[17:13:04] [Server thread/INFO]: Time elapsed: 165 ms
-[17:13:04] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[17:13:04] [Server thread/INFO]: Time elapsed: 270 ms
-[17:13:04] [Server thread/INFO]: [SimpleTpa] Enabling SimpleTpa v6.4*
-[17:13:04] [Server thread/INFO]: [SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9
-[17:13:04] [Server thread/INFO]: [SimpleTpa] Simple Tpa has been enabled on version 6.4
-[17:13:04] [Server thread/INFO]: Enabled metrics. You may opt-out by changing plugins/bStats/config.yml
-[17:13:04] [Server thread/INFO]: [BetterTeams] Enabling BetterTeams v4.11.0
-[17:13:04] [Server thread/INFO]: [BetterTeams] Checking if the file messages.yml is up to date
-[17:13:04] [Server thread/INFO]: [BetterTeams] File is up to date
-[17:13:04] [Server thread/INFO]: Display team name config value: prefix
-[17:13:04] [Server thread/INFO]: Loading below name. Type: PREFIX
-[17:13:04] [Server thread/INFO]: teamManagement declared: com.booksaw.betterTeams.events.MCTeamManagement@36760dfc
-[17:13:04] [Server thread/INFO]: [Citizens] Enabling Citizens v2.0.37-SNAPSHOT (build 3716)
-[17:13:05] [Server thread/ERROR]: [Citizens] v2.0.37-SNAPSHOT (build 3716) is not compatible with Minecraft v1_17_R1 - try upgrading Minecraft or Citizens. Disabling...
-[17:13:05] [Server thread/INFO]: [Citizens] Disabling Citizens v2.0.37-SNAPSHOT (build 3716)
-[17:13:05] [Server thread/INFO]: [Essentials] Enabling Essentials v2.20.1
-[17:13:05] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
-[17:13:05] [Server thread/INFO]: [Essentials] No kits found to migrate.
-[17:13:05] [Server thread/INFO]: [Essentials] Loaded 39094 items from items.json.
-[17:13:05] [Server thread/INFO]: [Essentials] Using locale en
-[17:13:05] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
-[17:13:05] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
-[17:13:05] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
-[17:13:05] [Server thread/INFO]: [LoginSecurity] Enabling LoginSecurity v3.2.0
-[17:13:05] [Server thread/INFO]: [LoginSecurity] Loading base translations from "en_us"
-[17:13:05] [Server thread/INFO]: [LoginSecurity] Loading specified translations from "en_us"
-[17:13:06] [Server thread/INFO]: [LoginSecurity] Registering commands...
-[17:13:06] [Server thread/INFO]: [LoginSecurity] Registering listeners...
-[17:13:06] [Server thread/INFO]: [LoginSecurity] Using 1.12+ map captcha renderer
-[17:13:06] [Server thread/INFO]: [SimpleHomes] Enabling SimpleHomes v2.2*
-[17:13:06] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v4.9.3
-[17:13:06] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.17.1 (756)
-[17:13:06] [Server thread/INFO]: [ServersNPC] Enabling ServersNPC v5.0
-[17:13:06] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v4.9.2
-[17:13:06] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v4.3.14
-[17:13:06] [Server thread/WARN]: [Multiverse-Core] "Multiverse-Core v4.3.14" has registered a listener for org.bukkit.event.entity.EntityCreatePortalEvent on method "public void com.onarandombox.MultiverseCore.listeners.MVPortalListener.entityPortalCreate(org.bukkit.event.entity.EntityCreatePortalEvent)", but the event is Deprecated. "Server performance will be affected"; please notify the authors [dumptruckman, Rigby, fernferret, lithium3141, main--].
-[17:13:06] [Server thread/INFO]: [Multiverse-Core] We are aware of the warning about the deprecated event. There is no alternative that allows us to do what we need to do and performance impact is negligible. It is safe to ignore.
-[17:13:06] [Server thread/INFO]: Preparing start region for dimension minecraft:bedwars
-[17:13:07] [Server thread/INFO]: Preparing spawn area: 0%
-[17:13:07] [Server thread/INFO]: Time elapsed: 458 ms
-[17:13:07] [Server thread/INFO]: Preparing start region for dimension minecraft:spawn
-[17:13:08] [Server thread/INFO]: Preparing spawn area: 0%
-[17:13:08] [Server thread/INFO]: Preparing spawn area: 0%
-[17:13:08] [Server thread/INFO]: Time elapsed: 761 ms
-[17:13:08] [Server thread/INFO]: Preparing start region for dimension minecraft:lighthouse
-[17:13:08] [Server thread/INFO]: Preparing spawn area: 0%
-[17:13:08] [Server thread/INFO]: Time elapsed: 209 ms
-[17:13:09] [Server thread/INFO]: Preparing start region for dimension minecraft:bedwarslobby
-[17:13:09] [Server thread/INFO]: Preparing spawn area: 0%
-[17:13:09] [Server thread/INFO]: Time elapsed: 181 ms
-[17:13:09] [Server thread/INFO]: Preparing start region for dimension minecraft:tarkhine
-[17:13:09] [Server thread/INFO]: Preparing spawn area: 0%
-[17:13:09] [Server thread/INFO]: Time elapsed: 184 ms
-[17:13:09] [Server thread/INFO]: [Multiverse-Core] 8 - World(s) loaded.
-[17:13:09] [Server thread/WARN]: [Multiverse-Core] Buscript failed to load! The script command will be disabled! If you would like not to see this message, use `/mv conf enablebuscript false` to disable Buscript from loading.
-[17:13:09] [Server thread/INFO]: [Multiverse-Core] Version 4.3.14 (API v24) Enabled - By dumptruckman, Rigby, fernferret, lithium3141 and main--
-[17:13:09] [Server thread/INFO]: [Multiverse-Inventories] Enabling Multiverse-Inventories v4.2.6
-[17:13:09] [Server thread/INFO]: [Multiverse-Inventories 4.2.6] enabled.
-[17:13:09] [Server thread/INFO]: [ViaRewind-Legacy-Support] Enabling ViaRewind-Legacy-Support v1.4.2
-[17:13:09] [Server thread/INFO]: [AuthMe] Enabling AuthMe v2.7.11*
-[17:13:09] [Server thread/ERROR]: Error occurred while enabling AuthMe v2.7.11 (Is it up to date?)
+[21:05:27] [Server thread/WARN]: Legacy plugin AuthMe v2.7.11 does not specify an api-version.
+[21:05:27] [Server thread/INFO]: [SimpleTpa] Loading SimpleTpa v6.4
+[21:05:27] [Server thread/INFO]: [BetterTeams] Loading BetterTeams v4.11.0
+[21:05:27] [Server thread/INFO]: [BetterTeams] Checking if the file config.yml is up to date
+[21:05:27] [Server thread/INFO]: [BetterTeams] File is up to date
+[21:05:27] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v7.2.20+6667-f0f1e66
+[21:05:28] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@18dadf51]
+[21:05:28] [Server thread/INFO]: [Citizens] Loading Citizens v2.0.37-SNAPSHOT (build 3716)
+[21:05:28] [Server thread/INFO]: [LoginSecurity] Loading LoginSecurity v3.2.0
+[21:05:28] [Server thread/INFO]: [SimpleHomes] Loading SimpleHomes v2.2
+[21:05:28] [Server thread/INFO]: [ViaVersion] Loading ViaVersion v4.9.3
+[21:05:28] [Server thread/INFO]: [ViaVersion] ViaVersion 4.9.3 is now loaded. Registering protocol transformers and injecting...
+[21:05:28] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[21:05:28] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[21:05:28] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[21:05:28] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[21:05:29] [Server thread/INFO]: [PowerRanks] Loading PowerRanks v1.10.10
+[21:05:29] [Server thread/INFO]: [ServersNPC] Loading ServersNPC v5.0
+[21:05:29] [Server thread/INFO]: [ViaBackwards] Loading ViaBackwards v4.9.2
+[21:05:29] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v4.3.14
+[21:05:29] [Server thread/INFO]: [ViaRewind] Loading ViaRewind v3.0.6
+[21:05:29] [Server thread/INFO]: [DeluxeHub] Loading DeluxeHub v3.5.5
+[21:05:29] [Server thread/INFO]: [Essentials] Loading Essentials v2.20.1
+[21:05:29] [Server thread/INFO]: [Multiverse-Inventories] Loading Multiverse-Inventories v4.2.6
+[21:05:29] [Server thread/INFO]: [ViaRewind-Legacy-Support] Loading ViaRewind-Legacy-Support v1.4.2
+[21:05:29] [Server thread/INFO]: [AuthMe] Loading AuthMe v2.7.11
+[21:05:29] [Server thread/INFO]: [BedWars] Loading BedWars v0.2.36.1
+[21:05:29] [Server thread/INFO]: [SBA] Loading SBA v1.5.13.7
+[21:05:30] [Server thread/INFO]: [Multiverse-Portals] Loading Multiverse-Portals v4.2.3
+[21:05:30] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[21:05:30] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.2.20+6667-f0f1e66
+[21:05:30] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[21:05:30] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[21:05:30] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_17_R1_2.PaperweightAdapter as the Bukkit adapter
+[21:05:31] [Server thread/INFO]: [PowerRanks] Enabling PowerRanks v1.10.10
+[21:05:31] [Server thread/INFO]: [PowerRanks] 
+[21:05:31] [Server thread/INFO]: [PowerRanks] === ------- LOADING CONFIGURATION ------ ===
+[21:05:31] [Server thread/INFO]: [PowerRanks] Loading config file
+[21:05:31] [Server thread/INFO]: [PowerRanks] Loading language file
+[21:05:31] [Server thread/INFO]: [PowerRanks] Loading usertags file
+[21:05:31] [Server thread/INFO]: [PowerRanks] Loading tablist file
+[21:05:31] [Server thread/INFO]: [PowerRanks] 
+[21:05:31] [Server thread/INFO]: [PowerRanks] === ---------- LOADING ADDONS ---------- ===
+[21:05:31] [Server thread/INFO]: [PowerRanks] Loaded 0 add-on(s)!
+[21:05:31] [Server thread/INFO]: [PowerRanks] 
+[21:05:31] [Server thread/INFO]: [PowerRanks] === ----------- LOADING DATA ----------- ===
+[21:05:31] [Server thread/INFO]: [PowerRanks] Loading player & rank data
+[21:05:32] [Server thread/INFO]: [PowerRanks] 
+[21:05:32] [Server thread/INFO]: [PowerRanks] === ------- LOADING PLUGIN HOOKS ------- ===
+[21:05:32] [Server thread/INFO]: [PowerRanks] Checking for plugins to hook in to:
+[21:05:32] [Server thread/INFO]: [PowerRanks] No other plugins found! Working stand-alone.
+[21:05:32] [Server thread/INFO]: [PowerRanks] 
+[21:05:32] [Server thread/INFO]: [PowerRanks]   ██████  ██████   PowerRanks v1.10.10
+[21:05:32] [Server thread/INFO]: [PowerRanks]   ██   ██ ██   ██  Running on Purpur v1428
+[21:05:32] [Server thread/INFO]: [PowerRanks]   ██████  ██████   Startup time: 673ms
+[21:05:32] [Server thread/INFO]: [PowerRanks]   ██      ██   ██  Loaded 8 ranks and 10 players (YAML) 
+[21:05:32] [Server thread/INFO]: [PowerRanks]   ██      ██   ██  
+[21:05:32] [Server thread/INFO]: [PowerRanks] 
+[21:05:32] [Server thread/INFO]: [PowerRanks] If you'd like to donate, please visit https://ko-fi.com/svenar
+[21:05:32] [Server thread/INFO]: [PowerRanks] Checking for updates...
+[21:05:32] [Server thread/INFO]: [ViaRewind] Enabling ViaRewind v3.0.6
+[21:05:32] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21:05:32] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[21:05:32] [Server thread/WARN]: Whilst this makes it possible to use BungeeCord or Velocity, unless access to your server is properly restricted, it also opens up the ability for hackers to connect with any username they choose.
+[21:05:32] [Server thread/WARN]: Please see http://www.spigotmc.org/wiki/firewall-guide/ for further information.
+[21:05:32] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[21:05:32] [Server thread/INFO]: Preparing level "world"
+[21:05:33] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:05:33] [Server thread/INFO]: Time elapsed: 398 ms
+[21:05:33] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[21:05:33] [Server thread/INFO]: Time elapsed: 221 ms
+[21:05:33] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[21:05:34] [Server thread/INFO]: Time elapsed: 102 ms
+[21:05:34] [Server thread/INFO]: [SimpleTpa] Enabling SimpleTpa v6.4*
+[21:05:34] [Server thread/INFO]: [SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9
+[21:05:34] [Server thread/INFO]: [SimpleTpa] Simple Tpa has been enabled on version 6.4
+[21:05:34] [Server thread/INFO]: Enabled metrics. You may opt-out by changing plugins/bStats/config.yml
+[21:05:34] [Server thread/INFO]: [BetterTeams] Enabling BetterTeams v4.11.0
+[21:05:34] [Server thread/INFO]: [BetterTeams] Checking if the file messages.yml is up to date
+[21:05:34] [Server thread/INFO]: [BetterTeams] File is up to date
+[21:05:34] [Server thread/INFO]: Display team name config value: prefix
+[21:05:34] [Server thread/INFO]: Loading below name. Type: PREFIX
+[21:05:34] [Server thread/INFO]: teamManagement declared: com.booksaw.betterTeams.events.MCTeamManagement@3d9315e6
+[21:05:34] [Server thread/INFO]: [Citizens] Enabling Citizens v2.0.37-SNAPSHOT (build 3716)
+[21:05:35] [Server thread/ERROR]: [Citizens] v2.0.37-SNAPSHOT (build 3716) is not compatible with Minecraft v1_17_R1 - try upgrading Minecraft or Citizens. Disabling...
+[21:05:35] [Server thread/INFO]: [Citizens] Disabling Citizens v2.0.37-SNAPSHOT (build 3716)
+[21:05:35] [Server thread/INFO]: [LoginSecurity] Enabling LoginSecurity v3.2.0
+[21:05:35] [Server thread/INFO]: [LoginSecurity] Loading base translations from "en_us"
+[21:05:35] [Server thread/INFO]: [LoginSecurity] Loading specified translations from "en_us"
+[21:05:35] [Server thread/INFO]: [LoginSecurity] Registering commands...
+[21:05:35] [Server thread/INFO]: [LoginSecurity] Registering listeners...
+[21:05:35] [Server thread/INFO]: [LoginSecurity] Using 1.12+ map captcha renderer
+[21:05:35] [Server thread/INFO]: [SimpleHomes] Enabling SimpleHomes v2.2*
+[21:05:35] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v4.9.3
+[21:05:35] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.17.1 (756)
+[21:05:35] [Server thread/INFO]: [ServersNPC] Enabling ServersNPC v5.0
+[21:05:35] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v4.9.2
+[21:05:35] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v4.3.14
+[21:05:35] [Server thread/WARN]: [Multiverse-Core] "Multiverse-Core v4.3.14" has registered a listener for org.bukkit.event.entity.EntityCreatePortalEvent on method "public void com.onarandombox.MultiverseCore.listeners.MVPortalListener.entityPortalCreate(org.bukkit.event.entity.EntityCreatePortalEvent)", but the event is Deprecated. "Server performance will be affected"; please notify the authors [dumptruckman, Rigby, fernferret, lithium3141, main--].
+[21:05:35] [Server thread/INFO]: [Multiverse-Core] We are aware of the warning about the deprecated event. There is no alternative that allows us to do what we need to do and performance impact is negligible. It is safe to ignore.
+[21:05:36] [Server thread/WARN]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: Bedwars
+[21:05:36] [Server thread/WARN]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
+[21:05:36] [Server thread/WARN]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: spawn
+[21:05:36] [Server thread/WARN]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
+[21:05:36] [Server thread/INFO]: Preparing start region for dimension minecraft:hub
+[21:05:36] [Server thread/INFO]: Preparing spawn area: 0%
+[21:05:36] [Server thread/INFO]: Preparing spawn area: 0%
+[21:05:36] [Server thread/INFO]: Time elapsed: 506 ms
+[21:05:36] [Server thread/WARN]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: Lighthouse
+[21:05:36] [Server thread/WARN]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
+[21:05:36] [Server thread/WARN]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: bedwarslobby
+[21:05:36] [Server thread/WARN]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
+[21:05:36] [Server thread/WARN]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: tarkhine
+[21:05:36] [Server thread/WARN]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
+[21:05:36] [Server thread/INFO]: [Multiverse-Core] 4 - World(s) loaded.
+[21:05:36] [Server thread/WARN]: [Multiverse-Core] Buscript failed to load! The script command will be disabled! If you would like not to see this message, use `/mv conf enablebuscript false` to disable Buscript from loading.
+[21:05:36] [Server thread/INFO]: [Multiverse-Core] Version 4.3.14 (API v24) Enabled - By dumptruckman, Rigby, fernferret, lithium3141 and main--
+[21:05:36] [Server thread/INFO]: [DeluxeHub] Enabling DeluxeHub v3.5.5
+[21:05:36] [Server thread/INFO]: [DeluxeHub]  _   _            _          _    _ 
+[21:05:36] [Server thread/INFO]: [DeluxeHub] | \ |_ |  | | \/ |_ |_| | | |_)   _)
+[21:05:36] [Server thread/INFO]: [DeluxeHub] |_/ |_ |_ |_| /\ |_ | | |_| |_)   _)
+[21:05:36] [Server thread/INFO]: [DeluxeHub] 
+[21:05:36] [Server thread/INFO]: [DeluxeHub] Version: 3.5.5
+[21:05:36] [Server thread/INFO]: [DeluxeHub] Author: ItsLewizzz
+[21:05:36] [Server thread/INFO]: [DeluxeHub] 
+[21:05:36] [Server thread/INFO]: [DeluxeHub] Loaded custom menu 'serverselector'.
+[21:05:37] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Spigot: v1_17_R1! Trying to find NMS support
+[21:05:37] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_17_R1' loaded!
+[21:05:37] [Server thread/INFO]: [NBTAPI] [NBTAPI] Using the plugin 'DeluxeHub' to create a bStats instance!
+[21:05:37] [Server thread/INFO]: [DeluxeHub] Loaded 17 plugin modules.
+[21:05:37] [Server thread/INFO]: [DeluxeHub] 
+[21:05:37] [Server thread/INFO]: [DeluxeHub] Successfully loaded in 261ms
+[21:05:37] [Server thread/INFO]: [Essentials] Enabling Essentials v2.20.1
+[21:05:37] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[21:05:37] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[21:05:37] [Server thread/INFO]: [Essentials] Loaded 39094 items from items.json.
+[21:05:37] [Server thread/INFO]: [Essentials] Using locale en
+[21:05:37] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[21:05:37] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[21:05:37] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
+[21:05:37] [Server thread/INFO]: [Multiverse-Inventories] Enabling Multiverse-Inventories v4.2.6
+[21:05:37] [Server thread/INFO]: [Multiverse-Inventories 4.2.6] enabled.
+[21:05:37] [Server thread/INFO]: [ViaRewind-Legacy-Support] Enabling ViaRewind-Legacy-Support v1.4.2
+[21:05:37] [Server thread/INFO]: [AuthMe] Enabling AuthMe v2.7.11*
+[21:05:37] [Server thread/ERROR]: Error occurred while enabling AuthMe v2.7.11 (Is it up to date?)
 java.lang.NoSuchMethodError: 'org.bukkit.configuration.file.YamlConfiguration org.bukkit.configuration.file.YamlConfiguration.loadConfiguration(java.io.InputStream)'
 	at uk.org.whoami.authme.settings.Settings.loadDefaults(Settings.java:604) ~[AuthMe.jar:?]
 	at uk.org.whoami.authme.settings.Settings.<init>(Settings.java:95) ~[AuthMe.jar:?]
@@ -190,8 +204,8 @@ java.lang.NoSuchMethodError: 'org.bukkit.configuration.file.YamlConfiguration or
 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1233) ~[patched_1.17.1.jar:git-Purpur-1428]
 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:322) ~[patched_1.17.1.jar:git-Purpur-1428]
 	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-[17:13:09] [Server thread/INFO]: [AuthMe] Disabling AuthMe v2.7.11
-[17:13:09] [Server thread/ERROR]: Error occurred while disabling AuthMe v2.7.11 (Is it up to date?)
+[21:05:37] [Server thread/INFO]: [AuthMe] Disabling AuthMe v2.7.11
+[21:05:37] [Server thread/ERROR]: Error occurred while disabling AuthMe v2.7.11 (Is it up to date?)
 java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Bukkit.getOnlinePlayers()'
 	at uk.org.whoami.authme.AuthMe.onDisable(AuthMe.java:393) ~[AuthMe.jar:?]
 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:266) ~[patched_1.17.1.jar:git-Purpur-1428]
@@ -206,28 +220,30 @@ java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Bukkit.getOn
 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1233) ~[patched_1.17.1.jar:git-Purpur-1428]
 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:322) ~[patched_1.17.1.jar:git-Purpur-1428]
 	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-[17:13:09] [Server thread/INFO]: [BedWars] Enabling BedWars v0.2.36.1
-[17:13:09] [Server thread/INFO]: [BedWars] Successfully loaded messages for BedWars! Language: English
-[17:13:09] [Server thread/INFO]: [BedWars] Loading statistics from YAML-File ...
-[17:13:09] [Server thread/INFO]: =====================  by ScreamingSandals <Misat11, Iamceph, Pronze>
-[17:13:09] [Server thread/INFO]: + Screaming BedWars +  Version: 0.2.36.1 FREE
-[17:13:09] [Server thread/INFO]: =====================  STABLE VERSION
-[17:13:09] [Server thread/INFO]: Everything is loaded! If you like our work, consider visiting our Patreon! <3
-[17:13:09] [Server thread/INFO]: https://www.patreon.com/screamingsandals
-[17:13:09] [Server thread/INFO]: [SBA] Enabling SBA v1.5.13.7
-[17:13:10] [Thread-13/INFO]: No updates found
-[17:13:10] [Server thread/INFO]: [SBA] SBA initialized using Bedwars 0.2.36.1
-[17:13:10] [Server thread/INFO]: [SBA] Plugin has finished loading!
-[17:13:10] [Server thread/INFO]: [SBA] SBA Initialized on JAVA 17.0.9
-[17:13:10] [Server thread/INFO]: [SBA] SBA Commit is on par with 7b3c3b0
-[17:13:10] [Server thread/INFO]: [Multiverse-Portals] Enabling Multiverse-Portals v4.2.3
-[17:13:10] [Server thread/INFO]: [Multiverse-Portals] 1 - Portals(s) loaded
-[17:13:10] [Server thread/INFO]: [Multiverse-Portals] Found WorldEdit. Using it for selections.
-[17:13:10] [Server thread/INFO]: [Multiverse-Portals 4.2.3]  Enabled - By Rigby and fernferret
-[17:13:11] [Server thread/INFO]: Running delayed init tasks
-[17:13:11] [Craft Scheduler Thread - 5 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
-[17:13:11] [Craft Scheduler Thread - 0 - Essentials/INFO]: [Essentials] Fetching version information...
-[17:13:11] [Server thread/WARN]: [PowerRanks] Task #2 for PowerRanks v1.10.10 generated an exception
+[21:05:37] [Server thread/INFO]: [BedWars] Enabling BedWars v0.2.36.1
+[21:05:37] [Server thread/INFO]: [BedWars] Successfully loaded messages for BedWars! Language: English
+[21:05:37] [Server thread/INFO]: [BedWars] Loading statistics from YAML-File ...
+[21:05:38] [Server thread/INFO]: =====================  by ScreamingSandals <Misat11, Iamceph, Pronze>
+[21:05:38] [Server thread/INFO]: + Screaming BedWars +  Version: 0.2.36.1 FREE
+[21:05:38] [Server thread/INFO]: =====================  STABLE VERSION
+[21:05:38] [Server thread/INFO]: Everything is loaded! If you like our work, consider visiting our Patreon! <3
+[21:05:38] [Server thread/INFO]: https://www.patreon.com/screamingsandals
+[21:05:38] [Server thread/INFO]: [SBA] Enabling SBA v1.5.13.7
+[21:05:38] [Server thread/INFO]: [SBA] SBA initialized using Bedwars 0.2.36.1
+[21:05:38] [Thread-12/INFO]: No updates found
+[21:05:38] [Server thread/INFO]: [SBA] Plugin has finished loading!
+[21:05:38] [Server thread/INFO]: [SBA] SBA Initialized on JAVA 17.0.9
+[21:05:38] [Server thread/INFO]: [SBA] SBA Commit is on par with 7b3c3b0
+[21:05:38] [Server thread/INFO]: [Multiverse-Portals] Enabling Multiverse-Portals v4.2.3
+[21:05:39] [Server thread/WARN]: [Multiverse-Portals] Failed Parsing World for: Survival (World Error, World did not exist or was not imported into Multiverse-Core!)
+[21:05:39] [Server thread/WARN]: [Multiverse-Portals] Portal Survival has an invalid LOCATION!
+[21:05:39] [Server thread/WARN]: [Multiverse-Portals] Portal 'Survival' not loaded due to invalid location!
+[21:05:39] [Server thread/INFO]: [Multiverse-Portals] 1 - Portals(s) loaded
+[21:05:39] [Server thread/INFO]: [Multiverse-Portals] Found WorldEdit. Using it for selections.
+[21:05:39] [Server thread/INFO]: [Multiverse-Portals 4.2.3]  Enabled - By Rigby and fernferret
+[21:05:39] [Server thread/INFO]: Running delayed init tasks
+[21:05:39] [Craft Scheduler Thread - 0 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
+[21:05:39] [Server thread/WARN]: [PowerRanks] Task #2 for PowerRanks v1.10.10 generated an exception
 java.lang.IllegalArgumentException: Team name '5-starwarswatcher' is longer than the limit of 16 characters
 	at org.apache.commons.lang.Validate.isTrue(Validate.java:136) ~[patched_1.17.1.jar:git-Purpur-1428]
 	at org.bukkit.craftbukkit.v1_17_R1.scoreboard.CraftScoreboard.registerNewTeam(CraftScoreboard.java:203) ~[patched_1.17.1.jar:git-Purpur-1428]
@@ -237,58 +253,11 @@ java.lang.IllegalArgumentException: Team name '5-starwarswatcher' is longer than
 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1242) ~[patched_1.17.1.jar:git-Purpur-1428]
 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:322) ~[patched_1.17.1.jar:git-Purpur-1428]
 	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-[17:13:11] [Server thread/INFO]: [Multiverse-Inventories] First run!
-[17:13:11] [Craft Scheduler Thread - 3 - SimpleTpa/INFO]: [SimpleTpa] There is a new update available.
-[17:13:11] [Craft Scheduler Thread - 3 - SimpleTpa/INFO]: [SimpleTpa] There is a new update available:
-[17:13:11] [Craft Scheduler Thread - 3 - SimpleTpa/INFO]: [SimpleTpa] https://www.spigotmc.org/resources/simple-tpa.64270/
-[17:13:11] [Server thread/INFO]: Done (17.141s)! For help, type "help"
-[17:13:11] [Server thread/INFO]: Timings Reset
-[17:13:11] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.2.1, you're on: 4.9.3
-[17:13:14] [Server thread/INFO]: Stopping the server
-[17:13:14] [Server thread/INFO]: Stopping server
-[17:13:14] [Server thread/INFO]: [Multiverse-Portals] Disabling Multiverse-Portals v4.2.3
-[17:13:14] [Server thread/INFO]: [SBA] Disabling SBA v1.5.13.7
-[17:13:14] [Server thread/INFO]: [BedWars] Disabling BedWars v0.2.36.1
-[17:13:14] [Server thread/INFO]: [ViaRewind-Legacy-Support] Disabling ViaRewind-Legacy-Support v1.4.2
-[17:13:14] [Server thread/INFO]: [Multiverse-Inventories] Disabling Multiverse-Inventories v4.2.6
-[17:13:14] [Server thread/INFO]: [ViaRewind] Disabling ViaRewind v3.0.6
-[17:13:14] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v4.3.14
-[17:13:14] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v4.9.2
-[17:13:14] [Server thread/INFO]: [ServersNPC] Disabling ServersNPC v5.0
-[17:13:14] [Server thread/INFO]: [PowerRanks] Disabling PowerRanks v1.10.10
-[17:13:14] [Server thread/INFO]: [PowerRanks] Disabled PowerRanks v1.10.10
-[17:13:14] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v4.9.3
-[17:13:14] [Server thread/INFO]: [ViaVersion] ViaVersion is disabling, if this is a reload and you experience issues consider rebooting.
-[17:13:14] [Server thread/INFO]: [SimpleHomes] Disabling SimpleHomes v2.2
-[17:13:14] [Server thread/INFO]: [LoginSecurity] Disabling LoginSecurity v3.2.0
-[17:13:14] [Server thread/INFO]: [LoginSecurity] Waiting for queued tasks...
-[17:13:14] [Server thread/INFO]: [LoginSecurity] ExecutorService shut down, ready to disable.
-[17:13:14] [Server thread/INFO]: [Essentials] Disabling Essentials v2.20.1
-[17:13:14] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.2.20+6667-f0f1e66
-[17:13:14] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
-[17:13:14] [Server thread/INFO]: [BetterTeams] Disabling BetterTeams v4.11.0
-[17:13:14] [Server thread/INFO]: [SimpleTpa] Disabling SimpleTpa v6.4
-[17:13:14] [Server thread/INFO]: [SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9
-[17:13:14] [Server thread/INFO]: [SimpleTpa] Simple Tpa has been disabled on version 6.4
-[17:13:14] [Server thread/INFO]: Saving players
-[17:13:14] [Server thread/INFO]: Saving worlds
-[17:13:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[17:13:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[17:13:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[17:13:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Bedwars]'/minecraft:bedwars
-[17:13:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[spawn]'/minecraft:spawn
-[17:13:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Lighthouse]'/minecraft:lighthouse
-[17:13:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[bedwarslobby]'/minecraft:bedwarslobby
-[17:13:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[tarkhine]'/minecraft:tarkhine
-[17:13:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[17:13:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[17:13:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[17:13:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (Bedwars): All chunks are saved
-[17:13:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (spawn): All chunks are saved
-[17:13:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (Lighthouse): All chunks are saved
-[17:13:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (bedwarslobby): All chunks are saved
-[17:13:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (tarkhine): All chunks are saved
-[17:13:16] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[17:13:17] [Server thread/INFO]: Flushing Chunk IO
-[17:13:17] [Server thread/INFO]: Closing Thread Pool
-[17:13:17] [Server thread/INFO]: Closing Server
+[21:05:39] [Server thread/INFO]: [Multiverse-Inventories] First run!
+[21:05:39] [Craft Scheduler Thread - 5 - Essentials/INFO]: [Essentials] Fetching version information...
+[21:05:39] [Craft Scheduler Thread - 3 - SimpleTpa/INFO]: [SimpleTpa] There is a new update available.
+[21:05:39] [Server thread/INFO]: Done (17.307s)! For help, type "help"
+[21:05:39] [Server thread/INFO]: Timings Reset
+[21:05:39] [Craft Scheduler Thread - 3 - SimpleTpa/INFO]: [SimpleTpa] There is a new update available:
+[21:05:39] [Craft Scheduler Thread - 3 - SimpleTpa/INFO]: [SimpleTpa] https://www.spigotmc.org/resources/simple-tpa.64270/
+[21:05:39] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.2.1, you're on: 4.9.3

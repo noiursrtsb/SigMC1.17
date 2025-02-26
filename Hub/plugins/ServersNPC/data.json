@@ -22,5 +22,36 @@
     "npcEquip": {},
     "npcFunctions": {},
     "customizationMap": {}
+  },
+  {
+    "id": 1,
+    "hologramHeight": 0.0,
+    "skin": "ewogICJ0aW1lc3RhbXAiIDogMTcwNjA0NDg5Mjc3OCwKICAicHJvZmlsZUlkIiA6ICI5YjBkNDI0OGI5NmQ0YTg0OWZlYjg0NzA4N2QxNmIxYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJCZWRXYXJzIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzE4MDYzYTFhNDk3MGMxYjI2N2RlN2QxYTZlNmRkMGY5NjVkNWEyZjRlMGIxMTQxNjhlZGI4ZThlMjg4N2MxMmEiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfSwKICAgICJDQVBFIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8yMzQwYzBlMDNkZDI0YTExYjE1YThiMzNjMmE3ZTllMzJhYmIyMDUxYjI0ODFkMGJhN2RlZmQ2MzVjYTdhOTMzIgogICAgfQogIH0KfQ==",
+    "signature": "LCCJsUI61X0SUBkVH8mjxXx+yeBeBRx9rnIxVLaBfD9p8vQFW0Peov8qrbq09MXE5Do38gC7ouZ0a0SnR4qvc0dER12bysZLKiVLnlPhJPWGsfsFylO1eY2Np0Zfd9OoQum2RQXVeW2ozGaxX3HABTXeXrLB88xO3KPjbSCGAsng5vm2DO3YfUOAWx9sRsCdetyQDlITwAGvXgTkNUeMxLUYlohhEzkQpratI8pvmhH+oBzV+8YOVuiR3tF95omPr+oSogwCagEGO6vAenp2ydk2WeQHnQDHPsFEuyJlR9flFH2jbfRkGsP01Comrj16poZD9gWNtc3IXpXqOgGFUmV5BmG9Qc6SHKuhFve3zOPoNm0dwxgmgSjqMsGLgEbEGYaNCB8ABTlGtoRbQwxgpNyjdommqSN4zAf1vQjdJbbMhKrbY6od4Ivpd42t2XJXZ/OkZosf1kdo6Pmmr4p21iKq08EpeOLBRmg/UXjeE3Es9dljIH7wnb0vp00V3vnWuK75tYdh+I2jJ2NVSIc8JZ/m/RboOA9+NBZcCa2CNHvqj9hUrnJ06l4mLjwOMagq0s3KT5kt8N517em/xHSkA0HVDsEMigcYiePByrrgnHLzal0kUSaCjsYjPtYqYYLlXjc2mFbrFzKlpD7QaWM1BO7qABVpW8riLyQg4LZOBhE=",
+    "skinName": "Steve",
+    "location": {
+      "world": "Hub",
+      "x": 250.5,
+      "y": 62.0,
+      "z": 1356.5,
+      "yaw": 134.54993,
+      "pitch": -1.2000082
+    },
+    "npcType": "PLAYER",
+    "hologramLines": [
+      "Bedwars"
+    ],
+    "refreshSkinDuration": 0,
+    "clickActions": [
+      {
+        "actionType": "SERVER",
+        "clickType": "DEFAULT",
+        "action": "bedwars",
+        "delay": 0
+      }
+    ],
+    "npcEquip": {},
+    "npcFunctions": {},
+    "customizationMap": {}
   }
 ]

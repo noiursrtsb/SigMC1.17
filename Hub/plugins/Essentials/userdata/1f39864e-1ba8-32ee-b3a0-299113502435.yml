@@ -16,15 +16,15 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1740667093707
+  logout: 1740667422921
   login: 1740667310304
 money: '0'
 last-account-name: iglentoften
 logoutlocation:
   world: 2f992acc-ddc9-46cf-8ff9-182e3e5756c8
   world-name: Hub
-  x: 249.28952197134035
-  y: 62.0
-  z: 1356.676282342041
-  yaw: -79.12652587890625
-  pitch: 13.736451148986816
+  x: 250.33668533697468
+  y: 63.5
+  z: 1359.362539253194
+  yaw: 74.7412109375
+  pitch: 28.870180130004883

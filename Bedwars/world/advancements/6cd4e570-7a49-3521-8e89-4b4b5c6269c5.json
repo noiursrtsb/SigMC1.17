@@ -1,19 +1,155 @@
 {
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2025-02-27 15:02:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_sword": "2025-02-27 14:34:38 +0000"
     },
     "done": true
   },
-  "minecraft:husbandry/root": {
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
-      "consumed_item": "2025-02-26 17:00:54 +0000"
+      "has_porkchop": "2025-02-27 14:52:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2025-02-27 15:02:04 +0000"
     },
     "done": true
   },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2025-02-27 13:05:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2025-02-27 15:02:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-02-27 15:02:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:slime": "2025-02-27 14:41:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:slime": "2025-02-27 14:41:32 +0000",
+      "minecraft:zombified_piglin": "2025-02-27 15:19:21 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "beef": "2025-02-26 17:00:54 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-02-27 15:00:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-02-27 15:19:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-02-26 13:21:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2025-02-27 15:02:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-02-27 15:02:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2025-02-27 15:02:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-02-27 15:00:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2025-02-27 15:02:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-02-26 13:21:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_sword": "2025-02-27 14:34:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-02-27 15:00:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2025-02-26 13:21:17 +0000",
+      "minecraft:wooded_hills": "2025-02-26 13:20:40 +0000",
+      "minecraft:savanna": "2025-02-26 13:21:28 +0000",
+      "minecraft:plains": "2025-02-26 17:00:50 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2025-02-27 15:02:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-02-27 15:02:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-02-26 17:00:54 +0000"
     },
     "done": true
   },
@@ -29,17 +165,23 @@
     },
     "done": true
   },
-  "minecraft:adventure/kill_a_mob": {
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
-      "minecraft:slime": "2025-02-27 14:41:32 +0000"
+      "has_gold_nugget": "2025-02-27 15:19:22 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/kill_all_mobs": {
+  "minecraft:recipes/combat/stone_sword": {
     "criteria": {
-      "minecraft:slime": "2025-02-27 14:41:32 +0000"
+      "has_cobblestone": "2025-02-27 15:02:04 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2025-02-27 15:02:04 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
@@ -59,15 +201,21 @@
     },
     "done": true
   },
-  "minecraft:husbandry/balanced_diet": {
+  "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
-      "beef": "2025-02-26 17:00:54 +0000"
+      "has_cobblestone": "2025-02-27 15:02:04 +0000"
     },
-    "done": false
+    "done": true
   },
-  "minecraft:recipes/food/cooked_beef_from_smoking": {
+  "minecraft:recipes/tools/stone_axe": {
     "criteria": {
-      "has_beef": "2025-02-26 13:21:44 +0000"
+      "has_cobblestone": "2025-02-27 15:02:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-02-27 14:52:28 +0000"
     },
     "done": true
   },
@@ -77,15 +225,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/jungle_boat": {
+  "minecraft:recipes/food/cooked_porkchop": {
     "criteria": {
-      "in_water": "2025-02-27 13:05:19 +0000"
+      "has_porkchop": "2025-02-27 14:52:28 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_beef": {
+  "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
-      "has_beef": "2025-02-26 13:21:44 +0000"
+      "in_water": "2025-02-27 13:05:19 +0000"
     },
     "done": true
   },
@@ -95,20 +243,11 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
-      "has_iron_sword": "2025-02-27 14:34:38 +0000"
+      "has_cobblestone": "2025-02-27 15:02:04 +0000"
     },
     "done": true
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:forest": "2025-02-26 13:21:17 +0000",
-      "minecraft:wooded_hills": "2025-02-26 13:20:40 +0000",
-      "minecraft:savanna": "2025-02-26 13:21:28 +0000",
-      "minecraft:plains": "2025-02-26 17:00:50 +0000"
-    },
-    "done": false
   },
   "DataVersion": 2730
 }

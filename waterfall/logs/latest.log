@@ -104,3 +104,19 @@
 [13:59:01] [Netty Worker IO Thread #5/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:50514]: Logged in as 'iglentoften'
 [13:59:01] [Netty Worker IO Thread #5/INFO]: [/[0:0:0:0:0:0:0:1%0]:50514|iglentoften] -> UpstreamBridge has connected
 [13:59:01] [Netty Worker IO Thread #5/INFO]: [iglentoften|/[0:0:0:0:0:0:0:1%0]:50514] <-> ServerConnector [bedwars] has connected
+[13:59:57] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:48034]: Connected via websocket
+[13:59:57] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:48034]: Origin header is https://nolanderlauncherdelta-ozj8.vercel.app
+[13:59:57] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:48034]: Logged in as 'Pingdaking88'
+[13:59:57] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:48034|Pingdaking88] -> UpstreamBridge has connected
+[13:59:57] [Netty Worker IO Thread #0/INFO]: [Pingdaking88|/[0:0:0:0:0:0:0:1%0]:48034] <-> ServerConnector [lobby] has connected
+[13:59:57] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:48050]: Connected via websocket
+[13:59:57] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:48050]: Origin header is https://nolanderlauncherdelta-ozj8.vercel.app
+[13:59:58] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:48050]: Logged in as 'HeyBread'
+[13:59:58] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:48050|HeyBread] -> UpstreamBridge has connected
+[13:59:58] [Netty Worker IO Thread #1/INFO]: [HeyBread|/[0:0:0:0:0:0:0:1%0]:48050] <-> ServerConnector [bedwars] has connected
+[14:00:12] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:48034|Pingdaking88] -> UpstreamBridge has disconnected
+[14:00:42] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:56812|DoctorDoctorDoc] -> UpstreamBridge has disconnected
+[14:00:42] [Netty Worker IO Thread #1/INFO]: [DoctorDoctorDoc] disconnected with: Proxy lost connection to server.
+[14:00:42] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:56812|DoctorDoctorDoc] <-> DownstreamBridge <-> [bedwars] has disconnected
+[14:00:44] [Netty Worker IO Thread #0/INFO]: [Pingdaking88] disconnected with: Proxy lost connection to server.
+[14:00:44] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:48034|Pingdaking88] <-> DownstreamBridge <-> [lobby] has disconnected

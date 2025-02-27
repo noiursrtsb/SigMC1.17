@@ -105,3 +105,27 @@
 [13:59:16] [Server thread/INFO]: DoctorDoctorDoc issued server command: /tp
 [13:59:23] [Server thread/INFO]: DoctorDoctorDoc issued server command: /tp iglent
 [13:59:38] [Server thread/INFO]: iglentoften has made the advancement [Suit Up]
+[13:59:58] [User Authenticator #2/INFO]: UUID of player HeyBread is 6b3d7afd-3b1d-39dc-a095-3e261a0d9f09
+[13:59:58] [Server thread/INFO]: HeyBread joined the game
+[13:59:58] [Server thread/INFO]: HeyBread[/[0:0:0:0:0:0:0:1]:51788] logged in with entity id 1846 at ([world]-72.39140095636562, 62.0, -192.86344651823325)
+[13:59:58] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|UpdateCert-1.8
+[13:59:58] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FML
+[13:59:58] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|Skins-1.8
+[13:59:58] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FORGE
+[14:00:02] [Async Chat Thread - #0/INFO]: <DoctorDoctorDoc> RAYYAN
+[14:00:02] [Server thread/INFO]: HeyBread issued server command: /login urmom1234
+[14:00:04] [Async Chat Thread - #0/INFO]: <HeyBread> OMG OMG
+[14:00:06] [Async Chat Thread - #0/INFO]: <DoctorDoctorDoc> HOW DO I TELEPORT
+[14:00:08] [Server thread/INFO]: iglentoften has made the advancement [Isn't It Iron Pick]
+[14:00:12] [Server thread/INFO]: HeyBread issued server command: /gamemode creative
+[14:00:12] [Server thread/INFO]: [HeyBread: Set own game mode to Creative Mode]
+[14:00:17] [Async Chat Thread - #0/INFO]: <iglentoften> skibidididi
+[14:00:18] [Server thread/INFO]: DoctorDoctorDoc issued server command: /tpa heybread
+[14:00:25] [Async Chat Thread - #0/INFO]: <DoctorDoctorDoc> RAYYAN HOW DO I TP???
+[14:00:42] [Server thread/INFO]: DoctorDoctorDoc lost connection: Disconnected
+[14:00:42] [Server thread/INFO]: DoctorDoctorDoc left the game
+[14:00:45] [Server thread/INFO]: HeyBread issued server command: /teleport doctordcotordoc heybread
+[14:00:53] [Server thread/INFO]: HeyBread issued server command: /teleport iglentoften heybread
+[14:00:53] [Server thread/INFO]: [HeyBread: Teleported iglentoften to HeyBread]
+[14:00:56] [Async Chat Thread - #0/INFO]: <HeyBread> lol
+[14:00:59] [Async Chat Thread - #0/INFO]: <iglentoften> nice admin abusing

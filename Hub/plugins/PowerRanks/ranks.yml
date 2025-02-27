@@ -100,5 +100,5 @@ RICE:
   buyDescription: ''
   buyCommand: ''
   default: false
-  prefix: '&k.&r[RICE]&k.'
-  suffix: '{non-admin}'
+  prefix: '&k.&r&6[RICE]&r&k.'
+  suffix: '{admin}'

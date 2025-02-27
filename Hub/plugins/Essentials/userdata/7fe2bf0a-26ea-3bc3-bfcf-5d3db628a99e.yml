@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 0:0:0:0:0:0:0:1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1740659436099
+  login: 1740659417749
+money: '0'
+last-account-name: AutisticPig
+logoutlocation:
+  world: 835fa24e-bfa1-45aa-821d-8e5015e99e57
+  world-name: world
+  x: -15.994185596640818
+  y: 64.0
+  z: 48.97951215167391
+  yaw: -2.902057647705078
+  pitch: 8.157135009765625

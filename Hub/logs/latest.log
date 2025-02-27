@@ -261,3 +261,166 @@ java.lang.IllegalArgumentException: Team name '5-starwarswatcher' is longer than
 [12:27:55] [Craft Scheduler Thread - 3 - SimpleTpa/INFO]: [SimpleTpa] There is a new update available:
 [12:27:55] [Craft Scheduler Thread - 3 - SimpleTpa/INFO]: [SimpleTpa] https://www.spigotmc.org/resources/simple-tpa.64270/
 [12:27:55] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.2.1, you're on: 4.9.3
+[12:29:55] [User Authenticator #1/INFO]: UUID of player Pingdaking88 is c5a102e4-716f-32cb-ae5c-8aba37f71b59
+[12:29:56] [Server thread/INFO]: + Pingdaking88 Connected
+[12:29:56] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|UpdateCert-1.8
+[12:29:56] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FML
+[12:29:56] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|Skins-1.8
+[12:29:56] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FORGE
+[12:29:56] [Server thread/INFO]: Pingdaking88[/[0:0:0:0:0:0:0:1]:34754] logged in with entity id 101 at ([Hub]242.4761421865926, 63.0, 1348.4643426760017)
+[12:30:17] [User Authenticator #1/INFO]: UUID of player AutisticPig is 7fe2bf0a-26ea-3bc3-bfcf-5d3db628a99e
+[12:30:17] [Server thread/INFO]: + AutisticPig Connected
+[12:30:17] [Server thread/INFO]: AutisticPig[/[0:0:0:0:0:0:0:1]:50900] logged in with entity id 32609 at ([Hub]242.4761421865926, 63.0, 1348.4643426760017)
+[12:30:17] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|UpdateCert-1.8
+[12:30:17] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FML
+[12:30:17] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|Skins-1.8
+[12:30:17] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FORGE
+[12:30:23] [Server thread/INFO]: Pingdaking88 lost connection: Disconnected
+[12:30:23] [Server thread/INFO]: - Pingdaking88 Disconnected
+[12:30:36] [Server thread/INFO]: AutisticPig lost connection: Disconnected
+[12:30:36] [Server thread/INFO]: - AutisticPig Disconnected
+[12:31:03] [User Authenticator #1/INFO]: UUID of player ysyyayyyayya is 6cd4e570-7a49-3521-8e89-4b4b5c6269c5
+[12:31:03] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|UpdateCert-1.8
+[12:31:03] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FML
+[12:31:03] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|Skins-1.8
+[12:31:03] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FORGE
+[12:31:03] [Server thread/INFO]: + ysyyayyyayya Connected
+[12:31:03] [Server thread/INFO]: ysyyayyyayya[/[0:0:0:0:0:0:0:1]:37578] logged in with entity id 59745 at ([Hub]242.4761421865926, 63.0, 1348.4643426760017)
+[12:31:25] [User Authenticator #1/INFO]: UUID of player Wxterio is a986e90e-8ccc-3883-935b-d44233fe0edc
+[12:31:25] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|UpdateCert-1.8
+[12:31:25] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FML
+[12:31:25] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|Skins-1.8
+[12:31:25] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FORGE
+[12:31:25] [Server thread/INFO]: + Wxterio Connected
+[12:31:25] [Server thread/INFO]: Wxterio[/[0:0:0:0:0:0:0:1]:33156] logged in with entity id 59746 at ([Hub]242.4761421865926, 63.0, 1348.4643426760017)
+[12:31:35] [Async Chat Thread - #0/INFO]: Hub .[RICE]. Wxterio {non-admin}: s
+[12:31:37] [Async Chat Thread - #0/INFO]: [sig] Hub .[OWNER]. ysyyayyyayya [SIGMA]: ?
+[12:31:42] [Server thread/ERROR]: No TreeType mapping for TreeGenerator.TreeType.MANGROVE
+[12:31:42] [Server thread/ERROR]: No TreeType mapping for TreeGenerator.TreeType.TALL_MANGROVE
+[12:31:42] [Server thread/ERROR]: No TreeType mapping for TreeGenerator.TreeType.CHERRY
+[12:31:42] [Async Chat Thread - #0/INFO]: Hub .[RICE]. Wxterio {non-admin}: can i get my ranks now
+[12:32:31] [User Authenticator #2/INFO]: UUID of player HeyBread is 6b3d7afd-3b1d-39dc-a095-3e261a0d9f09
+[12:32:31] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|UpdateCert-1.8
+[12:32:31] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FML
+[12:32:31] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|Skins-1.8
+[12:32:31] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FORGE
+[12:32:31] [Server thread/INFO]: + HeyBread Connected
+[12:32:31] [Server thread/INFO]: HeyBread[/[0:0:0:0:0:0:0:1]:60486] logged in with entity id 59747 at ([Hub]242.4761421865926, 63.0, 1348.4643426760017)
+[12:32:47] [Async Chat Thread - #1/INFO]: Hub .[RICE]. Wxterio {non-admin}: bro stop
+[12:32:58] [Async Chat Thread - #1/INFO]: Hub .[RICE]. Wxterio {non-admin}: ur such bad owner
+[12:33:07] [Async Chat Thread - #1/INFO]: [sig] Hub .[OWNER]. ysyyayyyayya [SIGMA]: ?
+[12:33:10] [Async Chat Thread - #1/INFO]: [pastry] Hub ADMIN HeyBread: godDAMN
+[12:33:13] [Async Chat Thread - #1/INFO]: [pastry] Hub ADMIN HeyBread: this lobby is FIRE
+[12:33:16] [Async Chat Thread - #1/INFO]: Hub .[RICE]. Wxterio {non-admin}: stop rank abusing
+[12:33:24] [Async Chat Thread - #1/INFO]: Hub .[RICE]. Wxterio {non-admin}: also CAN I GET MY RANKS NOW
+[12:33:28] [Async Chat Thread - #1/INFO]: [sig] Hub .[OWNER]. ysyyayyyayya [SIGMA]: ye
+[12:33:29] [Async Chat Thread - #1/INFO]: [pastry] Hub ADMIN HeyBread: landon this is sick
+[12:33:31] [Async Chat Thread - #1/INFO]: [pastry] Hub ADMIN HeyBread: alr
+[12:33:35] [Async Chat Thread - #1/INFO]: [pastry] Hub ADMIN HeyBread: lemme send u the vanilla world
+[12:33:37] [Server thread/INFO]: ysyyayyyayya issued server command: /pr webeditor start
+[12:34:07] [Async Chat Thread - #1/INFO]: [pastry] Hub ADMIN HeyBread: sent it
+[12:34:42] [Async Chat Thread - #1/INFO]: [pastry] Hub ADMIN HeyBread: landon
+[12:34:46] [Async Chat Thread - #1/INFO]: [pastry] Hub ADMIN HeyBread: did u js copy this :/
+[12:34:51] [Async Chat Thread - #1/INFO]: Hub .[RICE]. Wxterio {non-admin}: yea
+[12:34:53] [Async Chat Thread - #1/INFO]: [pastry] Hub ADMIN HeyBread: bruh
+[12:34:54] [Server thread/INFO]: ysyyayyyayya issued server command: /pr we load uyilagef
+[12:35:00] [Async Chat Thread - #1/INFO]: Hub .[RICE]. Wxterio {admin}: s
+[12:35:00] [Async Chat Thread - #1/INFO]: [sig] Hub .[OWNER]. ysyyayyyayya [SIGMA]: done
+[12:35:03] [Async Chat Thread - #1/INFO]: [pastry] Hub ADMIN HeyBread: landon
+[12:35:06] [Async Chat Thread - #1/INFO]: [sig] Hub .[OWNER]. ysyyayyyayya [SIGMA]: ?
+[12:35:06] [Async Chat Thread - #1/INFO]: [pastry] Hub ADMIN HeyBread: did u copy the hub
+[12:35:09] [Async Chat Thread - #1/INFO]: Hub .[RICE]. Wxterio {admin}: can you make admin normal
+[12:35:09] [Async Chat Thread - #1/INFO]: [sig] Hub .[OWNER]. ysyyayyyayya [SIGMA]: ye
+[12:35:11] [Async Chat Thread - #1/INFO]: [pastry] Hub ADMIN HeyBread: bro
+[12:35:19] [Async Chat Thread - #1/INFO]: [pastry] Hub ADMIN HeyBread: from who
+[12:35:22] [Async Chat Thread - #1/INFO]: Hub .[RICE]. Wxterio {admin}: LANDON
+[12:35:23] [Async Chat Thread - #1/INFO]: [sig] Hub .[OWNER]. ysyyayyyayya [SIGMA]: idk
+[12:35:25] [Async Chat Thread - #1/INFO]: [sig] Hub .[OWNER]. ysyyayyyayya [SIGMA]: ?
+[12:35:31] [Async Chat Thread - #1/INFO]: [pastry] Hub ADMIN HeyBread: whatever
+[12:35:33] [Async Chat Thread - #1/INFO]: Hub .[RICE]. Wxterio {admin}: make admin normal
+[12:35:37] [Async Chat Thread - #1/INFO]: [sig] Hub .[OWNER]. ysyyayyyayya [SIGMA]: i cant
+[12:35:40] [Async Chat Thread - #1/INFO]: [pastry] Hub ADMIN HeyBread: LANDON
+[12:35:43] [Async Chat Thread - #1/INFO]: Hub .[RICE]. Wxterio {admin}: y not
+[12:35:44] [Async Chat Thread - #1/INFO]: [sig] Hub .[OWNER]. ysyyayyyayya [SIGMA]: admin is a tag
+[12:35:46] [Async Chat Thread - #1/INFO]: [pastry] Hub ADMIN HeyBread: set up the worldedit
+[12:35:55] [Async Chat Thread - #1/INFO]: [sig] Hub .[OWNER]. ysyyayyyayya [SIGMA]: k
+[12:35:57] [Async Chat Thread - #1/INFO]: Hub .[RICE]. Wxterio {admin}: can u make it like rayyans
+[12:36:07] [Async Chat Thread - #1/INFO]: [sig] Hub .[OWNER]. ysyyayyyayya [SIGMA]: ye
+[12:36:08] [Async Chat Thread - #1/INFO]: [pastry] Hub ADMIN HeyBread: aaron no one trusts u :/
+[12:36:14] [Async Chat Thread - #1/INFO]: Hub .[RICE]. Wxterio {admin}: wdym
+[12:36:17] [Async Chat Thread - #1/INFO]: [pastry] Hub ADMIN HeyBread: landon SET IT UP
+[12:36:21] [Async Chat Thread - #1/INFO]: [sig] Hub .[OWNER]. ysyyayyyayya [SIGMA]: I AM
+[12:36:58] [Async Chat Thread - #1/INFO]: [sig] Hub .[OWNER]. ysyyayyyayya [SIGMA]: guys plz disconnect
+[12:37:01] [Server thread/INFO]: HeyBread lost connection: Disconnected
+[12:37:01] [Server thread/INFO]: - HeyBread Disconnected
+[12:37:10] [User Authenticator #3/INFO]: UUID of player HeyBread is 6b3d7afd-3b1d-39dc-a095-3e261a0d9f09
+[12:37:10] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|UpdateCert-1.8
+[12:37:10] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FML
+[12:37:10] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|Skins-1.8
+[12:37:10] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FORGE
+[12:37:10] [Server thread/INFO]: + HeyBread Connected
+[12:37:10] [Server thread/INFO]: HeyBread[/[0:0:0:0:0:0:0:1]:38868] logged in with entity id 59748 at ([Hub]242.4761421865926, 63.0, 1348.4643426760017)
+[12:37:18] [Server thread/INFO]: Stopping the server
+[12:37:18] [Server thread/INFO]: Stopping server
+[12:37:18] [Server thread/INFO]: [Multiverse-Portals] Disabling Multiverse-Portals v4.2.3
+[12:37:18] [Server thread/INFO]: [SBA] Disabling SBA v1.5.13.7
+[12:37:19] [Server thread/INFO]: [BedWars] Disabling BedWars v0.2.36.1
+[12:37:19] [Server thread/INFO]: [ViaRewind-Legacy-Support] Disabling ViaRewind-Legacy-Support v1.4.2
+[12:37:19] [Server thread/INFO]: [Multiverse-Inventories] Disabling Multiverse-Inventories v4.2.6
+[12:37:19] [Server thread/INFO]: [Essentials] Disabling Essentials v2.20.1
+[12:37:19] [Server thread/INFO]: [DeluxeHub] Disabling DeluxeHub v3.5.5
+[12:37:19] [Server thread/INFO]: [ViaRewind] Disabling ViaRewind v3.0.6
+[12:37:19] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v4.3.14
+[12:37:19] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v4.9.2
+[12:37:19] [Server thread/INFO]: [ServersNPC] Disabling ServersNPC v5.0
+[12:37:19] [Server thread/INFO]: [PowerRanks] Disabling PowerRanks v1.10.10
+[12:37:19] [Server thread/INFO]: [PowerRanks] Disabled PowerRanks v1.10.10
+[12:37:19] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v4.9.3
+[12:37:19] [Server thread/INFO]: [ViaVersion] ViaVersion is disabling, if this is a reload and you experience issues consider rebooting.
+[12:37:19] [Server thread/INFO]: [SimpleHomes] Disabling SimpleHomes v2.2
+[12:37:19] [Server thread/INFO]: [LoginSecurity] Disabling LoginSecurity v3.2.0
+[12:37:19] [Server thread/INFO]: [LoginSecurity] Waiting for queued tasks...
+[12:37:19] [Server thread/INFO]: [LoginSecurity] ExecutorService shut down, ready to disable.
+[12:37:19] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.2.20+6667-f0f1e66
+[12:37:19] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[12:37:19] [Server thread/INFO]: [BetterTeams] Disabling BetterTeams v4.11.0
+[12:37:19] [Server thread/ERROR]: Error occurred while disabling BetterTeams v4.11.0 (Is it up to date?)
+java.lang.IllegalStateException: Unregistered scoreboard component
+	at org.bukkit.craftbukkit.v1_17_R1.scoreboard.CraftTeam.checkState(CraftTeam.java:338) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at org.bukkit.craftbukkit.v1_17_R1.scoreboard.CraftTeam.hasEntry(CraftTeam.java:258) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at com.booksaw.betterTeams.events.MCTeamManagement.remove(MCTeamManagement.java:114) ~[BetterTeams-4.11.0.jar:?]
+	at com.booksaw.betterTeams.events.MCTeamManagement.removeAll(MCTeamManagement.java:74) ~[BetterTeams-4.11.0.jar:?]
+	at com.booksaw.betterTeams.Main.onDisable(Main.java:153) ~[BetterTeams-4.11.0.jar:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:266) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at org.bukkit.plugin.java.JavaPluginLoader.disablePlugin(JavaPluginLoader.java:399) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at org.bukkit.plugin.SimplePluginManager.disablePlugin(SimplePluginManager.java:537) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at org.bukkit.plugin.SimplePluginManager.disablePlugins(SimplePluginManager.java:514) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at org.bukkit.craftbukkit.v1_17_R1.CraftServer.disablePlugins(CraftServer.java:495) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at net.minecraft.server.MinecraftServer.stopServer(MinecraftServer.java:1064) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at net.minecraft.server.dedicated.DedicatedServer.stopServer(DedicatedServer.java:855) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1356) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:322) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[12:37:19] [Server thread/INFO]: [SimpleTpa] Disabling SimpleTpa v6.4
+[12:37:19] [Server thread/INFO]: [SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9
+[12:37:19] [Server thread/INFO]: [SimpleTpa] Simple Tpa has been disabled on version 6.4
+[12:37:19] [Server thread/INFO]: Saving players
+[12:37:19] [Server thread/INFO]: ysyyayyyayya lost connection: Server closed
+[12:37:19] [Server thread/INFO]: ysyyayyyayya left the game
+[12:37:19] [Server thread/INFO]: Wxterio lost connection: Server closed
+[12:37:19] [Server thread/INFO]: Wxterio left the game
+[12:37:19] [Server thread/INFO]: HeyBread lost connection: Server closed
+[12:37:19] [Server thread/INFO]: HeyBread left the game
+[12:37:19] [Server thread/INFO]: Saving worlds
+[12:37:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[12:37:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[12:37:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[12:37:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Hub]'/minecraft:hub
+[12:37:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[12:37:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[12:37:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[12:37:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (Hub): All chunks are saved
+[12:37:19] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[12:37:19] [Server thread/INFO]: Flushing Chunk IO
+[12:37:19] [Server thread/INFO]: Closing Thread Pool
+[12:37:19] [Server thread/INFO]: Closing Server

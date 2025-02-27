@@ -1,62 +1,107 @@
-[12:55:18] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[12:55:19] [main/INFO]: Reloading ResourceManager: Default, bukkit
-[12:55:20] [Worker-Main-1/INFO]: Loaded 7 recipes
-[12:55:22] [Server thread/INFO]: Starting minecraft server version 1.17.1
-[12:55:22] [Server thread/INFO]: Loading properties
-[12:55:22] [Server thread/INFO]: This server is running Purpur version git-Purpur-1428 (MC: 1.17.1) (Implementing API version 1.17.1-R0.1-SNAPSHOT) (Git: 9beb23b on ver/1.17.1)
-[12:55:22] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[12:55:22] [Server thread/INFO]: Using 4 threads for Netty based IO
-[12:55:23] [Server thread/INFO]: Default game type: SURVIVAL
-[12:55:23] [Server thread/INFO]: Generating keypair
-[12:55:23] [Server thread/INFO]: Starting Minecraft server on *:25566
-[12:55:23] [Server thread/INFO]: Using epoll channel type
-[12:55:23] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[12:55:23] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[12:55:25] [Server thread/INFO]: [ViaVersion] Loading ViaVersion v4.9.3
-[12:55:25] [Server thread/INFO]: [ViaVersion] ViaVersion 4.9.3 is now loaded. Registering protocol transformers and injecting...
-[12:55:25] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
-[12:55:26] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
-[12:55:26] [Server thread/INFO]: [ViaBackwards] Loading translations...
-[12:55:26] [Server thread/INFO]: [ViaBackwards] Registering protocols...
-[12:55:27] [Server thread/INFO]: [ViaBackwards] Loading ViaBackwards v4.9.2
-[12:55:27] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v4.3.14
-[12:55:27] [Server thread/INFO]: [ViaRewind] Loading ViaRewind v3.0.6
-[12:55:27] [Server thread/INFO]: [ViaRewind-Legacy-Support] Loading ViaRewind-Legacy-Support v1.4.2
-[12:55:27] [Server thread/INFO]: [Multiverse-Portals] Loading Multiverse-Portals v4.2.3
-[12:55:27] [Server thread/INFO]: [Multiverse-Inventories] Loading Multiverse-Inventories v4.2.6
-[12:55:27] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[12:55:27] [Server thread/INFO]: [ViaRewind] Enabling ViaRewind v3.0.6
-[12:55:27] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[12:55:27] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[12:55:27] [Server thread/WARN]: Whilst this makes it possible to use BungeeCord or Velocity, unless access to your server is properly restricted, it also opens up the ability for hackers to connect with any username they choose.
-[12:55:27] [Server thread/WARN]: Please see http://www.spigotmc.org/wiki/firewall-guide/ for further information.
-[12:55:27] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[12:55:27] [Server thread/INFO]: Preparing level "world"
-[12:55:27] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[12:55:28] [Server thread/INFO]: Time elapsed: 489 ms
-[12:55:28] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[12:55:28] [Server thread/INFO]: Time elapsed: 426 ms
-[12:55:28] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[12:55:29] [Server thread/INFO]: Time elapsed: 373 ms
-[12:55:29] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v4.9.3
-[12:55:29] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.17.1 (756)
-[12:55:29] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v4.9.2
-[12:55:29] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v4.3.14
-[12:55:29] [Server thread/WARN]: [Multiverse-Core] "Multiverse-Core v4.3.14" has registered a listener for org.bukkit.event.entity.EntityCreatePortalEvent on method "public void com.onarandombox.MultiverseCore.listeners.MVPortalListener.entityPortalCreate(org.bukkit.event.entity.EntityCreatePortalEvent)", but the event is Deprecated. "Server performance will be affected"; please notify the authors [dumptruckman, Rigby, fernferret, lithium3141, main--].
-[12:55:29] [Server thread/INFO]: [Multiverse-Core] We are aware of the warning about the deprecated event. There is no alternative that allows us to do what we need to do and performance impact is negligible. It is safe to ignore.
-[12:55:30] [Server thread/INFO]: [Multiverse-Core] 3 - World(s) loaded.
-[12:55:30] [Server thread/WARN]: [Multiverse-Core] Buscript failed to load! The script command will be disabled! If you would like not to see this message, use `/mv conf enablebuscript false` to disable Buscript from loading.
-[12:55:30] [Server thread/INFO]: [Multiverse-Core] Version 4.3.14 (API v24) Enabled - By dumptruckman, Rigby, fernferret, lithium3141 and main--
-[12:55:30] [Server thread/INFO]: [ViaRewind-Legacy-Support] Enabling ViaRewind-Legacy-Support v1.4.2
-[12:55:30] [Server thread/INFO]: [Multiverse-Portals] Enabling Multiverse-Portals v4.2.3
-[12:55:30] [Server thread/INFO]: [Multiverse-Portals] 0 - Portals(s) loaded
-[12:55:30] [Server thread/INFO]: [Multiverse-Portals 4.2.3]  Enabled - By Rigby and fernferret
-[12:55:30] [Server thread/INFO]: [Multiverse-Inventories] Enabling Multiverse-Inventories v4.2.6
-[12:55:30] [Server thread/INFO]: [Multiverse-Inventories 4.2.6] enabled.
-[12:55:30] [Server thread/INFO]: Running delayed init tasks
-[12:55:30] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
-[12:55:30] [Server thread/INFO]: [Multiverse-Inventories] First run!
-[12:55:30] [Server thread/INFO]: Done (7.994s)! For help, type "help"
-[12:55:30] [Server thread/INFO]: Timings Reset
-[12:55:31] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.2.1, you're on: 4.9.3
-[12:56:30] [Server thread/INFO]: That player does not exist
+[13:40:28] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[13:40:29] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[13:40:29] [Worker-Main-1/INFO]: Loaded 7 recipes
+[13:40:31] [Server thread/INFO]: Starting minecraft server version 1.17.1
+[13:40:31] [Server thread/INFO]: Loading properties
+[13:40:31] [Server thread/INFO]: This server is running Purpur version git-Purpur-1428 (MC: 1.17.1) (Implementing API version 1.17.1-R0.1-SNAPSHOT) (Git: 9beb23b on ver/1.17.1)
+[13:40:31] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[13:40:31] [Server thread/INFO]: Using 4 threads for Netty based IO
+[13:40:31] [Server thread/INFO]: Default game type: SURVIVAL
+[13:40:31] [Server thread/INFO]: Generating keypair
+[13:40:31] [Server thread/INFO]: Starting Minecraft server on *:25566
+[13:40:31] [Server thread/INFO]: Using epoll channel type
+[13:40:31] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[13:40:31] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[13:40:32] [Server thread/INFO]: [ViaVersion] Loading ViaVersion v4.9.3
+[13:40:32] [Server thread/INFO]: [ViaVersion] ViaVersion 4.9.3 is now loaded. Registering protocol transformers and injecting...
+[13:40:32] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[13:40:33] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[13:40:33] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[13:40:33] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[13:40:33] [Server thread/INFO]: [ViaBackwards] Loading ViaBackwards v4.9.2
+[13:40:33] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v4.3.14
+[13:40:33] [Server thread/INFO]: [ViaRewind] Loading ViaRewind v3.0.6
+[13:40:33] [Server thread/INFO]: [ViaRewind-Legacy-Support] Loading ViaRewind-Legacy-Support v1.4.2
+[13:40:33] [Server thread/INFO]: [Multiverse-Portals] Loading Multiverse-Portals v4.2.3
+[13:40:33] [Server thread/INFO]: [Multiverse-Inventories] Loading Multiverse-Inventories v4.2.6
+[13:40:33] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[13:40:33] [Server thread/INFO]: [ViaRewind] Enabling ViaRewind v3.0.6
+[13:40:33] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[13:40:33] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[13:40:33] [Server thread/WARN]: Whilst this makes it possible to use BungeeCord or Velocity, unless access to your server is properly restricted, it also opens up the ability for hackers to connect with any username they choose.
+[13:40:33] [Server thread/WARN]: Please see http://www.spigotmc.org/wiki/firewall-guide/ for further information.
+[13:40:33] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[13:40:33] [Server thread/INFO]: Preparing level "world"
+[13:40:33] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[13:40:34] [Server thread/INFO]: Time elapsed: 442 ms
+[13:40:34] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[13:40:34] [Server thread/INFO]: Time elapsed: 196 ms
+[13:40:34] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[13:40:34] [Server thread/INFO]: Time elapsed: 252 ms
+[13:40:34] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v4.9.3
+[13:40:35] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.17.1 (756)
+[13:40:35] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v4.9.2
+[13:40:35] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v4.3.14
+[13:40:35] [Server thread/WARN]: [Multiverse-Core] "Multiverse-Core v4.3.14" has registered a listener for org.bukkit.event.entity.EntityCreatePortalEvent on method "public void com.onarandombox.MultiverseCore.listeners.MVPortalListener.entityPortalCreate(org.bukkit.event.entity.EntityCreatePortalEvent)", but the event is Deprecated. "Server performance will be affected"; please notify the authors [dumptruckman, Rigby, fernferret, lithium3141, main--].
+[13:40:35] [Server thread/INFO]: [Multiverse-Core] We are aware of the warning about the deprecated event. There is no alternative that allows us to do what we need to do and performance impact is negligible. It is safe to ignore.
+[13:40:35] [Server thread/INFO]: Preparing start region for dimension minecraft:skybattle
+[13:40:36] [Server thread/INFO]: Preparing spawn area: 0%
+[13:40:36] [Server thread/INFO]: Preparing spawn area: 0%
+[13:40:36] [Server thread/INFO]: Time elapsed: 506 ms
+[13:40:36] [Server thread/INFO]: [Multiverse-Core] 4 - World(s) loaded.
+[13:40:36] [Server thread/WARN]: [Multiverse-Core] Buscript failed to load! The script command will be disabled! If you would like not to see this message, use `/mv conf enablebuscript false` to disable Buscript from loading.
+[13:40:36] [Server thread/INFO]: [Multiverse-Core] Version 4.3.14 (API v24) Enabled - By dumptruckman, Rigby, fernferret, lithium3141 and main--
+[13:40:36] [Server thread/INFO]: [ViaRewind-Legacy-Support] Enabling ViaRewind-Legacy-Support v1.4.2
+[13:40:36] [Server thread/INFO]: [Multiverse-Portals] Enabling Multiverse-Portals v4.2.3
+[13:40:36] [Server thread/INFO]: [Multiverse-Portals] 0 - Portals(s) loaded
+[13:40:36] [Server thread/INFO]: [Multiverse-Portals 4.2.3]  Enabled - By Rigby and fernferret
+[13:40:36] [Server thread/INFO]: [Multiverse-Inventories] Enabling Multiverse-Inventories v4.2.6
+[13:40:36] [Server thread/INFO]: [Multiverse-Inventories 4.2.6] enabled.
+[13:40:36] [Server thread/INFO]: Running delayed init tasks
+[13:40:36] [Server thread/INFO]: [Multiverse-Inventories] First run!
+[13:40:36] [Server thread/INFO]: Done (5.203s)! For help, type "help"
+[13:40:36] [Server thread/INFO]: Timings Reset
+[13:40:36] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
+[13:40:37] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.2.1, you're on: 4.9.3
+[13:47:21] [User Authenticator #1/INFO]: UUID of player iglentoften is 1f39864e-1ba8-32ee-b3a0-299113502435
+[13:47:21] [Server thread/INFO]: iglentoften joined the game
+[13:47:21] [Server thread/INFO]: iglentoften[/[0:0:0:0:0:0:0:1]:54534] logged in with entity id 421 at ([world]-124.03475211775518, 64.0, -212.93224009746498)
+[13:47:21] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|UpdateCert-1.8
+[13:47:21] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FML
+[13:47:21] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|Skins-1.8
+[13:47:21] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FORGE
+[13:51:53] [Server thread/INFO]: iglentoften has made the advancement [Acquire Hardware]
+[13:55:29] [Server thread/INFO]: iglentoften lost connection: Disconnected
+[13:55:29] [Server thread/INFO]: iglentoften left the game
+[13:58:39] [User Authenticator #2/INFO]: UUID of player DoctorDoctorDoc is 7d2e54b2-4ee3-3e32-9a10-89a0004558a0
+[13:58:40] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|UpdateCert-1.8
+[13:58:40] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FML
+[13:58:40] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|Skins-1.8
+[13:58:40] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FORGE
+[13:58:40] [Server thread/INFO]: DoctorDoctorDoc joined the game
+[13:58:40] [Server thread/INFO]: DoctorDoctorDoc[/[0:0:0:0:0:0:0:1]:39786] logged in with entity id 1487 at ([world]-73.0282710232111, 62.0, -196.1836233629444)
+[13:58:43] [User Authenticator #2/INFO]: UUID of player iglentoften is 1f39864e-1ba8-32ee-b3a0-299113502435
+[13:58:43] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|UpdateCert-1.8
+[13:58:43] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FML
+[13:58:43] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|Skins-1.8
+[13:58:43] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FORGE
+[13:58:43] [Server thread/INFO]: iglentoften joined the game
+[13:58:43] [Server thread/INFO]: iglentoften[/[0:0:0:0:0:0:0:1]:39794] logged in with entity id 1560 at ([world]-91.93289467854162, 64.0, -157.22928536105033)
+[13:58:49] [Server thread/INFO]: DoctorDoctorDoc issued server command: /lobby
+[13:58:53] [Server thread/INFO]: DoctorDoctorDoc issued server command: /help
+[13:58:57] [Server thread/INFO]: iglentoften issued server command: /login abcdef
+[13:58:58] [Server thread/INFO]: iglentoften lost connection: Disconnected
+[13:58:58] [Server thread/INFO]: iglentoften left the game
+[13:59:01] [User Authenticator #2/INFO]: UUID of player iglentoften is 1f39864e-1ba8-32ee-b3a0-299113502435
+[13:59:01] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|UpdateCert-1.8
+[13:59:01] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FML
+[13:59:01] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|Skins-1.8
+[13:59:01] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FORGE
+[13:59:01] [Server thread/INFO]: iglentoften joined the game
+[13:59:01] [Server thread/INFO]: iglentoften[/[0:0:0:0:0:0:0:1]:58652] logged in with entity id 1663 at ([world]-91.93289467854162, 64.0, -157.22928536105033)
+[13:59:04] [Server thread/INFO]: iglentoften issued server command: /login abcdef
+[13:59:11] [Server thread/INFO]: DoctorDoctorDoc issued server command: /tpa iglent
+[13:59:14] [Server thread/INFO]: DoctorDoctorDoc issued server command: /tpa iglent
+[13:59:16] [Server thread/INFO]: DoctorDoctorDoc issued server command: /tp
+[13:59:23] [Server thread/INFO]: DoctorDoctorDoc issued server command: /tp iglent
+[13:59:38] [Server thread/INFO]: iglentoften has made the advancement [Suit Up]

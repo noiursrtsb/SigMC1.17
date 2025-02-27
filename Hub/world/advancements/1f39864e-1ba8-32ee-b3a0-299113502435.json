@@ -83,6 +83,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-02-27 13:11:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_door": {
     "criteria": {
       "has_planks": "2025-02-24 15:44:57 +0000"
@@ -293,6 +299,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lime_candle": {
+    "criteria": {
+      "has_lime_dye": "2025-02-27 13:11:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2025-02-24 15:44:57 +0000"
@@ -320,6 +332,12 @@
   "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2025-02-24 19:24:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-02-27 13:11:03 +0000"
     },
     "done": true
   },
@@ -518,6 +536,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-02-27 13:11:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-02-24 15:47:04 +0000"
@@ -578,6 +602,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2025-02-27 13:11:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef": {
     "criteria": {
       "has_beef": "2025-02-25 14:03:16 +0000"
@@ -600,7 +630,8 @@
       "minecraft:beach": "2025-02-24 18:23:59 +0000",
       "minecraft:river": "2025-02-24 15:36:41 +0000",
       "minecraft:snowy_taiga": "2025-02-25 14:06:48 +0000",
-      "minecraft:snowy_taiga_hills": "2025-02-25 14:10:08 +0000"
+      "minecraft:snowy_taiga_hills": "2025-02-25 14:10:08 +0000",
+      "minecraft:plains": "2025-02-27 13:11:04 +0000"
     },
     "done": false
   },
@@ -625,6 +656,12 @@
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_logs": "2025-02-24 15:44:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_lime_dye": "2025-02-27 13:11:03 +0000"
     },
     "done": true
   },
@@ -867,6 +904,12 @@
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2025-02-24 15:44:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_carpet_from_white_carpet": {
+    "criteria": {
+      "has_lime_dye": "2025-02-27 13:11:03 +0000"
     },
     "done": true
   },

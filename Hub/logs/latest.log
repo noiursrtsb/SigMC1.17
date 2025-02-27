@@ -270,3 +270,89 @@ java.lang.IllegalArgumentException: Team name '5-starwarswatcher' is longer than
 [14:00:15] [Server thread/INFO]: Pingdaking88[/[0:0:0:0:0:0:0:1]:54272] logged in with entity id 12 at ([Hub]242.4761421865926, 63.0, 1348.4643426760017)
 [14:00:44] [Server thread/INFO]: Pingdaking88 lost connection: Timed out
 [14:00:44] [Server thread/INFO]: - Pingdaking88 Disconnected
+[14:01:20] [User Authenticator #2/INFO]: UUID of player ysyyayyyayya is 6cd4e570-7a49-3521-8e89-4b4b5c6269c5
+[14:01:20] [Server thread/INFO]: + ysyyayyyayya Connected
+[14:01:20] [Server thread/INFO]: ysyyayyyayya[/[0:0:0:0:0:0:0:1]:53456] logged in with entity id 99 at ([Hub]242.4761421865926, 63.0, 1348.4643426760017)
+[14:01:20] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|UpdateCert-1.8
+[14:01:20] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FML
+[14:01:20] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|Skins-1.8
+[14:01:20] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FORGE
+[14:01:35] [Server thread/INFO]: ysyyayyyayya lost connection: Disconnected
+[14:01:35] [Server thread/INFO]: - ysyyayyyayya Disconnected
+[14:02:43] [User Authenticator #3/INFO]: UUID of player HeyBread is 6b3d7afd-3b1d-39dc-a095-3e261a0d9f09
+[14:02:43] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|UpdateCert-1.8
+[14:02:43] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FML
+[14:02:43] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|Skins-1.8
+[14:02:43] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FORGE
+[14:02:43] [Server thread/INFO]: + HeyBread Connected
+[14:02:43] [Server thread/INFO]: HeyBread[/[0:0:0:0:0:0:0:1]:55168] logged in with entity id 100 at ([Hub]242.4761421865926, 63.0, 1348.4643426760017)
+[14:02:44] [User Authenticator #3/INFO]: UUID of player iglentoften is 1f39864e-1ba8-32ee-b3a0-299113502435
+[14:02:44] [Server thread/INFO]: + iglentoften Connected
+[14:02:44] [Server thread/INFO]: iglentoften[/[0:0:0:0:0:0:0:1]:55182] logged in with entity id 101 at ([Hub]242.4761421865926, 63.0, 1348.4643426760017)
+[14:02:44] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|UpdateCert-1.8
+[14:02:44] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FML
+[14:02:44] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|Skins-1.8
+[14:02:44] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FORGE
+[14:02:53] [Async Chat Thread - #0/INFO]: Hub ADMIN iglentoften: r u serious
+[14:02:54] [Server thread/ERROR]: No TreeType mapping for TreeGenerator.TreeType.MANGROVE
+[14:02:54] [Server thread/ERROR]: No TreeType mapping for TreeGenerator.TreeType.TALL_MANGROVE
+[14:02:54] [Server thread/ERROR]: No TreeType mapping for TreeGenerator.TreeType.CHERRY
+[14:02:56] [Async Chat Thread - #0/INFO]: [pastry] Hub ADMIN HeyBread: bruh :/
+[14:02:58] [User Authenticator #3/INFO]: UUID of player ysyyayyyayya is 6cd4e570-7a49-3521-8e89-4b4b5c6269c5
+[14:02:58] [Server thread/INFO]: + ysyyayyyayya Connected
+[14:02:58] [Server thread/INFO]: ysyyayyyayya[/[0:0:0:0:0:0:0:1]:39140] logged in with entity id 102 at ([Hub]242.4761421865926, 63.0, 1348.4643426760017)
+[14:02:58] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|UpdateCert-1.8
+[14:02:58] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FML
+[14:02:58] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|Skins-1.8
+[14:02:58] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FORGE
+[14:02:59] [Async Chat Thread - #0/INFO]: Hub ADMIN iglentoften: i need my survival minecraft
+[14:03:01] [Server thread/INFO]: HeyBread issued server command: /gamemode creative
+[14:03:11] [Server thread/INFO]: ysyyayyyayya lost connection: Disconnected
+[14:03:11] [Server thread/INFO]: - ysyyayyyayya Disconnected
+[14:03:12] [Server thread/INFO]: HeyBread lost connection: Disconnected
+[14:03:12] [Craft Scheduler Thread - 0 - ServersNPC/WARN]: [ServersNPC] Plugin ServersNPC v5.0 generated an exception while executing task 18
+java.util.NoSuchElementException: decoder
+	at io.netty.channel.DefaultChannelPipeline.getContextOrDie(DefaultChannelPipeline.java:1073) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at io.netty.channel.DefaultChannelPipeline.addAfter(DefaultChannelPipeline.java:302) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at io.netty.channel.DefaultChannelPipeline.addAfter(DefaultChannelPipeline.java:290) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at io.github.gonalez.znpcs.user.ZUser.<init>(ZUser.java:55) ~[znpcs-5.0.jar:?]
+	at java.util.concurrent.ConcurrentHashMap.computeIfAbsent(ConcurrentHashMap.java:1708) ~[?:?]
+	at io.github.gonalez.znpcs.user.ZUser.find(ZUser.java:90) ~[znpcs-5.0.jar:?]
+	at io.github.gonalez.znpcs.user.ZUser.find(ZUser.java:94) ~[znpcs-5.0.jar:?]
+	at io.github.gonalez.znpcs.npc.task.NPCManagerTask.run(NPCManagerTask.java:24) ~[znpcs-5.0.jar:?]
+	at org.bukkit.craftbukkit.v1_17_R1.scheduler.CraftTask.run(CraftTask.java:101) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at org.bukkit.craftbukkit.v1_17_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:57) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[14:03:12] [Server thread/INFO]: - HeyBread Disconnected
+[14:03:16] [Async Chat Thread - #0/INFO]: Hub ADMIN iglentoften: bc singleplayer doesnt even work anymore
+[14:03:29] [Server thread/INFO]: iglentoften lost connection: Disconnected
+[14:03:29] [Craft Scheduler Thread - 7 - ServersNPC/WARN]: [ServersNPC] Plugin ServersNPC v5.0 generated an exception while executing task 18
+java.util.NoSuchElementException: decoder
+	at io.netty.channel.DefaultChannelPipeline.getContextOrDie(DefaultChannelPipeline.java:1073) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at io.netty.channel.DefaultChannelPipeline.addAfter(DefaultChannelPipeline.java:302) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at io.netty.channel.DefaultChannelPipeline.addAfter(DefaultChannelPipeline.java:290) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at io.github.gonalez.znpcs.user.ZUser.<init>(ZUser.java:55) ~[znpcs-5.0.jar:?]
+	at java.util.concurrent.ConcurrentHashMap.computeIfAbsent(ConcurrentHashMap.java:1708) ~[?:?]
+	at io.github.gonalez.znpcs.user.ZUser.find(ZUser.java:90) ~[znpcs-5.0.jar:?]
+	at io.github.gonalez.znpcs.user.ZUser.find(ZUser.java:94) ~[znpcs-5.0.jar:?]
+	at io.github.gonalez.znpcs.npc.task.NPCManagerTask.run(NPCManagerTask.java:24) ~[znpcs-5.0.jar:?]
+	at org.bukkit.craftbukkit.v1_17_R1.scheduler.CraftTask.run(CraftTask.java:101) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at org.bukkit.craftbukkit.v1_17_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:57) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[14:03:29] [Server thread/INFO]: - iglentoften Disconnected
+[14:08:29] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /ban nayrb
+[14:08:29] [Server thread/INFO]: [Essentials] Created a User for nayrb (d9b26f8f-5d44-40ca-85ee-a7e7fb1b8def) for non Bukkit type: com.earth2me.essentials.OfflinePlayerStub
+[14:08:29] [Server thread/INFO]: [Essentials] Player Console banned nayrb for: You have been banned:
+The Ban Hammer has spoken!.
+[14:08:29] [Server thread/INFO]: Warning: The user 'nayrb' has never joined this server.
+[14:08:42] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /ban xxautistic_pigxx
+[14:08:42] [Server thread/INFO]: [Essentials] Created a User for xxautistic_pigxx (3dacee5e-1a7d-3b56-8bdd-73f9a9c6c684) for non Bukkit type: com.earth2me.essentials.OfflinePlayerStub
+[14:08:42] [Server thread/INFO]: [Essentials] Player Console banned xxautistic_pigxx for: You have been banned:
+The Ban Hammer has spoken!.
+[14:08:42] [Server thread/INFO]: Warning: The user 'xxautistic_pigxx' has never joined this server.

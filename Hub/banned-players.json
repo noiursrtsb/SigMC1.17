@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "uuid": "d9b26f8f-5d44-40ca-85ee-a7e7fb1b8def",
+    "name": "Nayrb",
+    "created": "2025-02-27 14:08:29 +0000",
+    "source": "Console",
+    "expires": "forever",
+    "reason": "The Ban Hammer has spoken!"
+  }
+]

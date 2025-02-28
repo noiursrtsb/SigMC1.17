@@ -130,3 +130,13 @@
 [13:22:17] [Netty Worker IO Thread #5/INFO]: [/[0:0:0:0:0:0:0:1%0]:39122|HeyBread] -> UpstreamBridge has disconnected
 [13:22:17] [Netty Worker IO Thread #5/INFO]: [HeyBread] disconnected with: Proxy lost connection to server.
 [13:22:17] [Netty Worker IO Thread #5/INFO]: [/[0:0:0:0:0:0:0:1%0]:39122|HeyBread] <-> DownstreamBridge <-> [lobby] has disconnected
+[13:30:30] [Netty Worker IO Thread #6/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:55666]: Connected via websocket
+[13:30:30] [Netty Worker IO Thread #6/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:55666]: Origin header is https://nolanderlauncherdelta-ozj8.vercel.app
+[13:30:31] [Netty Worker IO Thread #6/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:55666]: Logged in as 'ysyyayyyayya'
+[13:30:31] [Netty Worker IO Thread #6/INFO]: [/[0:0:0:0:0:0:0:1%0]:55666|ysyyayyyayya] -> UpstreamBridge has connected
+[13:30:31] [Netty Worker IO Thread #6/INFO]: [ysyyayyyayya|/[0:0:0:0:0:0:0:1%0]:55666] <-> ServerConnector [bedwars] has connected
+[13:30:42] [Netty Worker IO Thread #6/INFO]: [ysyyayyyayya|/[0:0:0:0:0:0:0:1%0]:55666] <-> ServerConnector [lobby] has connected
+[13:30:42] [Netty Worker IO Thread #6/INFO]: [/[0:0:0:0:0:0:0:1%0]:55666|ysyyayyyayya] <-> DownstreamBridge <-> [bedwars] has disconnected
+[13:32:28] [Netty Worker IO Thread #6/INFO]: [ysyyayyyayya] disconnected with: Server is restarting
+[13:32:28] [Netty Worker IO Thread #6/INFO]: [/[0:0:0:0:0:0:0:1%0]:55666|ysyyayyyayya] -> UpstreamBridge has disconnected
+[13:32:28] [Netty Worker IO Thread #6/INFO]: [/[0:0:0:0:0:0:0:1%0]:55666|ysyyayyyayya] <-> DownstreamBridge <-> [lobby] has disconnected

@@ -75,3 +75,13 @@
 [13:24:00] [Server thread/INFO]: Done (10.760s)! For help, type "help"
 [13:24:00] [Server thread/INFO]: Timings Reset
 [13:24:01] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.2.1, you're on: 4.9.3
+[13:30:31] [User Authenticator #1/INFO]: UUID of player ysyyayyyayya is 6cd4e570-7a49-3521-8e89-4b4b5c6269c5
+[13:30:31] [Server thread/INFO]: ysyyayyyayya joined the game
+[13:30:31] [Server thread/INFO]: ysyyayyyayya[/[0:0:0:0:0:0:0:1]:53452] logged in with entity id 158 at ([Skybattle]-310.8926141868983, 10.562640105865926, 279.91708742148535)
+[13:30:31] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|UpdateCert-1.8
+[13:30:31] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FML
+[13:30:31] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|Skins-1.8
+[13:30:31] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FORGE
+[13:30:37] [Server thread/INFO]: ysyyayyyayya issued server command: /servers
+[13:30:42] [Server thread/INFO]: ysyyayyyayya lost connection: Disconnected
+[13:30:42] [Server thread/INFO]: ysyyayyyayya left the game

@@ -1,29 +1,5 @@
 [
   {
-    "id": 2,
-    "hologramHeight": 0.0,
-    "skin": "",
-    "signature": "",
-    "skinName": "Steve",
-    "location": {
-      "world": "world",
-      "x": 266.5,
-      "y": 18.0,
-      "z": 317.5,
-      "yaw": 68.400024,
-      "pitch": 13.649994
-    },
-    "npcType": "PIG",
-    "hologramLines": [
-      "sig"
-    ],
-    "refreshSkinDuration": 0,
-    "clickActions": [],
-    "npcEquip": {},
-    "npcFunctions": {},
-    "customizationMap": {}
-  },
-  {
     "id": 1,
     "hologramHeight": 0.0,
     "skin": "ewogICJ0aW1lc3RhbXAiIDogMTcwNjA0NDg5Mjc3OCwKICAicHJvZmlsZUlkIiA6ICI5YjBkNDI0OGI5NmQ0YTg0OWZlYjg0NzA4N2QxNmIxYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJCZWRXYXJzIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzE4MDYzYTFhNDk3MGMxYjI2N2RlN2QxYTZlNmRkMGY5NjVkNWEyZjRlMGIxMTQxNjhlZGI4ZThlMjg4N2MxMmEiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfSwKICAgICJDQVBFIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8yMzQwYzBlMDNkZDI0YTExYjE1YThiMzNjMmE3ZTllMzJhYmIyMDUxYjI0ODFkMGJhN2RlZmQ2MzVjYTdhOTMzIgogICAgfQogIH0KfQ==",
@@ -39,7 +15,7 @@
     },
     "npcType": "PLAYER",
     "hologramLines": [
-      "Bedwars"
+      "Minigames"
     ],
     "refreshSkinDuration": 0,
     "clickActions": [
@@ -114,6 +90,126 @@
     "npcType": "PLAYER",
     "hologramLines": [
       "Link"
+    ],
+    "refreshSkinDuration": 0,
+    "clickActions": [],
+    "npcEquip": {},
+    "npcFunctions": {},
+    "customizationMap": {}
+  },
+  {
+    "id": 5,
+    "hologramHeight": 0.0,
+    "skin": "ewogICJ0aW1lc3RhbXAiIDogMTcwNTM3NDIxNjAwMCwKICAicHJvZmlsZUlkIiA6ICIwOGRjMzYxYWZhZmI0ZDYyOWI2ZjdjOGJiOGRkZjIwYSIsCiAgInByb2ZpbGVOYW1lIiA6ICJDVEYiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGFmM2Q4OGNjYjM4ZjExZjc0ODE0ZTkyMDUzZDkyZjc3MjhkZGIxYTc5NTU2NTJhNjBlMzBjYjI3YWU2NjU5ZiIKICAgIH0KICB9Cn0=",
+    "signature": "gtf+H3wOEjqR4ubp3IXldFnUjnkNecF43rAR6JdC1WvzJH6/tixpqrTp8ivC2K4hNuGKR6o1i0AslmeHPgDj5WRWLkkz6bJNCOXcnKFHXLRzK147VT9YOSltPCfklAl0VXY/ddSePkXPs6CnizeA4XUaISdUfe6GqsmhD5fNuKPsH5qYc+7AYjv8lrlyqzN1Q6aC2dkx8HmUzKE8q1X+rd3TRFXDuFWdc0aHYaFZCj91z8MyvD9RgQJbkYa+aQQjxlbET32kmEHgbqmNXDejKOBmrp4yHHtoI21cVX7uAyXgsridzcMSDNBiUqqWwWi17Jmq/PVOfw6kIureCc+0DZ82wE16v1ziIefgcLZLc55UHHA+ImoqDxn2YhhftxQlWtrp3s5X75btYo3czN2pnJ446XiGBr5GCdAtisEHj5mXBrilKRZY/jU6trnJ/e1LjdjHoaXxyoc5474ruNfxR915sCWE1snIuQIR2pZzJwRPzHKNhm0Y0zSeI5R6UQ0Q3lJENRisJhkf3bIWfBWxunQms1Mnnb6r3Jwsg/SVAecKL6aaz8eTrSGMcTPpE23vlRkGBhINHpO4/Eh69fwjwnGWRiZ9wkTvW5+kRQAAi4QEtdb4fXVDwI6fXnF+vtq0b0HCvjriu2+cgHGPKiW08ejrkOjXJIr9SO9NdBhINlU=",
+    "skinName": "Steve",
+    "location": {
+      "world": "Hub",
+      "x": 250.5,
+      "y": 62.0,
+      "z": 1340.5,
+      "yaw": 45.299835,
+      "pitch": -1.0500091
+    },
+    "npcType": "PLAYER",
+    "hologramLines": [
+      "ctf"
+    ],
+    "refreshSkinDuration": 0,
+    "clickActions": [],
+    "npcEquip": {},
+    "npcFunctions": {},
+    "customizationMap": {}
+  },
+  {
+    "id": 6,
+    "hologramHeight": 0.0,
+    "skin": "",
+    "signature": "",
+    "skinName": "Steve",
+    "location": {
+      "world": "Hub",
+      "x": 234.5,
+      "y": 62.0,
+      "z": 1340.5,
+      "yaw": -45.150146,
+      "pitch": 0.2999907
+    },
+    "npcType": "PLAYER",
+    "hologramLines": [
+      "betrbw"
+    ],
+    "refreshSkinDuration": 0,
+    "clickActions": [],
+    "npcEquip": {},
+    "npcFunctions": {},
+    "customizationMap": {}
+  },
+  {
+    "id": 7,
+    "hologramHeight": 0.0,
+    "skin": "ewogICJ0aW1lc3RhbXAiIDogMTcwNjAwNDkyMjc3MywKICAicHJvZmlsZUlkIiA6ICI2OTZhMTFkNDkyZjY0NTc2YjM2ZWUzOTRiMDg3MmYyOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJSUEciLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzBhMjViMjk1MWMwMTMwNDI2Njk0NzQ4NjEzMjQ4NTZmZTgxNjYxYTliN2YwNTNiNTg5MDIwZTcyZmRkMDQzOCIKICAgIH0KICB9Cn0=",
+    "signature": "NQARrbywlqzx1wAiXoLLsO5h2U5s4WLTsFdR554hrNKGsMrKPOydXyDMdpT/AnLkob46OyEdpX81+FIMG5THBOhoMBifbPFQOTP0VttNGyWDF0B2HR8AsBrRGWkW/3DD2pY/wCraMtVOTIQgPA92P3WSgFOBHGDWRpzyLD8jNKcUOZwADuOh+lNNm+xvx4nrm1rWDAFQMaQdAXJdo1EZ0QXooB+nFH07ILZ7dRB+H1bnxzhPzc4IVUOPRSCMHVf9/P4SHB9zP70s2myHp6bQm8IiJcy2yqfw0jdzD7umIdKo/Tonx/pFTgxagLfOUhDEZckbe48dyaxFXYTret4zRKAjgQske+6Zxcuek0RNMppSQ/QZERcodAhZvkJGR+L8BCVq5MzObSXH85oDfP2tjtyTw2wx7xxvBOS426WV1mTaiyTjILWVA0EZF95jFy9QfwEbxg5ExTRvir+sxksdEfim6lIyN7vkyl6EtRA6nu17hqoXy7BvgcnuyGIP6PQsKrS642hthJDWk4P0G19GFQ2YWapd36eEzhD1aH9UATx0uwVcWT0IW2gg1OL/tcE8AgR+Cry0eCRtDrh08Lf1kH/qAqrCm7uwyxyic7QNxa1ryGplDONTF8ZO29MdenO4ggk668uOFM0ashhGJucD06lKOSYt0MufRkLpotYWOmg=",
+    "skinName": "Steve",
+    "location": {
+      "world": "Hub",
+      "x": 242.5,
+      "y": 62.0,
+      "z": 1354.5,
+      "yaw": 179.54987,
+      "pitch": 0.149991
+    },
+    "npcType": "PLAYER",
+    "hologramLines": [
+      "rpg"
+    ],
+    "refreshSkinDuration": 0,
+    "clickActions": [],
+    "npcEquip": {},
+    "npcFunctions": {},
+    "customizationMap": {}
+  },
+  {
+    "id": 2,
+    "hologramHeight": 0.0,
+    "skin": "",
+    "signature": "",
+    "skinName": "Steve",
+    "location": {
+      "world": "Hub",
+      "x": 236.5,
+      "y": 62.0,
+      "z": 1348.5,
+      "yaw": -90.150154,
+      "pitch": 0.44999102
+    },
+    "npcType": "PIG",
+    "hologramLines": [
+      "SigGuard"
+    ],
+    "refreshSkinDuration": 0,
+    "clickActions": [],
+    "npcEquip": {},
+    "npcFunctions": {},
+    "customizationMap": {}
+  },
+  {
+    "id": 8,
+    "hologramHeight": 0.0,
+    "skin": "",
+    "signature": "",
+    "skinName": "Steve",
+    "location": {
+      "world": "Hub",
+      "x": 247.5,
+      "y": 62.0,
+      "z": 1348.5,
+      "yaw": 89.99982,
+      "pitch": 3.5999913
+    },
+    "npcType": "PIG",
+    "hologramLines": [
+      "SigGuard"
     ],
     "refreshSkinDuration": 0,
     "clickActions": [],

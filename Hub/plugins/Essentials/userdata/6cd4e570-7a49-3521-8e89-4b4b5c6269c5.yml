@@ -16,18 +16,18 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1740664991408
-  login: 1740664978594
+  logout: 1740748679743
+  login: 1740748625363
 money: '0'
 last-account-name: ysyyayyyayya
 logoutlocation:
   world: 2f992acc-ddc9-46cf-8ff9-182e3e5756c8
   world-name: Hub
-  x: 249.3066949983456
+  x: 249.98557545579314
   y: 62.0
-  z: 1355.9469951633628
-  yaw: -53.100128173828125
-  pitch: 3.7499914169311523
+  z: 1355.466722808249
+  yaw: -34.20014572143555
+  pitch: 2.399991273880005
 lastlocation:
   world: f8c49766-9753-4235-b711-ba73fcf1eac1
   world-name: Lighthouse

@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2025-02-28 18:10:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/furnace": {
     "criteria": {
       "has_cobblestone": "2025-02-27 15:02:04 +0000"
@@ -91,6 +97,12 @@
       "minecraft:plains": "2025-02-26 17:00:50 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2025-02-28 18:10:53 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/decorations/candle": {
     "criteria": {
@@ -119,6 +131,12 @@
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2025-02-28 12:26:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2025-02-28 18:10:53 +0000"
     },
     "done": true
   },
@@ -227,6 +245,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2025-02-28 18:10:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
       "has_beef": "2025-02-26 13:21:44 +0000"
@@ -260,6 +284,12 @@
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2025-02-27 15:02:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2025-02-28 18:10:53 +0000"
     },
     "done": true
   },

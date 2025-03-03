@@ -73,3 +73,22 @@
 [23:11:14] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FORGE
 [23:11:27] [Server thread/INFO]: ysyyayyyayya lost connection: Disconnected
 [23:11:27] [Server thread/INFO]: ysyyayyyayya left the game
+[23:28:42] [Server thread/INFO]: Stopping the server
+[23:28:42] [Server thread/INFO]: Stopping server
+[23:28:42] [Server thread/INFO]: [ViaRewind-Legacy-Support] Disabling ViaRewind-Legacy-Support v1.4.2
+[23:28:42] [Server thread/INFO]: [ViaRewind] Disabling ViaRewind v3.0.6
+[23:28:42] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v4.9.2
+[23:28:42] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v4.9.3
+[23:28:42] [Server thread/INFO]: [ViaVersion] ViaVersion is disabling, if this is a reload and you experience issues consider rebooting.
+[23:28:42] [Server thread/INFO]: Saving players
+[23:28:42] [Server thread/INFO]: Saving worlds
+[23:28:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[23:28:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[23:28:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[23:28:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:28:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:28:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:28:42] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[23:28:42] [Server thread/INFO]: Flushing Chunk IO
+[23:28:42] [Server thread/INFO]: Closing Thread Pool
+[23:28:42] [Server thread/INFO]: Closing Server

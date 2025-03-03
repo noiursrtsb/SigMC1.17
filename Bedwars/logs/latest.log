@@ -1,141 +1,106 @@
-[15:09:25] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[15:09:25] [main/INFO]: Reloading ResourceManager: Default, bukkit
-[15:09:26] [Worker-Main-1/INFO]: Loaded 7 recipes
-[15:09:28] [Server thread/INFO]: Starting minecraft server version 1.17.1
-[15:09:28] [Server thread/INFO]: Loading properties
-[15:09:28] [Server thread/INFO]: This server is running Purpur version git-Purpur-1428 (MC: 1.17.1) (Implementing API version 1.17.1-R0.1-SNAPSHOT) (Git: 9beb23b on ver/1.17.1)
-[15:09:28] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[15:09:28] [Server thread/INFO]: Using 4 threads for Netty based IO
-[15:09:29] [Server thread/INFO]: Default game type: SURVIVAL
-[15:09:29] [Server thread/INFO]: Generating keypair
-[15:09:29] [Server thread/INFO]: Starting Minecraft server on *:25566
-[15:09:29] [Server thread/INFO]: Using epoll channel type
-[15:09:29] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[15:09:29] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[15:09:30] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v7.2.20+6667-f0f1e66
-[15:09:30] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@6ba13971]
-[15:09:30] [Server thread/INFO]: [ViaVersion] Loading ViaVersion v4.9.3
-[15:09:30] [Server thread/INFO]: [ViaVersion] ViaVersion 4.9.3 is now loaded. Registering protocol transformers and injecting...
-[15:09:31] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
-[15:09:31] [Server thread/INFO]: [ViaBackwards] Loading translations...
-[15:09:31] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
-[15:09:31] [Server thread/INFO]: [ViaBackwards] Registering protocols...
-[15:09:31] [Server thread/INFO]: [ViaBackwards] Loading ViaBackwards v4.9.2
-[15:09:31] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v4.3.14
-[15:09:31] [Server thread/INFO]: [ViaRewind] Loading ViaRewind v3.0.6
-[15:09:31] [Server thread/INFO]: [ViaRewind-Legacy-Support] Loading ViaRewind-Legacy-Support v1.4.2
-[15:09:31] [Server thread/INFO]: [Multiverse-Portals] Loading Multiverse-Portals v4.2.3
-[15:09:31] [Server thread/INFO]: [Multiverse-Inventories] Loading Multiverse-Inventories v4.2.6
-[15:09:31] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[15:09:31] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.2.20+6667-f0f1e66
-[15:09:31] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
-[15:09:31] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
-[15:09:32] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_17_R1_2.PaperweightAdapter as the Bukkit adapter
-[15:09:33] [Server thread/INFO]: [ViaRewind] Enabling ViaRewind v3.0.6
-[15:09:33] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[15:09:33] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[15:09:33] [Server thread/WARN]: Whilst this makes it possible to use BungeeCord or Velocity, unless access to your server is properly restricted, it also opens up the ability for hackers to connect with any username they choose.
-[15:09:33] [Server thread/WARN]: Please see http://www.spigotmc.org/wiki/firewall-guide/ for further information.
-[15:09:33] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[15:09:33] [Server thread/INFO]: Preparing level "world"
-[15:09:34] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[15:09:34] [Server thread/INFO]: Time elapsed: 409 ms
-[15:09:34] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[15:09:35] [Server thread/INFO]: Time elapsed: 230 ms
-[15:09:35] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[15:09:35] [Server thread/INFO]: Time elapsed: 276 ms
-[15:09:35] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v4.9.3
-[15:09:35] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.17.1 (756)
-[15:09:35] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v4.9.2
-[15:09:35] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v4.3.14
-[15:09:35] [Server thread/WARN]: [Multiverse-Core] "Multiverse-Core v4.3.14" has registered a listener for org.bukkit.event.entity.EntityCreatePortalEvent on method "public void com.onarandombox.MultiverseCore.listeners.MVPortalListener.entityPortalCreate(org.bukkit.event.entity.EntityCreatePortalEvent)", but the event is Deprecated. "Server performance will be affected"; please notify the authors [dumptruckman, Rigby, fernferret, lithium3141, main--].
-[15:09:35] [Server thread/INFO]: [Multiverse-Core] We are aware of the warning about the deprecated event. There is no alternative that allows us to do what we need to do and performance impact is negligible. It is safe to ignore.
-[15:09:36] [Server thread/INFO]: Preparing start region for dimension minecraft:sig
-[15:09:36] [Server thread/INFO]: Preparing spawn area: 0%
-[15:09:36] [Server thread/INFO]: Preparing spawn area: 0%
-[15:09:36] [Server thread/INFO]: Time elapsed: 578 ms
-[15:09:37] [Server thread/INFO]: Preparing start region for dimension minecraft:skybattle
-[15:09:38] [Server thread/INFO]: Preparing spawn area: 0%
-[15:09:38] [Server thread/INFO]: Preparing spawn area: 0%
-[15:09:38] [Server thread/INFO]: Preparing spawn area: 0%
-[15:09:38] [Server thread/INFO]: Time elapsed: 1240 ms
-[15:09:41] [Server thread/INFO]: Preparing start region for dimension minecraft:sigm
-[15:09:42] [Server thread/INFO]: Preparing spawn area: 0%
-[15:09:42] [Server thread/INFO]: Time elapsed: 301 ms
-[15:09:42] [Server thread/INFO]: [Multiverse-Core] 6 - World(s) loaded.
-[15:09:42] [Server thread/WARN]: [Multiverse-Core] Buscript failed to load! The script command will be disabled! If you would like not to see this message, use `/mv conf enablebuscript false` to disable Buscript from loading.
-[15:09:42] [Server thread/INFO]: [Multiverse-Core] Version 4.3.14 (API v24) Enabled - By dumptruckman, Rigby, fernferret, lithium3141 and main--
-[15:09:42] [Server thread/INFO]: [ViaRewind-Legacy-Support] Enabling ViaRewind-Legacy-Support v1.4.2
-[15:09:42] [Server thread/INFO]: [Multiverse-Portals] Enabling Multiverse-Portals v4.2.3
-[15:09:42] [Server thread/INFO]: [Multiverse-Portals] 0 - Portals(s) loaded
-[15:09:42] [Server thread/INFO]: [Multiverse-Portals] Found WorldEdit. Using it for selections.
-[15:09:42] [Server thread/INFO]: [Multiverse-Portals 4.2.3]  Enabled - By Rigby and fernferret
-[15:09:42] [Server thread/INFO]: [Multiverse-Inventories] Enabling Multiverse-Inventories v4.2.6
-[15:09:42] [Server thread/INFO]: [Multiverse-Inventories 4.2.6] enabled.
-[15:09:42] [Server thread/INFO]: Running delayed init tasks
-[15:09:42] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
-[15:09:42] [Server thread/INFO]: [Multiverse-Inventories] First run!
-[15:09:42] [Server thread/INFO]: Done (13.543s)! For help, type "help"
-[15:09:42] [Server thread/INFO]: Timings Reset
-[15:09:43] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.2.1, you're on: 4.9.3
-[15:09:44] [User Authenticator #1/INFO]: UUID of player ysyyayyyayya is 6cd4e570-7a49-3521-8e89-4b4b5c6269c5
-[15:09:45] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|UpdateCert-1.8
-[15:09:45] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FML
-[15:09:45] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|Skins-1.8
-[15:09:45] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FORGE
-[15:09:46] [Server thread/INFO]: ysyyayyyayya joined the game
-[15:09:46] [Server thread/INFO]: ysyyayyyayya[/[0:0:0:0:0:0:0:1]:46626] logged in with entity id 126 at ([sigm]118.8520035073078, 17.94808020597015, -126.22998668752132)
-[15:09:52] [Server thread/INFO]: ysyyayyyayya fell out of the world
-[15:09:59] [Server thread/INFO]: ysyyayyyayya issued server command: /gamemode creative
-[15:09:59] [Server thread/INFO]: [ysyyayyyayya: Set own game mode to Creative Mode]
-[15:10:08] [User Authenticator #1/INFO]: UUID of player iglentoften is 1f39864e-1ba8-32ee-b3a0-299113502435
-[15:10:08] [Server thread/INFO]: iglentoften joined the game
-[15:10:08] [Server thread/INFO]: iglentoften[/[0:0:0:0:0:0:0:1]:59796] logged in with entity id 608 at ([sigm]300.76696259395084, 5.0, -150.43607399478114)
-[15:10:08] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|UpdateCert-1.8
-[15:10:08] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FML
-[15:10:08] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|Skins-1.8
-[15:10:08] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FORGE
-[15:10:10] [Server thread/INFO]: ysyyayyyayya issued server command: //br sphere air 5
-[15:10:10] [Server thread/ERROR]: No TreeType mapping for TreeGenerator.TreeType.MANGROVE
-[15:10:10] [Server thread/ERROR]: No TreeType mapping for TreeGenerator.TreeType.TALL_MANGROVE
-[15:10:10] [Server thread/ERROR]: No TreeType mapping for TreeGenerator.TreeType.CHERRY
-[15:10:13] [Server thread/INFO]: iglentoften issued server command: /gamemode creative
-[15:10:13] [Server thread/INFO]: [iglentoften: Set own game mode to Creative Mode]
-[15:10:30] [Server thread/INFO]: iglentoften issued server command: /tp ysyyayyyayya
-[15:10:30] [Server thread/INFO]: [iglentoften: Teleported iglentoften to ysyyayyyayya]
-[15:11:47] [Server thread/INFO]: iglentoften lost connection: Disconnected
-[15:11:47] [Server thread/INFO]: iglentoften left the game
-[15:12:35] [Server thread/INFO]: ysyyayyyayya issued server command: //undo
-[15:13:07] [Server thread/INFO]: ysyyayyyayya issued server command: //br sphere stone 5
-[15:13:14] [Server thread/INFO]: ysyyayyyayya issued server command: //undo
-[15:13:19] [Server thread/INFO]: ysyyayyyayya issued server command: //undo
-[15:13:22] [Server thread/INFO]: ysyyayyyayya issued server command: //undo
-[15:13:35] [Server thread/INFO]: ysyyayyyayya issued server command: //natural
-[15:13:51] [Server thread/INFO]: ysyyayyyayya fell out of the world
-[15:13:51] [Server thread/INFO]: ysyyayyyayya issued server command: /spawn
-[15:14:02] [Server thread/INFO]: ysyyayyyayya issued server command: //br sphere stone 5
-[15:14:05] [Server thread/INFO]: ysyyayyyayya issued server command: //br sphere stone 5
-[15:14:27] [Server thread/INFO]: ysyyayyyayya issued server command: //br sphere fire 5
-[15:15:40] [Server thread/INFO]: ysyyayyyayya issued server command: //br sphere lava 5
-[15:15:44] [Server thread/INFO]: Stopping server
-[15:15:44] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
-[15:15:44] [Server thread/INFO]: Saving players
-[15:15:44] [Server thread/INFO]: ysyyayyyayya lost connection: Server closed
-[15:15:44] [Server thread/INFO]: ysyyayyyayya left the game
-[15:15:44] [Server thread/INFO]: Saving worlds
-[15:15:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[15:15:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[15:15:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[15:15:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[sig]'/minecraft:sig
-[15:15:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Skybattle]'/minecraft:skybattle
-[15:15:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[sigm]'/minecraft:sigm
-[15:15:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[15:15:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[15:15:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[15:15:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (sig): All chunks are saved
-[15:15:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (Skybattle): All chunks are saved
-[15:15:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (sigm): All chunks are saved
-[15:15:44] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[15:15:44] [Server thread/INFO]: Flushing Chunk IO
-[15:15:44] [Server thread/INFO]: Closing Thread Pool
-[15:15:44] [Server thread/INFO]: Closing Server
+[17:27:15] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[17:27:15] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[17:27:16] [Worker-Main-1/INFO]: Loaded 7 recipes
+[17:27:17] [Server thread/INFO]: Starting minecraft server version 1.17.1
+[17:27:17] [Server thread/INFO]: Loading properties
+[17:27:17] [Server thread/INFO]: This server is running Purpur version git-Purpur-1428 (MC: 1.17.1) (Implementing API version 1.17.1-R0.1-SNAPSHOT) (Git: 9beb23b on ver/1.17.1)
+[17:27:17] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[17:27:17] [Server thread/INFO]: Using 4 threads for Netty based IO
+[17:27:18] [Server thread/INFO]: Default game type: SURVIVAL
+[17:27:18] [Server thread/INFO]: Generating keypair
+[17:27:18] [Server thread/INFO]: Starting Minecraft server on *:25566
+[17:27:18] [Server thread/INFO]: Using epoll channel type
+[17:27:18] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[17:27:18] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[17:27:18] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v7.2.20+6667-f0f1e66
+[17:27:19] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@6ba13971]
+[17:27:19] [Server thread/INFO]: [ViaVersion] Loading ViaVersion v4.9.3
+[17:27:19] [Server thread/INFO]: [ViaVersion] ViaVersion 4.9.3 is now loaded. Registering protocol transformers and injecting...
+[17:27:19] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[17:27:20] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[17:27:20] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[17:27:20] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[17:27:20] [Server thread/INFO]: [ViaBackwards] Loading ViaBackwards v4.9.2
+[17:27:20] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v4.3.14
+[17:27:20] [Server thread/INFO]: [ViaRewind] Loading ViaRewind v3.0.6
+[17:27:20] [Server thread/INFO]: [ViaRewind-Legacy-Support] Loading ViaRewind-Legacy-Support v1.4.2
+[17:27:20] [Server thread/INFO]: [Multiverse-Portals] Loading Multiverse-Portals v4.2.3
+[17:27:20] [Server thread/INFO]: [Multiverse-Inventories] Loading Multiverse-Inventories v4.2.6
+[17:27:20] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[17:27:20] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.2.20+6667-f0f1e66
+[17:27:20] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[17:27:20] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[17:27:20] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_17_R1_2.PaperweightAdapter as the Bukkit adapter
+[17:27:22] [Server thread/INFO]: [ViaRewind] Enabling ViaRewind v3.0.6
+[17:27:22] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[17:27:22] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[17:27:22] [Server thread/WARN]: Whilst this makes it possible to use BungeeCord or Velocity, unless access to your server is properly restricted, it also opens up the ability for hackers to connect with any username they choose.
+[17:27:22] [Server thread/WARN]: Please see http://www.spigotmc.org/wiki/firewall-guide/ for further information.
+[17:27:22] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[17:27:22] [Server thread/INFO]: Preparing level "world"
+[17:27:22] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:27:23] [Server thread/INFO]: Time elapsed: 395 ms
+[17:27:23] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[17:27:23] [Server thread/INFO]: Time elapsed: 257 ms
+[17:27:23] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[17:27:23] [Server thread/INFO]: Time elapsed: 249 ms
+[17:27:23] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v4.9.3
+[17:27:23] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.17.1 (756)
+[17:27:23] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v4.9.2
+[17:27:23] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v4.3.14
+[17:27:23] [Server thread/WARN]: [Multiverse-Core] "Multiverse-Core v4.3.14" has registered a listener for org.bukkit.event.entity.EntityCreatePortalEvent on method "public void com.onarandombox.MultiverseCore.listeners.MVPortalListener.entityPortalCreate(org.bukkit.event.entity.EntityCreatePortalEvent)", but the event is Deprecated. "Server performance will be affected"; please notify the authors [dumptruckman, Rigby, fernferret, lithium3141, main--].
+[17:27:23] [Server thread/INFO]: [Multiverse-Core] We are aware of the warning about the deprecated event. There is no alternative that allows us to do what we need to do and performance impact is negligible. It is safe to ignore.
+[17:27:24] [Server thread/INFO]: Preparing start region for dimension minecraft:sig
+[17:27:24] [Server thread/INFO]: Time elapsed: 514 ms
+[17:27:25] [Server thread/INFO]: Preparing start region for dimension minecraft:skybattle
+[17:27:25] [Server thread/INFO]: Preparing spawn area: 0%
+[17:27:25] [Server thread/INFO]: Preparing spawn area: 0%
+[17:27:26] [Server thread/INFO]: Time elapsed: 873 ms
+[17:27:26] [Server thread/INFO]: Preparing start region for dimension minecraft:sigm
+[17:27:26] [Server thread/INFO]: Preparing spawn area: 0%
+[17:27:26] [Server thread/INFO]: Time elapsed: 153 ms
+[17:27:26] [Server thread/INFO]: [Multiverse-Core] 6 - World(s) loaded.
+[17:27:26] [Server thread/WARN]: [Multiverse-Core] Buscript failed to load! The script command will be disabled! If you would like not to see this message, use `/mv conf enablebuscript false` to disable Buscript from loading.
+[17:27:26] [Server thread/INFO]: [Multiverse-Core] Version 4.3.14 (API v24) Enabled - By dumptruckman, Rigby, fernferret, lithium3141 and main--
+[17:27:26] [Server thread/INFO]: [ViaRewind-Legacy-Support] Enabling ViaRewind-Legacy-Support v1.4.2
+[17:27:26] [Server thread/INFO]: [Multiverse-Portals] Enabling Multiverse-Portals v4.2.3
+[17:27:26] [Server thread/INFO]: [Multiverse-Portals] 0 - Portals(s) loaded
+[17:27:26] [Server thread/INFO]: [Multiverse-Portals] Found WorldEdit. Using it for selections.
+[17:27:26] [Server thread/INFO]: [Multiverse-Portals 4.2.3]  Enabled - By Rigby and fernferret
+[17:27:26] [Server thread/INFO]: [Multiverse-Inventories] Enabling Multiverse-Inventories v4.2.6
+[17:27:27] [Server thread/INFO]: [Multiverse-Inventories 4.2.6] enabled.
+[17:27:27] [Server thread/INFO]: Running delayed init tasks
+[17:27:27] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
+[17:27:27] [Server thread/INFO]: [Multiverse-Inventories] First run!
+[17:27:27] [Server thread/INFO]: Done (9.675s)! For help, type "help"
+[17:27:27] [Server thread/INFO]: Timings Reset
+[17:27:28] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.2.1, you're on: 4.9.3
+[17:27:56] [User Authenticator #1/INFO]: UUID of player ysyyayyyayya is 6cd4e570-7a49-3521-8e89-4b4b5c6269c5
+[17:27:57] [Server thread/INFO]: ysyyayyyayya joined the game
+[17:27:57] [Server thread/INFO]: ysyyayyyayya[/[0:0:0:0:0:0:0:1]:38148] logged in with entity id 363 at ([Skybattle]-169.67724694079573, 34.04090588993346, 218.93082462476792)
+[17:27:57] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|UpdateCert-1.8
+[17:27:57] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FML
+[17:27:57] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|Skins-1.8
+[17:27:57] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FORGE
+[17:27:59] [Server thread/INFO]: ysyyayyyayya fell from a high place
+[17:28:09] [Server thread/INFO]: ysyyayyyayya lost connection: Disconnected
+[17:28:09] [Server thread/INFO]: ysyyayyyayya left the game
+[17:28:21] [User Authenticator #1/INFO]: UUID of player ysyyayyyayya is 6cd4e570-7a49-3521-8e89-4b4b5c6269c5
+[17:28:21] [Server thread/INFO]: ysyyayyyayya joined the game
+[17:28:21] [Server thread/INFO]: ysyyayyyayya[/[0:0:0:0:0:0:0:1]:47946] logged in with entity id 389 at ([Skybattle]-194.0, 1.0, 243.79963080977416)
+[17:28:21] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|UpdateCert-1.8
+[17:28:21] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FML
+[17:28:21] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|Skins-1.8
+[17:28:21] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FORGE
+[17:28:24] [Server thread/INFO]: ysyyayyyayya issued server command: /erver
+[17:28:29] [Server thread/INFO]: ysyyayyyayya lost connection: Disconnected
+[17:28:29] [Server thread/INFO]: ysyyayyyayya left the game
+[17:29:52] [User Authenticator #2/INFO]: UUID of player ysyyayyyayya is 6cd4e570-7a49-3521-8e89-4b4b5c6269c5
+[17:29:52] [Server thread/INFO]: ysyyayyyayya joined the game
+[17:29:52] [Server thread/INFO]: ysyyayyyayya[/[0:0:0:0:0:0:0:1]:43884] logged in with entity id 432 at ([Skybattle]-194.0, 1.0, 243.79963080977416)
+[17:29:52] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|UpdateCert-1.8
+[17:29:52] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FML
+[17:29:52] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|Skins-1.8
+[17:29:52] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FORGE
+[17:29:58] [Server thread/INFO]: ysyyayyyayya lost connection: Disconnected
+[17:29:58] [Server thread/INFO]: ysyyayyyayya left the game

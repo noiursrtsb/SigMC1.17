@@ -100,3 +100,21 @@
 [17:36:41] [Netty Worker IO Thread #6/INFO]: [ysyyayyyayya] disconnected with: Server is restarting
 [17:36:41] [Netty Worker IO Thread #6/INFO]: [/[0:0:0:0:0:0:0:1%0]:52274|ysyyayyyayya] -> UpstreamBridge has disconnected
 [17:36:41] [Netty Worker IO Thread #6/INFO]: [/[0:0:0:0:0:0:0:1%0]:52274|ysyyayyyayya] <-> DownstreamBridge <-> [lobby] has disconnected
+[17:37:49] [Netty Worker IO Thread #7/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:50940]: Connected via websocket
+[17:37:49] [Netty Worker IO Thread #7/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:50940]: Origin header is https://nolanderlauncherdelta-ozj8.vercel.app
+[17:37:49] [Netty Worker IO Thread #7/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:50940]: Logged in as 'ysyyayyyayya'
+[17:37:49] [Netty Worker IO Thread #7/INFO]: [/[0:0:0:0:0:0:0:1%0]:50940|ysyyayyyayya] -> UpstreamBridge has connected
+[17:37:49] [Netty Worker IO Thread #7/INFO]: [ysyyayyyayya|/[0:0:0:0:0:0:0:1%0]:50940] <-> ServerConnector [lobby] has connected
+[17:42:38] [Netty Worker IO Thread #7/INFO]: [ysyyayyyayya] disconnected with: Server closed
+[17:42:38] [Netty Worker IO Thread #7/INFO]: [/[0:0:0:0:0:0:0:1%0]:50940|ysyyayyyayya] -> UpstreamBridge has disconnected
+[17:42:38] [Netty Worker IO Thread #7/INFO]: [/[0:0:0:0:0:0:0:1%0]:50940|ysyyayyyayya] <-> DownstreamBridge <-> [lobby] has disconnected
+[17:42:47] [Shutdown Thread/INFO]: Closing listener [id: 0x6fd1c0e1, L:/[0:0:0:0:0:0:0:0%0]:25577]
+[17:42:47] [Shutdown Thread/INFO]: Closing pending connections
+[17:42:47] [Shutdown Thread/INFO]: Disconnecting 0 connections
+[17:42:47] [Shutdown Thread/INFO]: Saving reconnect locations
+[17:42:47] [Shutdown Thread/INFO]: Disabling plugins
+[17:42:47] [Shutdown Thread/INFO] [EaglercraftXBungee]: Eaglercraft listener closed: /0.0.0.0:8081
+[17:42:47] [Shutdown Thread/INFO] [EaglercraftXBungee]: Successfully disconnected from database 'jdbc:sqlite:eaglercraft_skins_cache.db'
+[17:42:47] [Shutdown Thread/INFO] [EaglercraftXBungee]: Stopping skin cache HTTP client...
+[17:42:49] [Shutdown Thread/INFO]: Closing IO threads
+[17:42:51] [Shutdown Thread/INFO]: Thank you and goodbye

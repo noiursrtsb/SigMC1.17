@@ -104,3 +104,33 @@
 [17:29:52] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FORGE
 [17:29:58] [Server thread/INFO]: ysyyayyyayya lost connection: Disconnected
 [17:29:58] [Server thread/INFO]: ysyyayyyayya left the game
+[17:42:42] [Server thread/INFO]: Stopping the server
+[17:42:42] [Server thread/INFO]: Stopping server
+[17:42:42] [Server thread/INFO]: [Multiverse-Inventories] Disabling Multiverse-Inventories v4.2.6
+[17:42:42] [Server thread/INFO]: [Multiverse-Portals] Disabling Multiverse-Portals v4.2.3
+[17:42:42] [Server thread/INFO]: [ViaRewind-Legacy-Support] Disabling ViaRewind-Legacy-Support v1.4.2
+[17:42:42] [Server thread/INFO]: [ViaRewind] Disabling ViaRewind v3.0.6
+[17:42:42] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v4.3.14
+[17:42:42] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v4.9.2
+[17:42:42] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v4.9.3
+[17:42:42] [Server thread/INFO]: [ViaVersion] ViaVersion is disabling, if this is a reload and you experience issues consider rebooting.
+[17:42:42] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.2.20+6667-f0f1e66
+[17:42:42] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[17:42:42] [Server thread/INFO]: Saving players
+[17:42:42] [Server thread/INFO]: Saving worlds
+[17:42:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[17:42:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[17:42:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[17:42:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[sig]'/minecraft:sig
+[17:42:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Skybattle]'/minecraft:skybattle
+[17:42:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[sigm]'/minecraft:sigm
+[17:42:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:42:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:42:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:42:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (sig): All chunks are saved
+[17:42:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (Skybattle): All chunks are saved
+[17:42:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (sigm): All chunks are saved
+[17:42:42] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[17:42:42] [Server thread/INFO]: Flushing Chunk IO
+[17:42:42] [Server thread/INFO]: Closing Thread Pool
+[17:42:42] [Server thread/INFO]: Closing Server

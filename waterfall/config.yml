@@ -50,7 +50,11 @@ servers:
     motd: '&1Just another Waterfall - Forced Host'
     address: localhost:25565
     restricted: false
-  bedwars:
+  minigames:
     motd: '&1Just another Waterfall - Forced Host'
     address: localhost:25566
+    restricted: false
+  bedwars:
+    motd: '&1Just another Waterfall - Forced Host'
+    address: localhost:25567
     restricted: false

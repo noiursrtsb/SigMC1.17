@@ -11,9 +11,12 @@
 <p>./paper.sh</p>
 <p>chmod +x bedwars.sh</p>
 <p>./bedwars.sh</p>
-<p>Create another tab and chmod +x waterfall.sh</p>
+<p>chmod +x minigames.sh</p>
+<p>./minigames.sh</p>
+<p>chmod +x waterfall.sh</p>
 <p>./waterfall.sh</p>
-<br>
-<h2> Renember to use chmod +x name.sh </h2>
-<h2> Change the "name.sh" according to the files ^ above </h2>
-<p>To start the script</p>
+<p>chmod +x install.sh
+
+./install.sh
+
+sdk install java 17.0.9-amzn</p>

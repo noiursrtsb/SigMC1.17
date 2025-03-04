@@ -52,7 +52,7 @@ commands:
   - tellraw
   log: true
   tab-complete: 0
-  send-namespaced: true
+  send-namespaced: false
   spam-exclusions:
   - /skill
   silent-commandblock-console: false

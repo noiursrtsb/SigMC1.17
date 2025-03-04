@@ -1,94 +1,169 @@
-[22:56:02] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[22:56:03] [main/INFO]: Reloading ResourceManager: Default, bukkit
-[22:56:05] [Worker-Main-1/INFO]: Loaded 7 recipes
-[22:56:10] [Server thread/INFO]: Starting minecraft server version 1.17.1
-[22:56:10] [Server thread/INFO]: Loading properties
-[22:56:10] [Server thread/INFO]: This server is running Purpur version git-Purpur-1428 (MC: 1.17.1) (Implementing API version 1.17.1-R0.1-SNAPSHOT) (Git: 9beb23b on ver/1.17.1)
-[22:56:10] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[22:56:10] [Server thread/INFO]: Using 4 threads for Netty based IO
-[22:56:11] [Server thread/INFO]: Default game type: SURVIVAL
-[22:56:11] [Server thread/INFO]: Generating keypair
-[22:56:11] [Server thread/INFO]: Starting Minecraft server on *:25567
-[22:56:11] [Server thread/INFO]: Using epoll channel type
-[22:56:11] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[22:56:11] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[22:56:14] [Server thread/INFO]: [ViaVersion] Loading ViaVersion v4.9.3
-[22:56:14] [Server thread/INFO]: [ViaVersion] ViaVersion 4.9.3 is now loaded. Registering protocol transformers and injecting...
-[22:56:15] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
-[22:56:15] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
-[22:56:15] [Server thread/INFO]: [ViaBackwards] Loading translations...
-[22:56:15] [Server thread/INFO]: [ViaBackwards] Registering protocols...
-[22:56:16] [Server thread/INFO]: [ViaBackwards] Loading ViaBackwards v4.9.2
-[22:56:16] [Server thread/INFO]: [ViaRewind] Loading ViaRewind v3.0.6
-[22:56:16] [Server thread/INFO]: [ViaRewind-Legacy-Support] Loading ViaRewind-Legacy-Support v1.4.2
-[22:56:16] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[22:56:16] [Server thread/INFO]: [ViaRewind] Enabling ViaRewind v3.0.6
-[22:56:16] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[22:56:16] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[22:56:16] [Server thread/WARN]: Whilst this makes it possible to use BungeeCord or Velocity, unless access to your server is properly restricted, it also opens up the ability for hackers to connect with any username they choose.
-[22:56:16] [Server thread/WARN]: Please see http://www.spigotmc.org/wiki/firewall-guide/ for further information.
-[22:56:16] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[22:56:16] [Server thread/INFO]: Preparing level "world"
-[22:56:17] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[22:56:18] [Server thread/INFO]: Time elapsed: 731 ms
-[22:56:18] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[22:56:19] [Server thread/INFO]: Time elapsed: 341 ms
-[22:56:19] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[22:56:19] [Server thread/INFO]: Time elapsed: 449 ms
-[22:56:19] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v4.9.3
-[22:56:20] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.17.1 (756)
-[22:56:20] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v4.9.2
-[22:56:20] [Server thread/INFO]: [ViaRewind-Legacy-Support] Enabling ViaRewind-Legacy-Support v1.4.2
-[22:56:20] [Server thread/INFO]: Running delayed init tasks
-[22:56:20] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
-[22:56:20] [Server thread/INFO]: Done (10.256s)! For help, type "help"
-[22:56:20] [Server thread/INFO]: Timings Reset
-[22:56:21] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.2.1, you're on: 4.9.3
-[23:00:46] [User Authenticator #1/INFO]: UUID of player ysyyayyyayya is 6cd4e570-7a49-3521-8e89-4b4b5c6269c5
-[23:00:46] [Server thread/INFO]: ysyyayyyayya joined the game
-[23:00:46] [Server thread/INFO]: ysyyayyyayya[/[0:0:0:0:0:0:0:1]:37032] logged in with entity id 139 at ([world]140.5, 73.0, 162.5)
-[23:00:47] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|UpdateCert-1.8
-[23:00:47] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FML
-[23:00:47] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|Skins-1.8
-[23:00:47] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FORGE
-[23:00:59] [Server thread/INFO]: ysyyayyyayya issued server command: /gamemode creative
-[23:01:06] [Server thread/INFO]: ysyyayyyayya lost connection: Disconnected
-[23:01:06] [Server thread/INFO]: ysyyayyyayya left the game
-[23:06:30] [User Authenticator #2/INFO]: UUID of player ysyyayyyayya is 6cd4e570-7a49-3521-8e89-4b4b5c6269c5
-[23:06:30] [Server thread/INFO]: ysyyayyyayya joined the game
-[23:06:30] [Server thread/INFO]: ysyyayyyayya[/[0:0:0:0:0:0:0:1]:60354] logged in with entity id 349 at ([world]121.06320187127184, 64.0, 170.27093738635617)
-[23:06:30] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|UpdateCert-1.8
-[23:06:30] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FML
-[23:06:30] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|Skins-1.8
-[23:06:30] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FORGE
-[23:06:42] [Server thread/INFO]: ysyyayyyayya lost connection: Disconnected
-[23:06:42] [Server thread/INFO]: ysyyayyyayya left the game
-[23:06:51] [Server thread/INFO]: Villager EntityVillager['Nitwit'/17, uuid='92cc1d2e-bd23-4a09-a640-429d21807885', l='ServerLevel[world]', x=62.70, y=63.00, z=230.30, cpos=[3, 14], tl=13863, v=true, rR=null] died, message: 'Nitwit was slain by Zombie'
-[23:11:14] [User Authenticator #3/INFO]: UUID of player ysyyayyyayya is 6cd4e570-7a49-3521-8e89-4b4b5c6269c5
-[23:11:14] [Server thread/INFO]: ysyyayyyayya joined the game
-[23:11:14] [Server thread/INFO]: ysyyayyyayya[/[0:0:0:0:0:0:0:1]:60370] logged in with entity id 407 at ([world]131.71955108036116, 70.16610926093821, 169.63756147595004)
-[23:11:14] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|UpdateCert-1.8
-[23:11:14] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FML
-[23:11:14] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|Skins-1.8
-[23:11:14] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FORGE
-[23:11:27] [Server thread/INFO]: ysyyayyyayya lost connection: Disconnected
-[23:11:27] [Server thread/INFO]: ysyyayyyayya left the game
-[23:28:42] [Server thread/INFO]: Stopping the server
-[23:28:42] [Server thread/INFO]: Stopping server
-[23:28:42] [Server thread/INFO]: [ViaRewind-Legacy-Support] Disabling ViaRewind-Legacy-Support v1.4.2
-[23:28:42] [Server thread/INFO]: [ViaRewind] Disabling ViaRewind v3.0.6
-[23:28:42] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v4.9.2
-[23:28:42] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v4.9.3
-[23:28:42] [Server thread/INFO]: [ViaVersion] ViaVersion is disabling, if this is a reload and you experience issues consider rebooting.
-[23:28:42] [Server thread/INFO]: Saving players
-[23:28:42] [Server thread/INFO]: Saving worlds
-[23:28:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[23:28:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[23:28:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[23:28:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[23:28:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[23:28:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[23:28:42] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[23:28:42] [Server thread/INFO]: Flushing Chunk IO
-[23:28:42] [Server thread/INFO]: Closing Thread Pool
-[23:28:42] [Server thread/INFO]: Closing Server
+[19:00:44] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[19:00:44] [main/INFO]: Found new data pack file/bukkit, loading it automatically
+[19:00:44] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[19:00:45] [Worker-Main-1/INFO]: Loaded 7 recipes
+[19:00:46] [Server thread/INFO]: Starting minecraft server version 1.17.1
+[19:00:46] [Server thread/INFO]: Loading properties
+[19:00:46] [Server thread/INFO]: This server is running Purpur version git-Purpur-1428 (MC: 1.17.1) (Implementing API version 1.17.1-R0.1-SNAPSHOT) (Git: 9beb23b on ver/1.17.1)
+[19:00:46] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[19:00:46] [Server thread/INFO]: Using 4 threads for Netty based IO
+[19:00:47] [Server thread/INFO]: Default game type: SURVIVAL
+[19:00:47] [Server thread/INFO]: Generating keypair
+[19:00:47] [Server thread/INFO]: Starting Minecraft server on *:25567
+[19:00:47] [Server thread/INFO]: Using epoll channel type
+[19:00:47] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[19:00:47] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[19:00:47] [Server thread/INFO]: [ViaVersion] Loading ViaVersion v4.9.3
+[19:00:47] [Server thread/INFO]: [ViaVersion] ViaVersion 4.9.3 is now loaded. Registering protocol transformers and injecting...
+[19:00:48] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[19:00:48] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[19:00:48] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[19:00:48] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[19:00:48] [Server thread/INFO]: [ViaBackwards] Loading ViaBackwards v4.9.2
+[19:00:48] [Server thread/INFO]: [BedWars1058] Loading BedWars1058 v25.2
+[19:00:48] [Server thread/INFO]: [BedWars1058] Loading support for paper/spigot: v1_17_R1
+[19:00:49] [Server thread/INFO]: [ViaRewind] Loading ViaRewind v3.0.6
+[19:00:49] [Server thread/INFO]: [ViaRewind-Legacy-Support] Loading ViaRewind-Legacy-Support v1.4.2
+[19:00:49] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[19:00:49] [Server thread/INFO]: [ViaRewind] Enabling ViaRewind v3.0.6
+[19:00:49] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:00:49] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[19:00:49] [Server thread/WARN]: Whilst this makes it possible to use BungeeCord or Velocity, unless access to your server is properly restricted, it also opens up the ability for hackers to connect with any username they choose.
+[19:00:49] [Server thread/WARN]: Please see http://www.spigotmc.org/wiki/firewall-guide/ for further information.
+[19:00:49] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:00:49] [Server thread/INFO]: Preparing level "world"
+[19:00:49] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:00:50] [Server thread/INFO]: Time elapsed: 473 ms
+[19:00:50] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[19:00:50] [Server thread/INFO]: Preparing spawn area: 0%
+[19:00:50] [Server thread/INFO]: Preparing spawn area: 0%
+[19:00:50] [Server thread/INFO]: Time elapsed: 610 ms
+[19:00:50] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[19:00:51] [Server thread/INFO]: Time elapsed: 810 ms
+[19:00:51] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v4.9.3
+[19:00:52] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.17.1 (756)
+[19:00:52] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v4.9.2
+[19:00:52] [Server thread/INFO]: [BedWars1058] Enabling BedWars1058 v25.2
+[19:00:52] [Server thread/INFO]: [BedWars1058] Using internal world restore system.
+[19:00:52] [Server thread/WARN]: [BedWars1058] Lobby location is not set!
+[19:00:53] [Server thread/WARN]: Scoreboard tab header-footer refresh interval is set to: 10
+[19:00:53] [Server thread/WARN]: It is not recommended to use a value under 20 ticks.
+[19:00:53] [Server thread/WARN]: If you expect performance issues please increase its timer.
+[19:00:53] [Server thread/INFO]: [BedWars1058] Initializing SidebarLib by andrei1058
+[19:00:53] [Server thread/INFO]: [ViaRewind-Legacy-Support] Enabling ViaRewind-Legacy-Support v1.4.2
+[19:00:53] [Server thread/INFO]: Running delayed init tasks
+[19:00:53] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
+[19:00:53] [Craft Scheduler Thread - 0 - BedWars1058/WARN]: [BedWars1058] Support for v1_17_R1 is scheduled for removal. Please consider upgrading your server software to a newer Minecraft version.
+[19:00:53] [Server thread/INFO]: Done (6.340s)! For help, type "help"
+[19:00:53] [Server thread/INFO]: Timings Reset
+[19:00:53] [Server thread/INFO]: [BedWars1058] Loading internal Party system. /party
+[19:00:53] [User Authenticator #1/INFO]: UUID of player ysyyayyyayya is 6cd4e570-7a49-3521-8e89-4b4b5c6269c5
+[19:00:53] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.2.1, you're on: 4.9.3
+[19:00:54] [Server thread/INFO]: ysyyayyyayya[/[0:0:0:0:0:0:0:1]:59836] logged in with entity id 1 at ([world]22.5, 5.0, 426.5)
+[19:00:54] [Server thread/INFO]: Registering /party command..
+[19:00:54] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|UpdateCert-1.8
+[19:00:54] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FML
+[19:00:54] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|Skins-1.8
+[19:00:54] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FORGE
+[19:00:58] [Server thread/INFO]: [BedWars1058] This server is running in MULTIARENA with auto-scale false
+[19:00:58] [User Authenticator #1/INFO]: UUID of player ysyyayyyayya is 6cd4e570-7a49-3521-8e89-4b4b5c6269c5
+[19:00:58] [Server thread/INFO]: ysyyayyyayya lost connection: You logged in from another location
+[19:00:58] [Server thread/ERROR]: Could not pass event PlayerJoinEvent to BedWars1058 v25.2
+java.lang.IllegalStateException: Trying to get stats data of an unloaded player!
+	at com.andrei1058.bedwars.stats.StatsManager.get(StatsManager.java:52) ~[bedwars-plugin-25.2.jar:?]
+	at com.andrei1058.bedwars.sidebar.BwSidebar.getPlaceholders(BwSidebar.java:280) ~[bedwars-plugin-25.2.jar:?]
+	at com.andrei1058.bedwars.sidebar.BwSidebar.setContent(BwSidebar.java:88) ~[bedwars-plugin-25.2.jar:?]
+	at com.andrei1058.bedwars.sidebar.SidebarService.giveSidebar(SidebarService.java:227) ~[bedwars-plugin-25.2.jar:?]
+	at com.andrei1058.bedwars.listeners.joinhandler.JoinListenerMultiArena.onJoin(JoinListenerMultiArena.java:91) ~[bedwars-plugin-25.2.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor109.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor.lambda$create$1(EventExecutor.java:69) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:628) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at net.minecraft.server.players.PlayerList.postChunkLoadJoin(PlayerList.java:360) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at net.minecraft.server.players.PlayerList.lambda$placeNewPlayer$1(PlayerList.java:302) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.tick(ServerGamePacketListenerImpl.java:322) ~[app:?]
+	at net.minecraft.network.Connection.tick(Connection.java:555) ~[app:?]
+	at net.minecraft.server.network.ServerConnectionListener.tick(ServerConnectionListener.java:201) ~[app:?]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1681) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:528) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1507) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1300) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:322) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[19:00:58] [Server thread/INFO]: ysyyayyyayya[/[0:0:0:0:0:0:0:1]:54890] logged in with entity id 33 at ([world]22.5, 1.6910595273538873, 426.5)
+[19:00:58] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|UpdateCert-1.8
+[19:00:58] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FML
+[19:00:58] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|Skins-1.8
+[19:00:58] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FORGE
+[19:01:03] [Server thread/INFO]: ysyyayyyayya fell out of the world
+[19:01:13] [Server thread/INFO]: ysyyayyyayya fell out of the world
+[19:01:33] [Server thread/INFO]: ysyyayyyayya issued server command: /gamemode creative
+[19:01:33] [Server thread/INFO]: [ysyyayyyayya: Set own game mode to Creative Mode]
+[19:01:35] [Server thread/INFO]: ysyyayyyayya fell out of the world
+[19:01:46] [Server thread/INFO]: ysyyayyyayya issued server command: /tp 0 0 0
+[19:01:46] [Server thread/INFO]: [ysyyayyyayya: Teleported ysyyayyyayya to 0.500000, 0.000000, 0.500000]
+[19:01:59] [Server thread/INFO]: ysyyayyyayya issued server command: /tp 0 100 0
+[19:01:59] [Server thread/INFO]: [ysyyayyyayya: Teleported ysyyayyyayya to 0.500000, 100.000000, 0.500000]
+[19:02:07] [Server thread/INFO]: ysyyayyyayya has made the advancement [We Need to Go Deeper]
+[19:02:41] [Server thread/INFO]: ysyyayyyayya issued server command: /bw setlobby
+[19:03:37] [Server thread/INFO]: ysyyayyyayya issued server command: /kill @e
+[19:03:37] [Server thread/INFO]: [ysyyayyyayya: Killed 320 entities]
+[19:03:42] [Server thread/INFO]: ysyyayyyayya issued server command: /kill @e
+[19:03:42] [Server thread/INFO]: [ysyyayyyayya: Killed 151 entities]
+[19:03:43] [Server thread/INFO]: ysyyayyyayya issued server command: /kill @e
+[19:03:43] [Server thread/INFO]: [ysyyayyyayya: Killed 96 entities]
+[19:03:44] [Server thread/INFO]: ysyyayyyayya issued server command: /kill @e
+[19:03:44] [Server thread/INFO]: [ysyyayyyayya: Killed 96 entities]
+[19:03:44] [Server thread/INFO]: ysyyayyyayya issued server command: /kill @e
+[19:03:44] [Server thread/INFO]: [ysyyayyyayya: Killed 96 entities]
+[19:03:45] [Server thread/INFO]: ysyyayyyayya issued server command: /kill @e
+[19:03:45] [Server thread/INFO]: [ysyyayyyayya: Killed 96 entities]
+[19:03:47] [Server thread/INFO]: ysyyayyyayya issued server command: /kill @a
+[19:03:47] [Server thread/INFO]: [ysyyayyyayya: Killed ysyyayyyayya]
+[19:03:55] [Server thread/INFO]: ysyyayyyayya issued server command: /killalll
+[19:03:56] [Server thread/INFO]: ysyyayyyayya issued server command: /killall
+[19:05:20] [Server thread/INFO]: ysyyayyyayya lost connection: Disconnected
+[19:05:32] [User Authenticator #2/INFO]: Disconnecting com.mojang.authlib.GameProfile@64742895[id=6cd4e570-7a49-3521-8e89-4b4b5c6269c5,name=ysyyayyyayya,properties={isEaglerPlayer=[com.mojang.authlib.properties.Property@6dc56909]},legacy=false] (/[0:0:0:0:0:0:0:1]:40372): Failed to verify username!
+[19:05:32] [User Authenticator #2/WARN]: Exception verifying ysyyayyyayya
+java.lang.IllegalArgumentException: Name and ID cannot both be blank
+	at com.mojang.authlib.GameProfile.<init>(GameProfile.java:26) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService.fillGameProfile(YggdrasilMinecraftSessionService.java:199) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at com.destroystokyo.paper.profile.PaperMinecraftSessionService.fillGameProfile(PaperMinecraftSessionService.java:38) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService.fillProfileProperties(YggdrasilMinecraftSessionService.java:186) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at com.destroystokyo.paper.profile.PaperMinecraftSessionService.fillProfileProperties(PaperMinecraftSessionService.java:31) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at com.destroystokyo.paper.profile.CraftPlayerProfile.complete(CraftPlayerProfile.java:191) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at com.destroystokyo.paper.profile.CraftPlayerProfile.complete(CraftPlayerProfile.java:184) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl$LoginHandler.fireEvents(ServerLoginPacketListenerImpl.java:368) ~[app:?]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl$1.run(ServerLoginPacketListenerImpl.java:255) ~[app:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[19:05:32] [Server thread/INFO]: com.mojang.authlib.GameProfile@64742895[id=6cd4e570-7a49-3521-8e89-4b4b5c6269c5,name=ysyyayyyayya,properties={isEaglerPlayer=[com.mojang.authlib.properties.Property@6dc56909]},legacy=false] (/[0:0:0:0:0:0:0:1]:40372) lost connection: Failed to verify username!
+[19:05:35] [User Authenticator #2/INFO]: UUID of player ysyyayyyayya is 6cd4e570-7a49-3521-8e89-4b4b5c6269c5
+[19:05:35] [Server thread/INFO]: ysyyayyyayya[/[0:0:0:0:0:0:0:1]:40380] logged in with entity id 840 at ([world]9.330424480210263, 69.0, 20.73496525547108)
+[19:05:35] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|UpdateCert-1.8
+[19:05:35] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FML
+[19:05:35] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|Skins-1.8
+[19:05:35] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FORGE
+[19:06:44] [Server thread/INFO]: ysyyayyyayya lost connection: Disconnected
+[19:07:01] [Server thread/INFO]: Stopping the server
+[19:07:01] [Server thread/INFO]: Stopping server
+[19:07:01] [Server thread/INFO]: [ViaRewind-Legacy-Support] Disabling ViaRewind-Legacy-Support v1.4.2
+[19:07:01] [Server thread/INFO]: [ViaRewind] Disabling ViaRewind v3.0.6
+[19:07:01] [Server thread/INFO]: [BedWars1058] Disabling BedWars1058 v25.2
+[19:07:01] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v4.9.2
+[19:07:01] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v4.9.3
+[19:07:01] [Server thread/INFO]: [ViaVersion] ViaVersion is disabling, if this is a reload and you experience issues consider rebooting.
+[19:07:01] [Server thread/INFO]: Saving players
+[19:07:01] [Server thread/INFO]: Saving worlds
+[19:07:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[19:07:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[19:07:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[19:07:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:07:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:07:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:07:02] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[19:07:02] [Server thread/INFO]: Flushing Chunk IO
+[19:07:02] [Server thread/INFO]: Closing Thread Pool
+[19:07:02] [Server thread/INFO]: Closing Server

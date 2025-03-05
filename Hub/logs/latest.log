@@ -173,3 +173,66 @@
 [15:45:13] [Server thread/ERROR]: No TreeType mapping for TreeGenerator.TreeType.CHERRY
 [15:45:17] [Server thread/INFO]: ysyyayyyayya lost connection: Disconnected
 [15:45:18] [Server thread/INFO]: - ysyyayyyayya Disconnected
+[15:57:00] [User Authenticator #3/INFO]: UUID of player ysyyayyyayya is 6cd4e570-7a49-3521-8e89-4b4b5c6269c5
+[15:57:00] [Server thread/INFO]: + ysyyayyyayya Connected
+[15:57:00] [Server thread/INFO]: ysyyayyyayya[/[0:0:0:0:0:0:0:1]:56062] logged in with entity id 108 at ([Hub]242.4761421865926, 63.0, 1348.4643426760017)
+[15:57:00] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|UpdateCert-1.8
+[15:57:00] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FML
+[15:57:00] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|Skins-1.8
+[15:57:00] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FORGE
+[15:57:05] [Server thread/INFO]: ysyyayyyayya lost connection: Disconnected
+[15:57:05] [Server thread/INFO]: - ysyyayyyayya Disconnected
+[16:06:32] [User Authenticator #4/INFO]: UUID of player Pingdaking8 is ad21c3ff-4dd4-3157-a1f3-59e6631de973
+[16:06:32] [Server thread/INFO]: + Pingdaking8 Connected
+[16:06:32] [Server thread/INFO]: Pingdaking8[/[0:0:0:0:0:0:0:1]:48130] logged in with entity id 110 at ([Hub]242.4761421865926, 63.0, 1348.4643426760017)
+[16:06:32] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|UpdateCert-1.8
+[16:06:32] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FML
+[16:06:32] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|Skins-1.8
+[16:06:32] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FORGE
+[16:06:36] [Server thread/INFO]: Pingdaking8 lost connection: Disconnected
+[16:06:36] [Server thread/INFO]: - Pingdaking8 Disconnected
+[16:06:43] [Server thread/INFO]: Stopping the server
+[16:06:43] [Server thread/INFO]: Stopping server
+[16:06:43] [Server thread/INFO]: [PlugManX] Disabling PlugManX v2.4.1
+[16:06:43] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn v2.20.1
+[16:06:43] [Server thread/INFO]: [Multiverse-Portals] Disabling Multiverse-Portals v4.2.3
+[16:06:43] [Server thread/INFO]: [TAB] Disabling TAB v5.0.7
+[16:06:43] [Server thread/INFO]: [TAB] Disabled in 0ms
+[16:06:43] [Server thread/INFO]: [EssentialsChat] Disabling EssentialsChat v2.20.1
+[16:06:43] [Server thread/INFO]: [Multiverse-Inventories] Disabling Multiverse-Inventories v4.2.6
+[16:06:43] [Server thread/INFO]: [Essentials] Disabling Essentials v2.20.1
+[16:06:43] [Server thread/INFO]: [Vault] [Economy] Essentials Economy unhooked.
+[16:06:43] [Server thread/INFO]: [DeluxeHub] Disabling DeluxeHub v3.5.5
+[16:06:43] [Server thread/INFO]: [Citizens] Disabling Citizens v2.0.29-SNAPSHOT (build 2500)
+[16:06:43] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.2.20+6667-f0f1e66
+[16:06:43] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[16:06:43] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v4.3.14
+[16:06:43] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
+[16:06:43] [Server thread/INFO]: [ViaRewind-Legacy-Support] Disabling ViaRewind-Legacy-Support v1.4.2
+[16:06:43] [Server thread/INFO]: [LoginSecurity] Disabling LoginSecurity v3.2.0
+[16:06:43] [Server thread/INFO]: [LoginSecurity] Waiting for queued tasks...
+[16:06:43] [Server thread/INFO]: [LoginSecurity] ExecutorService shut down, ready to disable.
+[16:06:43] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.131
+[16:06:43] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[16:06:43] [Server thread/INFO]: [LuckPerms] Closing storage...
+[16:06:43] [Server thread/INFO]: [LuckPerms] Goodbye!
+[16:06:43] [Server thread/INFO]: [ViaRewind] Disabling ViaRewind v3.0.6
+[16:06:43] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v5.3.0
+[16:06:43] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v4.9.2
+[16:06:43] [Server thread/INFO]: [ServersNPC] Disabling ServersNPC v5.0
+[16:06:43] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v4.9.3
+[16:06:43] [Server thread/INFO]: [ViaVersion] ViaVersion is disabling, if this is a reload and you experience issues consider rebooting.
+[16:06:43] [Server thread/INFO]: Saving players
+[16:06:43] [Server thread/INFO]: Saving worlds
+[16:06:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[16:06:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[16:06:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[16:06:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Hub]'/minecraft:hub
+[16:06:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:06:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:06:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:06:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (Hub): All chunks are saved
+[16:06:44] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[16:06:44] [Server thread/INFO]: Flushing Chunk IO
+[16:06:44] [Server thread/INFO]: Closing Thread Pool
+[16:06:44] [Server thread/INFO]: Closing Server

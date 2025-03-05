@@ -240,3 +240,8 @@ performance-settings:
   spoil-tnt-players: true
   paper-features: true
 lobbyLoc: -37.466247688151284,72.0,0.5551026360348837,-90.29998779296875,-5.400008678436279,world
+arenaGroups:
+- Doubles
+- doubles
+join-npc-locations:
+- -3.406255164557959,68.0,-8.33241072467936,90.29998779296875,-4.500008583068848,world,ysyyayyyayya,&8Doubles/n&r2v2,doubles,0

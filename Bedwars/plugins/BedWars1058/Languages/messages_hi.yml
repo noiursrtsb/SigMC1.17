@@ -1519,3 +1519,6 @@ shop-items-messages:
     content-item-tower-name: '&cName not set'
     content-item-tower-lore: '&cLore not set'
 upgrades-menu-gui-name-default: '&8Upgrades & Traps'
+display-group-doubles: Doubles
+team-name-lighthouse-Dark_Gray: Dark_Gray
+team-name-lighthouse-Pink: Pink

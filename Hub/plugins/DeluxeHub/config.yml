@@ -329,25 +329,10 @@ custom_join_items:
   disable_inventory_movement: true
 
   items:
-    infobook:
-      material: BOOK
-      amount: 1
-      slot: 0
-      display_name: "&dServer Information"
-      lore:
-        - "&7Right-click to see information about the server!"
-      actions:
-        - "[MESSAGE] &r"
-        - "[MESSAGE] &e&lServer Information"
-        - "[MESSAGE] &r"
-        - "[MESSAGE] &bWebsite: &fwww.sigmc.net"
-        - "[MESSAGE] &cStore: &fbuy.sigmc.net"
-        - "[MESSAGE] &dDiscord: &fdiscord.sigmc.net"
-        - "[MESSAGE] &r"
     server_selector:
       material: NETHER_STAR
       amount: 1
-      slot: 4
+      slot: 0
       display_name: "&eServer Selector"
       lore:
         - "&7Right-click to open the server selector!"

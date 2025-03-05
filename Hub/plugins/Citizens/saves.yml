@@ -9,7 +9,7 @@ npc:
     name: sig
     uuid: 612a052c-cf1c-4ac0-86fd-a6fae8e00e18
     traits:
-      spawned: true
+      spawned: false
       location:
         bodyYaw: -89.25015
         world: Hub
@@ -26,7 +26,7 @@ npc:
         updateSkins: false
       owner:
         uuid: 6cd4e570-7a49-3521-8e89-4b4b5c6269c5
-    traitnames: owner,type,mounttrait,skintrait,spawned,location,equipment,inventory,scoreboardtrait
+    traitnames: scoreboardtrait,mounttrait,location,skintrait,owner,type,equipment,inventory,spawned
     navigator:
       speedmodifier: '1.0'
       avoidwater: false

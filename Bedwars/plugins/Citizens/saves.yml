@@ -23,7 +23,7 @@ npc:
         yaw: '90.3'
         pitch: '-4.5'
       type: PLAYER
-    traitnames: skintrait,scoreboardtrait,equipment,spawned,location,inventory,mounttrait,type
+    traitnames: equipment,scoreboardtrait,type,mounttrait,skintrait,spawned,location,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false

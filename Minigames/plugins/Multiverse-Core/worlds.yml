@@ -237,7 +237,7 @@ worlds:
   sigm:
     ==: MVWorld
     hidden: 'false'
-    alias: ''
+    alias: sigm
     color: WHITE
     style: NORMAL
     pvp: 'true'

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 0:0:0:0:0:0:0:1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1741188594210
+  login: 1741188567921
+money: '0'
+last-account-name: Pingdaking8
+lastlocation:
+  world: 2f992acc-ddc9-46cf-8ff9-182e3e5756c8
+  world-name: Hub
+  x: 269.3322479623714
+  y: 65.5155550727022
+  z: 1372.5449578977016
+  yaw: 176.36471557617188
+  pitch: 23.175493240356445
+logoutlocation:
+  world: 2f992acc-ddc9-46cf-8ff9-182e3e5756c8
+  world-name: Hub
+  x: 249.96241984723557
+  y: 62.0
+  z: 1343.2468868940466
+  yaw: -172.1460723876953
+  pitch: 16.19000244140625

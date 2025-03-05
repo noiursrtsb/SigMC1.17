@@ -1,57 +1,212 @@
-[01:36:12] [main/INFO]: Using mbed TLS based native cipher.
-[01:36:12] [main/INFO]: Using zlib based native compressor.
-[01:36:12] [main/INFO]: Enabled Waterfall version git:Waterfall-Bootstrap:1.20-R0.2-SNAPSHOT:92b5149:562
-[01:36:12] [main/INFO]: Not on Windows, attempting to use enhanced EpollEventLoop
-[01:36:12] [main/INFO]: Epoll is working, utilising it!
-[01:36:12] [main/INFO]: Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
-[01:36:12] [main/INFO]: Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
-[01:36:12] [main/INFO]: Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
-[01:36:12] [main/INFO]: Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
-[01:36:12] [main/INFO]: Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
-[01:36:12] [main/INFO]: Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
-[01:36:13] [main/INFO]: Loaded plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.2-SNAPSHOT:92b5149:562 by WaterfallMC
-[01:36:13] [main/INFO]: Loaded plugin cmd_find version git:cmd_find:1.20-R0.2-SNAPSHOT:92b5149:562 by WaterfallMC
-[01:36:13] [main/INFO]: Loaded plugin cmd_server version git:cmd_server:1.20-R0.2-SNAPSHOT:92b5149:562 by WaterfallMC
-[01:36:13] [main/INFO]: Loaded plugin cmd_alert version git:cmd_alert:1.20-R0.2-SNAPSHOT:92b5149:562 by WaterfallMC
-[01:36:13] [main/INFO]: Loaded plugin cmd_send version git:cmd_send:1.20-R0.2-SNAPSHOT:92b5149:562 by WaterfallMC
-[01:36:13] [main/INFO]: Loaded plugin cmd_list version git:cmd_list:1.20-R0.2-SNAPSHOT:92b5149:562 by WaterfallMC
-[01:36:13] [main/WARN]: :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
-[01:36:13] [main/WARN]: :>  
-[01:36:13] [main/WARN]: :>      EAGLERCRAFTXBUNGEE WARNING:
-[01:36:13] [main/WARN]: :>  
-[01:36:13] [main/WARN]: :>  This plugin wasn't tested to be 'working'
-[01:36:13] [main/WARN]: :>  with ANY version of BungeeCord (and forks)
-[01:36:13] [main/WARN]: :>  apart from the versions listed below:
-[01:36:13] [main/WARN]: :>  
-[01:36:13] [main/WARN]: :>  - BungeeCord: 1.20-R0.3-SNAPSHOT:eda268b:1797
-[01:36:13] [main/WARN]: :>  - Waterfall: 1.20-R0.2-SNAPSHOT:92b5149:562
-[01:36:13] [main/WARN]: :>  - FlameCord: 1.1.1
-[01:36:13] [main/WARN]: :>  
-[01:36:13] [main/WARN]: :>  This is not a Bukkit/Spigot plugin!
-[01:36:13] [main/WARN]: :>  
-[01:36:13] [main/WARN]: :>  Use "-Deaglerxbungee.stfu=true" to hide
-[01:36:13] [main/WARN]: :>  
-[01:36:13] [main/WARN]: :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
-[01:36:14] [main/INFO]: Loaded plugin EaglercraftXBungee version 1.0.10 by lax1dude
-[01:36:14] [main/WARN]: Forced host server pvp is not defined
-[01:36:14] [main/INFO]: Enabled plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.2-SNAPSHOT:92b5149:562 by WaterfallMC
-[01:36:14] [main/INFO]: Enabled plugin cmd_find version git:cmd_find:1.20-R0.2-SNAPSHOT:92b5149:562 by WaterfallMC
-[01:36:14] [main/INFO]: Enabled plugin cmd_server version git:cmd_server:1.20-R0.2-SNAPSHOT:92b5149:562 by WaterfallMC
-[01:36:14] [main/INFO]: Enabled plugin cmd_alert version git:cmd_alert:1.20-R0.2-SNAPSHOT:92b5149:562 by WaterfallMC
-[01:36:14] [main/INFO]: Enabled plugin cmd_send version git:cmd_send:1.20-R0.2-SNAPSHOT:92b5149:562 by WaterfallMC
-[01:36:14] [main/INFO]: Enabled plugin cmd_list version git:cmd_list:1.20-R0.2-SNAPSHOT:92b5149:562 by WaterfallMC
-[01:36:14] [main/ERROR] [EaglercraftXBungee]: Online mode is set to false! Authentication system has been disabled
-[01:36:15] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: Eaglercraft is listening on: /0.0.0.0:8081
-[01:36:16] [main/INFO] [EaglercraftXBungee]: Connected to database: jdbc:sqlite:eaglercraft_skins_cache.db
-[01:36:16] [main/INFO]: Enabled plugin EaglercraftXBungee version 1.0.10 by lax1dude
-[01:36:16] [Netty Boss IO Thread #0/INFO]: Listening on /0.0.0.0:25577
-[01:36:18] [EaglerXBungee: Network Tick Tasks/INFO] [EaglercraftXBungee]: Loaded certificate: /workspaces/SigMC1.17/waterfall/plugins/EaglercraftXBungee/eagcert/$dl.ac3aaed1273ced06ef766ab055337fbf29dc3347.cert
-[01:36:58] [Netty Worker IO Thread #1/WARN] [EaglercraftXBungee]: Server icon is not a file: /workspaces/SigMC1.17/waterfall/server-icon.png
-[01:37:03] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:51152]: Connected via websocket
-[01:37:03] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:51152]: Origin header is https://nolanderlauncherdelta-ozj8.vercel.app
-[01:37:03] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:51152]: Logged in as 'ysyyayyyayya'
-[01:37:03] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:51152|ysyyayyyayya] -> UpstreamBridge has connected
-[01:37:03] [Netty Worker IO Thread #2/INFO]: [ysyyayyyayya|/[0:0:0:0:0:0:0:1%0]:51152] <-> ServerConnector [lobby] has connected
-[01:40:59] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:51152|ysyyayyyayya] -> UpstreamBridge has disconnected
-[01:40:59] [Netty Worker IO Thread #2/INFO]: [ysyyayyyayya] disconnected with: Proxy lost connection to server.
-[01:40:59] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:51152|ysyyayyyayya] <-> DownstreamBridge <-> [lobby] has disconnected
+[15:21:01] [main/INFO]: Using mbed TLS based native cipher.
+[15:21:01] [main/INFO]: Using zlib based native compressor.
+[15:21:01] [main/INFO]: Enabled Waterfall version git:Waterfall-Bootstrap:1.20-R0.2-SNAPSHOT:92b5149:562
+[15:21:01] [main/INFO]: Not on Windows, attempting to use enhanced EpollEventLoop
+[15:21:01] [main/INFO]: Epoll is working, utilising it!
+[15:21:02] [main/INFO]: Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+[15:21:02] [main/INFO]: Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+[15:21:02] [main/INFO]: Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+[15:21:02] [main/INFO]: Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+[15:21:02] [main/INFO]: Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+[15:21:02] [main/INFO]: Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+[15:21:02] [main/INFO]: Loaded plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.2-SNAPSHOT:92b5149:562 by WaterfallMC
+[15:21:02] [main/INFO]: Loaded plugin cmd_find version git:cmd_find:1.20-R0.2-SNAPSHOT:92b5149:562 by WaterfallMC
+[15:21:02] [main/INFO]: Loaded plugin cmd_server version git:cmd_server:1.20-R0.2-SNAPSHOT:92b5149:562 by WaterfallMC
+[15:21:02] [main/INFO]: Loaded plugin cmd_alert version git:cmd_alert:1.20-R0.2-SNAPSHOT:92b5149:562 by WaterfallMC
+[15:21:02] [main/INFO]: Loaded plugin cmd_send version git:cmd_send:1.20-R0.2-SNAPSHOT:92b5149:562 by WaterfallMC
+[15:21:02] [main/INFO]: Loaded plugin cmd_list version git:cmd_list:1.20-R0.2-SNAPSHOT:92b5149:562 by WaterfallMC
+[15:21:02] [main/WARN]: :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
+[15:21:02] [main/WARN]: :>  
+[15:21:02] [main/WARN]: :>      EAGLERCRAFTXBUNGEE WARNING:
+[15:21:02] [main/WARN]: :>  
+[15:21:02] [main/WARN]: :>  This plugin wasn't tested to be 'working'
+[15:21:02] [main/WARN]: :>  with ANY version of BungeeCord (and forks)
+[15:21:02] [main/WARN]: :>  apart from the versions listed below:
+[15:21:02] [main/WARN]: :>  
+[15:21:02] [main/WARN]: :>  - BungeeCord: 1.20-R0.3-SNAPSHOT:eda268b:1797
+[15:21:02] [main/WARN]: :>  - Waterfall: 1.20-R0.2-SNAPSHOT:92b5149:562
+[15:21:02] [main/WARN]: :>  - FlameCord: 1.1.1
+[15:21:02] [main/WARN]: :>  
+[15:21:02] [main/WARN]: :>  This is not a Bukkit/Spigot plugin!
+[15:21:02] [main/WARN]: :>  
+[15:21:02] [main/WARN]: :>  Use "-Deaglerxbungee.stfu=true" to hide
+[15:21:02] [main/WARN]: :>  
+[15:21:02] [main/WARN]: :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
+[15:21:02] [main/INFO]: Loaded plugin EaglercraftXBungee version 1.0.10 by lax1dude
+[15:21:02] [main/WARN]: Forced host server pvp is not defined
+[15:21:02] [main/INFO]: Enabled plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.2-SNAPSHOT:92b5149:562 by WaterfallMC
+[15:21:02] [main/INFO]: Enabled plugin cmd_find version git:cmd_find:1.20-R0.2-SNAPSHOT:92b5149:562 by WaterfallMC
+[15:21:02] [main/INFO]: Enabled plugin cmd_server version git:cmd_server:1.20-R0.2-SNAPSHOT:92b5149:562 by WaterfallMC
+[15:21:02] [main/INFO]: Enabled plugin cmd_alert version git:cmd_alert:1.20-R0.2-SNAPSHOT:92b5149:562 by WaterfallMC
+[15:21:02] [main/INFO]: Enabled plugin cmd_send version git:cmd_send:1.20-R0.2-SNAPSHOT:92b5149:562 by WaterfallMC
+[15:21:02] [main/INFO]: Enabled plugin cmd_list version git:cmd_list:1.20-R0.2-SNAPSHOT:92b5149:562 by WaterfallMC
+[15:21:02] [main/ERROR] [EaglercraftXBungee]: Online mode is set to false! Authentication system has been disabled
+[15:21:02] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: Eaglercraft is listening on: /0.0.0.0:8081
+[15:21:02] [main/INFO] [EaglercraftXBungee]: Connected to database: jdbc:sqlite:eaglercraft_skins_cache.db
+[15:21:02] [main/INFO]: Enabled plugin EaglercraftXBungee version 1.0.10 by lax1dude
+[15:21:02] [Netty Boss IO Thread #0/INFO]: Listening on /0.0.0.0:25577
+[15:21:02] [EaglerXBungee: Network Tick Tasks/INFO] [EaglercraftXBungee]: Loaded certificate: /workspaces/SigMC1.17/waterfall/plugins/EaglercraftXBungee/eagcert/$dl.ac3aaed1273ced06ef766ab055337fbf29dc3347.cert
+[15:21:08] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:50972]: Connected via websocket
+[15:21:08] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:50972]: Origin header is https://nolanderlauncherdelta-ozj8.vercel.app
+[15:21:08] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:50972]: Logged in as 'ysyyayyyayya'
+[15:21:08] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:50972|ysyyayyyayya] -> UpstreamBridge has connected
+[15:21:08] [Netty Worker IO Thread #1/INFO]: [ysyyayyyayya|/[0:0:0:0:0:0:0:1%0]:50972] <-> ServerConnector [lobby] has connected
+[15:21:08] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:50988]: Connected via websocket
+[15:21:08] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:50988]: Origin header is https://nolanderlauncherdelta-ozj8.vercel.app
+[15:21:09] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:50988]: Logged in as 'Pingdaking8'
+[15:21:09] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:50988|Pingdaking8] -> UpstreamBridge has connected
+[15:21:09] [Netty Worker IO Thread #2/INFO]: [Pingdaking8|/[0:0:0:0:0:0:0:1%0]:50988] <-> ServerConnector [lobby] has connected
+[15:21:16] [Netty Worker IO Thread #2/WARN]: Error occurred processing connection for Pingdaking8 AnnotatedConnectException : finishConnect(..) failed: Connection refused: localhost/127.0.0.1:25566
+[15:21:17] [Netty Worker IO Thread #2/WARN]: Error occurred processing connection for Pingdaking8 AnnotatedConnectException : finishConnect(..) failed: Connection refused: localhost/127.0.0.1:25566
+[15:21:22] [Netty Worker IO Thread #1/WARN]: Error occurred processing connection for ysyyayyyayya AnnotatedConnectException : finishConnect(..) failed: Connection refused: localhost/127.0.0.1:25566
+[15:21:28] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:58624]: Connected via websocket
+[15:21:28] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:58624]: Origin header is https://nolanderlauncherdelta-ozj8.vercel.app
+[15:21:29] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:58624]: Logged in as 'iglentoften'
+[15:21:29] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:58624|iglentoften] -> UpstreamBridge has connected
+[15:21:29] [Netty Worker IO Thread #3/INFO]: [iglentoften|/[0:0:0:0:0:0:0:1%0]:58624] <-> ServerConnector [lobby] has connected
+[15:21:31] [Netty Worker IO Thread #2/WARN]: Error occurred processing connection for Pingdaking8 AnnotatedConnectException : finishConnect(..) failed: Connection refused: localhost/127.0.0.1:25566
+[15:21:34] [Netty Worker IO Thread #2/WARN]: Error occurred processing connection for Pingdaking8 AnnotatedConnectException : finishConnect(..) failed: Connection refused: localhost/127.0.0.1:25566
+[15:21:36] [Netty Worker IO Thread #2/WARN]: Error occurred processing connection for Pingdaking8 AnnotatedConnectException : finishConnect(..) failed: Connection refused: localhost/127.0.0.1:25566
+[15:21:39] [Netty Worker IO Thread #3/WARN]: Error occurred processing connection for iglentoften AnnotatedConnectException : finishConnect(..) failed: Connection refused: localhost/127.0.0.1:25566
+[15:21:40] [Netty Worker IO Thread #3/WARN]: Error occurred processing connection for iglentoften AnnotatedConnectException : finishConnect(..) failed: Connection refused: localhost/127.0.0.1:25566
+[15:21:43] [Netty Worker IO Thread #3/INFO]: [iglentoften|/[0:0:0:0:0:0:0:1%0]:58624] <-> ServerConnector [minigames] has connected
+[15:21:43] [Netty Worker IO Thread #1/INFO]: [ysyyayyyayya|/[0:0:0:0:0:0:0:1%0]:50972] <-> ServerConnector [minigames] has connected
+[15:21:53] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:58624|iglentoften] <-> DownstreamBridge <-> [lobby] has disconnected
+[15:21:53] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:50972|ysyyayyyayya] <-> DownstreamBridge <-> [lobby] has disconnected
+[15:22:26] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:50988|Pingdaking8] -> UpstreamBridge has disconnected
+[15:22:26] [Netty Worker IO Thread #2/INFO]: [Pingdaking8] disconnected with: Proxy lost connection to server.
+[15:22:26] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:50988|Pingdaking8] <-> DownstreamBridge <-> [lobby] has disconnected
+[15:22:43] [Netty Worker IO Thread #4/WARN] [EaglercraftXBungee]: Server icon is not a file: /workspaces/SigMC1.17/waterfall/server-icon.png
+[15:22:46] [Netty Worker IO Thread #5/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:50282]: Connected via websocket
+[15:22:46] [Netty Worker IO Thread #5/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:50282]: Origin header is https://nolanderlauncherdelta-ozj8.vercel.app
+[15:22:46] [Netty Worker IO Thread #5/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:50282]: Logged in as 'Pingdaking8'
+[15:22:46] [Netty Worker IO Thread #5/INFO]: [/[0:0:0:0:0:0:0:1%0]:50282|Pingdaking8] -> UpstreamBridge has connected
+[15:22:46] [Netty Worker IO Thread #5/INFO]: [Pingdaking8|/[0:0:0:0:0:0:0:1%0]:50282] <-> ServerConnector [lobby] has connected
+[15:22:53] [Netty Worker IO Thread #5/INFO]: [Pingdaking8|/[0:0:0:0:0:0:0:1%0]:50282] <-> ServerConnector [minigames] has connected
+[15:22:53] [Netty Worker IO Thread #5/INFO]: [/[0:0:0:0:0:0:0:1%0]:50282|Pingdaking8] <-> DownstreamBridge <-> [lobby] has disconnected
+[15:23:28] [Netty Worker IO Thread #5/INFO]: [Pingdaking8] disconnected with: Kicked by an operator
+[15:23:28] [Netty Worker IO Thread #5/INFO]: [/[0:0:0:0:0:0:0:1%0]:50282|Pingdaking8] -> UpstreamBridge has disconnected
+[15:23:28] [Netty Worker IO Thread #5/INFO]: [/[0:0:0:0:0:0:0:1%0]:50282|Pingdaking8] <-> DownstreamBridge <-> [minigames] has disconnected
+[15:23:35] [Netty Worker IO Thread #6/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:41708]: Connected via websocket
+[15:23:35] [Netty Worker IO Thread #6/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:41708]: Origin header is https://nolanderlauncherdelta-ozj8.vercel.app
+[15:23:35] [Netty Worker IO Thread #6/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:41708]: Logged in as 'Pingdaking8'
+[15:23:35] [Netty Worker IO Thread #6/INFO]: [/[0:0:0:0:0:0:0:1%0]:41708|Pingdaking8] -> UpstreamBridge has connected
+[15:23:35] [Netty Worker IO Thread #6/INFO]: [Pingdaking8|/[0:0:0:0:0:0:0:1%0]:41708] <-> ServerConnector [minigames] has connected
+[15:25:45] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:50972|ysyyayyyayya] -> UpstreamBridge has disconnected
+[15:25:45] [Netty Worker IO Thread #1/INFO]: [ysyyayyyayya] disconnected with: Proxy lost connection to server.
+[15:25:45] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:50972|ysyyayyyayya] <-> DownstreamBridge <-> [minigames] has disconnected
+[15:25:45] [Netty Worker IO Thread #6/INFO]: [/[0:0:0:0:0:0:0:1%0]:41708|Pingdaking8] -> UpstreamBridge has disconnected
+[15:25:45] [Netty Worker IO Thread #6/INFO]: [Pingdaking8] disconnected with: Proxy lost connection to server.
+[15:25:45] [Netty Worker IO Thread #6/INFO]: [/[0:0:0:0:0:0:0:1%0]:41708|Pingdaking8] <-> DownstreamBridge <-> [minigames] has disconnected
+[15:26:03] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:58624|iglentoften] -> UpstreamBridge has disconnected
+[15:26:03] [Netty Worker IO Thread #3/INFO]: [iglentoften] disconnected with: Proxy lost connection to server.
+[15:26:03] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:58624|iglentoften] <-> DownstreamBridge <-> [minigames] has disconnected
+[15:28:33] [Netty Worker IO Thread #7/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:48906]: Connected via websocket
+[15:28:33] [Netty Worker IO Thread #7/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:48906]: Origin header is https://nolanderlauncherdelta-ozj8.vercel.app
+[15:28:33] [Netty Worker IO Thread #7/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:48906]: Logged in as 'ysyyayyyayya'
+[15:28:33] [Netty Worker IO Thread #7/INFO]: [/[0:0:0:0:0:0:0:1%0]:48906|ysyyayyyayya] -> UpstreamBridge has connected
+[15:28:33] [Netty Worker IO Thread #7/INFO]: [ysyyayyyayya|/[0:0:0:0:0:0:0:1%0]:48906] <-> ServerConnector [minigames] has connected
+[15:28:55] [Netty Worker IO Thread #7/INFO]: [ysyyayyyayya|/[0:0:0:0:0:0:0:1%0]:48906] <-> ServerConnector [lobby] has connected
+[15:28:59] [Netty Worker IO Thread #7/INFO]: [/[0:0:0:0:0:0:0:1%0]:48906|ysyyayyyayya] <-> DownstreamBridge <-> [minigames] has disconnected
+[15:29:10] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:55920]: Connected via websocket
+[15:29:10] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:55920]: Origin header is https://nolanderlauncherdelta-ozj8.vercel.app
+[15:29:10] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:55920]: Logged in as 'Pingdaking8'
+[15:29:10] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:55920|Pingdaking8] -> UpstreamBridge has connected
+[15:29:10] [Netty Worker IO Thread #0/INFO]: [Pingdaking8|/[0:0:0:0:0:0:0:1%0]:55920] <-> ServerConnector [minigames] has connected
+[15:29:24] [Netty Worker IO Thread #0/INFO]: [Pingdaking8] disconnected with: Server closed
+[15:29:24] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:55920|Pingdaking8] -> UpstreamBridge has disconnected
+[15:29:24] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:55920|Pingdaking8] <-> DownstreamBridge <-> [minigames] has disconnected
+[15:29:27] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:32802]: Connected via websocket
+[15:29:27] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:32802]: Origin header is https://nolanderlauncherdelta-ozj8.vercel.app
+[15:29:27] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:32802]: Logged in as 'Pingdaking8'
+[15:29:27] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:32802|Pingdaking8] -> UpstreamBridge has connected
+[15:29:27] [Netty Worker IO Thread #1/INFO]: [Pingdaking8|/[0:0:0:0:0:0:0:1%0]:32802] <-> ServerConnector [lobby] has connected
+[15:29:35] [Netty Worker IO Thread #1/WARN]: Error occurred processing connection for Pingdaking8 AnnotatedConnectException : finishConnect(..) failed: Connection refused: localhost/127.0.0.1:25566
+[15:29:36] [Netty Worker IO Thread #1/WARN]: Error occurred processing connection for Pingdaking8 AnnotatedConnectException : finishConnect(..) failed: Connection refused: localhost/127.0.0.1:25566
+[15:29:42] [Netty Worker IO Thread #1/WARN]: Error occurred processing connection for Pingdaking8 AnnotatedConnectException : finishConnect(..) failed: Connection refused: localhost/127.0.0.1:25566
+[15:29:44] [Netty Worker IO Thread #1/WARN]: Error occurred processing connection for Pingdaking8 AnnotatedConnectException : finishConnect(..) failed: Connection refused: localhost/127.0.0.1:25566
+[15:29:45] [Netty Worker IO Thread #1/WARN]: Error occurred processing connection for Pingdaking8 AnnotatedConnectException : finishConnect(..) failed: Connection refused: localhost/127.0.0.1:25566
+[15:29:46] [Netty Worker IO Thread #1/WARN]: Error occurred processing connection for Pingdaking8 AnnotatedConnectException : finishConnect(..) failed: Connection refused: localhost/127.0.0.1:25566
+[15:29:47] [Netty Worker IO Thread #1/WARN]: Error occurred processing connection for Pingdaking8 AnnotatedConnectException : finishConnect(..) failed: Connection refused: localhost/127.0.0.1:25566
+[15:29:53] [Netty Worker IO Thread #7/INFO]: [ysyyayyyayya|/[0:0:0:0:0:0:0:1%0]:48906] <-> ServerConnector [bedwars] has connected
+[15:29:53] [Netty Worker IO Thread #7/INFO]: [/[0:0:0:0:0:0:0:1%0]:48906|ysyyayyyayya] <-> DownstreamBridge <-> [lobby] has disconnected
+[15:29:54] [Netty Worker IO Thread #1/INFO]: [Pingdaking8|/[0:0:0:0:0:0:0:1%0]:32802] <-> ServerConnector [bedwars] has connected
+[15:29:54] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:32802|Pingdaking8] <-> DownstreamBridge <-> [lobby] has disconnected
+[15:31:47] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:58852]: Connected via websocket
+[15:31:47] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:58852]: Origin header is https://nolanderlauncherdelta-ozj8.vercel.app
+[15:31:47] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:58852]: Logged in as 'iglentoften'
+[15:31:47] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:58852|iglentoften] -> UpstreamBridge has connected
+[15:31:47] [Netty Worker IO Thread #3/INFO]: [iglentoften|/[0:0:0:0:0:0:0:1%0]:58852] <-> ServerConnector [lobby] has connected
+[15:31:57] [Netty Worker IO Thread #3/WARN]: Error occurred processing connection for iglentoften AnnotatedConnectException : finishConnect(..) failed: Connection refused: localhost/127.0.0.1:25566
+[15:31:58] [Netty Worker IO Thread #3/WARN]: Error occurred processing connection for iglentoften AnnotatedConnectException : finishConnect(..) failed: Connection refused: localhost/127.0.0.1:25566
+[15:32:03] [Netty Worker IO Thread #3/WARN]: Error occurred processing connection for iglentoften AnnotatedConnectException : finishConnect(..) failed: Connection refused: localhost/127.0.0.1:25566
+[15:32:04] [Netty Worker IO Thread #3/WARN]: Error occurred processing connection for iglentoften AnnotatedConnectException : finishConnect(..) failed: Connection refused: localhost/127.0.0.1:25566
+[15:32:05] [Netty Worker IO Thread #3/WARN]: Error occurred processing connection for iglentoften AnnotatedConnectException : finishConnect(..) failed: Connection refused: localhost/127.0.0.1:25566
+[15:32:10] [Netty Worker IO Thread #3/WARN]: Error occurred processing connection for iglentoften AnnotatedConnectException : finishConnect(..) failed: Connection refused: localhost/127.0.0.1:25566
+[15:33:24] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:32802|Pingdaking8] -> UpstreamBridge has disconnected
+[15:33:24] [Netty Worker IO Thread #1/INFO]: [Pingdaking8] disconnected with: Proxy lost connection to server.
+[15:33:24] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:32802|Pingdaking8] <-> DownstreamBridge <-> [bedwars] has disconnected
+[15:33:30] [Netty Worker IO Thread #5/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:58028]: Connected via websocket
+[15:33:30] [Netty Worker IO Thread #5/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:58028]: Origin header is https://nolanderlauncherdelta-ozj8.vercel.app
+[15:33:30] [Netty Worker IO Thread #5/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:58028]: Logged in as 'Pingdaking8'
+[15:33:30] [Netty Worker IO Thread #5/INFO]: [/[0:0:0:0:0:0:0:1%0]:58028|Pingdaking8] -> UpstreamBridge has connected
+[15:33:30] [Netty Worker IO Thread #5/INFO]: [Pingdaking8|/[0:0:0:0:0:0:0:1%0]:58028] <-> ServerConnector [bedwars] has connected
+[15:34:12] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:58852|iglentoften] -> UpstreamBridge has disconnected
+[15:34:12] [Netty Worker IO Thread #3/INFO]: [iglentoften] disconnected with: Proxy lost connection to server.
+[15:34:12] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:58852|iglentoften] <-> DownstreamBridge <-> [lobby] has disconnected
+[15:34:32] [Netty Worker IO Thread #7/INFO]: [ysyyayyyayya] disconnected with: Server closed
+[15:34:32] [Netty Worker IO Thread #7/INFO]: [/[0:0:0:0:0:0:0:1%0]:48906|ysyyayyyayya] -> UpstreamBridge has disconnected
+[15:34:32] [Netty Worker IO Thread #7/INFO]: [/[0:0:0:0:0:0:0:1%0]:48906|ysyyayyyayya] <-> DownstreamBridge <-> [bedwars] has disconnected
+[15:34:32] [Netty Worker IO Thread #5/INFO]: [Pingdaking8] disconnected with: Server closed
+[15:34:32] [Netty Worker IO Thread #5/INFO]: [/[0:0:0:0:0:0:0:1%0]:58028|Pingdaking8] -> UpstreamBridge has disconnected
+[15:34:32] [Netty Worker IO Thread #5/INFO]: [/[0:0:0:0:0:0:0:1%0]:58028|Pingdaking8] <-> DownstreamBridge <-> [bedwars] has disconnected
+[15:34:35] [Netty Worker IO Thread #6/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:41874]: Connected via websocket
+[15:34:35] [Netty Worker IO Thread #6/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:41874]: Origin header is https://nolanderlauncherdelta-ozj8.vercel.app
+[15:34:35] [Netty Worker IO Thread #6/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:41874]: Logged in as 'Pingdaking8'
+[15:34:35] [Netty Worker IO Thread #6/INFO]: [/[0:0:0:0:0:0:0:1%0]:41874|Pingdaking8] -> UpstreamBridge has connected
+[15:34:35] [Netty Worker IO Thread #6/WARN]: Error occurred processing connection for Pingdaking8 AnnotatedConnectException : finishConnect(..) failed: Connection refused: localhost/127.0.0.1:25565
+[15:34:35] [Netty Worker IO Thread #6/INFO]: [Pingdaking8] disconnected with: Could not connect to a default or fallback server. Incorrectly configured address/port/firewall? 
+[15:34:35] [Netty Worker IO Thread #6/INFO]: [/[0:0:0:0:0:0:0:1%0]:41874|Pingdaking8] -> UpstreamBridge has disconnected
+[15:34:38] [Netty Worker IO Thread #7/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:41880]: Connected via websocket
+[15:34:38] [Netty Worker IO Thread #7/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:41880]: Origin header is https://nolanderlauncherdelta-ozj8.vercel.app
+[15:34:38] [Netty Worker IO Thread #7/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:41880]: Logged in as 'Pingdaking8'
+[15:34:38] [Netty Worker IO Thread #7/INFO]: [/[0:0:0:0:0:0:0:1%0]:41880|Pingdaking8] -> UpstreamBridge has connected
+[15:34:38] [Netty Worker IO Thread #7/WARN]: Error occurred processing connection for Pingdaking8 AnnotatedConnectException : finishConnect(..) failed: Connection refused: localhost/127.0.0.1:25565
+[15:34:38] [Netty Worker IO Thread #7/INFO]: [Pingdaking8] disconnected with: Could not connect to a default or fallback server. Incorrectly configured address/port/firewall? 
+[15:34:38] [Netty Worker IO Thread #7/INFO]: [/[0:0:0:0:0:0:0:1%0]:41880|Pingdaking8] -> UpstreamBridge has disconnected
+[15:34:41] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:41890]: Connected via websocket
+[15:34:41] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:41890]: Origin header is https://nolanderlauncherdelta-ozj8.vercel.app
+[15:34:41] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:41890]: Logged in as 'Pingdaking8'
+[15:34:41] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:41890|Pingdaking8] -> UpstreamBridge has connected
+[15:34:41] [Netty Worker IO Thread #0/WARN]: Error occurred processing connection for Pingdaking8 AnnotatedConnectException : finishConnect(..) failed: Connection refused: localhost/127.0.0.1:25565
+[15:34:41] [Netty Worker IO Thread #0/INFO]: [Pingdaking8] disconnected with: Could not connect to a default or fallback server. Incorrectly configured address/port/firewall? 
+[15:34:41] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:41890|Pingdaking8] -> UpstreamBridge has disconnected
+[15:34:51] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:60830]: Connected via websocket
+[15:34:51] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:60830]: Origin header is https://nolanderlauncherdelta-ozj8.vercel.app
+[15:34:51] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:60830]: Logged in as 'Pingdaking8'
+[15:34:51] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:60830|Pingdaking8] -> UpstreamBridge has connected
+[15:34:51] [Netty Worker IO Thread #2/WARN]: Error occurred processing connection for Pingdaking8 AnnotatedConnectException : finishConnect(..) failed: Connection refused: localhost/127.0.0.1:25565
+[15:34:51] [Netty Worker IO Thread #2/INFO]: [Pingdaking8] disconnected with: Could not connect to a default or fallback server. Incorrectly configured address/port/firewall? 
+[15:34:51] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:60830|Pingdaking8] -> UpstreamBridge has disconnected
+[15:35:27] [Netty Worker IO Thread #4/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:50748]: Connected via websocket
+[15:35:27] [Netty Worker IO Thread #4/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:50748]: Origin header is https://nolanderlauncherdelta-ozj8.vercel.app
+[15:35:27] [Netty Worker IO Thread #4/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:50748]: Logged in as 'Pingdaking8'
+[15:35:27] [Netty Worker IO Thread #4/INFO]: [/[0:0:0:0:0:0:0:1%0]:50748|Pingdaking8] -> UpstreamBridge has connected
+[15:35:27] [Netty Worker IO Thread #4/WARN]: Error occurred processing connection for Pingdaking8 AnnotatedConnectException : finishConnect(..) failed: Connection refused: localhost/127.0.0.1:25565
+[15:35:27] [Netty Worker IO Thread #4/INFO]: [Pingdaking8] disconnected with: Could not connect to a default or fallback server. Incorrectly configured address/port/firewall? 
+[15:35:27] [Netty Worker IO Thread #4/INFO]: [/[0:0:0:0:0:0:0:1%0]:50748|Pingdaking8] -> UpstreamBridge has disconnected
+[15:44:49] [Netty Worker IO Thread #5/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:56382]: Connected via websocket
+[15:44:49] [Netty Worker IO Thread #5/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:56382]: Origin header is https://nolanderlauncherdelta-ozj8.vercel.app
+[15:44:49] [Netty Worker IO Thread #5/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:56382]: Logged in as 'ysyyayyyayya'
+[15:44:49] [Netty Worker IO Thread #5/INFO]: [/[0:0:0:0:0:0:0:1%0]:56382|ysyyayyyayya] -> UpstreamBridge has connected
+[15:44:49] [Netty Worker IO Thread #5/INFO]: [ysyyayyyayya|/[0:0:0:0:0:0:0:1%0]:56382] <-> ServerConnector [lobby] has connected
+[15:44:53] [Netty Worker IO Thread #5/INFO]: [/[0:0:0:0:0:0:0:1%0]:56382|ysyyayyyayya] -> UpstreamBridge has disconnected
+[15:44:55] [Netty Worker IO Thread #6/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:40952]: Connected via websocket
+[15:44:55] [Netty Worker IO Thread #6/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:40952]: Origin header is https://nolanderlauncherdelta-ozj8.vercel.app
+[15:44:55] [Netty Worker IO Thread #6/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:40952]: Logged in as 'ysyyayyyayya'
+[15:44:55] [Netty Worker IO Thread #6/INFO]: [/[0:0:0:0:0:0:0:1%0]:40952|ysyyayyyayya] -> UpstreamBridge has connected
+[15:44:55] [Netty Worker IO Thread #6/INFO]: [ysyyayyyayya|/[0:0:0:0:0:0:0:1%0]:40952] <-> ServerConnector [lobby] has connected
+[15:45:02] [Netty Worker IO Thread #5/INFO]: [ysyyayyyayya] disconnected with: You logged in from another location
+[15:45:02] [Netty Worker IO Thread #5/INFO]: [/[0:0:0:0:0:0:0:1%0]:56382|ysyyayyyayya] <-> DownstreamBridge <-> [lobby] has disconnected
+[15:45:13] [Netty Worker IO Thread #6/INFO]: [ysyyayyyayya|/[0:0:0:0:0:0:0:1%0]:40952] <-> ServerConnector [bedwars] has connected
+[15:45:17] [Netty Worker IO Thread #6/INFO]: [/[0:0:0:0:0:0:0:1%0]:40952|ysyyayyyayya] <-> DownstreamBridge <-> [lobby] has disconnected

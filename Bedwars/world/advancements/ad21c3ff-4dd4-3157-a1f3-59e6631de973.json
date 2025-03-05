@@ -1,0 +1,27 @@
+{
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-03-05 15:31:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-03-05 15:31:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2025-03-05 15:29:54 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:warped_forest": "2025-03-05 15:31:38 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 2730
+}

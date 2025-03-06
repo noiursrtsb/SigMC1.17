@@ -1,0 +1,84 @@
+# BedWars1058 arena configuration file.
+# Documentation here: https://gitlab.com/andrei1058/BedWars1058/wikis/configuration/Arena-Configuration
+group: 4v4v4v4
+display-name: Orchid
+minPlayers: 4
+maxInTeam: 8
+allowSpectate: true
+spawn-protection: 6
+shop-protection: 1
+upgrades-protection: 1
+generator-protection: 1
+island-radius: 17
+worldBorder: 300
+y-kill-height: -10
+max-build-y: 100
+disable-generator-for-empty-teams: false
+disable-npcs-for-empty-teams: false
+vanilla-death-drops: false
+use-bed-hologram: false
+allow-map-break: false
+game-rules:
+- doDaylightCycle:false
+- announceAdvancements:false
+- doInsomnia:false
+- doImmediateRespawn:true
+- doWeatherCycle:false
+- doFireTick:false
+waiting:
+  Loc: 0.5,134.0,0.5,-180.0,0.0
+spectator-loc: 0.5,105.0,0.5,-180.0,0.0
+Team:
+  Red:
+    Color: RED
+    Spawn: 59.5,71.0,-49.5,90.0,0.0
+    Bed: 42.0,71.0,-50.0,0.0,0.0
+    Shop: 58.5,71.0625,-44.5,-180.0,0.0
+    Upgrade: 55.5,71.0625,-53.5,270.0,0.0
+    kill-drops-loc: 62.5,70.5,-49.5,88.02791595458984,-2.6474294662475586
+    Iron:
+    - 62.5,70.5,-49.5,88.41287231445312,-2.6474294662475586
+    Gold:
+    - 62.5,70.5,-49.5,88.41287231445312,-2.6474294662475586
+  Blue:
+    Color: BLUE
+    Spawn: 59.5,71.0,50.5,90.0,0.0
+    Bed: 42.0,71.0,50.0,0.0,0.0
+    Shop: 58.5,71.0625,45.5,0.0,0.0
+    Iron:
+    - 62.5,70.5,50.5,90.20926666259766,-1.492492914199829
+    Gold:
+    - 62.5,70.5,50.5,90.20926666259766,-1.492492914199829
+    kill-drops-loc: 62.5,70.5,50.5,90.33758544921875,-1.3641724586486816
+    Upgrade: 55.5,71.0625,54.5,-90.0,0.0
+  Green:
+    Color: GREEN
+    Spawn: -58.5,71.0,50.5,270.0,0.0
+    Shop: -57.5,71.0625,45.5,0.0,0.0
+    Iron:
+    - -61.5,70.5,50.5,-89.82443237304688,-1.6207685470581055
+    Gold:
+    - -61.5,70.5,50.5,-89.82443237304688,-1.6207685470581055
+    kill-drops-loc: -61.5,70.5,50.5,-89.82443237304688,-1.6207685470581055
+    Upgrade: -54.5,71.0625,54.5,90.0,0.0
+    Bed: -41.30116908750869,71.5625,50.38665386382846,258.4371032714844,86.40681457519531
+  Yellow:
+    Color: YELLOW
+    Spawn: -58.5,71.0,-49.5,-90.0,0.0
+    Iron:
+    - -61.5,70.5,-49.5,-89.890625,-0.3376593589782715
+    Gold:
+    - -61.5,70.5,-49.5,-89.890625,-0.3376593589782715
+    Shop: -57.5,71.0625,-44.5,-180.0,0.0
+    Upgrade: -54.5,71.0625,-53.5,-270.0,0.0
+    kill-drops-loc: -61.5,70.5,-49.5,-89.4338607788086,-0.08099746704101562
+    Bed: -41.5477753278997,71.5625,-49.104081791145006,-122.92530822753906,69.59696197509766
+generator:
+  Diamond:
+  - -55.5,71.0,0.5,209.9330596923828,2.48543643951416
+  - 0.5,71.0,-75.5,351.4682312011719,6.591642379760742
+  - 56.5,71.0,0.5,252.276611328125,1.843860149383545
+  - 0.5,71.0,76.5,91.7479476928711,-20.355602264404297
+  Emerald:
+  - 0.5,71.0,-7.5,357.49993896484375,-8.42176628112793
+  - 0.5,71.0,8.5,66.7945556640625,-2.1341028213500977

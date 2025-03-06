@@ -1,203 +1,45 @@
-[17:29:03] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[17:29:03] [main/INFO]: Reloading ResourceManager: Default, bukkit
-[17:29:04] [Worker-Main-1/INFO]: Loaded 7 recipes
-[17:29:05] [Server thread/INFO]: Starting minecraft server version 1.17.1
-[17:29:05] [Server thread/INFO]: Loading properties
-[17:29:05] [Server thread/INFO]: This server is running Purpur version git-Purpur-1428 (MC: 1.17.1) (Implementing API version 1.17.1-R0.1-SNAPSHOT) (Git: 9beb23b on ver/1.17.1)
-[17:29:05] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[17:29:05] [Server thread/INFO]: Using 4 threads for Netty based IO
-[17:29:05] [Server thread/INFO]: Default game type: SURVIVAL
-[17:29:05] [Server thread/INFO]: Generating keypair
-[17:29:06] [Server thread/INFO]: Starting Minecraft server on *:25567
-[17:29:06] [Server thread/INFO]: Using epoll channel type
-[17:29:06] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[17:29:06] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[17:29:07] [Server thread/INFO]: [ViaVersion] Loading ViaVersion v4.9.3
-[17:29:07] [Server thread/INFO]: [ViaVersion] ViaVersion 4.9.3 is now loaded. Registering protocol transformers and injecting...
-[17:29:07] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
-[17:29:07] [Server thread/INFO]: [ViaBackwards] Loading translations...
-[17:29:07] [Server thread/INFO]: [ViaBackwards] Registering protocols...
-[17:29:07] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
-[17:29:08] [Server thread/INFO]: [ViaBackwards] Loading ViaBackwards v4.9.2
-[17:29:08] [Server thread/INFO]: [ViaRewind] Loading ViaRewind v3.0.6
-[17:29:08] [Server thread/INFO]: [ViaRewind-Legacy-Support] Loading ViaRewind-Legacy-Support v1.4.2
-[17:29:08] [Server thread/INFO]: [LuckPerms] Loading LuckPerms v5.4.131
-[17:29:08] [Server thread/INFO]: [Vault] Loading Vault v1.7.3-b131
-[17:29:08] [Server thread/INFO]: [Essentials] Loading Essentials v2.20.1
-[17:29:08] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn v2.20.1
-[17:29:08] [Server thread/INFO]: [EssentialsChat] Loading EssentialsChat v2.20.1
-[17:29:08] [Server thread/INFO]: [TAB] Loading TAB v5.0.7
-[17:29:08] [Server thread/INFO]: [Citizens] Loading Citizens v2.0.29-SNAPSHOT (build 2500)
-[17:29:08] [Server thread/INFO]: [BedWars1058] Loading BedWars1058 v25.2
-[17:29:08] [Server thread/INFO]: [BedWars1058] Loading support for paper/spigot: v1_17_R1
-[17:29:09] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[17:29:09] [Server thread/INFO]: [ViaRewind] Enabling ViaRewind v3.0.6
-[17:29:09] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.131
-[17:29:09] [Server thread/INFO]:         __    
-[17:29:09] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.131
-[17:29:09] [Server thread/INFO]:   |___ |      Running on Bukkit - Purpur
-[17:29:09] [Server thread/INFO]: 
-[17:29:09] [Server thread/INFO]: [LuckPerms] Loading configuration...
-[17:29:10] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
-[17:29:10] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
-[17:29:11] [Server thread/INFO]: [LuckPerms] Performing initial data load...
-[17:29:11] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1790ms)
-[17:29:11] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
-[17:29:11] [Server thread/WARN]: [Vault] Loaded class com.earth2me.essentials.api.Economy from Essentials v2.20.1 which is not a depend, softdepend or loadbefore of this plugin.
-[17:29:11] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
-[17:29:11] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
-[17:29:11] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
-[17:29:11] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
-[17:29:11] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[17:29:11] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[17:29:11] [Server thread/WARN]: Whilst this makes it possible to use BungeeCord or Velocity, unless access to your server is properly restricted, it also opens up the ability for hackers to connect with any username they choose.
-[17:29:11] [Server thread/WARN]: Please see http://www.spigotmc.org/wiki/firewall-guide/ for further information.
-[17:29:11] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[17:29:11] [Server thread/INFO]: Preparing level "world"
-[17:29:12] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[17:29:12] [Server thread/INFO]: Time elapsed: 427 ms
-[17:29:12] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[17:29:13] [Server thread/INFO]: Time elapsed: 416 ms
-[17:29:13] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[17:29:13] [Server thread/INFO]: Time elapsed: 294 ms
-[17:29:13] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v4.9.3
-[17:29:13] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.17.1 (756)
-[17:29:13] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v4.9.2
-[17:29:13] [Server thread/INFO]: [ViaRewind-Legacy-Support] Enabling ViaRewind-Legacy-Support v1.4.2
-[17:29:13] [Server thread/INFO]: [Essentials] Enabling Essentials v2.20.1
-[17:29:13] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
-[17:29:13] [Server thread/INFO]: [Essentials] No kits found to migrate.
-[17:29:14] [Server thread/INFO]: [Essentials] Loaded 39094 items from items.json.
-[17:29:14] [Server thread/INFO]: [Essentials] Using locale en
-[17:29:14] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
-[17:29:14] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
-[17:29:14] [Server thread/INFO]: [Vault] [Economy] Essentials Economy hooked.
-[17:29:14] [Server thread/INFO]: [Essentials] Using Vault based permissions (LuckPerms)
-[17:29:14] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.20.1
-[17:29:14] [Server thread/INFO]: [EssentialsSpawn] Starting Metrics. Opt-out using the global bStats config.
-[17:29:14] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.20.1
-[17:29:14] [Server thread/INFO]: [EssentialsChat] Starting Metrics. Opt-out using the global bStats config.
-[17:29:14] [Server thread/INFO]: [TAB] Enabling TAB v5.0.7
-[17:29:14] [Server thread/INFO]: [TAB] Loaded NMS hook in 75ms
-[17:29:14] [Server thread/INFO]: [TAB] Enabled in 257ms
-[17:29:14] [Server thread/INFO]: [Citizens] Enabling Citizens v2.0.29-SNAPSHOT (build 2500)
-[17:29:15] [Server thread/INFO]: [BedWars1058] Enabling BedWars1058 v25.2
-[17:29:15] [Server thread/INFO]: [BedWars1058] Using internal world restore system.
-[17:29:15] [Server thread/INFO]: [BedWars1058] Arena lighthouse was added to the enable queue.
-[17:29:15] [Server thread/INFO]: [BedWars1058] Loading arena: lighthouse
-[17:29:15] [Server thread/WARN]: Scoreboard tab header-footer refresh interval is set to: 10
-[17:29:15] [Server thread/WARN]: It is not recommended to use a value under 20 ticks.
-[17:29:15] [Server thread/WARN]: If you expect performance issues please increase its timer.
-[17:29:15] [Server thread/INFO]: [BedWars1058] Initializing SidebarLib by andrei1058
-[17:29:16] [Server thread/INFO]: Running delayed init tasks
-[17:29:16] [Craft Scheduler Thread - 1 - Essentials/INFO]: [Essentials] Fetching version information...
-[17:29:16] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
-[17:29:16] [Server thread/INFO]: [Essentials] Essentials found a compatible payment resolution method: Vault Compatibility Layer (v1.7.3-b131)!
-[17:29:16] [Server thread/INFO]: [BedWars1058] Hooked into vault chat support!
-[17:29:16] [Server thread/INFO]: [BedWars1058] Hooked into vault economy support!
-[17:29:16] [Craft Scheduler Thread - 4 - BedWars1058/WARN]: [BedWars1058] Support for v1_17_R1 is scheduled for removal. Please consider upgrading your server software to a newer Minecraft version.
-[17:29:16] [Craft Scheduler Thread - 4 - Vault/INFO]: [Vault] Checking for Updates ... 
-[17:29:16] [Server thread/INFO]: [Citizens] Loaded 1 NPCs.
-[17:29:16] [Craft Scheduler Thread - 4 - Vault/INFO]: [Vault] No new version available
-[17:29:16] [Server thread/INFO]: Preparing start region for dimension minecraft:lighthouse
-[17:29:17] [Server thread/INFO]: Preparing spawn area: 0%
-[17:29:17] [Server thread/INFO]: Preparing spawn area: 0%
-[17:29:17] [Server thread/INFO]: Time elapsed: 681 ms
-[17:29:17] [Server thread/INFO]: [BedWars1058] Load done: lighthouse
-[17:29:17] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.2.1, you're on: 4.9.3
-[17:29:17] [Server thread/INFO]: Done (11.869s)! For help, type "help"
-[17:29:17] [Server thread/INFO]: Timings Reset
-[17:29:17] [Server thread/INFO]: [BedWars1058] Hook into Citizens support. /bw npc
-[17:29:17] [Server thread/INFO]: [BedWars1058] Loading internal Party system. /party
-[17:29:17] [Server thread/INFO]: Registering /party command..
-[17:29:19] [Server thread/INFO]: [Essentials] Created a User for  (e44c387a-4436-23d4-ae52-f09b07a57ad2) for non Bukkit type: net.citizensnpcs.nms.v1_17_R1.entity.EntityHumanNPC$PlayerNPC
-[17:29:21] [Server thread/INFO]: [BedWars1058] This server is running in MULTIARENA with auto-scale false
-[17:29:27] [User Authenticator #1/INFO]: UUID of player ysyyayyyayya is 6cd4e570-7a49-3521-8e89-4b4b5c6269c5
-[17:29:27] [Server thread/INFO]: ysyyayyyayya[/[0:0:0:0:0:0:0:1]:43438] logged in with entity id 203 at ([world]-42.180493710687486, 72.0, -3.383535398159103)
-[17:29:27] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|UpdateCert-1.8
-[17:29:27] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FML
-[17:29:27] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|Skins-1.8
-[17:29:27] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FORGE
-[17:31:54] [Server thread/INFO]: ysyyayyyayya lost connection: Disconnected
-[17:36:52] [User Authenticator #2/INFO]: UUID of player HeyBread is 6b3d7afd-3b1d-39dc-a095-3e261a0d9f09
-[17:36:52] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|UpdateCert-1.8
-[17:36:52] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FML
-[17:36:52] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|Skins-1.8
-[17:36:52] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FORGE
-[17:36:52] [Server thread/INFO]: HeyBread[/[0:0:0:0:0:0:0:1]:40150] logged in with entity id 352 at ([world]-34.744278803121034, 70.0, 19.10931973487905)
-[17:36:56] [Server thread/INFO]: HeyBread issued server command: /login urmom1234
-[17:37:00] [Server thread/INFO]: HeyBread issued server command: /login urmom1234
-[17:37:13] [Async Chat Thread - #0/INFO]: [1✩] HeyBread: HELP ME
-[17:37:16] [Server thread/INFO]: HeyBread issued server command: /lobby
-[17:37:17] [Server thread/INFO]: HeyBread issued server command: /tpa
-[17:37:17] [Server thread/INFO]: [Essentials] HeyBread was denied access to command.
-[17:37:19] [Server thread/INFO]: HeyBread issued server command: /tpa
-[17:37:19] [Server thread/INFO]: [Essentials] HeyBread was denied access to command.
-[17:37:21] [Server thread/INFO]: HeyBread issued server command: /teleport
-[17:37:21] [Server thread/INFO]: [Essentials] HeyBread was denied access to command.
-[17:37:41] [Server thread/INFO]: HeyBread has made the advancement [We Need to Go Deeper]
-[17:37:45] [Server thread/INFO]: HeyBread was blown up by Creeper
-[17:37:52] [Server thread/INFO]: HeyBread issued server command: /mv
-[17:37:54] [Server thread/INFO]: HeyBread issued server command: /mv tp skybattle
-[17:37:55] [Server thread/INFO]: HeyBread issued server command: /lobby
-[17:38:39] [User Authenticator #3/INFO]: UUID of player ysyyayyyayya is 6cd4e570-7a49-3521-8e89-4b4b5c6269c5
-[17:38:39] [Server thread/INFO]: ysyyayyyayya[/[0:0:0:0:0:0:0:1]:58246] logged in with entity id 529 at ([world]-6.939507775508634, 67.0, 4.163910811655696)
-[17:38:39] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|UpdateCert-1.8
-[17:38:39] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FML
-[17:38:39] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|Skins-1.8
-[17:38:39] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FORGE
-[17:38:43] [Async Chat Thread - #1/INFO]: [1000003✩] ysyyayyyayya: hi
-[17:38:46] [Server thread/INFO]: HeyBread burned to death
-[17:38:52] [Async Chat Thread - #1/INFO]: [1✩] HeyBread: YS
-[17:38:52] [Async Chat Thread - #1/INFO]: [1000003✩] ysyyayyyayya: WTF?
-[17:38:53] [Async Chat Thread - #1/INFO]: [1✩] HeyBread: HELP ME
-[17:38:55] [Async Chat Thread - #1/INFO]: [1✩] HeyBread: IM TRAPPED
-[17:38:58] [Async Chat Thread - #1/INFO]: [1✩] HeyBread: iN THIS LOBY
-[17:38:59] [Async Chat Thread - #1/INFO]: [1000003✩] ysyyayyyayya: did a creeper blow up?
-[17:39:00] [Async Chat Thread - #1/INFO]: [1✩] HeyBread: also
-[17:39:02] [Async Chat Thread - #1/INFO]: [1✩] HeyBread: yeah
-[17:39:06] [Async Chat Thread - #1/INFO]: [1000003✩] ysyyayyyayya: fk
-[17:39:16] [Async Chat Thread - #1/INFO]: [1✩] HeyBread: js disable mobspawning
-[17:39:25] [Async Chat Thread - #1/INFO]: [1000003✩] ysyyayyyayya: i will later
-[17:39:25] [Async Chat Thread - #1/INFO]: [1✩] HeyBread: can i build
-[17:39:28] [Async Chat Thread - #1/INFO]: [1✩] HeyBread: turn on minigamers
-[17:39:32] [Async Chat Thread - #1/INFO]: [1✩] HeyBread: also
-[17:39:32] [Async Chat Thread - #1/INFO]: [1000003✩] ysyyayyyayya: wait
-[17:39:34] [Async Chat Thread - #1/INFO]: [1✩] HeyBread: tp me to lobby
-[17:39:38] [Async Chat Thread - #1/INFO]: [1✩] HeyBread: im trapped here
-[17:39:39] [Async Chat Thread - #1/INFO]: [1000003✩] ysyyayyyayya: do /server
-[17:39:48] [Async Chat Thread - #1/INFO]: [1✩] HeyBread: oh
-[17:39:54] [Server thread/INFO]: ysyyayyyayya issued server command: /bw
-[17:39:59] [Server thread/INFO]: ysyyayyyayya issued server command: /bw build
-[17:40:01] [Server thread/INFO]: Stopping server
-[17:40:01] [Server thread/INFO]: [TAB] Disabled in 2ms
-[17:40:01] [Server thread/INFO]: Saving players
-[17:40:01] [Server thread/INFO]: ysyyayyyayya lost connection: Server closed
-[17:40:01] [Server thread/INFO]: ysyyayyyayya left the game
-[17:40:01] [Server thread/INFO]: HeyBread lost connection: Server closed
-[17:40:01] [Server thread/INFO]: HeyBread left the game
-[17:40:01] [Thread-6/WARN]: Exception in thread "Thread-6" java.lang.NoClassDefFoundError: org/h2/api/ErrorCode
-[17:40:01] [Thread-6/WARN]: 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:475)
-[17:40:01] [Thread-6/WARN]: 	at org.h2.message.DbException.get(DbException.java:212)
-[17:40:01] [Thread-6/WARN]: 	at org.h2.mvstore.db.Store.close(Store.java:402)
-[17:40:01] [Thread-6/WARN]: 	at org.h2.engine.Database.closeOpenFilesAndUnlock(Database.java:1261)
-[17:40:01] [Thread-6/WARN]: 	at org.h2.engine.Database.closeImpl(Database.java:1225)
-[17:40:01] [Thread-6/WARN]: 	at org.h2.engine.Database.close(Database.java:1144)
-[17:40:01] [Thread-6/WARN]: 	at org.h2.engine.OnExitDatabaseCloser.onShutdown(OnExitDatabaseCloser.java:85)
-[17:40:01] [Thread-6/WARN]: 	at org.h2.engine.OnExitDatabaseCloser.run(OnExitDatabaseCloser.java:114)
-[17:40:01] [Thread-6/WARN]: Caused by: java.lang.ClassNotFoundException: org.h2.api.ErrorCode
-[17:40:01] [Thread-6/WARN]: 	at java.base/java.net.URLClassLoader.findClass(URLClassLoader.java:445)
-[17:40:01] [Thread-6/WARN]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:592)
-[17:40:01] [Thread-6/WARN]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:525)
-[17:40:01] [Thread-6/WARN]: 	... 8 more
-[17:40:01] [Server thread/INFO]: Saving worlds
-[17:40:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[17:40:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[17:40:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[17:40:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[17:40:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[17:40:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[17:40:02] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[17:40:02] [Server thread/INFO]: Flushing Chunk IO
-[17:40:02] [Server thread/INFO]: Closing Thread Pool
-[17:40:02] [Server thread/INFO]: Closing Server
+[14:55:56] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[14:55:57] [main/INFO]: Found new data pack file/bukkit, loading it automatically
+[14:55:57] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[14:55:58] [Worker-Main-1/INFO]: Loaded 7 recipes
+[14:55:59] [Server thread/INFO]: Starting minecraft server version 1.17.1
+[14:55:59] [Server thread/INFO]: Loading properties
+[14:55:59] [Server thread/INFO]: This server is running Purpur version git-Purpur-1428 (MC: 1.17.1) (Implementing API version 1.17.1-R0.1-SNAPSHOT) (Git: 9beb23b on ver/1.17.1)
+[14:55:59] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[14:55:59] [Server thread/INFO]: Using 4 threads for Netty based IO
+[14:55:59] [Server thread/INFO]: Default game type: SURVIVAL
+[14:55:59] [Server thread/INFO]: Generating keypair
+[14:55:59] [Server thread/INFO]: Starting Minecraft server on *:25567
+[14:55:59] [Server thread/INFO]: Using epoll channel type
+[14:55:59] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[14:55:59] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[14:55:59] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[14:55:59] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[14:55:59] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[14:55:59] [Server thread/WARN]: Whilst this makes it possible to use BungeeCord or Velocity, unless access to your server is properly restricted, it also opens up the ability for hackers to connect with any username they choose.
+[14:55:59] [Server thread/WARN]: Please see http://www.spigotmc.org/wiki/firewall-guide/ for further information.
+[14:55:59] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[14:55:59] [Server thread/INFO]: Preparing level "world"
+[14:56:00] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:56:00] [Server thread/INFO]: Time elapsed: 343 ms
+[14:56:00] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[14:56:01] [Server thread/INFO]: Time elapsed: 291 ms
+[14:56:01] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[14:56:01] [Server thread/INFO]: Time elapsed: 306 ms
+[14:56:01] [Server thread/INFO]: Running delayed init tasks
+[14:56:01] [Server thread/INFO]: Done (2.631s)! For help, type "help"
+[14:56:01] [Server thread/INFO]: Timings Reset
+[14:56:31] [Server thread/INFO]: Stopping the server
+[14:56:31] [Server thread/INFO]: Stopping server
+[14:56:31] [Server thread/INFO]: Saving players
+[14:56:31] [Server thread/INFO]: Saving worlds
+[14:56:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[14:56:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[14:56:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[14:56:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[14:56:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14:56:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14:56:34] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[14:56:34] [Server thread/INFO]: Flushing Chunk IO
+[14:56:34] [Server thread/INFO]: Closing Thread Pool
+[14:56:34] [Server thread/INFO]: Closing Server

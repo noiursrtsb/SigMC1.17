@@ -52,3 +52,7 @@
 [14:53:15] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:58346|ysyyayyyayya] -> UpstreamBridge has connected
 [14:53:16] [Netty Worker IO Thread #1/INFO]: [ysyyayyyayya|/[0:0:0:0:0:0:0:1%0]:58346] <-> ServerConnector [lobby] has connected
 [14:53:40] [Netty Worker IO Thread #1/WARN]: Error occurred processing connection for ysyyayyyayya AnnotatedConnectException : finishConnect(..) failed: Connection refused: localhost/127.0.0.1:25567
+[14:58:14] [Netty Worker IO Thread #1/INFO]: [ysyyayyyayya|/[0:0:0:0:0:0:0:1%0]:58346] <-> ServerConnector [bedwars] has connected
+[14:58:14] [Netty Worker IO Thread #1/INFO]: [ysyyayyyayya|/[0:0:0:0:0:0:0:1%0]:58346] <-> ServerConnector [bedwars] has disconnected
+[14:58:17] [Netty Worker IO Thread #1/INFO]: [ysyyayyyayya|/[0:0:0:0:0:0:0:1%0]:58346] <-> ServerConnector [bedwars] has connected
+[14:58:17] [Netty Worker IO Thread #1/INFO]: [ysyyayyyayya|/[0:0:0:0:0:0:0:1%0]:58346] <-> ServerConnector [bedwars] has disconnected

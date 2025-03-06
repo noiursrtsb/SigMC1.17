@@ -26,7 +26,7 @@ npc:
         updateSkins: false
       owner:
         uuid: 6cd4e570-7a49-3521-8e89-4b4b5c6269c5
-    traitnames: scoreboardtrait,mounttrait,location,skintrait,owner,type,equipment,inventory,spawned
+    traitnames: skintrait,mounttrait,location,owner,equipment,type,scoreboardtrait,inventory,spawned
     navigator:
       speedmodifier: '1.0'
       avoidwater: false

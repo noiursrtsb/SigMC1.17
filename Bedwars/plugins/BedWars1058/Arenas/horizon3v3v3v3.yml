@@ -1,0 +1,84 @@
+# BedWars1058 arena configuration file.
+# Documentation here: https://gitlab.com/andrei1058/BedWars1058/wikis/configuration/Arena-Configuration
+group: 3v3v3v3
+display-name: Horizon
+minPlayers: 6
+maxInTeam: 3
+allowSpectate: true
+spawn-protection: 5
+shop-protection: 1
+upgrades-protection: 1
+generator-protection: 1
+island-radius: 17
+worldBorder: 300
+y-kill-height: -10
+max-build-y: 110
+disable-generator-for-empty-teams: false
+disable-npcs-for-empty-teams: false
+vanilla-death-drops: false
+use-bed-hologram: false
+allow-map-break: false
+game-rules:
+- doDaylightCycle:false
+- announceAdvancements:false
+- doInsomnia:false
+- doImmediateRespawn:true
+- doWeatherCycle:false
+- doFireTick:false
+waiting:
+  Loc: 0.5,148.0,0.5,-180.0,0.0
+spectator-loc: 0.5,115.0,0.5,-180.0,0.0
+Team:
+  Red:
+    Color: RED
+    Spawn: 0.5,75.0,-88.5,0.0,0.0
+    Bed: 0.0,75.0,-78.0,0.0,0.0
+    Iron:
+    - 0.5,74.5,-92.5,0.0,0.0
+    Gold:
+    - 0.5,74.5,-92.5,0.0,0.0
+    kill-drops-loc: 0.5,74.5,-92.5,-0.12823939323425293,0.30400776863098145
+    Shop: -5.5,75.0,-88.5,-90.0,0.0
+    Upgrade: 6.5,75.0,-88.5,90.0,0.0
+  Blue:
+    Color: BLUE
+    Spawn: 89.5,75.0,0.5,90.0,0.0
+    Bed: 77.0,75.0,0.0,0.0,0.0
+    Upgrade: 89.5,75.0,6.5,-180.0,0.0
+    Shop: 89.5,75.0,-5.5,0.0,0.0
+    Iron:
+    - 93.5,74.5,0.5,90.20829010009766,-0.8508894443511963
+    Gold:
+    - 93.5,74.5,0.5,90.20829010009766,-0.8508894443511963
+    kill-drops-loc: 93.5,74.5,0.5,90.20829010009766,-0.8508894443511963
+  Green:
+    Color: GREEN
+    Spawn: 0.5,75.0,89.5,180.0,0.0
+    Bed: 0.0,75.0,77.0,0.0,0.0
+    Upgrade: -5.5,75.0,89.5,-90.0,0.0
+    Shop: 6.5,75.0,89.5,90.0,0.0
+    Iron:
+    - 0.5,74.5,93.5,180.16207885742188,0.43236255645751953
+    Gold:
+    - 0.5,74.5,93.5,180.16207885742188,0.43236255645751953
+    kill-drops-loc: 0.5,74.5,93.5,180.16207885742188,0.43236255645751953
+  Yellow:
+    Color: YELLOW
+    Spawn: -88.5,75.0,0.5,270.0,0.0
+    Bed: -78.0,75.0,0.0,0.0,0.0
+    Upgrade: -88.5,75.0,-5.5,0.0,0.0
+    Shop: -88.5,75.0,6.5,180.0,0.0
+    kill-drops-loc: -92.5,74.5,0.5,269.72979736328125,-0.5942373275756836
+    Iron:
+    - -92.5,74.5,0.5,269.72979736328125,-0.5942373275756836
+    Gold:
+    - -92.5,74.5,0.5,269.72979736328125,-0.5942373275756836
+generator:
+  Diamond:
+  - -65.5,73.0,-65.5,255.230224609375,-6.496978759765625
+  - 65.5,74.0,-64.5,271.27081298828125,90.0
+  - 66.5,73.0,66.5,74.23959350585938,-13.041292190551758
+  - -64.5,74.0,65.5,175.22796630859375,-4.443845748901367
+  Emerald:
+  - -16.5,81.0,17.5,316.76397705078125,0.6889753341674805
+  - 17.5,81.0,-16.5,325.23126220703125,-2.3907203674316406

@@ -62,3 +62,7 @@ servers:
     motd: '&1Just another Waterfall - Forced Host'
     address: localhost:25568
     restricted: false
+  pixelmon:
+    motd: '&1Just another Waterfall - Forced Host'
+    address: localhost:25569
+    restricted: false

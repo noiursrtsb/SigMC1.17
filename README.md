@@ -11,6 +11,8 @@
 <p>./paper.sh</p>
 <p>chmod +x skyblock.sh</p>
 <p>./skyblock.sh</p>
+<p>chmod +x pixelmon.sh</p>
+<p>./pixelmon.sh</p>
 <p>chmod +x bedwars.sh</p>
 <p>./bedwars.sh</p>
 <p>chmod +x minigames.sh</p>

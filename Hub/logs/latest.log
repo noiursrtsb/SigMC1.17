@@ -205,3 +205,51 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [22:28:55] [Craft Scheduler Thread - 5 - GadgetsMenu/INFO]: [GadgetsMenu] No update was found, you are running the latest version.
 [22:28:55] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.2.1, you're on: 4.9.3
 [22:28:55] [Craft Scheduler Thread - 7 - Vault/INFO]: [Vault] No new version available
+[22:38:37] [Server thread/INFO]: Stopping the server
+[22:38:37] [Server thread/INFO]: Stopping server
+[22:38:37] [Server thread/INFO]: [PlugManX] Disabling PlugManX v2.4.1
+[22:38:37] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn v2.20.1
+[22:38:37] [Server thread/INFO]: [Multiverse-Portals] Disabling Multiverse-Portals v4.2.3
+[22:38:37] [Server thread/INFO]: [TAB] Disabling TAB v5.0.7
+[22:38:37] [Server thread/INFO]: [TAB] Disabled in 1ms
+[22:38:37] [Server thread/INFO]: [GadgetsMenu] Disabling GadgetsMenu v4.17.0
+[22:38:37] [Server thread/INFO]: [GadgetsMenu] SQLite database connection has been closed.
+[22:38:37] [Server thread/INFO]: [EssentialsChat] Disabling EssentialsChat v2.20.1
+[22:38:37] [Server thread/INFO]: [Multiverse-Inventories] Disabling Multiverse-Inventories v4.2.6
+[22:38:37] [Server thread/INFO]: [Essentials] Disabling Essentials v2.20.1
+[22:38:37] [Server thread/INFO]: [Vault] [Economy] Essentials Economy unhooked.
+[22:38:37] [Server thread/INFO]: [DeluxeHub] Disabling DeluxeHub v3.5.5
+[22:38:37] [Server thread/INFO]: [Citizens] Disabling Citizens v2.0.29-SNAPSHOT (build 2500)
+[22:38:37] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.2.20+6667-f0f1e66
+[22:38:37] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[22:38:37] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v4.3.14
+[22:38:37] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
+[22:38:37] [Server thread/INFO]: [ViaRewind-Legacy-Support] Disabling ViaRewind-Legacy-Support v1.4.2
+[22:38:37] [Server thread/INFO]: [LoginSecurity] Disabling LoginSecurity v3.2.0
+[22:38:37] [Server thread/INFO]: [LoginSecurity] Waiting for queued tasks...
+[22:38:37] [Server thread/INFO]: [LoginSecurity] ExecutorService shut down, ready to disable.
+[22:38:37] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.131
+[22:38:37] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[22:38:37] [Server thread/INFO]: [LuckPerms] Closing storage...
+[22:38:37] [Server thread/INFO]: [LuckPerms] Goodbye!
+[22:38:37] [Server thread/INFO]: [ViaRewind] Disabling ViaRewind v3.0.6
+[22:38:37] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v5.3.0
+[22:38:37] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v4.9.2
+[22:38:37] [Server thread/INFO]: [ServersNPC] Disabling ServersNPC v5.0
+[22:38:37] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v4.9.3
+[22:38:37] [Server thread/INFO]: [ViaVersion] ViaVersion is disabling, if this is a reload and you experience issues consider rebooting.
+[22:38:37] [Server thread/INFO]: [PlaceholderAPI] Disabling PlaceholderAPI v2.11.6
+[22:38:37] [Server thread/INFO]: Saving players
+[22:38:37] [Server thread/INFO]: Saving worlds
+[22:38:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22:38:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[22:38:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[22:38:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Hub]'/minecraft:hub
+[22:38:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:38:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:38:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:38:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (Hub): All chunks are saved
+[22:38:37] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[22:38:37] [Server thread/INFO]: Flushing Chunk IO
+[22:38:37] [Server thread/INFO]: Closing Thread Pool
+[22:38:37] [Server thread/INFO]: Closing Server

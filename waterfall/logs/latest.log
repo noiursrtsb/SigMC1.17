@@ -69,3 +69,6 @@
 [22:34:22] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:37248|ysyyayyyayya] -> UpstreamBridge has disconnected
 [22:34:22] [Netty Worker IO Thread #3/INFO]: [ysyyayyyayya] disconnected with: Proxy lost connection to server.
 [22:34:22] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:37248|ysyyayyyayya] <-> DownstreamBridge <-> [pixelmon] has disconnected
+[22:38:44] [Shutdown Thread/INFO]: Closing listener [id: 0xc8cc3434, L:/[0:0:0:0:0:0:0:0%0]:25577]
+[22:38:44] [Shutdown Thread/INFO]: Closing pending connections
+[22:38:44] [Shutdown Thread/INFO]: Disconnecting 0 connections

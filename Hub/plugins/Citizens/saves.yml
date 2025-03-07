@@ -26,7 +26,7 @@ npc:
         updateSkins: false
       owner:
         uuid: 6cd4e570-7a49-3521-8e89-4b4b5c6269c5
-    traitnames: type,scoreboardtrait,location,equipment,owner,inventory,skintrait,mounttrait,spawned
+    traitnames: mounttrait,skintrait,scoreboardtrait,equipment,location,type,spawned,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -71,7 +71,7 @@ npc:
         z: '1356.4509'
         yaw: '-135.2531'
         pitch: '-0.15'
-    traitnames: type,scoreboardtrait,location,equipment,owner,skintrait,inventory,mounttrait,commandtrait,spawned
+    traitnames: mounttrait,skintrait,scoreboardtrait,commandtrait,equipment,location,type,spawned,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -117,7 +117,7 @@ npc:
         z: '1356.6177'
         yaw: '135.047'
         pitch: '0.15'
-    traitnames: type,scoreboardtrait,location,equipment,owner,inventory,skintrait,mounttrait,commandtrait,spawned
+    traitnames: mounttrait,scoreboardtrait,skintrait,commandtrait,equipment,location,type,spawned,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -162,7 +162,7 @@ npc:
             globalcooldown: 0
             n: -1
             delay: 0
-    traitnames: type,scoreboardtrait,location,owner,equipment,skintrait,inventory,mounttrait,commandtrait,spawned
+    traitnames: mounttrait,scoreboardtrait,skintrait,commandtrait,equipment,location,type,spawned,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -192,7 +192,7 @@ npc:
         z: '1340.3298'
         yaw: '-44.8501'
         pitch: '-0.45'
-    traitnames: type,scoreboardtrait,location,owner,equipment,skintrait,inventory,mounttrait,spawned
+    traitnames: mounttrait,skintrait,scoreboardtrait,equipment,location,type,spawned,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false

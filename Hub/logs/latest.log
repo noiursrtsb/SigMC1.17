@@ -1,215 +1,215 @@
-[14:51:35] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[14:51:36] [main/INFO]: Reloading ResourceManager: Default, bukkit
-[14:51:37] [Worker-Main-1/INFO]: Loaded 7 recipes
-[14:51:41] [Server thread/INFO]: Starting minecraft server version 1.17.1
-[14:51:41] [Server thread/INFO]: Loading properties
-[14:51:41] [Server thread/INFO]: This server is running Purpur version git-Purpur-1428 (MC: 1.17.1) (Implementing API version 1.17.1-R0.1-SNAPSHOT) (Git: 9beb23b on ver/1.17.1)
-[14:51:42] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[14:51:42] [Server thread/INFO]: Using 4 threads for Netty based IO
-[14:51:42] [Server thread/INFO]: Default game type: ADVENTURE
-[14:51:42] [Server thread/INFO]: Generating keypair
-[14:51:42] [Server thread/INFO]: Starting Minecraft server on *:25565
-[14:51:43] [Server thread/INFO]: Using epoll channel type
-[14:51:43] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[14:51:43] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[14:51:45] [Server thread/INFO]: [PlaceholderAPI] Loading PlaceholderAPI v2.11.6
-[14:51:45] [Server thread/INFO]: [ViaVersion] Loading ViaVersion v4.9.3
-[14:51:45] [Server thread/INFO]: [ViaVersion] ViaVersion 4.9.3 is now loaded. Registering protocol transformers and injecting...
-[14:51:46] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
-[14:51:47] [Server thread/INFO]: [ViaBackwards] Loading translations...
-[14:51:47] [Server thread/INFO]: [ViaBackwards] Registering protocols...
-[14:51:47] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
-[14:51:48] [Server thread/INFO]: [ServersNPC] Loading ServersNPC v5.0
-[14:51:48] [Server thread/INFO]: [ViaBackwards] Loading ViaBackwards v4.9.2
-[14:51:48] [Server thread/INFO]: [ProtocolLib] Loading ProtocolLib v5.3.0
-[14:51:48] [Server thread/INFO]: [ViaRewind] Loading ViaRewind v3.0.6
-[14:51:48] [Server thread/INFO]: [LuckPerms] Loading LuckPerms v5.4.131
-[14:51:49] [Server thread/INFO]: [LoginSecurity] Loading LoginSecurity v3.2.0
-[14:51:49] [Server thread/INFO]: [ViaRewind-Legacy-Support] Loading ViaRewind-Legacy-Support v1.4.2
-[14:51:49] [Server thread/INFO]: [Vault] Loading Vault v1.7.3-b131
-[14:51:49] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v4.3.14
-[14:51:49] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v7.2.20+6667-f0f1e66
-[14:51:51] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@22a2b3b8]
-[14:51:51] [Server thread/INFO]: [Citizens] Loading Citizens v2.0.29-SNAPSHOT (build 2500)
-[14:51:51] [Server thread/INFO]: [DeluxeHub] Loading DeluxeHub v3.5.5
-[14:51:51] [Server thread/INFO]: [Essentials] Loading Essentials v2.20.1
-[14:51:51] [Server thread/INFO]: [Multiverse-Inventories] Loading Multiverse-Inventories v4.2.6
-[14:51:51] [Server thread/INFO]: [EssentialsChat] Loading EssentialsChat v2.20.1
-[14:51:51] [Server thread/INFO]: [GadgetsMenu] Loading GadgetsMenu v4.17.0
-[14:51:51] [Server thread/INFO]: [TAB] Loading TAB v5.0.7
-[14:51:51] [Server thread/INFO]: [Multiverse-Portals] Loading Multiverse-Portals v4.2.3
-[14:51:51] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn v2.20.1
-[14:51:51] [Server thread/INFO]: [PlugManX] Loading PlugManX v2.4.1
-[14:51:51] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[14:51:51] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v5.3.0
-[14:51:51] [Server thread/INFO]: [ViaRewind] Enabling ViaRewind v3.0.6
-[14:51:51] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.131
-[14:51:53] [Server thread/INFO]:         __    
-[14:51:53] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.131
-[14:51:53] [Server thread/INFO]:   |___ |      Running on Bukkit - Purpur
-[14:51:53] [Server thread/INFO]: 
-[14:51:53] [Server thread/INFO]: [LuckPerms] Loading configuration...
-[14:51:55] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
-[14:51:56] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
-[14:51:57] [Server thread/INFO]: [LuckPerms] Performing initial data load...
-[14:51:57] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 5775ms)
-[14:51:57] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
-[14:51:57] [Server thread/WARN]: [Vault] Loaded class com.earth2me.essentials.api.Economy from Essentials v2.20.1 which is not a depend, softdepend or loadbefore of this plugin.
-[14:51:57] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
-[14:51:58] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
-[14:51:58] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
-[14:51:58] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
-[14:51:58] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.2.20+6667-f0f1e66
-[14:51:58] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
-[14:51:58] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
-[14:51:59] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_17_R1_2.PaperweightAdapter as the Bukkit adapter
-[14:52:03] [Server thread/INFO]: [PlugManX] Enabling PlugManX v2.4.1
-[14:52:04] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[14:52:04] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[14:52:04] [Server thread/WARN]: Whilst this makes it possible to use BungeeCord or Velocity, unless access to your server is properly restricted, it also opens up the ability for hackers to connect with any username they choose.
-[14:52:04] [Server thread/WARN]: Please see http://www.spigotmc.org/wiki/firewall-guide/ for further information.
-[14:52:04] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[14:52:04] [Server thread/INFO]: Preparing level "world"
-[14:52:06] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[14:52:07] [Server thread/INFO]: Time elapsed: 798 ms
-[14:52:07] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[14:52:07] [Server thread/INFO]: Time elapsed: 385 ms
-[14:52:07] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[14:52:07] [Server thread/INFO]: Time elapsed: 226 ms
-[14:52:07] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.6
-[14:52:08] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
-[14:52:08] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v4.9.3
-[14:52:08] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.17.1 (756)
-[14:52:08] [Server thread/INFO]: [ServersNPC] Enabling ServersNPC v5.0
-[14:52:09] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v4.9.2
-[14:52:09] [Server thread/INFO]: [LoginSecurity] Enabling LoginSecurity v3.2.0
-[14:52:09] [Server thread/INFO]: [LoginSecurity] Loading base translations from "en_us"
-[14:52:09] [Server thread/INFO]: [LoginSecurity] Loading specified translations from "en_us"
-[14:52:10] [Server thread/INFO]: [LoginSecurity] Registering commands...
-[14:52:10] [Server thread/INFO]: [LoginSecurity] Registering listeners...
-[14:52:10] [Server thread/INFO]: [LoginSecurity] Using 1.12+ map captcha renderer
-[14:52:10] [Server thread/INFO]: [ViaRewind-Legacy-Support] Enabling ViaRewind-Legacy-Support v1.4.2
-[14:52:10] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v4.3.14
-[14:52:10] [Server thread/WARN]: [Multiverse-Core] "Multiverse-Core v4.3.14" has registered a listener for org.bukkit.event.entity.EntityCreatePortalEvent on method "public void com.onarandombox.MultiverseCore.listeners.MVPortalListener.entityPortalCreate(org.bukkit.event.entity.EntityCreatePortalEvent)", but the event is Deprecated. "Server performance will be affected"; please notify the authors [dumptruckman, Rigby, fernferret, lithium3141, main--].
-[14:52:10] [Server thread/INFO]: [Multiverse-Core] We are aware of the warning about the deprecated event. There is no alternative that allows us to do what we need to do and performance impact is negligible. It is safe to ignore.
-[14:52:10] [Server thread/WARN]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: Bedwars
-[14:52:10] [Server thread/WARN]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
-[14:52:10] [Server thread/WARN]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: spawn
-[14:52:10] [Server thread/WARN]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
-[14:52:11] [Server thread/INFO]: Preparing start region for dimension minecraft:hub
-[14:52:11] [Server thread/INFO]: Preparing spawn area: 0%
-[14:52:11] [Server thread/INFO]: Preparing spawn area: 0%
-[14:52:12] [Server thread/INFO]: Time elapsed: 961 ms
-[14:52:12] [Server thread/WARN]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: Lighthouse
-[14:52:12] [Server thread/WARN]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
-[14:52:12] [Server thread/WARN]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: bedwarslobby
-[14:52:12] [Server thread/WARN]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
-[14:52:12] [Server thread/WARN]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: tarkhine
-[14:52:12] [Server thread/WARN]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
-[14:52:12] [Server thread/INFO]: [Multiverse-Core] 4 - World(s) loaded.
-[14:52:12] [Server thread/WARN]: [Multiverse-Core] Buscript failed to load! The script command will be disabled! If you would like not to see this message, use `/mv conf enablebuscript false` to disable Buscript from loading.
-[14:52:12] [Server thread/INFO]: [Multiverse-Core] Version 4.3.14 (API v24) Enabled - By dumptruckman, Rigby, fernferret, lithium3141 and main--
-[14:52:12] [Server thread/INFO]: [Citizens] Enabling Citizens v2.0.29-SNAPSHOT (build 2500)
-[14:52:13] [Server thread/INFO]: [DeluxeHub] Enabling DeluxeHub v3.5.5
-[14:52:13] [Server thread/INFO]: [DeluxeHub]  _   _            _          _    _ 
-[14:52:13] [Server thread/INFO]: [DeluxeHub] | \ |_ |  | | \/ |_ |_| | | |_)   _)
-[14:52:13] [Server thread/INFO]: [DeluxeHub] |_/ |_ |_ |_| /\ |_ | | |_| |_)   _)
-[14:52:13] [Server thread/INFO]: [DeluxeHub] 
-[14:52:13] [Server thread/INFO]: [DeluxeHub] Version: 3.5.5
-[14:52:13] [Server thread/INFO]: [DeluxeHub] Author: ItsLewizzz
-[14:52:13] [Server thread/INFO]: [DeluxeHub] 
-[14:52:13] [Server thread/INFO]: [DeluxeHub]  Hooked into PlaceholderAPI
-[14:52:13] [Server thread/INFO]: [DeluxeHub] Loaded custom menu 'serverselector'.
-[14:52:13] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Spigot: v1_17_R1! Trying to find NMS support
-[14:52:13] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_17_R1' loaded!
-[14:52:13] [Server thread/INFO]: [NBTAPI] [NBTAPI] Using the plugin 'DeluxeHub' to create a bStats instance!
-[14:52:13] [Server thread/INFO]: [DeluxeHub] Loaded 17 plugin modules.
-[14:52:13] [Server thread/INFO]: [DeluxeHub] 
-[14:52:13] [Server thread/INFO]: [DeluxeHub] Successfully loaded in 528ms
-[14:52:13] [Server thread/INFO]: [Essentials] Enabling Essentials v2.20.1
-[14:52:14] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
-[14:52:14] [Server thread/INFO]: [Essentials] No kits found to migrate.
-[14:52:15] [Server thread/INFO]: [Essentials] Loaded 39094 items from items.json.
-[14:52:15] [Server thread/INFO]: [Essentials] Using locale en
-[14:52:15] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
-[14:52:15] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
-[14:52:15] [Server thread/INFO]: [Vault] [Economy] Essentials Economy hooked.
-[14:52:15] [Server thread/INFO]: [Essentials] Using Vault based permissions (LuckPerms)
-[14:52:15] [Server thread/INFO]: [Multiverse-Inventories] Enabling Multiverse-Inventories v4.2.6
-[14:52:15] [Server thread/INFO]: [Multiverse-Inventories 4.2.6] enabled.
-[14:52:15] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.20.1
-[14:52:15] [Server thread/INFO]: [EssentialsChat] Starting Metrics. Opt-out using the global bStats config.
-[14:52:15] [Server thread/INFO]: [GadgetsMenu] Enabling GadgetsMenu v4.17.0
-[14:52:15] [Server thread/INFO]: [GadgetsMenu] ------------------------------------------------------
-[14:52:15] [Server thread/INFO]: [GadgetsMenu]        GadgetsMenu [Free] 4.17.0 is loading...
-[14:52:15] [Server thread/INFO]: [GadgetsMenu]         [server: git-Purpur-1428 (MC: 1.17.1)]
-[14:52:15] [Server thread/INFO]: [GadgetsMenu]                  Running Java 17.0.9
-[14:52:15] [Server thread/INFO]: [GadgetsMenu]                Plugin by Yap Zhen Yie.
-[14:52:15] [Server thread/INFO]: [GadgetsMenu]             Date Modified: 12 January 2025
-[14:52:15] [Server thread/INFO]: [GadgetsMenu]                            
-[14:52:15] [Server thread/INFO]: [GadgetsMenu]              Initializing module v1_17_R1
-[14:52:15] [Server thread/INFO]: [GadgetsMenu] ------------------------------------------------------
-[14:52:16] [Server thread/INFO]: [GadgetsMenu] [Economy Storage] Successfully registered economy storage: default (GadgetsMenu)
-[14:52:16] [Server thread/INFO]: [GadgetsMenu] [Economy Storage] Successfully set default as the active economy storage.
-[14:52:16] [Server thread/INFO]: [GadgetsMenu] Initialized Sound Effects. (took 21ms)
-[14:52:18] [Server thread/INFO]: [GadgetsMenu] Connecting to SQLite database...
-[14:52:18] [Server thread/INFO]: [GadgetsMenu] Successfully connected to SQLite database!
-[14:52:18] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: gadgetsmenu [1.0.3]
-[14:52:18] [Server thread/INFO]: [GadgetsMenu] [Placeholder] PlaceholderAPI hooked.
-[14:52:18] [Server thread/INFO]: [TAB] Enabling TAB v5.0.7
-[14:52:18] [Server thread/INFO]: [TAB] Loaded NMS hook in 210ms
-[14:52:19] [Server thread/INFO]: [TAB] Enabled in 643ms
-[14:52:19] [Server thread/INFO]: [Multiverse-Portals] Enabling Multiverse-Portals v4.2.3
-[14:52:19] [Server thread/WARN]: [Multiverse-Portals] Failed Parsing World for: Survival (World Error, World did not exist or was not imported into Multiverse-Core!)
-[14:52:19] [Server thread/WARN]: [Multiverse-Portals] Portal Survival has an invalid LOCATION!
-[14:52:19] [Server thread/WARN]: [Multiverse-Portals] Portal 'Survival' not loaded due to invalid location!
-[14:52:19] [Server thread/INFO]: [Multiverse-Portals] 1 - Portals(s) loaded
-[14:52:19] [Server thread/INFO]: [Multiverse-Portals] Found WorldEdit. Using it for selections.
-[14:52:19] [Server thread/INFO]: [Multiverse-Portals 4.2.3]  Enabled - By Rigby and fernferret
-[14:52:19] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.20.1
-[14:52:20] [Server thread/INFO]: [EssentialsSpawn] Starting Metrics. Opt-out using the global bStats config.
-[14:52:22] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
-[14:52:22] [Server thread/INFO]: Running delayed init tasks
-[14:52:22] [Server thread/INFO]: [Essentials] Essentials found a compatible payment resolution method: Vault Compatibility Layer (v1.7.3-b131)!
-[14:52:22] [Server thread/INFO]: 0 placeholder hook(s) registered!
-[14:52:22] [Craft Scheduler Thread - 6 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
-[14:52:22] [Server thread/INFO]: [Citizens] Loaded 1 NPCs.
-[14:52:22] [Craft Scheduler Thread - 6 - Essentials/INFO]: [Essentials] Fetching version information...
-[14:52:22] [Server thread/INFO]: [Multiverse-Inventories] First run!
-[14:52:22] [Craft Scheduler Thread - 8 - GadgetsMenu/INFO]: [GadgetsMenu] Checking for updates...
-[14:52:22] [Server thread/INFO]: Done (40.337s)! For help, type "help"
-[14:52:22] [Server thread/INFO]: Timings Reset
-[14:52:22] [Craft Scheduler Thread - 11 - Vault/INFO]: [Vault] Checking for Updates ... 
-[14:52:22] [Craft Scheduler Thread - 11 - Vault/INFO]: [Vault] No new version available
-[14:52:22] [Craft Scheduler Thread - 8 - GadgetsMenu/INFO]: [GadgetsMenu] No update was found, you are running the latest version.
-[14:52:22] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.2.1, you're on: 4.9.3
-[14:52:22] [Server thread/WARN]: UUID of added entity already exists: EntitySheep['Sheep'/10, uuid='36e97fe3-85ad-4c30-97be-7af8e522d2bc', l='ServerLevel[world]', x=35.20, y=74.00, z=4.62, cpos=[2, 0], tl=1001550, v=false, rR=null]
-[14:53:18] [User Authenticator #1/INFO]: UUID of player ysyyayyyayya is 6cd4e570-7a49-3521-8e89-4b4b5c6269c5
-[14:53:19] [Server thread/INFO]: + ysyyayyyayya Connected
-[14:53:19] [Server thread/INFO]: ysyyayyyayya[/[0:0:0:0:0:0:0:1]:60948] logged in with entity id 105 at ([Hub]242.4761421865926, 63.0, 1348.4643426760017)
-[14:53:19] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|UpdateCert-1.8
-[14:53:19] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FML
-[14:53:19] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|Skins-1.8
-[14:53:19] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FORGE
-[14:53:31] [Server thread/ERROR]: No TreeType mapping for TreeGenerator.TreeType.MANGROVE
-[14:53:31] [Server thread/ERROR]: No TreeType mapping for TreeGenerator.TreeType.TALL_MANGROVE
-[14:53:31] [Server thread/ERROR]: No TreeType mapping for TreeGenerator.TreeType.CHERRY
-[15:02:50] [Server thread/INFO]: ysyyayyyayya lost connection: Disconnected
-[15:02:51] [Server thread/INFO]: - ysyyayyyayya Disconnected
-[15:07:34] [Server thread/INFO]: Stopping server
-[15:07:34] [Server thread/INFO]: [TAB] Disabled in 4ms
-[15:07:34] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
-[15:07:34] [Server thread/INFO]: Saving players
-[15:07:34] [Server thread/INFO]: Saving worlds
-[15:07:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[15:07:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[15:07:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[15:07:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Hub]'/minecraft:hub
-[15:07:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[15:07:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[15:07:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[15:07:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (Hub): All chunks are saved
-[15:07:35] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[15:07:35] [Server thread/INFO]: Flushing Chunk IO
-[15:07:35] [Server thread/INFO]: Closing Thread Pool
-[15:07:35] [Server thread/INFO]: Closing Server
+[16:09:42] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[16:09:43] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[16:09:43] [Worker-Main-1/INFO]: Loaded 7 recipes
+[16:09:45] [Server thread/INFO]: Starting minecraft server version 1.17.1
+[16:09:45] [Server thread/INFO]: Loading properties
+[16:09:45] [Server thread/INFO]: This server is running Purpur version git-Purpur-1428 (MC: 1.17.1) (Implementing API version 1.17.1-R0.1-SNAPSHOT) (Git: 9beb23b on ver/1.17.1)
+[16:09:45] [Server thread/WARN]: Couldn't load server icon
+java.lang.IllegalArgumentException: Must be 64 pixels wide
+	at org.apache.commons.lang.Validate.isTrue(Validate.java:136) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at org.bukkit.craftbukkit.v1_17_R1.CraftServer.loadServerIcon0(CraftServer.java:2275) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at org.bukkit.craftbukkit.v1_17_R1.CraftServer.loadServerIcon0(CraftServer.java:2263) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at org.bukkit.craftbukkit.v1_17_R1.CraftServer.loadIcon(CraftServer.java:1060) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at org.bukkit.craftbukkit.v1_17_R1.CraftServer.<init>(CraftServer.java:377) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at net.minecraft.server.players.PlayerList.<init>(PlayerList.java:160) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at net.minecraft.server.dedicated.DedicatedPlayerList.<init>(DedicatedPlayerList.java:15) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:214) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1233) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:322) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[16:09:45] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[16:09:45] [Server thread/INFO]: Using 4 threads for Netty based IO
+[16:09:45] [Server thread/INFO]: Default game type: ADVENTURE
+[16:09:45] [Server thread/INFO]: Generating keypair
+[16:09:46] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:09:46] [Server thread/INFO]: Using epoll channel type
+[16:09:46] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[16:09:46] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[16:09:46] [Server thread/INFO]: [PlaceholderAPI] Loading PlaceholderAPI v2.11.6
+[16:09:46] [Server thread/INFO]: [ViaVersion] Loading ViaVersion v4.9.3
+[16:09:46] [Server thread/INFO]: [ViaVersion] ViaVersion 4.9.3 is now loaded. Registering protocol transformers and injecting...
+[16:09:47] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[16:09:47] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[16:09:47] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[16:09:47] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[16:09:47] [Server thread/INFO]: [ServersNPC] Loading ServersNPC v5.0
+[16:09:47] [Server thread/INFO]: [ViaBackwards] Loading ViaBackwards v4.9.2
+[16:09:47] [Server thread/INFO]: [ProtocolLib] Loading ProtocolLib v5.3.0
+[16:09:48] [Server thread/INFO]: [ViaRewind] Loading ViaRewind v3.0.6
+[16:09:48] [Server thread/INFO]: [LuckPerms] Loading LuckPerms v5.4.131
+[16:09:48] [Server thread/INFO]: [LoginSecurity] Loading LoginSecurity v3.2.0
+[16:09:48] [Server thread/INFO]: [ViaRewind-Legacy-Support] Loading ViaRewind-Legacy-Support v1.4.2
+[16:09:48] [Server thread/INFO]: [Vault] Loading Vault v1.7.3-b131
+[16:09:48] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v4.3.14
+[16:09:48] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v7.2.20+6667-f0f1e66
+[16:09:48] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@210f118c]
+[16:09:48] [Server thread/INFO]: [Citizens] Loading Citizens v2.0.29-SNAPSHOT (build 2500)
+[16:09:48] [Server thread/INFO]: [DeluxeHub] Loading DeluxeHub v3.5.5
+[16:09:48] [Server thread/INFO]: [Essentials] Loading Essentials v2.20.1
+[16:09:48] [Server thread/INFO]: [Multiverse-Inventories] Loading Multiverse-Inventories v4.2.6
+[16:09:48] [Server thread/INFO]: [EssentialsChat] Loading EssentialsChat v2.20.1
+[16:09:48] [Server thread/INFO]: [GadgetsMenu] Loading GadgetsMenu v4.17.0
+[16:09:48] [Server thread/INFO]: [TAB] Loading TAB v5.0.7
+[16:09:48] [Server thread/INFO]: [Multiverse-Portals] Loading Multiverse-Portals v4.2.3
+[16:09:48] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn v2.20.1
+[16:09:48] [Server thread/INFO]: [PlugManX] Loading PlugManX v2.4.1
+[16:09:48] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[16:09:48] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v5.3.0
+[16:09:49] [Server thread/INFO]: [ViaRewind] Enabling ViaRewind v3.0.6
+[16:09:49] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.131
+[16:09:49] [Server thread/INFO]:         __    
+[16:09:49] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.131
+[16:09:49] [Server thread/INFO]:   |___ |      Running on Bukkit - Purpur
+[16:09:49] [Server thread/INFO]: 
+[16:09:49] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[16:09:49] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[16:09:50] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[16:09:50] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[16:09:50] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1783ms)
+[16:09:50] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
+[16:09:50] [Server thread/WARN]: [Vault] Loaded class com.earth2me.essentials.api.Economy from Essentials v2.20.1 which is not a depend, softdepend or loadbefore of this plugin.
+[16:09:50] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[16:09:50] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[16:09:50] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
+[16:09:50] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
+[16:09:50] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.2.20+6667-f0f1e66
+[16:09:50] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[16:09:50] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[16:09:51] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_17_R1_2.PaperweightAdapter as the Bukkit adapter
+[16:09:52] [Server thread/INFO]: [PlugManX] Enabling PlugManX v2.4.1
+[16:09:52] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[16:09:52] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[16:09:52] [Server thread/WARN]: Whilst this makes it possible to use BungeeCord or Velocity, unless access to your server is properly restricted, it also opens up the ability for hackers to connect with any username they choose.
+[16:09:52] [Server thread/WARN]: Please see http://www.spigotmc.org/wiki/firewall-guide/ for further information.
+[16:09:52] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[16:09:52] [Server thread/INFO]: Preparing level "world"
+[16:09:53] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:09:53] [Server thread/INFO]: Time elapsed: 436 ms
+[16:09:53] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[16:09:54] [Server thread/INFO]: Time elapsed: 210 ms
+[16:09:54] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[16:09:54] [Server thread/INFO]: Time elapsed: 244 ms
+[16:09:54] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.6
+[16:09:54] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[16:09:54] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v4.9.3
+[16:09:54] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.17.1 (756)
+[16:09:54] [Server thread/INFO]: [ServersNPC] Enabling ServersNPC v5.0
+[16:09:54] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v4.9.2
+[16:09:54] [Server thread/INFO]: [LoginSecurity] Enabling LoginSecurity v3.2.0
+[16:09:54] [Server thread/INFO]: [LoginSecurity] Loading base translations from "en_us"
+[16:09:54] [Server thread/INFO]: [LoginSecurity] Loading specified translations from "en_us"
+[16:09:55] [Server thread/INFO]: [LoginSecurity] Registering commands...
+[16:09:55] [Server thread/INFO]: [LoginSecurity] Registering listeners...
+[16:09:55] [Server thread/INFO]: [LoginSecurity] Using 1.12+ map captcha renderer
+[16:09:55] [Server thread/INFO]: [ViaRewind-Legacy-Support] Enabling ViaRewind-Legacy-Support v1.4.2
+[16:09:55] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v4.3.14
+[16:09:55] [Server thread/WARN]: [Multiverse-Core] "Multiverse-Core v4.3.14" has registered a listener for org.bukkit.event.entity.EntityCreatePortalEvent on method "public void com.onarandombox.MultiverseCore.listeners.MVPortalListener.entityPortalCreate(org.bukkit.event.entity.EntityCreatePortalEvent)", but the event is Deprecated. "Server performance will be affected"; please notify the authors [dumptruckman, Rigby, fernferret, lithium3141, main--].
+[16:09:55] [Server thread/INFO]: [Multiverse-Core] We are aware of the warning about the deprecated event. There is no alternative that allows us to do what we need to do and performance impact is negligible. It is safe to ignore.
+[16:09:55] [Server thread/WARN]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: Bedwars
+[16:09:55] [Server thread/WARN]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
+[16:09:55] [Server thread/WARN]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: spawn
+[16:09:55] [Server thread/WARN]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
+[16:09:55] [Server thread/INFO]: Preparing start region for dimension minecraft:hub
+[16:09:55] [Server thread/INFO]: Preparing spawn area: 0%
+[16:09:55] [Server thread/INFO]: Time elapsed: 395 ms
+[16:09:55] [Server thread/WARN]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: Lighthouse
+[16:09:55] [Server thread/WARN]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
+[16:09:55] [Server thread/WARN]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: bedwarslobby
+[16:09:55] [Server thread/WARN]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
+[16:09:55] [Server thread/WARN]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: tarkhine
+[16:09:55] [Server thread/WARN]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
+[16:09:55] [Server thread/INFO]: [Multiverse-Core] 4 - World(s) loaded.
+[16:09:55] [Server thread/WARN]: [Multiverse-Core] Buscript failed to load! The script command will be disabled! If you would like not to see this message, use `/mv conf enablebuscript false` to disable Buscript from loading.
+[16:09:55] [Server thread/INFO]: [Multiverse-Core] Version 4.3.14 (API v24) Enabled - By dumptruckman, Rigby, fernferret, lithium3141 and main--
+[16:09:56] [Server thread/INFO]: [Citizens] Enabling Citizens v2.0.29-SNAPSHOT (build 2500)
+[16:09:56] [Server thread/INFO]: [DeluxeHub] Enabling DeluxeHub v3.5.5
+[16:09:56] [Server thread/INFO]: [DeluxeHub]  _   _            _          _    _ 
+[16:09:56] [Server thread/INFO]: [DeluxeHub] | \ |_ |  | | \/ |_ |_| | | |_)   _)
+[16:09:56] [Server thread/INFO]: [DeluxeHub] |_/ |_ |_ |_| /\ |_ | | |_| |_)   _)
+[16:09:56] [Server thread/INFO]: [DeluxeHub] 
+[16:09:56] [Server thread/INFO]: [DeluxeHub] Version: 3.5.5
+[16:09:56] [Server thread/INFO]: [DeluxeHub] Author: ItsLewizzz
+[16:09:56] [Server thread/INFO]: [DeluxeHub] 
+[16:09:56] [Server thread/INFO]: [DeluxeHub]  Hooked into PlaceholderAPI
+[16:09:56] [Server thread/INFO]: [DeluxeHub] Loaded custom menu 'serverselector'.
+[16:09:56] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Spigot: v1_17_R1! Trying to find NMS support
+[16:09:56] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_17_R1' loaded!
+[16:09:56] [Server thread/INFO]: [NBTAPI] [NBTAPI] Using the plugin 'DeluxeHub' to create a bStats instance!
+[16:09:56] [Server thread/INFO]: [DeluxeHub] Loaded 17 plugin modules.
+[16:09:56] [Server thread/INFO]: [DeluxeHub] 
+[16:09:56] [Server thread/INFO]: [DeluxeHub] Successfully loaded in 290ms
+[16:09:56] [Server thread/INFO]: [Essentials] Enabling Essentials v2.20.1
+[16:09:56] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[16:09:56] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[16:09:56] [Server thread/INFO]: [Essentials] Loaded 39094 items from items.json.
+[16:09:56] [Server thread/INFO]: [Essentials] Using locale en
+[16:09:57] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[16:09:57] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[16:09:57] [Server thread/INFO]: [Vault] [Economy] Essentials Economy hooked.
+[16:09:57] [Server thread/INFO]: [Essentials] Using Vault based permissions (LuckPerms)
+[16:09:57] [Server thread/INFO]: [Multiverse-Inventories] Enabling Multiverse-Inventories v4.2.6
+[16:09:57] [Server thread/INFO]: [Multiverse-Inventories 4.2.6] enabled.
+[16:09:57] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.20.1
+[16:09:57] [Server thread/INFO]: [EssentialsChat] Starting Metrics. Opt-out using the global bStats config.
+[16:09:57] [Server thread/INFO]: [GadgetsMenu] Enabling GadgetsMenu v4.17.0
+[16:09:57] [Server thread/INFO]: [GadgetsMenu] ------------------------------------------------------
+[16:09:57] [Server thread/INFO]: [GadgetsMenu]        GadgetsMenu [Free] 4.17.0 is loading...
+[16:09:57] [Server thread/INFO]: [GadgetsMenu]         [server: git-Purpur-1428 (MC: 1.17.1)]
+[16:09:57] [Server thread/INFO]: [GadgetsMenu]                  Running Java 17.0.9
+[16:09:57] [Server thread/INFO]: [GadgetsMenu]                Plugin by Yap Zhen Yie.
+[16:09:57] [Server thread/INFO]: [GadgetsMenu]             Date Modified: 12 January 2025
+[16:09:57] [Server thread/INFO]: [GadgetsMenu]                            
+[16:09:57] [Server thread/INFO]: [GadgetsMenu]              Initializing module v1_17_R1
+[16:09:57] [Server thread/INFO]: [GadgetsMenu] ------------------------------------------------------
+[16:09:57] [Server thread/INFO]: [GadgetsMenu] [Economy Storage] Successfully registered economy storage: default (GadgetsMenu)
+[16:09:57] [Server thread/INFO]: [GadgetsMenu] [Economy Storage] Successfully set default as the active economy storage.
+[16:09:57] [Server thread/INFO]: [GadgetsMenu] Initialized Sound Effects. (took 11ms)
+[16:09:57] [Server thread/INFO]: [GadgetsMenu] Connecting to SQLite database...
+[16:09:57] [Server thread/INFO]: [GadgetsMenu] Successfully connected to SQLite database!
+[16:09:57] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: gadgetsmenu [1.0.3]
+[16:09:57] [Server thread/INFO]: [GadgetsMenu] [Placeholder] PlaceholderAPI hooked.
+[16:09:57] [Server thread/INFO]: [TAB] Enabling TAB v5.0.7
+[16:09:58] [Server thread/INFO]: [TAB] Loaded NMS hook in 74ms
+[16:09:58] [Server thread/INFO]: [TAB] Enabled in 167ms
+[16:09:58] [Server thread/INFO]: [Multiverse-Portals] Enabling Multiverse-Portals v4.2.3
+[16:09:58] [Server thread/WARN]: [Multiverse-Portals] Failed Parsing World for: Survival (World Error, World did not exist or was not imported into Multiverse-Core!)
+[16:09:58] [Server thread/WARN]: [Multiverse-Portals] Portal Survival has an invalid LOCATION!
+[16:09:58] [Server thread/WARN]: [Multiverse-Portals] Portal 'Survival' not loaded due to invalid location!
+[16:09:58] [Server thread/INFO]: [Multiverse-Portals] 1 - Portals(s) loaded
+[16:09:58] [Server thread/INFO]: [Multiverse-Portals] Found WorldEdit. Using it for selections.
+[16:09:58] [Server thread/INFO]: [Multiverse-Portals 4.2.3]  Enabled - By Rigby and fernferret
+[16:09:58] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.20.1
+[16:09:58] [Server thread/INFO]: [EssentialsSpawn] Starting Metrics. Opt-out using the global bStats config.
+[16:09:58] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[16:09:58] [Server thread/ERROR]: Couldn't load server icon
+java.lang.IllegalStateException: Must be 64 pixels wide
+	at org.bukkit.craftbukkit.libs.org.apache.commons.lang3.Validate.validState(Validate.java:829) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at net.minecraft.server.MinecraftServer.lambda$updateStatusIcon$8(MinecraftServer.java:1464) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at java.util.Optional.ifPresent(Optional.java:178) ~[?:?]
+	at net.minecraft.server.MinecraftServer.updateStatusIcon(MinecraftServer.java:1460) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1237) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:322) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[16:09:58] [Server thread/INFO]: Running delayed init tasks
+[16:09:58] [Craft Scheduler Thread - 1 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
+[16:09:58] [Server thread/INFO]: [Essentials] Essentials found a compatible payment resolution method: Vault Compatibility Layer (v1.7.3-b131)!
+[16:09:58] [Server thread/INFO]: 0 placeholder hook(s) registered!
+[16:09:58] [Craft Scheduler Thread - 4 - Essentials/INFO]: [Essentials] Fetching version information...
+[16:09:58] [Craft Scheduler Thread - 0 - GadgetsMenu/INFO]: [GadgetsMenu] Checking for updates...
+[16:09:58] [Craft Scheduler Thread - 7 - Vault/INFO]: [Vault] Checking for Updates ... 
+[16:09:59] [Server thread/INFO]: [Citizens] Loaded 1 NPCs.
+[16:09:59] [Server thread/INFO]: [Multiverse-Inventories] First run!
+[16:09:59] [Server thread/INFO]: Done (13.677s)! For help, type "help"
+[16:09:59] [Server thread/INFO]: Timings Reset
+[16:09:59] [Craft Scheduler Thread - 7 - Vault/INFO]: [Vault] No new version available
+[16:09:59] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.2.1, you're on: 4.9.3
+[16:09:59] [Craft Scheduler Thread - 0 - GadgetsMenu/INFO]: [GadgetsMenu] No update was found, you are running the latest version.
+[16:12:08] [User Authenticator #1/INFO]: UUID of player ysyyayyyayya is 6cd4e570-7a49-3521-8e89-4b4b5c6269c5
+[16:12:08] [Server thread/INFO]: + ysyyayyyayya Connected
+[16:12:08] [Server thread/INFO]: ysyyayyyayya[/[0:0:0:0:0:0:0:1]:48022] logged in with entity id 103 at ([Hub]242.4761421865926, 63.0, 1348.4643426760017)
+[16:12:08] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|UpdateCert-1.8
+[16:12:08] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FML
+[16:12:08] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|Skins-1.8
+[16:12:08] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FORGE
+[16:12:11] [Server thread/INFO]: ysyyayyyayya lost connection: Disconnected
+[16:12:11] [Server thread/INFO]: - ysyyayyyayya Disconnected

@@ -1,411 +1,451 @@
-[15:15:07] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[15:15:07] [main/INFO]: Reloading ResourceManager: Default, bukkit
-[15:15:08] [Worker-Main-1/INFO]: Loaded 7 recipes
-[15:15:09] [Server thread/INFO]: Starting minecraft server version 1.17.1
-[15:15:09] [Server thread/INFO]: Loading properties
-[15:15:09] [Server thread/INFO]: This server is running Purpur version git-Purpur-1428 (MC: 1.17.1) (Implementing API version 1.17.1-R0.1-SNAPSHOT) (Git: 9beb23b on ver/1.17.1)
-[15:15:09] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[15:15:09] [Server thread/INFO]: Using 4 threads for Netty based IO
-[15:15:10] [Server thread/INFO]: Default game type: SURVIVAL
-[15:15:10] [Server thread/INFO]: Generating keypair
-[15:15:10] [Server thread/INFO]: Starting Minecraft server on *:25567
-[15:15:10] [Server thread/INFO]: Using epoll channel type
-[15:15:10] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[15:15:10] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[15:15:11] [Server thread/INFO]: [PlaceholderAPI] Loading PlaceholderAPI v2.11.6
-[15:15:11] [Server thread/INFO]: [ViaVersion] Loading ViaVersion v4.9.3
-[15:15:11] [Server thread/INFO]: [ViaVersion] ViaVersion 4.9.3 is now loaded. Registering protocol transformers and injecting...
-[15:15:11] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
-[15:15:11] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
-[15:15:11] [Server thread/INFO]: [ViaBackwards] Loading translations...
-[15:15:11] [Server thread/INFO]: [ViaBackwards] Registering protocols...
-[15:15:12] [Server thread/INFO]: [ViaBackwards] Loading ViaBackwards v4.9.2
-[15:15:12] [Server thread/INFO]: [ProtocolLib] Loading ProtocolLib v5.3.0
-[15:15:12] [Server thread/INFO]: [ViaRewind] Loading ViaRewind v3.0.6
-[15:15:12] [Server thread/INFO]: [LuckPerms] Loading LuckPerms v5.4.131
-[15:15:12] [Server thread/INFO]: [ViaRewind-Legacy-Support] Loading ViaRewind-Legacy-Support v1.4.2
-[15:15:12] [Server thread/INFO]: [Vault] Loading Vault v1.7.3-b131
-[15:15:12] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v7.2.20+6667-f0f1e66
-[15:15:13] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@2aabcb7a]
-[15:15:13] [Server thread/INFO]: [Citizens] Loading Citizens v2.0.29-SNAPSHOT (build 2500)
-[15:15:13] [Server thread/INFO]: [Essentials] Loading Essentials v2.20.1
-[15:15:13] [Server thread/INFO]: [EssentialsChat] Loading EssentialsChat v2.20.1
-[15:15:13] [Server thread/INFO]: [BedWars1058] Loading BedWars1058 v24.9
-[15:15:13] [Server thread/INFO]: [BedWars1058] Loading support for paper/spigot: v1_17_R1
-[15:15:13] [Server thread/INFO]: [TAB] Loading TAB v5.0.7
-[15:15:13] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn v2.20.1
-[15:15:13] [Server thread/INFO]: [PlugManX] Loading PlugManX v2.4.1
-[15:15:13] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[15:15:13] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v5.3.0
-[15:15:13] [Server thread/INFO]: [ViaRewind] Enabling ViaRewind v3.0.6
-[15:15:13] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.131
-[15:15:14] [Server thread/INFO]:         __    
-[15:15:14] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.131
-[15:15:14] [Server thread/INFO]:   |___ |      Running on Bukkit - Purpur
-[15:15:14] [Server thread/INFO]: 
-[15:15:14] [Server thread/INFO]: [LuckPerms] Loading configuration...
-[15:15:14] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
-[15:15:14] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
-[15:15:15] [Server thread/INFO]: [LuckPerms] Performing initial data load...
-[15:15:15] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1447ms)
-[15:15:15] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
-[15:15:15] [Server thread/WARN]: [Vault] Loaded class com.earth2me.essentials.api.Economy from Essentials v2.20.1 which is not a depend, softdepend or loadbefore of this plugin.
-[15:15:15] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
-[15:15:15] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
-[15:15:15] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
-[15:15:15] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
-[15:15:15] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.2.20+6667-f0f1e66
-[15:15:15] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
-[15:15:15] [Server thread/INFO]: WEPIF: Vault detected! Using Vault for permissions
-[15:15:15] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_17_R1_2.PaperweightAdapter as the Bukkit adapter
-[15:15:17] [Server thread/INFO]: [PlugManX] Enabling PlugManX v2.4.1
-[15:15:17] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[15:15:17] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[15:15:17] [Server thread/WARN]: Whilst this makes it possible to use BungeeCord or Velocity, unless access to your server is properly restricted, it also opens up the ability for hackers to connect with any username they choose.
-[15:15:17] [Server thread/WARN]: Please see http://www.spigotmc.org/wiki/firewall-guide/ for further information.
-[15:15:17] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[15:15:17] [Server thread/INFO]: Preparing level "world"
-[15:15:18] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[15:15:18] [Server thread/INFO]: Time elapsed: 365 ms
-[15:15:18] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[15:15:19] [Server thread/INFO]: Time elapsed: 301 ms
-[15:15:19] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[15:15:19] [Server thread/INFO]: Time elapsed: 242 ms
-[15:15:19] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.6
-[15:15:19] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
-[15:15:19] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v4.9.3
-[15:15:19] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.17.1 (756)
-[15:15:19] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v4.9.2
-[15:15:19] [Server thread/INFO]: [ViaRewind-Legacy-Support] Enabling ViaRewind-Legacy-Support v1.4.2
-[15:15:19] [Server thread/INFO]: [Citizens] Enabling Citizens v2.0.29-SNAPSHOT (build 2500)
-[15:15:20] [Server thread/INFO]: [Essentials] Enabling Essentials v2.20.1
-[15:15:20] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
-[15:15:20] [Server thread/INFO]: [Essentials] No kits found to migrate.
-[15:15:20] [Server thread/INFO]: [Essentials] Loaded 39094 items from items.json.
-[15:15:20] [Server thread/INFO]: [Essentials] Using locale en
-[15:15:20] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
-[15:15:20] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
-[15:15:20] [Server thread/INFO]: [Vault] [Economy] Essentials Economy hooked.
-[15:15:20] [Server thread/INFO]: [Essentials] Using Vault based permissions (LuckPerms)
-[15:15:20] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.20.1
-[15:15:20] [Server thread/INFO]: [EssentialsChat] Starting Metrics. Opt-out using the global bStats config.
-[15:15:20] [Server thread/INFO]: [BedWars1058] Enabling BedWars1058 v24.9
-[15:15:20] [Server thread/INFO]: [BedWars1058] Using internal world restore system.
-[15:15:20] [Server thread/WARN]: [BedWars1058] There isn't any map called helltemple4v4v4v4
-[15:15:20] [Server thread/WARN]: [BedWars1058] There isn't any map called graveship3v3v3v3
-[15:15:20] [Server thread/WARN]: [BedWars1058] There isn't any map called lunarhouse2v2
-[15:15:20] [Server thread/WARN]: [BedWars1058] There isn't any map called hollow1v1
-[15:15:20] [Server thread/WARN]: [BedWars1058] There isn't any map called stonekeep4v4v4v4
-[15:15:20] [Server thread/WARN]: [BedWars1058] There isn't any map called frosted2v2
-[15:15:20] [Server thread/WARN]: [BedWars1058] There isn't any map called carapace4v4v4v4
-[15:15:20] [Server thread/WARN]: [BedWars1058] There isn't any map called solace2v2
-[15:15:20] [Server thread/WARN]: [BedWars1058] There isn't any map called lectus4v4v4v4
-[15:15:20] [Server thread/WARN]: [BedWars1058] There isn't any map called obelisk4v4v4v4
-[15:15:20] [Server thread/WARN]: [BedWars1058] There isn't any map called unchained4v4v4v4
-[15:15:20] [Server thread/WARN]: [BedWars1058] There isn't any map called varyth2v2voidless
-[15:15:20] [Server thread/WARN]: [BedWars1058] There isn't any map called trickortreat1v1
-[15:15:20] [Server thread/WARN]: [BedWars1058] There isn't any map called dragonstar1v1
-[15:15:20] [Server thread/WARN]: [BedWars1058] There isn't any map called steampunk1v1
-[15:15:20] [Server thread/WARN]: [BedWars1058] There isn't any map called ashfire1v1
-[15:15:20] [Server thread/WARN]: [BedWars1058] There isn't any map called pernicious2v2
-[15:15:20] [Server thread/WARN]: [BedWars1058] There isn't any map called aquarium3v3v3v3
-[15:15:20] [Server thread/WARN]: [BedWars1058] There isn't any map called pavilion2v2
-[15:15:20] [Server thread/WARN]: [BedWars1058] There isn't any map called sanctum1v1
-[15:15:20] [Server thread/WARN]: [BedWars1058] There isn't any map called chained3v3v3v3
-[15:15:20] [Server thread/WARN]: [BedWars1058] There isn't any map called aqil2v2
-[15:15:20] [Server thread/WARN]: [BedWars1058] There isn't any map called gateway1v1
-[15:15:20] [Server thread/WARN]: [BedWars1058] There isn't any map called biohazard1v1
-[15:15:20] [Server thread/WARN]: [BedWars1058] There isn't any map called crogorm2v2
-[15:15:20] [Server thread/WARN]: [BedWars1058] There isn't any map called lightstone1v1
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called harvest2v2
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called trickortreat2v2
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called siege2v2
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called serenity1v1
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called ashfire2v2
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called sandcastle4v4v4v4
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called fortdoon3v3v3v3
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called waterfall2v2
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called lotice2v2
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called blitzen1v1
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called biohazard2v2
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called orchid3v3v3v3
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called mosdalr4v4v4v4voidless
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called orchestra1v1
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called rooftop1v1
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called hollow2v2
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called dragonstar2v2
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called montipora2v2
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called swashbuckle3v3v3v3
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called horizon4v4v4v4
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called ambush1v1
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called scorchedsands2v2
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called inca2v2
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called scorchedsands1v1
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called steampunk2v2
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called luckyrush2v2
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called rooftop2v2
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called ashore4v4v4v4
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called unchained3v3v3v3
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called ironclad1v1
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called impere1v1
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called apollo1v1
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called horizon3v3v3v3
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called pavilion1v1
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called symphonic2v2
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called casita2v2
-[15:15:21] [Server thread/INFO]: [BedWars1058] Arena yue1v1 was added to the enable queue.
-[15:15:21] [Server thread/INFO]: [BedWars1058] Loading arena: yue1v1
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called lighthouse2v2
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called fireplace2v2
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called luckyrush1v1
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called babylon2v2
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called aqil1v1
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called kubo3v3v3v3
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called gelato2v2
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called lotus2v2
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called acropolis1v1
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called invasion3v3v3v3
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called toro2v2
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called toro1v1
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called lightstone2v2
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called aquarium4v4v4v4
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called winterland2v2
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called harvest1v1
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called solace1v1
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called holmgang4v4v4v4
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called inca1v1
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called fireplace1v1
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called temple3v3v3v3
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called invasion4v4v4v4
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called amazon1v1
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called deadwood2v2
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called symphonic1v1
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called babylon1v1
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called swashbuckle4v4v4v4
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called carapace3v3v3v3
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called serenity2v2
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called obelisk3v3v3v3
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called fruitbrawl1v1
-[15:15:21] [Server thread/INFO]: [BedWars1058] Arena zarzul2v2 was added to the enable queue.
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called speedway2v2
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called playground1v1
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called helltemple3v3v3v3
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called tuzi2v2
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called orbit2v2
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called polygon1v1
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called casita1v1
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called skyrise2v2
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called boletum4v4v4v4
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called orchestra2v2
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called gelato1v1
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called tuzi1v1
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called lectus3v3v3v3
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called sandcastle3v3v3v3
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called nutcracker1v1
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called speedway1v1
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called lotice1v1
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called pernicious1v1
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called orchid4v4v4v4
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called blitzen2v2
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called polemus2v2voidless
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called frosted1v1
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called amazon2v2
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called glacier2v2
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called skyrise1v1
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called holmgang3v3v3v3
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called airshow2v2
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called impere2v2
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called rooted1v1
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called fortdoon4v4v4v4
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called urbanplaza2v2
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called waterfall1v1
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called temple4v4v4v4
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called graveship4v4v4v4
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called apollo2v2
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called gateway2v2
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called treenan3v3v3v3
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called kubo4v4v4v4
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called lighthouse1v1
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called urbanplaza1v1
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called dreamgrove4v4v4v4
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called ashore3v3v3v3
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called entagle4v4v4v4voidless
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called airshow1v1
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called eggrun3v3v3v3
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called rooted2v2
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called chained4v4v4v4
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called fruitbrawl2v2
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called montipora1v1
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called ironclad2v2
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called winterland1v1
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called ambush2v2
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called sanctum2v2
-[15:15:21] [Server thread/INFO]: [BedWars1058] Arena yue2v2 was added to the enable queue.
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called glacier1v1
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called dreamgrove3v3v3v3
-[15:15:21] [Server thread/INFO]: [BedWars1058] Arena zarzul1v1 was added to the enable queue.
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called orbit1v1
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called lunarhouse1v1
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called deadwood1v1
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called treenan4v4v4v4
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called siege1v1
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called polygon2v2
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called acropolis2v2
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called stonekeep3v3v3v3
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called playground2v2
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called eggrun4v4v4v4
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called cauldron4v4v4v4
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called crogorm1v1
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called boletum3v3v3v3
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called cauldron3v3v3v3
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called lotus1v1
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called nutcracker2v2
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called mirage2v2
-[15:15:21] [Server thread/WARN]: [BedWars1058] There isn't any map called mirage1v1
-[15:15:21] [Server thread/INFO]: [BedWars1058] Hooked into PlaceholderAPI support!
-[15:15:21] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: bw1058 [24.9]
-[15:15:21] [Server thread/WARN]: Scoreboard tab header-footer refresh interval is set to: 10
-[15:15:21] [Server thread/WARN]: It is not recommended to use a value under 20 ticks.
-[15:15:21] [Server thread/WARN]: If you expect performance issues please increase its timer.
-[15:15:21] [Server thread/INFO]: [BedWars1058] Initializing SidebarLib by andrei1058
-[15:15:21] [Server thread/INFO]: [TAB] Enabling TAB v5.0.7
-[15:15:21] [Server thread/INFO]: [TAB] Loaded NMS hook in 34ms
-[15:15:22] [Server thread/INFO]: [TAB] Enabled in 143ms
-[15:15:22] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.20.1
-[15:15:22] [Server thread/INFO]: [EssentialsSpawn] Starting Metrics. Opt-out using the global bStats config.
-[15:15:22] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
-[15:15:22] [Server thread/INFO]: Running delayed init tasks
-[15:15:22] [Craft Scheduler Thread - 0 - Essentials/INFO]: [Essentials] Fetching version information...
-[15:15:22] [Craft Scheduler Thread - 1 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
-[15:15:22] [Server thread/INFO]: [Essentials] Essentials found a compatible payment resolution method: Vault Compatibility Layer (v1.7.3-b131)!
-[15:15:22] [Craft Scheduler Thread - 1 - BedWars1058/WARN]: [BedWars1058] Support for v1_17_R1 is scheduled for removal. Please consider upgrading your server software to a newer Minecraft version.
-[15:15:22] [Server thread/INFO]: [BedWars1058] Hooked into vault chat support!
-[15:15:22] [Server thread/INFO]: [BedWars1058] Hooked into vault economy support!
-[15:15:22] [Server thread/INFO]: 0 placeholder hook(s) registered!
-[15:15:22] [Craft Scheduler Thread - 6 - Vault/INFO]: [Vault] Checking for Updates ... 
-[15:15:22] [Server thread/INFO]: [Citizens] Loaded 0 NPCs.
-[15:15:22] [Server thread/INFO]: Done (13.121s)! For help, type "help"
-[15:15:22] [Server thread/INFO]: Timings Reset
-[15:15:23] [Server thread/INFO]: [BedWars1058] Hook into Citizens support. /bw npc
-[15:15:23] [Craft Scheduler Thread - 6 - Vault/INFO]: [Vault] No new version available
-[15:15:23] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.2.1, you're on: 4.9.3
-[15:15:23] [Server thread/INFO]: [BedWars1058] Loading internal Party system. /party
-[15:15:23] [Server thread/INFO]: Registering /party command..
-[15:15:24] [Server thread/INFO]: Preparing start region for dimension minecraft:yue1v1
-[15:15:25] [Server thread/INFO]: Preparing spawn area: 0%
-[15:15:25] [Server thread/INFO]: Preparing spawn area: 0%
-[15:15:25] [User Authenticator #1/INFO]: UUID of player ysyyayyyayya is 6cd4e570-7a49-3521-8e89-4b4b5c6269c5
-[15:15:25] [Server thread/INFO]: Preparing spawn area: 0%
-[15:15:25] [Server thread/INFO]: Time elapsed: 1065 ms
-[15:15:25] [Server thread/INFO]: [BedWars1058] Loading arena: zarzul2v2
-[15:15:25] [Server thread/INFO]: [BedWars1058] Load done: yue1v1
-[15:15:25] [User Authenticator #2/INFO]: UUID of player ysyyayyyayya is 6cd4e570-7a49-3521-8e89-4b4b5c6269c5
-[15:15:26] [Netty Epoll Server IO #2/WARN]: [ViaVersion] Duplicate UUID on frontend connection! (6cd4e570-7a49-3521-8e89-4b4b5c6269c5)
-[15:15:26] [ForkJoinPool.commonPool-worker-1/INFO]: [Essentials] Created a User for ysyyayyyayya (6cd4e570-7a49-3521-8e89-4b4b5c6269c5) for non Bukkit type: org.bukkit.craftbukkit.v1_17_R1.entity.CraftPlayer
-[15:15:26] [ForkJoinPool.commonPool-worker-2/INFO]: [Essentials] Created a User for ysyyayyyayya (6cd4e570-7a49-3521-8e89-4b4b5c6269c5) for non Bukkit type: org.bukkit.craftbukkit.v1_17_R1.entity.CraftPlayer
-[15:15:26] [Server thread/WARN]: [ViaVersion] Duplicate UUID on frontend connection! (6cd4e570-7a49-3521-8e89-4b4b5c6269c5)
-[15:15:26] [User Authenticator #2/INFO]: UUID of player ysyyayyyayya is 6cd4e570-7a49-3521-8e89-4b4b5c6269c5
-[15:15:26] [Craft Scheduler Thread - 14 - Essentials/INFO]: [Essentials] Essentials updated the underlying Player object for 6cd4e570-7a49-3521-8e89-4b4b5c6269c5
-[15:15:26] [Server thread/INFO]: ysyyayyyayya[/[0:0:0:0:0:0:0:1]:46770] logged in with entity id 139 at ([world]1.8707717681065916, 68.0, -5.623010274940113)
-[15:15:26] [Server thread/WARN]: Force-added player with duplicate UUID 6cd4e570-7a49-3521-8e89-4b4b5c6269c5
-[15:15:26] [Server thread/WARN]: [ViaVersion] Duplicate UUID on frontend connection! (6cd4e570-7a49-3521-8e89-4b4b5c6269c5)
-[15:15:26] [Server thread/INFO]: ysyyayyyayya[/[0:0:0:0:0:0:0:1]:52600] logged in with entity id 140 at ([world]1.8707717681065916, 68.0, -5.623010274940113)
-[15:15:26] [Server thread/INFO]: [Essentials] Essentials updated the underlying Player object for 6cd4e570-7a49-3521-8e89-4b4b5c6269c5
-[15:15:26] [Server thread/INFO]: [Essentials] Essentials updated the underlying Player object for 6cd4e570-7a49-3521-8e89-4b4b5c6269c5
-[15:15:26] [Server thread/INFO]: [Essentials] Essentials updated the underlying Player object for 6cd4e570-7a49-3521-8e89-4b4b5c6269c5
-[15:15:26] [Server thread/INFO]: [Essentials] Essentials updated the underlying Player object for 6cd4e570-7a49-3521-8e89-4b4b5c6269c5
-[15:15:26] [Server thread/INFO]: [Essentials] Essentials updated the underlying Player object for 6cd4e570-7a49-3521-8e89-4b4b5c6269c5
-[15:15:26] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|UpdateCert-1.8
-[15:15:26] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FML
-[15:15:26] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|Skins-1.8
-[15:15:26] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FORGE
-[15:15:26] [Server thread/INFO]: [Essentials] Essentials updated the underlying Player object for 6cd4e570-7a49-3521-8e89-4b4b5c6269c5
-[15:15:26] [Server thread/INFO]: [Essentials] Essentials updated the underlying Player object for 6cd4e570-7a49-3521-8e89-4b4b5c6269c5
-[15:15:26] [Server thread/INFO]: ysyyayyyayya lost connection: You logged in from another location
-[15:15:26] [Server thread/INFO]: [Essentials] Essentials updated the underlying Player object for 6cd4e570-7a49-3521-8e89-4b4b5c6269c5
-[15:15:26] [Server thread/INFO]: ysyyayyyayya lost connection: You logged in from another location
-[15:15:26] [Server thread/INFO]: [Essentials] Essentials updated the underlying Player object for 6cd4e570-7a49-3521-8e89-4b4b5c6269c5
-[15:15:26] [ForkJoinPool.commonPool-worker-1/INFO]: [Essentials] Essentials updated the underlying Player object for 6cd4e570-7a49-3521-8e89-4b4b5c6269c5
-[15:15:27] [Server thread/INFO]: Preparing start region for dimension minecraft:zarzul2v2
-[15:15:27] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|UpdateCert-1.8
-[15:15:27] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FML
-[15:15:27] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|Skins-1.8
-[15:15:27] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FORGE
-[15:15:27] [Server thread/INFO]: Preparing spawn area: 0%
-[15:15:27] [Server thread/INFO]: Time elapsed: 314 ms
-[15:15:27] [Server thread/INFO]: [BedWars1058] Loading arena: yue2v2
-[15:15:27] [Server thread/INFO]: [BedWars1058] Load done: zarzul2v2
-[15:15:27] [Server thread/ERROR]: Could not pass event PlayerJoinEvent to BedWars1058 v24.9
-java.lang.IllegalStateException: Trying to get stats data of an unloaded player!
-	at com.andrei1058.bedwars.stats.StatsManager.get(StatsManager.java:52) ~[BedWars1058.jar:?]
-	at com.andrei1058.bedwars.sidebar.BwSidebar.getPlaceholders(BwSidebar.java:280) ~[BedWars1058.jar:?]
-	at com.andrei1058.bedwars.sidebar.BwSidebar.setContent(BwSidebar.java:88) ~[BedWars1058.jar:?]
-	at com.andrei1058.bedwars.sidebar.SidebarService.giveSidebar(SidebarService.java:227) ~[BedWars1058.jar:?]
-	at com.andrei1058.bedwars.listeners.joinhandler.JoinListenerMultiArena.onJoin(JoinListenerMultiArena.java:91) ~[BedWars1058.jar:?]
-	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor222.execute(Unknown Source) ~[?:?]
-	at org.bukkit.plugin.EventExecutor.lambda$create$1(EventExecutor.java:69) ~[patched_1.17.1.jar:git-Purpur-1428]
-	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80) ~[patched_1.17.1.jar:git-Purpur-1428]
-	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[patched_1.17.1.jar:git-Purpur-1428]
-	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:628) ~[patched_1.17.1.jar:git-Purpur-1428]
-	at net.minecraft.server.players.PlayerList.postChunkLoadJoin(PlayerList.java:360) ~[patched_1.17.1.jar:git-Purpur-1428]
-	at net.minecraft.server.players.PlayerList.lambda$placeNewPlayer$1(PlayerList.java:302) ~[patched_1.17.1.jar:git-Purpur-1428]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.tick(ServerGamePacketListenerImpl.java:322) ~[app:?]
-	at net.minecraft.network.Connection.tick(Connection.java:555) ~[app:?]
-	at net.minecraft.server.network.ServerConnectionListener.tick(ServerConnectionListener.java:201) ~[app:?]
-	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1681) ~[patched_1.17.1.jar:git-Purpur-1428]
-	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:528) ~[patched_1.17.1.jar:git-Purpur-1428]
-	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1507) ~[patched_1.17.1.jar:git-Purpur-1428]
-	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1300) ~[patched_1.17.1.jar:git-Purpur-1428]
+[15:55:22] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[15:55:23] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[15:55:24] [Worker-Main-1/INFO]: Loaded 7 recipes
+[15:55:26] [Server thread/INFO]: Starting minecraft server version 1.17.1
+[15:55:26] [Server thread/INFO]: Loading properties
+[15:55:27] [Server thread/INFO]: This server is running Purpur version git-Purpur-1428 (MC: 1.17.1) (Implementing API version 1.17.1-R0.1-SNAPSHOT) (Git: 9beb23b on ver/1.17.1)
+[15:55:27] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[15:55:27] [Server thread/INFO]: Using 4 threads for Netty based IO
+[15:55:27] [Server thread/INFO]: Default game type: SURVIVAL
+[15:55:27] [Server thread/INFO]: Generating keypair
+[15:55:27] [Server thread/INFO]: Starting Minecraft server on *:25567
+[15:55:27] [Server thread/INFO]: Using epoll channel type
+[15:55:27] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[15:55:27] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[15:55:32] [Server thread/ERROR]: (org.bukkit.craftbukkit.v1_17_R1.legacy.CraftLegacy:259) Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[15:55:39] [Server thread/WARN]: Legacy plugin BedWars1058-PopUpTowers v0.7 does not specify an api-version.
+[15:55:39] [Server thread/WARN]: Legacy plugin GoldenGG v2.1.21 does not specify an api-version.
+[15:55:39] [Server thread/INFO]: [PlaceholderAPI] Loading PlaceholderAPI v2.11.6
+[15:55:39] [Server thread/INFO]: [ViaVersion] Loading ViaVersion v4.9.3
+[15:55:39] [Server thread/INFO]: [ViaVersion] ViaVersion 4.9.3 is now loaded. Registering protocol transformers and injecting...
+[15:55:40] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[15:55:40] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[15:55:40] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[15:55:40] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[15:55:41] [Server thread/INFO]: [ViaBackwards] Loading ViaBackwards v4.9.2
+[15:55:41] [Server thread/INFO]: [ProtocolLib] Loading ProtocolLib v5.3.0
+[15:55:42] [Server thread/INFO]: [ViaRewind] Loading ViaRewind v3.0.6
+[15:55:42] [Server thread/INFO]: [LuckPerms] Loading LuckPerms v5.4.131
+[15:55:43] [Server thread/INFO]: [ViaRewind-Legacy-Support] Loading ViaRewind-Legacy-Support v1.4.2
+[15:55:43] [Server thread/INFO]: [Vault] Loading Vault v1.7.3-b131
+[15:55:43] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v7.2.20+6667-f0f1e66
+[15:55:44] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@48469300]
+[15:55:44] [Server thread/INFO]: [Citizens] Loading Citizens v2.0.29-SNAPSHOT (build 2500)
+[15:55:44] [Server thread/INFO]: [Essentials] Loading Essentials v2.20.1
+[15:55:44] [Server thread/INFO]: [EssentialsChat] Loading EssentialsChat v2.20.1
+[15:55:44] [Server thread/INFO]: [BedWars1058] Loading BedWars1058 v24.9
+[15:55:44] [Server thread/INFO]: [BedWars1058] Loading support for paper/spigot: v1_17_R1
+[15:55:47] [Server thread/INFO]: [BedWars1058-PopUpTowers] Loading BedWars1058-PopUpTowers v0.7
+[15:55:47] [Server thread/INFO]: [TAB] Loading TAB v5.0.7
+[15:55:47] [Server thread/INFO]: [BedWars-Cosmetics] Loading Cosmetics v1.4.8
+[15:55:47] [Server thread/INFO]: [BedWars1058-Compass] Loading BedWars1058-Compass v1.4.3
+[15:55:47] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn v2.20.1
+[15:55:47] [Server thread/INFO]: [BedWars-AdminAddon] Loading BedWars-AdminAddon v1.2.1
+[15:55:47] [Server thread/INFO]: [BedWars1058-TeamSelector] Loading BedWars1058-TeamSelector v0.7
+[15:55:47] [Server thread/INFO]: [GoldenGG] Loading GoldenGG v2.1.21
+[15:55:47] [Server thread/INFO]: [BedWars1058-PlayAgain] Loading BedWars1058-PlayAgain v2.1.0
+[15:55:47] [Server thread/INFO]: [PlugManX] Loading PlugManX v2.4.1
+[15:55:47] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[15:55:47] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v5.3.0
+[15:55:47] [Server thread/INFO]: [ViaRewind] Enabling ViaRewind v3.0.6
+[15:55:47] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.131
+[15:55:47] [Server thread/INFO]:         __    
+[15:55:47] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.131
+[15:55:47] [Server thread/INFO]:   |___ |      Running on Bukkit - Purpur
+[15:55:47] [Server thread/INFO]: 
+[15:55:47] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[15:55:48] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[15:55:49] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[15:55:50] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[15:55:50] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 3659ms)
+[15:55:50] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
+[15:55:50] [Server thread/WARN]: [Vault] Loaded class com.earth2me.essentials.api.Economy from Essentials v2.20.1 which is not a depend, softdepend or loadbefore of this plugin.
+[15:55:50] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[15:55:50] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[15:55:51] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
+[15:55:51] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
+[15:55:51] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.2.20+6667-f0f1e66
+[15:55:51] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[15:55:51] [Server thread/INFO]: WEPIF: Vault detected! Using Vault for permissions
+[15:55:51] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_17_R1_2.PaperweightAdapter as the Bukkit adapter
+[15:55:54] [Server thread/INFO]: [PlugManX] Enabling PlugManX v2.4.1
+[15:55:55] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[15:55:55] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[15:55:55] [Server thread/WARN]: Whilst this makes it possible to use BungeeCord or Velocity, unless access to your server is properly restricted, it also opens up the ability for hackers to connect with any username they choose.
+[15:55:55] [Server thread/WARN]: Please see http://www.spigotmc.org/wiki/firewall-guide/ for further information.
+[15:55:55] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[15:55:55] [Server thread/INFO]: Preparing level "world"
+[15:55:56] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:55:57] [Server thread/INFO]: Time elapsed: 693 ms
+[15:55:57] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[15:55:57] [Server thread/INFO]: Time elapsed: 211 ms
+[15:55:57] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[15:55:57] [Server thread/INFO]: Time elapsed: 140 ms
+[15:55:57] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.6
+[15:55:57] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[15:55:57] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v4.9.3
+[15:55:58] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.17.1 (756)
+[15:55:58] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v4.9.2
+[15:55:58] [Server thread/INFO]: [ViaRewind-Legacy-Support] Enabling ViaRewind-Legacy-Support v1.4.2
+[15:55:58] [Server thread/INFO]: [Citizens] Enabling Citizens v2.0.29-SNAPSHOT (build 2500)
+[15:55:58] [Server thread/INFO]: [Essentials] Enabling Essentials v2.20.1
+[15:55:59] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[15:55:59] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[15:55:59] [Server thread/INFO]: [Essentials] Loaded 39094 items from items.json.
+[15:55:59] [Server thread/INFO]: [Essentials] Using locale en
+[15:55:59] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[15:56:00] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[15:56:00] [Server thread/INFO]: [Vault] [Economy] Essentials Economy hooked.
+[15:56:00] [Server thread/INFO]: [Essentials] Using Vault based permissions (LuckPerms)
+[15:56:00] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.20.1
+[15:56:00] [Server thread/INFO]: [EssentialsChat] Starting Metrics. Opt-out using the global bStats config.
+[15:56:00] [Server thread/INFO]: [BedWars1058] Enabling BedWars1058 v24.9
+[15:56:00] [Server thread/INFO]: [BedWars1058] Using internal world restore system.
+[15:56:00] [Server thread/WARN]: [BedWars1058] There isn't any map called helltemple4v4v4v4
+[15:56:00] [Server thread/WARN]: [BedWars1058] There isn't any map called graveship3v3v3v3
+[15:56:00] [Server thread/WARN]: [BedWars1058] There isn't any map called lunarhouse2v2
+[15:56:00] [Server thread/WARN]: [BedWars1058] There isn't any map called hollow1v1
+[15:56:00] [Server thread/WARN]: [BedWars1058] There isn't any map called stonekeep4v4v4v4
+[15:56:00] [Server thread/WARN]: [BedWars1058] There isn't any map called frosted2v2
+[15:56:00] [Server thread/WARN]: [BedWars1058] There isn't any map called carapace4v4v4v4
+[15:56:00] [Server thread/WARN]: [BedWars1058] There isn't any map called solace2v2
+[15:56:00] [Server thread/WARN]: [BedWars1058] There isn't any map called lectus4v4v4v4
+[15:56:00] [Server thread/WARN]: [BedWars1058] There isn't any map called obelisk4v4v4v4
+[15:56:00] [Server thread/WARN]: [BedWars1058] There isn't any map called unchained4v4v4v4
+[15:56:00] [Server thread/WARN]: [BedWars1058] There isn't any map called varyth2v2voidless
+[15:56:00] [Server thread/WARN]: [BedWars1058] There isn't any map called trickortreat1v1
+[15:56:00] [Server thread/WARN]: [BedWars1058] There isn't any map called dragonstar1v1
+[15:56:00] [Server thread/WARN]: [BedWars1058] There isn't any map called steampunk1v1
+[15:56:00] [Server thread/WARN]: [BedWars1058] There isn't any map called ashfire1v1
+[15:56:00] [Server thread/WARN]: [BedWars1058] There isn't any map called pernicious2v2
+[15:56:00] [Server thread/WARN]: [BedWars1058] There isn't any map called aquarium3v3v3v3
+[15:56:00] [Server thread/WARN]: [BedWars1058] There isn't any map called pavilion2v2
+[15:56:00] [Server thread/WARN]: [BedWars1058] There isn't any map called sanctum1v1
+[15:56:00] [Server thread/WARN]: [BedWars1058] There isn't any map called chained3v3v3v3
+[15:56:00] [Server thread/WARN]: [BedWars1058] There isn't any map called aqil2v2
+[15:56:00] [Server thread/WARN]: [BedWars1058] There isn't any map called gateway1v1
+[15:56:00] [Server thread/WARN]: [BedWars1058] There isn't any map called biohazard1v1
+[15:56:00] [Server thread/WARN]: [BedWars1058] There isn't any map called crogorm2v2
+[15:56:00] [Server thread/WARN]: [BedWars1058] There isn't any map called lightstone1v1
+[15:56:00] [Server thread/WARN]: [BedWars1058] There isn't any map called harvest2v2
+[15:56:00] [Server thread/WARN]: [BedWars1058] There isn't any map called trickortreat2v2
+[15:56:00] [Server thread/WARN]: [BedWars1058] There isn't any map called siege2v2
+[15:56:00] [Server thread/WARN]: [BedWars1058] There isn't any map called serenity1v1
+[15:56:00] [Server thread/WARN]: [BedWars1058] There isn't any map called ashfire2v2
+[15:56:00] [Server thread/WARN]: [BedWars1058] There isn't any map called sandcastle4v4v4v4
+[15:56:00] [Server thread/WARN]: [BedWars1058] There isn't any map called fortdoon3v3v3v3
+[15:56:00] [Server thread/WARN]: [BedWars1058] There isn't any map called waterfall2v2
+[15:56:00] [Server thread/WARN]: [BedWars1058] There isn't any map called lotice2v2
+[15:56:00] [Server thread/WARN]: [BedWars1058] There isn't any map called blitzen1v1
+[15:56:00] [Server thread/WARN]: [BedWars1058] There isn't any map called biohazard2v2
+[15:56:00] [Server thread/WARN]: [BedWars1058] There isn't any map called orchid3v3v3v3
+[15:56:00] [Server thread/WARN]: [BedWars1058] There isn't any map called mosdalr4v4v4v4voidless
+[15:56:00] [Server thread/WARN]: [BedWars1058] There isn't any map called orchestra1v1
+[15:56:00] [Server thread/WARN]: [BedWars1058] There isn't any map called rooftop1v1
+[15:56:00] [Server thread/WARN]: [BedWars1058] There isn't any map called hollow2v2
+[15:56:00] [Server thread/WARN]: [BedWars1058] There isn't any map called dragonstar2v2
+[15:56:00] [Server thread/WARN]: [BedWars1058] There isn't any map called montipora2v2
+[15:56:00] [Server thread/WARN]: [BedWars1058] There isn't any map called swashbuckle3v3v3v3
+[15:56:00] [Server thread/WARN]: [BedWars1058] There isn't any map called horizon4v4v4v4
+[15:56:00] [Server thread/WARN]: [BedWars1058] There isn't any map called ambush1v1
+[15:56:00] [Server thread/WARN]: [BedWars1058] There isn't any map called scorchedsands2v2
+[15:56:00] [Server thread/WARN]: [BedWars1058] There isn't any map called inca2v2
+[15:56:00] [Server thread/WARN]: [BedWars1058] There isn't any map called scorchedsands1v1
+[15:56:00] [Server thread/WARN]: [BedWars1058] There isn't any map called steampunk2v2
+[15:56:00] [Server thread/WARN]: [BedWars1058] There isn't any map called luckyrush2v2
+[15:56:00] [Server thread/WARN]: [BedWars1058] There isn't any map called rooftop2v2
+[15:56:00] [Server thread/WARN]: [BedWars1058] There isn't any map called ashore4v4v4v4
+[15:56:00] [Server thread/WARN]: [BedWars1058] There isn't any map called unchained3v3v3v3
+[15:56:00] [Server thread/WARN]: [BedWars1058] There isn't any map called ironclad1v1
+[15:56:00] [Server thread/WARN]: [BedWars1058] There isn't any map called impere1v1
+[15:56:00] [Server thread/WARN]: [BedWars1058] There isn't any map called apollo1v1
+[15:56:00] [Server thread/WARN]: [BedWars1058] There isn't any map called horizon3v3v3v3
+[15:56:00] [Server thread/WARN]: [BedWars1058] There isn't any map called pavilion1v1
+[15:56:00] [Server thread/WARN]: [BedWars1058] There isn't any map called symphonic2v2
+[15:56:00] [Server thread/WARN]: [BedWars1058] There isn't any map called casita2v2
+[15:56:00] [Server thread/INFO]: [BedWars1058] Arena yue1v1 was added to the enable queue.
+[15:56:00] [Server thread/INFO]: [BedWars1058] Loading arena: yue1v1
+[15:56:00] [Server thread/WARN]: [BedWars1058] There isn't any map called lighthouse2v2
+[15:56:00] [Server thread/WARN]: [BedWars1058] There isn't any map called fireplace2v2
+[15:56:00] [Server thread/WARN]: [BedWars1058] There isn't any map called luckyrush1v1
+[15:56:00] [Server thread/WARN]: [BedWars1058] There isn't any map called babylon2v2
+[15:56:00] [Server thread/WARN]: [BedWars1058] There isn't any map called aqil1v1
+[15:56:00] [Server thread/WARN]: [BedWars1058] There isn't any map called kubo3v3v3v3
+[15:56:00] [Server thread/WARN]: [BedWars1058] There isn't any map called gelato2v2
+[15:56:00] [Server thread/WARN]: [BedWars1058] There isn't any map called lotus2v2
+[15:56:00] [Server thread/WARN]: [BedWars1058] There isn't any map called acropolis1v1
+[15:56:00] [Server thread/WARN]: [BedWars1058] There isn't any map called invasion3v3v3v3
+[15:56:00] [Server thread/WARN]: [BedWars1058] There isn't any map called toro2v2
+[15:56:00] [Server thread/WARN]: [BedWars1058] There isn't any map called toro1v1
+[15:56:00] [Server thread/WARN]: [BedWars1058] There isn't any map called lightstone2v2
+[15:56:00] [Server thread/WARN]: [BedWars1058] There isn't any map called aquarium4v4v4v4
+[15:56:00] [Server thread/WARN]: [BedWars1058] There isn't any map called winterland2v2
+[15:56:00] [Server thread/WARN]: [BedWars1058] There isn't any map called harvest1v1
+[15:56:00] [Server thread/WARN]: [BedWars1058] There isn't any map called solace1v1
+[15:56:00] [Server thread/WARN]: [BedWars1058] There isn't any map called holmgang4v4v4v4
+[15:56:00] [Server thread/WARN]: [BedWars1058] There isn't any map called inca1v1
+[15:56:00] [Server thread/WARN]: [BedWars1058] There isn't any map called fireplace1v1
+[15:56:00] [Server thread/WARN]: [BedWars1058] There isn't any map called temple3v3v3v3
+[15:56:00] [Server thread/WARN]: [BedWars1058] There isn't any map called invasion4v4v4v4
+[15:56:00] [Server thread/WARN]: [BedWars1058] There isn't any map called amazon1v1
+[15:56:00] [Server thread/WARN]: [BedWars1058] There isn't any map called deadwood2v2
+[15:56:00] [Server thread/WARN]: [BedWars1058] There isn't any map called symphonic1v1
+[15:56:00] [Server thread/WARN]: [BedWars1058] There isn't any map called babylon1v1
+[15:56:00] [Server thread/WARN]: [BedWars1058] There isn't any map called swashbuckle4v4v4v4
+[15:56:00] [Server thread/WARN]: [BedWars1058] There isn't any map called carapace3v3v3v3
+[15:56:00] [Server thread/WARN]: [BedWars1058] There isn't any map called serenity2v2
+[15:56:00] [Server thread/WARN]: [BedWars1058] There isn't any map called obelisk3v3v3v3
+[15:56:00] [Server thread/WARN]: [BedWars1058] There isn't any map called fruitbrawl1v1
+[15:56:00] [Server thread/INFO]: [BedWars1058] Arena zarzul2v2 was added to the enable queue.
+[15:56:00] [Server thread/WARN]: [BedWars1058] There isn't any map called speedway2v2
+[15:56:00] [Server thread/WARN]: [BedWars1058] There isn't any map called playground1v1
+[15:56:00] [Server thread/WARN]: [BedWars1058] There isn't any map called helltemple3v3v3v3
+[15:56:00] [Server thread/WARN]: [BedWars1058] There isn't any map called tuzi2v2
+[15:56:00] [Server thread/WARN]: [BedWars1058] There isn't any map called orbit2v2
+[15:56:00] [Server thread/WARN]: [BedWars1058] There isn't any map called polygon1v1
+[15:56:00] [Server thread/WARN]: [BedWars1058] There isn't any map called casita1v1
+[15:56:00] [Server thread/WARN]: [BedWars1058] There isn't any map called skyrise2v2
+[15:56:00] [Server thread/WARN]: [BedWars1058] There isn't any map called boletum4v4v4v4
+[15:56:00] [Server thread/WARN]: [BedWars1058] There isn't any map called orchestra2v2
+[15:56:00] [Server thread/WARN]: [BedWars1058] There isn't any map called gelato1v1
+[15:56:00] [Server thread/WARN]: [BedWars1058] There isn't any map called tuzi1v1
+[15:56:00] [Server thread/WARN]: [BedWars1058] There isn't any map called lectus3v3v3v3
+[15:56:00] [Server thread/WARN]: [BedWars1058] There isn't any map called sandcastle3v3v3v3
+[15:56:00] [Server thread/WARN]: [BedWars1058] There isn't any map called nutcracker1v1
+[15:56:01] [Server thread/WARN]: [BedWars1058] There isn't any map called speedway1v1
+[15:56:01] [Server thread/WARN]: [BedWars1058] There isn't any map called lotice1v1
+[15:56:01] [Server thread/WARN]: [BedWars1058] There isn't any map called pernicious1v1
+[15:56:01] [Server thread/WARN]: [BedWars1058] There isn't any map called orchid4v4v4v4
+[15:56:01] [Server thread/WARN]: [BedWars1058] There isn't any map called blitzen2v2
+[15:56:01] [Server thread/WARN]: [BedWars1058] There isn't any map called polemus2v2voidless
+[15:56:01] [Server thread/WARN]: [BedWars1058] There isn't any map called frosted1v1
+[15:56:01] [Server thread/WARN]: [BedWars1058] There isn't any map called amazon2v2
+[15:56:01] [Server thread/WARN]: [BedWars1058] There isn't any map called glacier2v2
+[15:56:01] [Server thread/WARN]: [BedWars1058] There isn't any map called skyrise1v1
+[15:56:01] [Server thread/WARN]: [BedWars1058] There isn't any map called holmgang3v3v3v3
+[15:56:01] [Server thread/WARN]: [BedWars1058] There isn't any map called airshow2v2
+[15:56:01] [Server thread/WARN]: [BedWars1058] There isn't any map called impere2v2
+[15:56:01] [Server thread/WARN]: [BedWars1058] There isn't any map called rooted1v1
+[15:56:01] [Server thread/WARN]: [BedWars1058] There isn't any map called fortdoon4v4v4v4
+[15:56:01] [Server thread/WARN]: [BedWars1058] There isn't any map called urbanplaza2v2
+[15:56:01] [Server thread/WARN]: [BedWars1058] There isn't any map called waterfall1v1
+[15:56:01] [Server thread/WARN]: [BedWars1058] There isn't any map called temple4v4v4v4
+[15:56:01] [Server thread/WARN]: [BedWars1058] There isn't any map called graveship4v4v4v4
+[15:56:01] [Server thread/WARN]: [BedWars1058] There isn't any map called apollo2v2
+[15:56:01] [Server thread/WARN]: [BedWars1058] There isn't any map called gateway2v2
+[15:56:01] [Server thread/WARN]: [BedWars1058] There isn't any map called treenan3v3v3v3
+[15:56:01] [Server thread/WARN]: [BedWars1058] There isn't any map called kubo4v4v4v4
+[15:56:01] [Server thread/WARN]: [BedWars1058] There isn't any map called lighthouse1v1
+[15:56:01] [Server thread/WARN]: [BedWars1058] There isn't any map called urbanplaza1v1
+[15:56:01] [Server thread/WARN]: [BedWars1058] There isn't any map called dreamgrove4v4v4v4
+[15:56:01] [Server thread/WARN]: [BedWars1058] There isn't any map called ashore3v3v3v3
+[15:56:01] [Server thread/WARN]: [BedWars1058] There isn't any map called entagle4v4v4v4voidless
+[15:56:01] [Server thread/WARN]: [BedWars1058] There isn't any map called airshow1v1
+[15:56:01] [Server thread/WARN]: [BedWars1058] There isn't any map called eggrun3v3v3v3
+[15:56:01] [Server thread/WARN]: [BedWars1058] There isn't any map called rooted2v2
+[15:56:01] [Server thread/WARN]: [BedWars1058] There isn't any map called chained4v4v4v4
+[15:56:01] [Server thread/WARN]: [BedWars1058] There isn't any map called fruitbrawl2v2
+[15:56:01] [Server thread/WARN]: [BedWars1058] There isn't any map called montipora1v1
+[15:56:01] [Server thread/WARN]: [BedWars1058] There isn't any map called ironclad2v2
+[15:56:01] [Server thread/WARN]: [BedWars1058] There isn't any map called winterland1v1
+[15:56:01] [Server thread/WARN]: [BedWars1058] There isn't any map called ambush2v2
+[15:56:01] [Server thread/WARN]: [BedWars1058] There isn't any map called sanctum2v2
+[15:56:01] [Server thread/INFO]: [BedWars1058] Arena yue2v2 was added to the enable queue.
+[15:56:01] [Server thread/WARN]: [BedWars1058] There isn't any map called glacier1v1
+[15:56:01] [Server thread/WARN]: [BedWars1058] There isn't any map called dreamgrove3v3v3v3
+[15:56:01] [Server thread/INFO]: [BedWars1058] Arena zarzul1v1 was added to the enable queue.
+[15:56:01] [Server thread/WARN]: [BedWars1058] There isn't any map called orbit1v1
+[15:56:01] [Server thread/WARN]: [BedWars1058] There isn't any map called lunarhouse1v1
+[15:56:01] [Server thread/WARN]: [BedWars1058] There isn't any map called deadwood1v1
+[15:56:01] [Server thread/WARN]: [BedWars1058] There isn't any map called treenan4v4v4v4
+[15:56:01] [Server thread/WARN]: [BedWars1058] There isn't any map called siege1v1
+[15:56:01] [Server thread/WARN]: [BedWars1058] There isn't any map called polygon2v2
+[15:56:01] [Server thread/WARN]: [BedWars1058] There isn't any map called acropolis2v2
+[15:56:01] [Server thread/WARN]: [BedWars1058] There isn't any map called stonekeep3v3v3v3
+[15:56:01] [Server thread/WARN]: [BedWars1058] There isn't any map called playground2v2
+[15:56:01] [Server thread/WARN]: [BedWars1058] There isn't any map called eggrun4v4v4v4
+[15:56:01] [Server thread/WARN]: [BedWars1058] There isn't any map called cauldron4v4v4v4
+[15:56:01] [Server thread/WARN]: [BedWars1058] There isn't any map called crogorm1v1
+[15:56:01] [Server thread/WARN]: [BedWars1058] There isn't any map called boletum3v3v3v3
+[15:56:01] [Server thread/WARN]: [BedWars1058] There isn't any map called cauldron3v3v3v3
+[15:56:01] [Server thread/WARN]: [BedWars1058] There isn't any map called lotus1v1
+[15:56:01] [Server thread/WARN]: [BedWars1058] There isn't any map called nutcracker2v2
+[15:56:01] [Server thread/WARN]: [BedWars1058] There isn't any map called mirage2v2
+[15:56:01] [Server thread/WARN]: [BedWars1058] There isn't any map called mirage1v1
+[15:56:01] [Server thread/INFO]: [BedWars1058] Hooked into PlaceholderAPI support!
+[15:56:01] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: bw1058 [24.9]
+[15:56:02] [Server thread/WARN]: Scoreboard tab header-footer refresh interval is set to: 10
+[15:56:02] [Server thread/WARN]: It is not recommended to use a value under 20 ticks.
+[15:56:02] [Server thread/WARN]: If you expect performance issues please increase its timer.
+[15:56:02] [Server thread/INFO]: [BedWars1058] Initializing SidebarLib by andrei1058
+[15:56:02] [Server thread/INFO]: [BedWars1058-PopUpTowers] Enabling BedWars1058-PopUpTowers v0.7*
+[15:56:02] [Server thread/INFO]:  
+[15:56:02] [Server thread/INFO]: BedWars1058 Pop-Up Towers
+[15:56:02] [Server thread/INFO]: by kimoVoid
+[15:56:02] [Server thread/INFO]:  
+[15:56:02] [Server thread/INFO]: [TAB] Enabling TAB v5.0.7
+[15:56:02] [Server thread/INFO]: [TAB] Loaded NMS hook in 148ms
+[15:56:02] [Server thread/INFO]: [TAB] Enabled in 335ms
+[15:56:02] [Server thread/INFO]: [BedWars-Cosmetics] Enabling Cosmetics v1.4.8
+[15:56:02] [Server thread/INFO]: Found PlaceholderAPI, loading placeholders!
+[15:56:02] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: bwc [1.2]
+[15:56:02] [Server thread/INFO]: [BedWars-Cosmetics] Loading libraries...
+[15:56:03] [Server thread/INFO]: [BedWars-Cosmetics] All dependencies found, continuing with plugin startup.
+[15:56:03] [Server thread/INFO]: [BedWars-Cosmetics] Loading data from resources in jar...
+[15:56:03] [Server thread/INFO]: [BedWars-Cosmetics] Cosmetics list successfully loaded.
+[15:56:03] [Server thread/INFO]: [BedWars-Cosmetics] Saving data to configs...
+[15:56:03] [Server thread/INFO]: [BedWars-Cosmetics] Creating folders...
+[15:56:03] [Server thread/INFO]: [BedWars-Cosmetics] Configuration file successfully loaded.
+[15:56:03] [Server thread/INFO]: [BedWars-Cosmetics] Loading SQLite database...
+[15:56:03] [Server thread/INFO]: [com.zaxxer.hikari.HikariDataSource] COSMETICS-SQLITE - Starting...
+[15:56:03] [Server thread/INFO]: [com.zaxxer.hikari.pool.HikariPool] COSMETICS-SQLITE - Added connection org.sqlite.jdbc4.JDBC4Connection@20fb8ce8
+[15:56:03] [Server thread/INFO]: [com.zaxxer.hikari.HikariDataSource] COSMETICS-SQLITE - Start completed.
+[15:56:03] [Server thread/INFO]: [BedWars-Cosmetics] Registering event listeners...
+[15:56:03] [Server thread/INFO]: [BedWars-Cosmetics] Registering commands...
+[15:56:03] [Server thread/INFO]: [BedWars-Cosmetics] [ACF] Enabled Asynchronous Tab Completion Support!
+[15:56:03] [Server thread/INFO]: [BedWars-Cosmetics] Loading cosmetics...
+[15:56:37] [Server thread/ERROR]: Error occurred while enabling Cosmetics v1.4.8 (Is it up to date?)
+java.lang.NoClassDefFoundError: com/sk89q/worldedit/data/DataException
+	at xyz.iamthedefender.cosmetics.util.StartupUtils.loadCosmetics(StartupUtils.java:398) ~[BedWars-Cosmetics-v1.4.8.jar:?]
+	at xyz.iamthedefender.cosmetics.CosmeticsPlugin.onEnable(CosmeticsPlugin.java:170) ~[BedWars-Cosmetics-v1.4.8.jar:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:264) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:370) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:500) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at org.bukkit.craftbukkit.v1_17_R1.CraftServer.enablePlugin(CraftServer.java:561) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at org.bukkit.craftbukkit.v1_17_R1.CraftServer.enablePlugins(CraftServer.java:475) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at net.minecraft.server.MinecraftServer.loadWorld(MinecraftServer.java:736) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:353) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1233) ~[patched_1.17.1.jar:git-Purpur-1428]
 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:322) ~[patched_1.17.1.jar:git-Purpur-1428]
 	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-[15:15:27] [Server thread/INFO]: ysyyayyyayya[/[0:0:0:0:0:0:0:1]:36942] logged in with entity id 141 at ([world]-24.650511203564374, 70.0, 0.6006825467548694)
-[15:15:30] [Server thread/INFO]: Preparing start region for dimension minecraft:yue2v2
-[15:15:30] [Server thread/INFO]: Preparing spawn area: 0%
-[15:15:30] [Server thread/INFO]: Preparing spawn area: 0%
-[15:15:31] [Server thread/INFO]: Time elapsed: 699 ms
-[15:15:31] [Server thread/INFO]: [BedWars1058] Loading arena: zarzul1v1
-[15:15:31] [Server thread/INFO]: [BedWars1058] Load done: yue2v2
-[15:15:31] [Server thread/INFO]: [BedWars1058] This server is running in MULTIARENA with auto-scale false
-[15:15:31] [Server thread/INFO]: Preparing start region for dimension minecraft:zarzul1v1
-[15:15:31] [Server thread/INFO]: Preparing spawn area: 0%
-[15:15:32] [Server thread/INFO]: Preparing spawn area: 0%
-[15:15:32] [Server thread/INFO]: Time elapsed: 914 ms
-[15:15:32] [Server thread/INFO]: [BedWars1058] Load done: zarzul1v1
-[15:15:33] [Server thread/ERROR]: No TreeType mapping for TreeGenerator.TreeType.MANGROVE
-[15:15:33] [Server thread/ERROR]: No TreeType mapping for TreeGenerator.TreeType.TALL_MANGROVE
-[15:15:33] [Server thread/ERROR]: No TreeType mapping for TreeGenerator.TreeType.CHERRY
-[15:15:46] [Server thread/INFO]: ysyyayyyayya issued server command: /bw
-[15:15:48] [Server thread/INFO]: ysyyayyyayya issued server command: /bw npc
-[15:15:51] [Server thread/INFO]: ysyyayyyayya issued server command: /bw npc add
-[15:16:33] [Server thread/INFO]: ysyyayyyayya issued server command: /bw npc add 1v1 1v1 &3Boubles\n&rClick to join
-[15:16:49] [Server thread/WARN]: [BedWars1058] Task #8115 for BedWars1058 v24.9 generated an exception
-java.lang.IllegalStateException: Trying to get stats data of an unloaded player!
-	at com.andrei1058.bedwars.stats.StatsManager.get(StatsManager.java:52) ~[BedWars1058.jar:?]
-	at com.andrei1058.bedwars.sidebar.BwSidebar.getPlaceholders(BwSidebar.java:280) ~[BedWars1058.jar:?]
-	at com.andrei1058.bedwars.sidebar.BwSidebar.setContent(BwSidebar.java:88) ~[BedWars1058.jar:?]
-	at com.andrei1058.bedwars.sidebar.SidebarService.giveSidebar(SidebarService.java:227) ~[BedWars1058.jar:?]
-	at com.andrei1058.bedwars.arena.Arena.lambda$removePlayer$10(Arena.java:939) ~[BedWars1058.jar:?]
-	at org.bukkit.craftbukkit.v1_17_R1.scheduler.CraftTask.run(CraftTask.java:101) ~[patched_1.17.1.jar:git-Purpur-1428]
-	at org.bukkit.craftbukkit.v1_17_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:483) ~[patched_1.17.1.jar:git-Purpur-1428]
-	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1591) ~[patched_1.17.1.jar:git-Purpur-1428]
-	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:528) ~[patched_1.17.1.jar:git-Purpur-1428]
-	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1507) ~[patched_1.17.1.jar:git-Purpur-1428]
-	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1300) ~[patched_1.17.1.jar:git-Purpur-1428]
-	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:322) ~[patched_1.17.1.jar:git-Purpur-1428]
-	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-[15:17:00] [Server thread/INFO]: ysyyayyyayya issued server command: /
-[15:17:02] [Server thread/WARN]: [BedWars1058] Task #8240 for BedWars1058 v24.9 generated an exception
-java.lang.IllegalStateException: Trying to get stats data of an unloaded player!
-	at com.andrei1058.bedwars.stats.StatsManager.get(StatsManager.java:52) ~[BedWars1058.jar:?]
-	at com.andrei1058.bedwars.sidebar.BwSidebar.getPlaceholders(BwSidebar.java:280) ~[BedWars1058.jar:?]
-	at com.andrei1058.bedwars.sidebar.BwSidebar.setContent(BwSidebar.java:88) ~[BedWars1058.jar:?]
-	at com.andrei1058.bedwars.sidebar.SidebarService.giveSidebar(SidebarService.java:227) ~[BedWars1058.jar:?]
-	at com.andrei1058.bedwars.arena.Arena.lambda$removePlayer$10(Arena.java:939) ~[BedWars1058.jar:?]
-	at org.bukkit.craftbukkit.v1_17_R1.scheduler.CraftTask.run(CraftTask.java:101) ~[patched_1.17.1.jar:git-Purpur-1428]
-	at org.bukkit.craftbukkit.v1_17_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:483) ~[patched_1.17.1.jar:git-Purpur-1428]
-	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1591) ~[patched_1.17.1.jar:git-Purpur-1428]
-	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:528) ~[patched_1.17.1.jar:git-Purpur-1428]
-	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1507) ~[patched_1.17.1.jar:git-Purpur-1428]
-	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1300) ~[patched_1.17.1.jar:git-Purpur-1428]
-	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:322) ~[patched_1.17.1.jar:git-Purpur-1428]
-	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.ClassNotFoundException: com.sk89q.worldedit.data.DataException
+	at org.bukkit.plugin.java.PluginClassLoader.loadClass0(PluginClassLoader.java:153) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at org.bukkit.plugin.java.PluginClassLoader.loadClass(PluginClassLoader.java:105) ~[patched_1.17.1.jar:git-Purpur-1428]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	... 12 more
+[15:56:37] [Server thread/INFO]: [BedWars-Cosmetics] Disabling Cosmetics v1.4.8
+[15:56:37] [Server thread/INFO]: [BedWars-Cosmetics] Saving player data to SQLite database...
+[15:56:37] [Server thread/INFO]: [BedWars-Cosmetics] Please wait it may take some time!
+[15:56:37] [Server thread/INFO]: [BedWars-Cosmetics] Player data saved to SQLite database!
+[15:56:37] [Server thread/INFO]: [BedWars1058-Compass] Enabling BedWars1058-Compass v1.4.3
+[15:56:37] [Server thread/INFO]: [BedWars1058-Compass] Hook into Vault chat support
+[15:56:37] [Server thread/INFO]: [BedWars1058-Compass] Creating plugins/BedWars1058/Addons/Compass/config.yml
+[15:56:38] [Server thread/INFO]: [BedWars1058-Compass] Successfully loaded in 304ms
+[15:56:38] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.20.1
+[15:56:38] [Server thread/INFO]: [EssentialsSpawn] Starting Metrics. Opt-out using the global bStats config.
+[15:56:38] [Server thread/INFO]: [BedWars-AdminAddon] Enabling BedWars-AdminAddon v1.2.1
+[15:56:38] [Server thread/INFO]: [BedWars-AdminAddon] Found BedWars1058-TeamSelector, Hooking into it...
+[15:56:38] [Server thread/WARN]: [BedWars-AdminAddon] Loaded class com.andrei1058.bedwars.teamselector.api.events.TeamSelectorChooseEvent from BedWars1058-TeamSelector v0.7 which is not a depend, softdepend or loadbefore of this plugin.
+[15:56:38] [Server thread/INFO]: Running BedWars-AdminAddon v1.2.1 (Type: BedWars) - By Zuyte
+[15:56:38] [Server thread/INFO]: [BedWars1058-TeamSelector] Enabling BedWars1058-TeamSelector v0.7
+[15:56:38] [Server thread/INFO]: [BedWars1058-TeamSelector] Hook into BedWars1058!
+[15:56:38] [Server thread/INFO]: [BedWars1058-TeamSelector] Creating plugins/BedWars1058/Addons/TeamSelector/config.yml
+[15:56:40] [Server thread/INFO]: [GoldenGG] Enabling GoldenGG v2.1.21*
+[15:56:41] [Server thread/INFO]: 
+[15:56:41] [Server thread/INFO]: 
+[15:56:41] [Server thread/INFO]:   $$$$$$\   $$$$$$\  $$\       $$$$$$$\  $$$$$$$$\ $$\   $$\ 
+[15:56:41] [Server thread/INFO]:  $$  __$$\ $$  __$$\ $$ |      $$  __$$\ $$  _____|$$$\  $$ |
+[15:56:41] [Server thread/INFO]:  $$ /  \__|$$ /  $$ |$$ |      $$ |  $$ |$$ |      $$$$\ $$ |
+[15:56:41] [Server thread/INFO]:  $$ |$$$$\ $$ |  $$ |$$ |      $$ |  $$ |$$$$$\    $$ $$\$$ |
+[15:56:41] [Server thread/INFO]:  $$ |\_$$ |$$ |  $$ |$$ |      $$ |  $$ |$$  __|   $$ \$$$$ |
+[15:56:41] [Server thread/INFO]:  $$ |  $$ |$$ |  $$ |$$ |      $$ |  $$ |$$ |      $$ |\$$$ |
+[15:56:41] [Server thread/INFO]:  \$$$$$$  | $$$$$$  |$$$$$$$$\ $$$$$$$  |$$$$$$$$\ $$ | \$$ |
+[15:56:41] [Server thread/INFO]:   \______/  \______/ \________|\_______/ \________|\__|  \__|
+[15:56:41] [Server thread/INFO]: 
+[15:56:41] [Server thread/INFO]:               $$$$$$\   $$$$$$\ 
+[15:56:41] [Server thread/INFO]:              $$  __$$\ $$  __$$\ 
+[15:56:41] [Server thread/INFO]:              $$ /  $$ |$$ /  $$ |
+[15:56:41] [Server thread/INFO]:              $$ |  $$ |$$ |  $$ | 
+[15:56:41] [Server thread/INFO]:              \$$$$$$$ |\$$$$$$$ |
+[15:56:41] [Server thread/INFO]:               \____$$ | \____$$ |
+[15:56:41] [Server thread/INFO]:              $$\   $$ |$$\   $$ |
+[15:56:41] [Server thread/INFO]:              \$$$$$$  |\$$$$$$  |
+[15:56:41] [Server thread/INFO]:               \______/  \______/
+[15:56:41] [Server thread/INFO]: 
+[15:56:41] [Server thread/INFO]:          Developed by [Ruben_Artz, STN Studios]
+[15:56:41] [Server thread/INFO]: [Golden GG] Version: 2.1.21 is loading...
+[15:56:41] [Server thread/INFO]: [Golden GG] Server: git-Purpur-1428 (MC: 1.17.1)
+[15:56:41] [Server thread/INFO]: [Golden GG] Loading necessary files...
+[15:56:41] [Server thread/INFO]: [Golden GG] 
+[15:56:41] [Server thread/INFO]: [Golden GG] Plugin support: BedWars1058
+[15:56:41] [Server thread/INFO]: [Golden GG] 
+[15:56:41] [Server thread/INFO]: [Golden GG] Starting plugin...
+[15:56:41] [Server thread/INFO]: 
+[15:56:41] [Server thread/INFO]: 
+[15:56:41] [Server thread/INFO]: [BedWars1058-PlayAgain] Enabling BedWars1058-PlayAgain v2.1.0
+[15:56:41] [Server thread/INFO]: [BedWars1058-PlayAgain] [INFO] The plugin has been activated (0.581s)
+[15:56:42] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[15:56:42] [Server thread/INFO]: Running delayed init tasks
+[15:56:42] [Server thread/INFO]: [Essentials] Essentials found a compatible payment resolution method: Vault Compatibility Layer (v1.7.3-b131)!
+[15:56:42] [Craft Scheduler Thread - 9 - BedWars1058/WARN]: [BedWars1058] Support for v1_17_R1 is scheduled for removal. Please consider upgrading your server software to a newer Minecraft version.
+[15:56:42] [Craft Scheduler Thread - 7 - Essentials/INFO]: [Essentials] Fetching version information...
+[15:56:42] [Craft Scheduler Thread - 6 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
+[15:56:42] [Server thread/INFO]: [BedWars1058] Hooked into vault chat support!
+[15:56:42] [Server thread/INFO]: [BedWars1058] Hooked into vault economy support!
+[15:56:42] [Craft Scheduler Thread - 9 - Vault/INFO]: [Vault] Checking for Updates ... 
+[15:56:42] [Server thread/INFO]: 0 placeholder hook(s) registered!
+[15:56:43] [Server thread/INFO]: [Citizens] Loaded 1 NPCs.
+[15:56:43] [Server thread/INFO]: Done (76.621s)! For help, type "help"
+[15:56:43] [Server thread/INFO]: Timings Reset
+[15:56:43] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.2.1, you're on: 4.9.3
+[15:56:43] [Craft Scheduler Thread - 9 - Vault/INFO]: [Vault] No new version available
+[15:56:44] [Server thread/INFO]: Preparing start region for dimension minecraft:yue1v1
+[15:56:44] [Server thread/INFO]: Preparing spawn area: 0%
+[15:56:44] [Server thread/INFO]: Time elapsed: 499 ms
+[15:56:44] [Server thread/INFO]: [BedWars1058] Loading arena: zarzul2v2
+[15:56:44] [Server thread/WARN]: [BedWars1058] Using TeamSelectorAssigner team assigner on arena: yue1v1
+[15:56:44] [Server thread/INFO]: [BedWars1058] Load done: yue1v1
+[15:56:45] [Server thread/INFO]: [BedWars1058] Hook into Citizens support. /bw npc
+[15:56:46] [Server thread/INFO]: Preparing start region for dimension minecraft:zarzul2v2
+[15:56:47] [Server thread/INFO]: Preparing spawn area: 0%
+[15:56:47] [Server thread/INFO]: Preparing spawn area: 0%
+[15:56:47] [Server thread/INFO]: Preparing spawn area: 0%
+[15:56:48] [Server thread/INFO]: Preparing spawn area: 0%
+[15:56:48] [Server thread/INFO]: Preparing spawn area: 0%
+[15:56:49] [Server thread/INFO]: Time elapsed: 2346 ms
+[15:56:49] [Server thread/INFO]: [BedWars1058] Loading arena: yue2v2
+[15:56:49] [Server thread/WARN]: [BedWars1058] Using TeamSelectorAssigner team assigner on arena: zarzul2v2
+[15:56:49] [Server thread/INFO]: [BedWars1058] Load done: zarzul2v2
+[15:56:50] [Server thread/INFO]: [BedWars1058] Loading internal Party system. /party
+[15:56:51] [Server thread/INFO]: Registering /party command..
+[15:56:52] [Server thread/INFO]: Preparing start region for dimension minecraft:yue2v2
+[15:56:52] [Server thread/INFO]: Preparing spawn area: 0%
+[15:56:52] [Server thread/INFO]: Time elapsed: 349 ms
+[15:56:52] [Server thread/INFO]: [BedWars1058] Loading arena: zarzul1v1
+[15:56:52] [Server thread/WARN]: [BedWars1058] Using TeamSelectorAssigner team assigner on arena: yue2v2
+[15:56:52] [Server thread/INFO]: [BedWars1058] Load done: yue2v2
+[15:56:53] [Server thread/INFO]: Preparing start region for dimension minecraft:zarzul1v1
+[15:56:53] [Server thread/INFO]: Time elapsed: 211 ms
+[15:56:53] [Server thread/WARN]: [BedWars1058] Using TeamSelectorAssigner team assigner on arena: zarzul1v1
+[15:56:53] [Server thread/INFO]: [BedWars1058] Load done: zarzul1v1
+[15:56:56] [Server thread/INFO]: [BedWars1058] This server is running in MULTIARENA with auto-scale false
+[15:57:02] [User Authenticator #1/INFO]: UUID of player ysyyayyyayya is 6cd4e570-7a49-3521-8e89-4b4b5c6269c5
+[15:57:03] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|UpdateCert-1.8
+[15:57:03] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FML
+[15:57:03] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|Skins-1.8
+[15:57:03] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FORGE
+[15:57:03] [Server thread/INFO]: ysyyayyyayya[/[0:0:0:0:0:0:0:1]:56904] logged in with entity id 152 at ([world]-0.8013862566880221, 67.0, 1.6525994652977491)
+[15:57:04] [Server thread/ERROR]: No TreeType mapping for TreeGenerator.TreeType.MANGROVE
+[15:57:04] [Server thread/ERROR]: No TreeType mapping for TreeGenerator.TreeType.TALL_MANGROVE
+[15:57:04] [Server thread/ERROR]: No TreeType mapping for TreeGenerator.TreeType.CHERRY
+[15:57:18] [Server thread/INFO]: ysyyayyyayya issued server command: /bw
+[15:57:23] [Server thread/INFO]: ysyyayyyayya issued server command: /bw addons
+[15:57:25] [Server thread/INFO]: ysyyayyyayya issued server command: /bw addon
+[15:57:32] [Server thread/INFO]: ysyyayyyayya issued server command: /bw vip
+[15:58:24] [Server thread/INFO]: ysyyayyyayya lost connection: Disconnected
+[16:00:31] [Server thread/INFO]: Stopping server
+[16:00:31] [Server thread/INFO]: [BedWars1058-PlayAgain] [INFO] The plugin has been disabled
+[16:00:31] [Server thread/INFO]: [TAB] Disabled in 1ms
+[16:00:32] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[16:00:32] [Server thread/INFO]: Saving players
+[16:00:32] [Server thread/INFO]: Saving worlds
+[16:00:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[16:00:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[16:00:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[16:00:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:00:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:00:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:00:34] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[16:00:34] [Server thread/INFO]: Flushing Chunk IO
+[16:00:34] [Server thread/INFO]: Closing Thread Pool
+[16:00:34] [Server thread/INFO]: Closing Server

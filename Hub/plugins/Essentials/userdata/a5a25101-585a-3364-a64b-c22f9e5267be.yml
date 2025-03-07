@@ -16,15 +16,23 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1740756734574
-  login: 1740756720848
+  logout: 1741277008487
+  login: 1741276950827
 money: '0'
 last-account-name: MRC1000
 logoutlocation:
   world: 2f992acc-ddc9-46cf-8ff9-182e3e5756c8
   world-name: Hub
-  x: 249.31330255539314
+  x: 249.52636739626902
   y: 62.0
-  z: 1355.1491114051282
-  yaw: 35.70025634765625
-  pitch: 10.199995994567871
+  z: 1343.2799180943132
+  yaw: -142.2001190185547
+  pitch: 10.349995613098145
+lastlocation:
+  world: 835fa24e-bfa1-45aa-821d-8e5015e99e57
+  world-name: world
+  x: -16.0
+  y: 64.0
+  z: 48.0
+  yaw: 0.0
+  pitch: 0.0

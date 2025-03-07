@@ -1,7 +1,7 @@
 server_name: 'EaglercraftXBungee Server'
 server_uuid: 2e565dc1-8020-4af8-8ffc-2d7a7fbfa4f8
-websocket_connection_timeout: 15000
-websocket_handshake_timeout: 5000
+websocket_connection_timeout: 5000
+websocket_handshake_timeout: 15000
 http_websocket_compression_level: 6
 download_vanilla_skins_to_clients: true
 valid_skin_download_urls:

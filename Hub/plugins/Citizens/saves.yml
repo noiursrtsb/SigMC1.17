@@ -1,6 +1,6 @@
 # Citizens NPC Storage
 
-last-created-npc-id: 0
+last-created-npc-id: 4
 npc:
   '0':
     metadata:
@@ -26,7 +26,173 @@ npc:
         updateSkins: false
       owner:
         uuid: 6cd4e570-7a49-3521-8e89-4b4b5c6269c5
-    traitnames: skintrait,location,owner,mounttrait,inventory,equipment,scoreboardtrait,type,spawned
+    traitnames: type,mounttrait,skintrait,equipment,spawned,scoreboardtrait,location,inventory,owner
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '4':
+    metadata:
+      cached-skin-uuid: 08be5470-5aee-41cf-9cb3-1d759b7cf151
+      cached-skin-uuid-name: minigames
+    name: '&4Minigames'
+    uuid: 2484cf37-e351-4e94-a0f5-7f0d4fe1ba73
+    traits:
+      type: PLAYER
+      spawned: true
+      commandtrait:
+        cost: -1.0
+        executionMode: LINEAR
+        experienceCost: -1.0
+        hideErrorMessages: false
+        commands:
+          '0':
+            command: server Minigames
+            hand: RIGHT
+            player: true
+            op: false
+            cooldown: 0
+            globalcooldown: 0
+            n: -1
+            delay: 0
+      owner:
+        uuid: 6cd4e570-7a49-3521-8e89-4b4b5c6269c5
+      skintrait:
+        fetchDefaultSkin: true
+        signature: Z+vOapbzm4Qu71URIwqfXHi3BAxgdQ22oiH4Vck7aPA6KfeAI84VZbBh1pRBH/upfkTn4HBujQgCBNg6sm/r2hsEppTTtRC8SlsGFRa05oi5XgZVSUiNvB2UacE+ZhqtLk+p2SzF57p78YPAUdxUtb5t9w0klG6IcVpcMs35z2IYWosGpGMA75FMM1cwZUbzvlgG3NcoYZemdj/QDmM5YNTh12/j7a/OVNausg5bcthsIG58Z49YZLvJO144SuPIty8TE/UT9wY1wEDNKrvV4NE0+i02SSndS4H2lsD+AWN2dwvbm+AS8jm1hj5jHoG/7AWg6I4SZgU6GymCBfKtkpMUs6SK52c/EhnaJ9xJqSoNb7goXdn0QwxF7xuMGJaH6qfT55LBEHGCcHA8FuOgw4XD17W+lGGOXYoy4GRs2XjOGpJcfs/oDpilbDbgAacZvhTFJ1lDPLcy/6oJZbARnBLTS8Zho/KTXZVTwuF8nDinx8gBlQpy2pgggfxX1Hske3wyNJwywbQTWj5pYc7+05jNUs7benpNBBytfn5Dd7nGDjnNvpVcv5DRr7HPIiXhmfLaAa+zQMZcAXp73ygYuMONqBy8xTcJVZeVjq9a3CLElpAHOP5o/aHChZ0MIVnIQ/LneOeMaxhy/1WZ7oBl2gVlQpkclIILrvvt8hwJqO0=
+        skinName: minigames
+        textureRaw: ewogICJ0aW1lc3RhbXAiIDogMTc0MTM1ODI5Nzk5MiwKICAicHJvZmlsZUlkIiA6ICIwOGJlNTQ3MDVhZWU0MWNmOWNiMzFkNzU5YjdjZjE1MSIsCiAgInByb2ZpbGVOYW1lIiA6ICJNaW5pZ2FtZXMiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjU5MjI4OGRiM2JiMDBjNDg5NWY3NWQ2N2U5ZDFiNjI0MjA1ZjQzZjFhZTQwNmE0NzJiODM5MmUxYWEzOGM3ZiIKICAgIH0KICB9Cn0=
+        updateSkins: false
+      location:
+        bodyYaw: -135.25305
+        world: Hub
+        x: '234.5079'
+        y: '62.0'
+        z: '1356.4509'
+        yaw: '-135.2531'
+        pitch: '-0.15'
+    traitnames: type,mounttrait,skintrait,commandtrait,equipment,spawned,scoreboardtrait,location,inventory,owner
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '3':
+    metadata:
+      cached-skin-uuid: 93fb3ce8-ffb8-44af-ab68-73bc02fa4025
+      nameplate-visible: 'true'
+      cached-skin-uuid-name: wxterio
+    name: '&9Bedwars'
+    uuid: 3f758217-3879-49e4-b4e1-2cbbad4676d4
+    traits:
+      type: PLAYER
+      spawned: true
+      commandtrait:
+        cost: -1.0
+        executionMode: LINEAR
+        experienceCost: -1.0
+        hideErrorMessages: false
+        commands:
+          '0':
+            command: server Bedwars
+            hand: RIGHT
+            player: true
+            op: false
+            cooldown: 0
+            globalcooldown: 0
+            n: -1
+            delay: 0
+      owner:
+        uuid: 6cd4e570-7a49-3521-8e89-4b4b5c6269c5
+      skintrait:
+        fetchDefaultSkin: true
+        signature: sv/a27/B/d60a7z3H2dv+ODL9xofmztNMPx5pz+Ge0F1Lcu4iUjJGTEmCAxvoYHMbbdcCKPLarOjGY1HpyA0gDfh2+h1qAcy3fB2pGUPvnHbLXuI2faFfgvjKOyhkI7l/KIXv3uCgwIvHu47bMiarjBYkM90mrt+7Q5aSn/LOCWjdPwVOZJ+7mr618bKDgtCOCyIFMUrAzOiazqUQCJcFpPaGvQaKKfYF/oHb6CAQJeIvB+U6wGM9ET8coxRDFFpjF9qdY+w65R7Y8NO/egtDF6n5dAeZahPjk3PWybdgCt4AC4m5P7gCqv0VKQHOupKnPmfJdrfrcbNEqhU1xlsbpAG5nAjNrvFZA/VHguqhbowXNKAnMvMj87CftWvqPd7yaABmYIpoOHytkkA1K9fQTjIhT2DnNGNfoDhmUFNz0wpeejt2ekZ+mrm5HHeHsGAR8h9udsQwH4T3I2EaWGjedtKP50Yj7Oa145KU+jcS+gLz8F5rgKwiYhwqTfCst292aqhvPoAM0tnXKDVFD04dahB8fkLPbS0mM01sKdq/KkOn5qwWUAMbzdsk5o6RU4AmHKBa/6OzG/soDJ8pn7m7ru6QIahGbttWt58WuA4ETGqfSFzih2bX3S284vjsPFu57l1MMxAZlqIoCBSWO8s5AIZG1MAl0CqJ3MJaFmuUrs=
+        skinName: wxterio
+        textureRaw: ewogICJ0aW1lc3RhbXAiIDogMTc0MTM1Njk4Nzk0MSwKICAicHJvZmlsZUlkIiA6ICI5M2ZiM2NlOGZmYjg0NGFmYWI2ODczYmMwMmZhNDAyNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJXeHRlcmlvIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2VmNTUzNmMzOGU5M2M1ZGY3ZWRjMDQzZWM0NzkyMDBmZDk3MDgwODYxYzk0YWY0NWQwNDVhOWU0Mjg4YTVmODYiCiAgICB9CiAgfQp9
+        updateSkins: false
+      location:
+        bodyYaw: 135.047
+        world: Hub
+        x: '250.5974'
+        y: '62.0'
+        z: '1356.6177'
+        yaw: '135.047'
+        pitch: '0.15'
+    traitnames: type,mounttrait,commandtrait,skintrait,equipment,spawned,scoreboardtrait,location,inventory,owner
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '2':
+    metadata:
+      cached-skin-uuid: d36d835f-e707-4d43-8286-14ed7c325ac2
+      cached-skin-uuid-name: bae7c69c-53ff-4505-8fe5-c02ce4b82643
+    name: '&bSkyblock'
+    uuid: 354f68e7-ea33-4a00-9297-2bbc4bd9c365
+    traits:
+      type: PLAYER
+      spawned: true
+      owner:
+        uuid: 6cd4e570-7a49-3521-8e89-4b4b5c6269c5
+      skintrait:
+        fetchDefaultSkin: true
+        signature: X44N5rDve0QQc6ofjK+aQ+ZezE9Nd6V6RoAh0fVjnNrbc61YH7Yp8NCoIIKI9nvlTwX/AdZtW2ce+N7oxgdrQlP57M1ZuPkmUjQ3PmgIC7ZifqaYJCJ2sduZpkBjtyv7qrKooxBaI8htCggUINHdD6HaHd7MnKuO3yv+VSf1qI/9iZX6iOzpFoITX+RIhO3s8QkEjKPcY2RaMUuaK+8bEcWFErGzcw+4J+nU1/zGLdh67lzzGJD00jcRfE4H4ai0Y2Gzp7UZrKCYSgSNwi6oHQ+c5ikGZvFVky1b0nIMoyyyiTW9Iic7PdcUAIL4UI7kQgYMntM3FWvJDZqgSU/geI0fQwfdUGQaoTDztU2UiN4YEJStSQnFazpMSO/RoJeIpJa9ltQk+G7jCJ+x3iXtzKmeFdDRzK50eBQlp1VVTlKKjl50rMUJmkqSu9crEzeCKS6Ocayl9DVHwDFABjVochsQc6v2ZfO5TuLuzJAho5WPoJcOlgx6fIpGa/ktG8WmB1vLZx6IzjlXfoqtLdJq2jW7+qpDpI96naRnCCdSPGn+KNY3fU4YAAVLWbULRhyOlxilwc2+cxh3+cbsOLoLbkEVZyatt4F8PWAht6BhuSpq4xg4wQ3AB4F55j+hN3I4PBIGG7gehaT7NWpXT5i5qC4ZufnbYAwGomT/tjdeJtU=
+        skinName: bae7c69c-53ff-4505-8fe5-c02ce4b82643
+        textureRaw: ewogICJ0aW1lc3RhbXAiIDogMTcwNTQyNTgwNTk1NSwKICAicHJvZmlsZUlkIiA6ICI3NTA5NzZmODRmMDE0NWFhYTc0MzAwYWJhMzc5MTIzNCIsCiAgInByb2ZpbGVOYW1lIiA6ICIwY2hlYXRzIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2NiMmVlNjdkM2ExYzg0NzA2NzVjMzljYWQ2OTU0YWYwNjBkM2M5YmM0MmVlNGE0OTYzNzI5YTRhNzYzNGJjY2YiCiAgICB9CiAgfQp9
+        updateSkins: false
+      location:
+        bodyYaw: 47.69995
+        world: Hub
+        x: '250.5394'
+        y: '62.0'
+        z: '1340.5168'
+        yaw: '47.7'
+        pitch: '-5.4'
+      commandtrait:
+        cost: -1.0
+        executionMode: LINEAR
+        experienceCost: -1.0
+        hideErrorMessages: false
+        commands:
+          '0':
+            command: server skyblock
+            hand: RIGHT
+            player: true
+            op: false
+            cooldown: 0
+            globalcooldown: 0
+            n: -1
+            delay: 0
+    traitnames: type,mounttrait,commandtrait,skintrait,equipment,spawned,scoreboardtrait,location,inventory,owner
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '1':
+    metadata:
+      cached-skin-uuid: 8487baff-ca73-4770-a246-1446a66a7735
+      cached-skin-uuid-name: pixelmon
+    name: §l§cPoke§fmon
+    uuid: 743b23c6-a9df-4dcd-b0d7-d8d8069a3609
+    traits:
+      type: PLAYER
+      spawned: true
+      owner:
+        uuid: 6cd4e570-7a49-3521-8e89-4b4b5c6269c5
+      skintrait:
+        fetchDefaultSkin: true
+        signature: NBV6QP2GsarsExe8hYUVI4qTbfxflx10oUfzrJJCsmUckRcH1hvzW3RZrjmXztQVuD7OR7yuy+MIya9n5Ddw7+FFeSo7ai/4kBswBINLcZ/AprekGiIeSomciMyZVftMMjbTTwcF/7AcQvapLAtGifsptEWWGLi/3CUC2cdA27ZVsUTECsa/INIA+PA5hNFopGM7wwfkHECBPM9pNeKlcgO0dfQzgxxOcc3HG+RsaWH3wkRk6ucBt01RZQRCpCfJs8x2AQA+9KJPRk+gudWTokfjXLmsFkQBdImSbCvoOWettxAKszklyfmzmPZN/HK/mis8Ax6qW1g3BvH2jutYxdWOEi0usFFRUIKb/3sBf1tl5IkcSzVrKIsj1HE4XK08qhxuIMAYpZRVtDrvkhebfUIVE5ApVBTAoalnzTqIJtfd+F2ssyi97V8wuNq7zo5QHKQwOGvP+vt1iEi8d3WtAbCxJ0Kbfrqn08n70h9/d07zNJzgCjiuydPKR+hrxBHR5F72vj60abzUtMPRW4Ng8GFs5sbKzSJEPYKC2OYejypLxmx2lzaMoPQGLNb/2d6b5fF+0/d9KKGRa0Xg1GYypAMpxQhHizKS3KUd5AbwhEV4p8/hYacrE+FDBHILEjglkltwNAib5EfRp5jBnTaktL4phgY9wPV54PCwjbbkgqg=
+        skinName: pixelmon
+        textureRaw: ewogICJ0aW1lc3RhbXAiIDogMTc0MTM1NjY1NTAwNCwKICAicHJvZmlsZUlkIiA6ICI4NDg3YmFmZmNhNzM0NzcwYTI0NjE0NDZhNjZhNzczNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJQaXhlbG1vbiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8zMjdkNzAzZGQxNjc3YmQzZDE2YWFlZTY2YzhmOWE2NDAzY2E3MzMxYzA3NDhjN2MxYzhjODBjOTUwMDI5YjA2IgogICAgfQogIH0KfQ==
+        updateSkins: false
+      location:
+        bodyYaw: -44.85013
+        world: Hub
+        x: '234.3373'
+        y: '62.0'
+        z: '1340.3298'
+        yaw: '-44.8501'
+        pitch: '-0.45'
+    traitnames: type,mounttrait,skintrait,equipment,spawned,scoreboardtrait,location,inventory,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false

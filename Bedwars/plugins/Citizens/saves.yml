@@ -28,7 +28,7 @@ npc:
         yaw: '69.15'
         pitch: '-1.2'
       spawned: true
-    traitnames: spawned,mounttrait,equipment,skintrait,scoreboardtrait,location,inventory,type
+    traitnames: equipment,spawned,location,inventory,scoreboardtrait,type,mounttrait,skintrait
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
